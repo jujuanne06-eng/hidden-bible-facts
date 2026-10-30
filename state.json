@@ -1,3 +1,13 @@
 {
-  "en": []
+  "en": [
+    "halloween",
+    "reformation-day"
+  ],
+  "slots": {
+    "en": {
+      "2026-10-30 08:00": "halloween",
+      "2026-10-30 20:00": "reformation-day"
+    }
+  },
+  "posts": []
 }
