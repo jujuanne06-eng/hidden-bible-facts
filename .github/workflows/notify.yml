@@ -9,10 +9,10 @@ on:
   workflow_dispatch:     # "Run workflow" button; "test" sends a Telegram test message from GitHub
     inputs:
       mode:
-        description: "check = check the posts | test = send a Telegram test message"
+        description: "check = check the posts | test = send a Telegram test message | accounts = check the Zernio key and list the accounts"
         default: check
         type: choice
-        options: [check, test]
+        options: [check, test, accounts]
 
 permissions:
   contents: write  # to save notified.json (posts already reported)
@@ -38,6 +38,8 @@ jobs:
         run: |
           if [ "$MODE" = "test" ]; then
             python3 src/notify.py test | grep -q '^sent' || { echo "Telegram test message NOT sent"; exit 1; }
+          elif [ "$MODE" = "accounts" ]; then
+            python3 src/publish.py accounts
           else
             python3 src/notify.py check
           fi
