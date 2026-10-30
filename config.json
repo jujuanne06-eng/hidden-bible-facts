@@ -20,8 +20,8 @@
         "instagram": ""
       },
       "voice": "en-US-AndrewNeural",
-      "rate": "-4%",
-      "hook": "{teaser} Wait for number three.",
+      "rate": "-8%",
+      "hook": "{teaser} Stay until number three.",
       "fact_labels": [
         "Number one.",
         "Number two.",
@@ -41,5 +41,33 @@
       "hashtags": "#biblefacts"
     }
   },
-  "channel_name": "Hidden Bible Facts"
+  "channel_name": "Hidden Bible Facts",
+  "style": {
+    "_help": "Calm look for this channel. highlight = gold color of the title, numbers and current word; shot_seconds = length of each footage shot; accent = glow (soft) or flash (punchy); grade = FFmpeg color filters applied to every clip.",
+    "highlight": [
+      242,
+      201,
+      112
+    ],
+    "shot_seconds": [
+      2.8,
+      4.2
+    ],
+    "hook_shot_seconds": [
+      2.0,
+      2.6
+    ],
+    "moves": [
+      "zoom_in",
+      "zoom_out",
+      "pan_left",
+      "pan_right",
+      "pan_up",
+      "pan_down"
+    ],
+    "slow_motion_share": 0.4,
+    "slow_motion_speed": 0.7,
+    "accent": "glow",
+    "grade": "eq=brightness=-0.05:saturation=0.92:gamma=0.97,colorbalance=rs=0.05:gs=0.01:bs=-0.06:rm=0.04:bm=-0.04,vignette=angle=PI/4.5"
+  }
 }

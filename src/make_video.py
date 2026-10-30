@@ -34,7 +34,11 @@ WORDS_PER_CHUNK = 3
 TAIL_SECONDS = 1.2  # end card after the voice stops
 SECTION_GAP = 0.35  # short silence between intro, facts and outro
 WORDS_PER_SECOND_AT_0 = 3.0  # en-US-AndrewNeural at normal speed
-HIGHLIGHT = (255, 225, 77)
+STYLE = (load_config() or {}).get("style", {})  # look of the channel, see "style" in config.json
+HIGHLIGHT = tuple(STYLE.get("highlight", (255, 225, 77)))
+SHOT_SECONDS = STYLE.get("shot_seconds", [2.0, 3.4])  # shot length range after the hook
+HOOK_SHOT_SECONDS = STYLE.get("hook_shot_seconds", [1.5, 2.0])  # faster cuts in the first 5 seconds
+ACCENT = STYLE.get("accent", "flash")  # "flash": white flash + zoom punch, "glow": soft warm glow
 WHITE = (255, 255, 255)
 
 
@@ -286,7 +290,11 @@ def make_shade():
 
 
 def accent(frame, since):
-    """Short visual punch at a key moment (#1, #2, #3, BONUS): quick zoom pulse + light white flash."""
+    """Short visual punch at a key moment (#1, #2, #3, BONUS): quick zoom pulse + light white flash,
+    or with style "glow" a soft warm glow that rises and fades (no zoom)."""
+    if ACCENT == "glow":
+        k = math.sin(math.pi * min(1.0, since / 0.6))  # 0 -> 1 -> 0 over 0.6 s
+        return Image.blend(frame, Image.new("RGB", (W, H), HIGHLIGHT), 0.18 * k)
     if since < 0.3:  # zoom pulse: 7% bigger, easing back to normal
         z = 1 + 0.07 * (1 - since / 0.3) ** 2
         big = frame.resize((int(W * z), int(H * z)))
@@ -306,7 +314,7 @@ def cut_plan(total, spans, seed):
     for a, b in zip(bounds, bounds[1:]):
         t = a
         while b - t > 0.05:
-            d = rng.uniform(1.5, 2.0) if t < 5 else rng.uniform(2.0, 3.4)
+            d = rng.uniform(*HOOK_SHOT_SECONDS) if t < 5 else rng.uniform(*SHOT_SECONDS)
             if b - (t + d) < 1.2:  # never leave a tiny leftover shot
                 d = b - t
             durations.append(round(d, 3))
@@ -453,7 +461,7 @@ def render(words, spans, voice_wav, out_mp4, lang_cfg, badge_text, seed, total, 
             offset = int((t * 60) % H)  # background scroll speed: 60 px per second
             frame = background.crop((0, offset, W, offset + H))
         for a in accents:  # punch + flash on the picture (not on the text) when each fact starts
-            if 0 <= t - a < 0.3:
+            if 0 <= t - a < (0.6 if ACCENT == "glow" else 0.3):
                 frame = accent(frame, t - a)
 
         for img, x, y, speed in bubbles:

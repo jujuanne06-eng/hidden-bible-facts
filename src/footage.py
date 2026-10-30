@@ -11,7 +11,7 @@ import time
 import urllib.parse
 import urllib.request
 
-from common import ROOT, find_ffmpeg, load_env, load_json, save_json
+from common import ROOT, find_ffmpeg, load_config, load_env, load_json, save_json
 
 CLIPS = ROOT / "assets" / "clips"
 SEARCH_CACHE = ROOT / "assets" / "search_cache.json"
@@ -154,7 +154,11 @@ def find_clips(keywords, needed):
 # clips that look out of place on a real-facts channel (fair rides named "Octopus", cartoons, logos...)
 OFF_TOPIC_TAGS = {"carousel", "fairground", "fair", "funfair", "amusement park", "ride", "cartoon", "animation",
                   "animated", "illustration", "logo", "toy", "toys", "anime", "clipart", "emoji",
-                  "makeup", "make-up", "fashion", "model", "beauty", "glamour", "cosmetics", "portrait"}
+                  "makeup", "make-up", "fashion", "model", "beauty", "glamour", "cosmetics", "portrait",
+                  # modern things that break a Bible / history mood
+                  "bitcoin", "crypto", "cryptocurrency", "blockchain", "btc", "ethereum", "euro", "dollar",
+                  "smartphone", "phone", "laptop", "computer", "car", "cars", "traffic", "neon", "nightclub",
+                  "party", "halloween", "skyscraper", "selfie", "business", "office", "stock market"}
 
 PERSON_TAGS = {"woman", "women", "man", "men", "girl", "girls", "boy", "boys", "kid", "kids", "child", "children",
                "people", "person", "lady", "guy", "couple", "family", "baby", "teenager", "human", "face"}
@@ -234,9 +238,9 @@ def build_background(keywords, durations, out_mp4, seed=""):
     ffmpeg = find_ffmpeg()
     parts, previous = [], None
     for i, shot in enumerate(durations):
-        move = "punch_in" if i == 0 else rng.choice([m for m in MOVES if m != previous])
+        move = MOVES[0] if i == 0 else rng.choice([m for m in MOVES if m != previous])
         previous = move
-        speed = SLOW_MOTION if i >= 2 and rng.random() < 0.25 else 1.0
+        speed = SLOW_MOTION if i >= 2 and rng.random() < SLOW_MOTION_SHARE else 1.0
         vf = camera_move(move, shot, speed)
         part = out_mp4.parent / f"part{i:02d}.mp4"
         # if a clip is broken, delete it and use the next one instead
@@ -271,8 +275,11 @@ def build_background(keywords, durations, out_mp4, seed=""):
     return True
 
 
-MOVES = ["zoom_in", "zoom_out", "punch_in", "pan_left", "pan_right", "pan_up", "pan_down", "tilt", "handheld"]
-SLOW_MOTION = 0.75  # slow-motion shots play the clip at 75% speed
+STYLE = (load_config() or {}).get("style", {})  # look of the channel, see "style" in config.json
+MOVES = STYLE.get("moves", ["zoom_in", "zoom_out", "punch_in", "pan_left", "pan_right", "pan_up", "pan_down", "tilt", "handheld"])
+SLOW_MOTION = STYLE.get("slow_motion_speed", 0.75)  # slow-motion shots play the clip at 75% speed
+SLOW_MOTION_SHARE = STYLE.get("slow_motion_share", 0.25)  # about one shot in four
+GRADE = STYLE.get("grade", "eq=brightness=-0.06:saturation=1.15")
 BW, BH = int(W * 1.2), int(H * 1.2)  # oversized frame, so pans / tilt / shake never show an edge
 
 
@@ -283,7 +290,7 @@ def camera_move(move, shot, speed=1.0):
     """
     d = f"{shot:.3f}"
     head = f"setpts=PTS/{speed}," if speed != 1.0 else ""
-    grade = "eq=brightness=-0.06:saturation=1.15"  # eq must come before per-frame scaling (FFmpeg 9.0.2 crash)
+    grade = GRADE  # color filters must come before per-frame scaling (eq after it crashes FFmpeg 9.0.2)
     if move in ("zoom_in", "zoom_out", "punch_in"):
         z = {"zoom_in": f"(1+0.12*t/{d})",
              "zoom_out": f"(1.12-0.12*t/{d})",
