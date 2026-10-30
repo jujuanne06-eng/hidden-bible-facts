@@ -86,7 +86,7 @@
       "en": "All Saints' Day honors saints nobody has ever heard of."
     },
     "paintings": [
-      "Fra Angelico Forerunners of Christ with Saints and Martyrs",
+      "Fra Angelico Fiesole Altarpiece predella",
       "Durer Adoration of the Trinity"
     ]
   },
@@ -300,8 +300,7 @@
       "en": "The Templars were arrested on Friday the thirteenth."
     },
     "paintings": [
-      "Knights Templar miniature",
-      "Burning of Jacques de Molay"
+      "Knights Templar miniature"
     ]
   },
   {
@@ -362,8 +361,7 @@
       "en": "David is credited with writing seventy three Psalms."
     },
     "paintings": [
-      "Honthorst King David playing the harp",
-      "Caravaggio David with the Head of Goliath"
+      "Honthorst King David playing the harp"
     ]
   },
   {
@@ -516,8 +514,7 @@
       "en": "The flood lasted much longer than forty days."
     },
     "paintings": [
-      "Thomas Cole Subsiding of the Waters of the Deluge",
-      "John Martin The Deluge"
+      "Thomas Cole Subsiding of the Waters"
     ]
   },
   {
@@ -637,10 +634,7 @@
     },
     "hook": {
       "en": "Samson once killed a lion with his bare hands."
-    },
-    "paintings": [
-      "Rembrandt Blinding of Samson"
-    ]
+    }
   },
   {
     "id": "the-ark-of-the-covenant",
@@ -852,10 +846,7 @@
     },
     "hook": {
       "en": "The Bible mentions giants before and after the flood."
-    },
-    "paintings": [
-      "John Martin The Deluge"
-    ]
+    }
   },
   {
     "id": "jonah-and-the-whale",
@@ -1188,7 +1179,6 @@
       "en": "Peter asked to be crucified upside down."
     },
     "paintings": [
-      "Caravaggio Crucifixion of Saint Peter",
       "Rembrandt Denial of Saint Peter"
     ]
   },
@@ -1274,11 +1264,7 @@
     },
     "hook": {
       "en": "Goliath's height depends on which Bible you read."
-    },
-    "paintings": [
-      "Caravaggio David and Goliath Prado",
-      "Titian David and Goliath"
-    ]
+    }
   },
   {
     "id": "the-angel-gabriel",
@@ -1705,8 +1691,7 @@
       "en": "Jezebel did her hair just before she died."
     },
     "paintings": [
-      "Leighton Jezebel and Ahab",
-      "Gustave Dore Death of Jezebel"
+      "Leighton Jezebel and Ahab"
     ]
   },
   {
@@ -1879,8 +1864,7 @@
       "en": "Some wanted Lazarus dead again after he came back."
     },
     "paintings": [
-      "Rembrandt Raising of Lazarus",
-      "Sebastiano del Piombo Raising of Lazarus"
+      "Rembrandt Raising of Lazarus"
     ]
   },
   {
