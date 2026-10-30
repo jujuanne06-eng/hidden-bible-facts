@@ -19,8 +19,8 @@
         "tiktok": "",
         "instagram": ""
       },
-      "voice": "en-US-AndrewNeural",
-      "rate": "-8%",
+      "voice": "en-US-ChristopherNeural",
+      "rate": "+0%",
       "hook": "{teaser} Stay until number three.",
       "fact_labels": [
         "Number one.",
