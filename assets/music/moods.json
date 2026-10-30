@@ -1,0 +1,21 @@
+{
+  "_help": "Each mood lists music files from this folder. Each category of the year plan uses one mood. The 3 tracks here are temporary (copied from Fun Facts): replace them with calm, cinematic tracks from Pixabay Music and list them below. New files not listed anywhere are used for every mood.",
+  "moods": {
+    "mysterious": ["romansenykmusic-a-curious-discovery-243799.mp3"],
+    "epic": ["romansenykmusic-a-curious-discovery-243799.mp3", "mmaudio-start-somewhere-good-512524.mp3"],
+    "peaceful": ["mmaudio-start-somewhere-good-512524.mp3", "alex-morgan-lofi-sunny-cafe-568156.mp3"]
+  },
+  "categories": {
+    "Old Testament people": "epic",
+    "New Testament people": "epic",
+    "Bible stories": "epic",
+    "Church history": "epic",
+    "Symbols and mysteries": "mysterious",
+    "Bible places": "mysterious",
+    "Books of the Bible": "mysterious",
+    "Saints": "peaceful",
+    "Churches and cathedrals": "peaceful",
+    "Traditions and holidays": "peaceful",
+    "Words and translations": "peaceful"
+  }
+}

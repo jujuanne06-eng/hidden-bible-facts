@@ -1,0 +1,103 @@
+# Runs every day on GitHub's computers: makes the videos and sends them to Zernio.
+# Your PC does not need to be on. Keys come from the repository's Secrets.
+name: Daily Hidden Bible Facts videos
+
+on:
+  schedule:
+    - cron: "20 4 * * *"   # 04:20 UTC = 05:20 Paris in winter, 06:00 in summer (GitHub may start a bit late)
+    - cron: "50 6 * * *"  # backup in case GitHub skipped the first one; it skips slots already sent today
+  workflow_dispatch:     # "Run workflow" button for tests
+    inputs:
+      mode:
+        description: "run = make + send | no-publish = only make the videos | dry-run = make + show what would be sent"
+        default: no-publish
+        type: choice
+        options: [no-publish, dry-run, run]
+
+permissions:
+  contents: write  # to save state.json (which topics were used)
+
+concurrency:
+  group: daily-videos
+  cancel-in-progress: false
+
+jobs:
+  videos:
+    runs-on: ubuntu-24.04  # fixed version: "latest" moves to new Ubuntu releases that could break the setup
+    timeout-minutes: 60
+    steps:
+      # always the latest main (not the commit from when the run was queued), so a backup run
+      # sees the state.json saved by the run before it
+      - uses: actions/checkout@v7
+        with:
+          ref: main
+
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.14"
+          cache: pip
+
+      - name: Install FFmpeg and Python packages
+        run: |
+          sudo apt-get update -q
+          sudo apt-get install -y -q ffmpeg
+          pip install -r requirements.txt
+
+      - name: Reuse downloaded stock clips
+        uses: actions/cache@v6
+        with:
+          path: assets/clips
+          key: clips-${{ github.run_id }}
+          restore-keys: clips-
+
+      - name: Make and send the videos
+        env:
+          ZERNIO_API_KEY: ${{ secrets.ZERNIO_API_KEY }}
+          PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          MODE: ${{ github.event.inputs.mode || 'run' }}
+        run: |
+          case "$MODE" in
+            run) python src/run_daily.py ;;
+            dry-run) python src/run_daily.py --dry-run ;;
+            *) python src/run_daily.py --no-publish ;;
+          esac
+
+      # if the job broke before the script could send its own Telegram alert (e.g. install failure)
+      - name: Telegram alert if the job failed
+        if: failure() && hashFiles('telegram-alert-sent') == ''
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          TELEGRAM_CHAT_ID=$(python3 -c "import json;print(json.load(open('config.json')).get('telegram_chat_id',''))")
+          [ -n "$TELEGRAM_BOT_TOKEN" ] && [ -n "$TELEGRAM_CHAT_ID" ] || exit 0
+          curl -s -o /dev/null "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage" \
+            --data-urlencode "chat_id=$TELEGRAM_CHAT_ID" \
+            --data-urlencode "text=❌ Le job vidéo GitHub a échoué. Détails : $RUN_URL"
+
+      # 3 days keeps total storage under the free 500 MB for private projects (~70 MB of videos a day)
+      - name: Keep the videos for 3 days (Actions page > this run > Artifacts)
+        if: always()
+        uses: actions/upload-artifact@v7
+        with:
+          name: videos
+          path: |
+            output/*/video.mp4
+            output/*/info.json
+            run-log.txt
+          retention-days: 3
+          if-no-files-found: ignore
+
+      # runs even if the job failed halfway, so a video that was already sent is never sent again
+      - name: Save which topics were used
+        if: always() && (github.event.inputs.mode || 'run') == 'run'
+        run: |
+          git config user.name "hidden-bible-facts-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add state.json
+          git diff --cached --quiet && exit 0
+          git commit -m "Used topics $(date -u +%F)"
+          # the weekly writing task may have pushed new topics meanwhile
+          for i in 1 2 3; do git pull --rebase -q origin main && git push -q && exit 0; sleep 5; done
+          exit 1
