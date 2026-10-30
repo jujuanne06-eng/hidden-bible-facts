@@ -9,3 +9,5 @@ assets/whoosh.wav
 telegram-alert-sent
 preview/
 assets/music/analysis.json
+.venv-analysis/
+reference/
