@@ -4,9 +4,8 @@ Profile picture: `profile-picture.png` (same picture on both).
 Use the **new email** of this channel for both accounts.
 
 ## Username (same on both if possible)
-1. `hiddenbiblefacts`
-2. if taken: `hidden.bible.facts` (Instagram) / `hidden_bible_facts` (TikTok)
-3. if taken: `thehiddenbiblefacts`
+- TikTok: **`hidden_bible_facts_real`** (created 30 Oct 2026)
+- Instagram: same if available, otherwise `hidden.bible.facts.real`
 
 ## TikTok
 
