@@ -15,7 +15,10 @@
    "Historians know almost nothing about the real Christopher, who is said to have died as a martyr in the third century. In nineteen sixty nine the Catholic Church removed his feast from its universal calendar because his story was mostly legend.",
    "Even so, he was never declared unreal. Local churches may still honor him, and his feast day, the twenty fifth of July, is still celebrated in many places, and his medals remain popular with drivers and travelers."
   ],
-  "paintings": []
+  "paintings": [
+   "Bosch Saint Christopher",
+   "Dirk Bouts Saint Christopher"
+  ]
  },
  {
   "id": "golgotha",
@@ -33,7 +36,10 @@
    "The Gospels never call it a mountain. They only say it was outside the city walls of Jerusalem and close to a road, so that many passersby could see what happened there.",
    "Today most Christians remember the site inside the Church of the Holy Sepulchre. Archaeologists found that the area was a stone quarry outside the city walls in the first century, which fits the Gospel descriptions."
   ],
-  "paintings": []
+  "paintings": [
+   "Tissot What Our Saviour Saw from the Cross",
+   "Mantegna Crucifixion Louvre"
+  ]
  },
  {
   "id": "the-book-of-genesis",
@@ -51,7 +57,10 @@
    "The Bible says Jacob was renamed Israel after wrestling with a mysterious figure all night. The name Israel means he struggles with God, and it later became the name of the whole nation descended from his twelve sons.",
    "Joseph's story, from his coat and his brothers' jealousy to his rise in Egypt, fills more than a quarter of Genesis. It is the longest continuous story about one person in the whole book."
   ],
-  "paintings": []
+  "paintings": [
+   "Rembrandt Jacob Wrestling with the Angel",
+   "Gustave Dore Jacob wrestling with the angel"
+  ]
  },
  {
   "id": "adam",
@@ -87,7 +96,10 @@
    "Historians credit Benedictine monasteries with preserving ancient books through the dark centuries after Rome fell. Monks copied Latin texts by hand, and many works we can read today survived because they were patiently copied in monasteries.",
    "In nineteen sixty four Pope Paul the Sixth named Benedict the patron saint of Europe. His medal, with a cross and the first letters of Latin prayers, is still worn by many people today."
   ],
-  "paintings": []
+  "paintings": [
+   "Hans Memling Saint Benedict",
+   "Fra Angelico Saint Benedict"
+  ]
  },
  {
   "id": "the-first-christians",
@@ -105,7 +117,10 @@
    "The Book of Acts says the disciples were first called Christians in Antioch, a large city in what is now Turkey. The word may have been an outsider's label, and it appears only three times in the whole New Testament.",
    "Early Christians met in private homes, since there were no church buildings yet. The oldest known purpose built church, found at Dura Europos in Syria, is a house converted for worship in about the year two hundred forty."
   ],
-  "paintings": []
+  "paintings": [
+   "Catacomb of Priscilla fresco",
+   "Dura Europos church fresco"
+  ]
  },
  {
   "id": "the-forbidden-fruit",
@@ -141,7 +156,10 @@
    "Our calendar was set in the sixth century by a monk named Dionysius Exiguus, who counted from the birth of Jesus. Most historians think he erred, and date the birth a few years earlier, before King Herod died in about four before Christ.",
    "Ancient writers outside the Bible, including the Roman historian Tacitus and the Jewish historian Josephus, mention Jesus. Most scholars agree that he really lived and was executed under Pontius Pilate."
   ],
-  "paintings": []
+  "paintings": [
+   "Christ Pantocrator Saint Catherine Sinai",
+   "Rembrandt Head of Christ"
+  ]
  },
  {
   "id": "saint-peters-basilica",
@@ -159,7 +177,10 @@
    "The dome rises about one hundred thirty six meters above the floor, and it is one of the tallest in the world. Visitors can climb hundreds of steps to the top for a view over Rome.",
    "The sale of indulgences to help pay for this building was one of the causes of the Protestant Reformation, since Martin Luther strongly criticized that fundraising. The church holds up to about sixty thousand people."
   ],
-  "paintings": []
+  "paintings": [
+   "Panini Interior of Saint Peter's",
+   "Saint Peter's Basilica photochrom"
+  ]
  },
  {
   "id": "the-jordan-river",
@@ -177,7 +198,9 @@
    "It is the lowest river in the world, because it ends at the Dead Sea, about four hundred meters below sea level. The Gospels say Jesus was baptized by John in the Jordan, and pilgrims still visit the site.",
    "The river is quite small. In places it is only a few meters wide, yet the Bible mentions it many times, and its name has long been used in hymns and songs as a picture of crossing over."
   ],
-  "paintings": []
+  "paintings": [
+   "Jordan River photochrom"
+  ]
  },
  {
   "id": "the-book-of-exodus",
@@ -195,7 +218,10 @@
    "Exodus also gives very detailed building instructions for the tabernacle, the portable tent of worship. Nearly half of the book's chapters describe its design, from the curtains to the golden Ark of the Covenant.",
    "Historians and archaeologists debate when, and whether, the events happened. No Egyptian record of the Exodus has been found, yet the story has shaped Jewish and Christian worship through the Passover and Easter."
   ],
-  "paintings": []
+  "paintings": [
+   "David Roberts Departure of the Israelites",
+   "Rembrandt Moses Ten Commandments"
+  ]
  },
  {
   "id": "the-cross",
@@ -213,7 +239,9 @@
    "A Roman graffito from about the year two hundred, found on the Palatine Hill in Rome, mocks a man worshipping a crucified figure with a donkey head. It shows how strange the faith of a crucified savior seemed to outsiders.",
    "Today the cross appears in many shapes. The Greek cross has four equal arms, the Latin cross has a longer lower arm, and the Celtic cross has a ring around its center."
   ],
-  "paintings": []
+  "paintings": [
+   "Ruthwell Cross"
+  ]
  },
  {
   "id": "eve",
@@ -249,7 +277,10 @@
    "His classmates nicknamed him the Dumb Ox because he was big and quiet. His teacher Albert the Great is said to have replied that this ox would one day bellow so loudly that the whole world would hear.",
    "Aquinas wrote the Summa Theologiae, a huge work of theology which he never finished. Near the end of his life, after a deep experience while praying, he told a friend that all he had written seemed like straw."
   ],
-  "paintings": []
+  "paintings": [
+   "Carlo Crivelli Saint Thomas Aquinas",
+   "Benozzo Gozzoli Triumph of Saint Thomas Aquinas"
+  ]
  },
  {
   "id": "the-persecution-under-nero",
@@ -267,7 +298,9 @@
    "Christian tradition says that both Peter and Paul died in Rome around this time. Paul, as a Roman citizen, was beheaded, while Peter was crucified, though the exact date and the details are debated by historians.",
    "Christians later remembered Nero as the ultimate tyrant. Many scholars think the mysterious number of the beast in the Book of Revelation, six hundred sixty six, is a code for his name, written in Hebrew letters."
   ],
-  "paintings": []
+  "paintings": [
+   "Hubert Robert Fire of Rome"
+  ]
  },
  {
   "id": "the-binding-of-isaac",
@@ -303,7 +336,10 @@
    "The oldest known baptistery used for worship is at Dura Europos in Syria, from the third century. It was a private house converted for Christians, with a small basin, and wall paintings of Jesus as the Good Shepherd.",
    "Today churches practice baptism in different ways. Some pour or sprinkle water, others immerse, and some baptize babies while others baptize only believers who are old enough to profess their own faith."
   ],
-  "paintings": []
+  "paintings": [
+   "Dura Europos baptistery",
+   "Verrocchio Baptism of Christ"
+  ]
  },
  {
   "id": "the-word-bible",
@@ -339,7 +375,10 @@
    "Mary is the only woman named in the Quran, where she is mentioned by name more than thirty times. A whole chapter, called Maryam, is named after her, and Muslims honor her as a righteous woman.",
    "After the Gospels, Mary is mentioned in the Book of Acts, praying with the disciples. Tradition says she later lived in Jerusalem or Ephesus, and Catholic and Orthodox Christians celebrate her Dormition or Assumption in August."
   ],
-  "paintings": []
+  "paintings": [
+   "Sassoferrato The Virgin in Prayer",
+   "Theotokos of Vladimir"
+  ]
  },
  {
   "id": "cain",
@@ -375,7 +414,10 @@
    "William the Conqueror was crowned in the abbey on Christmas Day in ten sixty six. Since then, almost every English and British monarch has been crowned there, with only two kings never having had a coronation.",
    "Poets' Corner honors writers in the south transept. Geoffrey Chaucer, author of the Canterbury Tales, was buried there in the year fourteen hundred, and later poets and authors were laid to rest or remembered beside him."
   ],
-  "paintings": []
+  "paintings": [
+   "Canaletto Westminster Abbey",
+   "Westminster Abbey photochrom"
+  ]
  },
  {
   "id": "the-dead-sea",
@@ -393,7 +435,9 @@
    "Its shore is about four hundred thirty meters below sea level, which makes it the lowest dry land on Earth. The water is also almost ten times saltier than the ocean, so swimmers float without effort.",
    "The prophet Ezekiel had a vision of a river flowing from the Temple that makes the Dead Sea fresh and full of fish. Fishermen would stand along its shores, and the book says the water would be healed."
   ],
-  "paintings": []
+  "paintings": [
+   "Dead Sea photochrom"
+  ]
  },
  {
   "id": "saint-lucy",
@@ -411,7 +455,9 @@
    "Before the calendar reform of fifteen eighty two, the thirteenth of December fell near the winter solstice, the longest night of the year. The poet John Donne even wrote a poem about the shortest day, Saint Lucy's Day.",
    "In Sweden, a girl dressed in a white gown with a crown of candles leads a procession on this morning. The Saint Lucia festival brings light into the darkest month, and it is also celebrated in Norway and Finland."
   ],
-  "paintings": []
+  "paintings": [
+   "Francesco del Cossa Saint Lucy"
+  ]
  },
  {
   "id": "the-book-of-leviticus",
@@ -465,7 +511,10 @@
    "Although he favored Christianity for twenty five years, Constantine was baptized only shortly before his death in three thirty seven. Many people at the time delayed baptism until late in life, hoping to be forgiven all their sins.",
    "In three thirty he dedicated a new capital on the Bosphorus, named Constantinople after him. Today it is called Istanbul, and for more than a thousand years it was the center of the Eastern Roman Empire."
   ],
-  "paintings": []
+  "paintings": [
+   "Raphael Vision of the Cross",
+   "Rubens Constantine"
+  ]
  },
  {
   "id": "jacobs-ladder",
@@ -483,7 +532,9 @@
    "The Hebrew word, sullam, appears only once in the whole Bible. Many scholars think it means a stairway or ramp, perhaps like the stepped temple towers of Mesopotamia, rather than a ladder with rungs.",
    "In the Gospel of John, Jesus tells Nathanael that he will see heaven open and the angels of God ascending and descending on the Son of Man. Christians read this as a reference to Jacob's dream."
   ],
-  "paintings": []
+  "paintings": [
+   "William Blake Jacob's Ladder"
+  ]
  },
  {
   "id": "abel",
@@ -519,7 +570,10 @@
    "The Gospels record no words spoken by Joseph. They only show him acting, and mostly in response to dreams, in which an angel tells him to take Mary as his wife, to flee to Egypt, and later to return.",
    "He disappears from the story after Jesus is twelve and visits the Temple. Tradition says he died before Jesus began to teach. In nineteen fifty five, Pope Pius the Twelfth created the feast of Saint Joseph the Worker, on the first of May."
   ],
-  "paintings": []
+  "paintings": [
+   "Georges de La Tour Joseph the Carpenter",
+   "Guido Reni Saint Joseph"
+  ]
  },
  {
   "id": "mother-teresa",
@@ -555,7 +609,9 @@
    "For the first thousand years, Christ was usually shown alive on the cross, with open eyes, and sometimes wearing a crown or royal robe. Images showing a suffering, dying Jesus became common only in the later Middle Ages.",
    "The Gero Crucifix in Cologne Cathedral, carved about nine seventy, is considered the oldest large crucifix north of the Alps. Its sculpture shows Christ's head bowed and eyes closed in death."
   ],
-  "paintings": []
+  "paintings": [
+   "Cimabue Crucifix"
+  ]
  },
  {
   "id": "canterbury-cathedral",
@@ -573,7 +629,9 @@
    "On the twenty ninth of December, eleven seventy, four knights of King Henry the Second killed Archbishop Thomas Becket in the cathedral. The shock was huge, and Becket was named a saint only three years later.",
    "For centuries pilgrims walked to Becket's shrine, a journey Geoffrey Chaucer made famous in the Canterbury Tales. In fifteen thirty eight, during the English Reformation, King Henry the Eighth had the shrine destroyed."
   ],
-  "paintings": []
+  "paintings": [
+   "Canterbury Cathedral photochrom"
+  ]
  },
  {
   "id": "seth",
@@ -627,7 +685,9 @@
    "In eighteen forty eight, the Illustrated London News printed a picture of Queen Victoria, Prince Albert and their children around a decorated tree. When the picture was copied in America, it made the custom fashionable on both sides of the Atlantic.",
    "Every year since nineteen forty seven, Norway has sent a large Christmas tree to London for Trafalgar Square, as a thank you for British help during the Second World War."
   ],
-  "paintings": []
+  "paintings": [
+   "Queen Victoria Christmas tree Illustrated London News"
+  ]
  },
  {
   "id": "the-edict-of-milan",
@@ -645,7 +705,9 @@
    "Many historians point out that no formal edict was issued in Milan. What survives are letters, one issued by Licinius in Nicomedia, preserved by the writers Lactantius and Eusebius, and scholars still discuss what exactly was decided.",
    "It did not make Christianity the official religion, because the agreement granted freedom to all religions. Christianity became the state religion of the empire only in three hundred eighty, under Emperor Theodosius the First."
   ],
-  "paintings": []
+  "paintings": [
+   "Raphael Baptism of Constantine"
+  ]
  },
  {
   "id": "nativity-scenes",
@@ -663,7 +725,9 @@
    "The Gospels do not mention an ox or a donkey at the stable. Christians have added them over time, partly inspired by a verse in Isaiah which says the ox knows its owner, and the donkey its master's crib.",
    "After Greccio, the idea spread across Europe. In Naples in the seventeen hundreds, artists made detailed nativity figures from clay and cloth, and the custom of the crib, or crèche, is now found in homes worldwide."
   ],
-  "paintings": []
+  "paintings": [
+   "Giotto Institution of the Crib at Greccio"
+  ]
  },
  {
   "id": "the-book-of-numbers",
@@ -699,7 +763,9 @@
    "The abbreviation appears in English writing as early as the fifteen hundreds, and Christian scribes used chi in manuscripts long before that. So Xmas was never a way to take Christ out of Christmas.",
    "The old word Yule comes from Germanic winter festivals, while Noel comes from the Latin word natalis, which means birth. Many languages name the holiday after the Nativity, the birth of Jesus."
   ],
-  "paintings": []
+  "paintings": [
+   "Gerard van Honthorst Adoration of the Shepherds"
+  ]
  },
  {
   "id": "josephs-coat-of-many-colors",
@@ -717,7 +783,9 @@
    "Some scholars think it means a long robe with sleeves, a garment worn by princes. The only other time the phrase appears is in the second Book of Samuel, describing the robe of King David's daughter Tamar.",
    "After years as a slave and prisoner in Egypt, Joseph rose to become governor under Pharaoh. When his brothers came asking for grain during a famine, he forgave them, and the family settled in Egypt."
   ],
-  "paintings": []
+  "paintings": [
+   "Ford Madox Brown Coat of Many Colours"
+  ]
  },
  {
   "id": "christmas-carols",
@@ -771,7 +839,10 @@
    "Luke says that Mary laid her baby in a manger, because there was no room for them in the katalyma. This Greek word can mean a guest room, so some scholars think that it was not an inn at all.",
    "Matthew says that the birth in Bethlehem fulfilled the words of the prophet Micah, who said that a ruler would come from that small town. Bethlehem was also the town of King David."
   ],
-  "paintings": []
+  "paintings": [
+   "Botticelli Mystic Nativity",
+   "Gerard van Honthorst Adoration of the Shepherds"
+  ]
  },
  {
   "id": "saint-anthony-of-padua",
@@ -789,7 +860,9 @@
    "He is called Anthony of Padua because he spent his last years in that Italian city, and died near it in twelve thirty one at about thirty five years old. His birthplace was Lisbon, where he is still loved.",
    "He was declared a saint in twelve thirty two, less than a year after his death, one of the fastest canonizations in history. Catholics pray to him to find lost things, from a story about a stolen book."
   ],
-  "paintings": []
+  "paintings": [
+   "Murillo Saint Anthony of Padua"
+  ]
  },
  {
   "id": "the-star-of-bethlehem",
@@ -807,7 +880,9 @@
    "Chinese astronomers recorded a comet or new star in the spring of five before Christ. Scholars disagree about whether this or any other event is what Matthew described, since he gives few details.",
    "In sixteen oh four, the astronomer Johannes Kepler saw Jupiter and Saturn come close together, and he wondered whether a similar event had been the star. His idea is still discussed today."
   ],
-  "paintings": []
+  "paintings": [
+   "Giotto Adoration of the Magi Scrovegni"
+  ]
  },
  {
   "id": "midnight-mass",
@@ -825,7 +900,9 @@
    "In Spanish, the Midnight Mass is called Misa del Gallo, the Mass of the Rooster. A legend says that a rooster was the first to crow when Jesus was born, so the name remembers the animal.",
    "Christmas once had three Masses. The Roman tradition has Mass at midnight, at dawn and during the day, honoring the birth of Christ in eternity, in Bethlehem and in the heart of the believer."
   ],
-  "paintings": []
+  "paintings": [
+   "Correggio Holy Night"
+  ]
  },
  {
   "id": "christmas",
@@ -843,7 +920,10 @@
    "Not everyone celebrated it. In sixteen forty seven, the English Parliament, led by Puritans, banned Christmas as unbiblical, and from sixteen fifty nine to sixteen eighty one, celebrating it in Boston carried a fine.",
    "Many Eastern churches celebrate on the sixth or seventh of January. In the United States, Christmas became a federal holiday in eighteen seventy, after being a normal working day in many states."
   ],
-  "paintings": []
+  "paintings": [
+   "Fra Angelico Nativity",
+   "Gerard David Nativity"
+  ]
  },
  {
   "id": "elizabeth",
@@ -861,7 +941,10 @@
    "When Mary arrived, Elizabeth was filled with the Spirit and cried out, blessed are you among women, why am I so honored that the mother of my Lord comes to me? The baby in her womb leapt for joy.",
    "Elizabeth's words became part of the Hail Mary, a prayer that Catholics say daily. The meeting of the two women is remembered in art as the Visitation, and Catholics celebrate it on the thirty first of May."
   ],
-  "paintings": []
+  "paintings": [
+   "Ghirlandaio Visitation",
+   "Pontormo Visitation"
+  ]
  },
  {
   "id": "the-twelve-days-of-christmas",
@@ -879,7 +962,9 @@
    "A popular story says that the song was a secret code to teach Catholic children their faith, when Catholics were persecuted in England. Historians find no evidence for this, and it appears to be a modern legend.",
    "The carol was first printed in England in seventeen eighty, probably as a memory game. If you add up all the gifts in every verse, the total is three hundred sixty four."
   ],
-  "paintings": []
+  "paintings": [
+   "Gentile da Fabriano Adoration of the Magi"
+  ]
  },
  {
   "id": "the-council-of-nicaea",
@@ -897,7 +982,9 @@
    "A popular myth says that the council voted on which books belong in the Bible. Historians say this is false. The ancient sources do not mention any decision about the biblical canon at Nicaea.",
    "The council also agreed that Easter should be celebrated on the same Sunday everywhere. Its creed was later expanded in three eighty one, and that version, the Nicene Creed, is still recited in many churches today."
   ],
-  "paintings": []
+  "paintings": [
+   "First Council of Nicaea icon"
+  ]
  },
  {
   "id": "cologne-cathedral",
@@ -915,7 +1002,9 @@
    "When completed, it was the tallest building in the world, at about one hundred fifty seven meters, until the Washington Monument was finished in eighteen eighty four. Its two towers are still among the tallest church spires.",
    "The cathedral houses a golden shrine said to hold the relics of the Three Kings, or Magi. They were brought to Cologne in eleven sixty four. The cathedral was damaged in the Second World War but survived."
   ],
-  "paintings": []
+  "paintings": [
+   "Cologne Cathedral photochrom"
+  ]
  },
  {
   "id": "the-burning-bush",
@@ -933,7 +1022,9 @@
    "Moses asks what name he should give to the people. God answers, I am who I am. The Hebrew name behind it, written with four letters, became so sacred that many Jews do not say it aloud.",
    "At the foot of Mount Sinai stands Saint Catherine's Monastery, built in the sixth century. Its monks tell of a living bush in its courtyard, which they honor as the burning bush itself, or its descendant."
   ],
-  "paintings": []
+  "paintings": [
+   "Nicolas Froment Burning Bush"
+  ]
  },
  {
   "id": "noah",
@@ -987,7 +1078,9 @@
    "The tradition recorded by Athanasius of Alexandria says that he lived to be one hundred five, dying in about three fifty six. He asked to be buried in a secret place, so that no one would make a shrine.",
    "Athanasius wrote his Life of Anthony, which became a bestseller of the ancient world. It describes Anthony's struggles with temptation, a theme later painted by artists like Bosch and Grunewald."
   ],
-  "paintings": []
+  "paintings": [
+   "Velazquez Saint Anthony Abbot and Saint Paul the Hermit"
+  ]
  },
  {
   "id": "the-book-of-deuteronomy",
@@ -1023,7 +1116,9 @@
    "The oldest written account of the Last Supper is not in a Gospel. It is in the First Letter of Paul to the Corinthians, written about the year fifty five, which is earlier than the Gospels were written.",
    "Christians understand the meal in different ways. Catholics and Orthodox believe the bread and wine become the body and blood of Christ, while many Protestants see them as symbols of his presence and sacrifice."
   ],
-  "paintings": []
+  "paintings": [
+   "Leonardo da Vinci Last Supper"
+  ]
  },
  {
   "id": "hallelujah",
@@ -1059,7 +1154,9 @@
    "Luke says that this happened to Zechariah, who was chosen to burn incense while the crowd prayed outside. There he saw an angel, who announced that his wife would bear a son named John.",
    "When John was born, Zechariah spoke again and sang a song of praise, called the Benedictus. It comes from the first chapter of Luke, and Christians still sing it during morning prayer in many churches."
   ],
-  "paintings": []
+  "paintings": [
+   "Ghirlandaio Annunciation to Zacharias"
+  ]
  },
  {
   "id": "the-ichthys-fish-symbol",

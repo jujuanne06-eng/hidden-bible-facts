@@ -1939,7 +1939,11 @@
     },
     "hook": {
       "en": "Saint Christopher was removed from the official calendar."
-    }
+    },
+    "paintings": [
+      "Bosch Saint Christopher",
+      "Dirk Bouts Saint Christopher"
+    ]
   },
   {
     "id": "golgotha",
@@ -1966,7 +1970,11 @@
     },
     "hook": {
       "en": "The Gospels never call Golgotha a mountain."
-    }
+    },
+    "paintings": [
+      "Tissot What Our Saviour Saw from the Cross",
+      "Mantegna Crucifixion Louvre"
+    ]
   },
   {
     "id": "the-book-of-genesis",
@@ -1993,7 +2001,11 @@
     },
     "hook": {
       "en": "The nation of Israel is named after a wrestler."
-    }
+    },
+    "paintings": [
+      "Rembrandt Jacob Wrestling with the Angel",
+      "Gustave Dore Jacob wrestling with the angel"
+    ]
   },
   {
     "id": "adam",
@@ -2047,7 +2059,11 @@
     },
     "hook": {
       "en": "Saint Benedict wrote a rulebook that shaped Europe."
-    }
+    },
+    "paintings": [
+      "Hans Memling Saint Benedict",
+      "Fra Angelico Saint Benedict"
+    ]
   },
   {
     "id": "the-first-christians",
@@ -2074,7 +2090,11 @@
     },
     "hook": {
       "en": "The word Christian appears only three times in the Bible."
-    }
+    },
+    "paintings": [
+      "Catacomb of Priscilla fresco",
+      "Dura Europos church fresco"
+    ]
   },
   {
     "id": "the-forbidden-fruit",
@@ -2128,7 +2148,11 @@
     },
     "hook": {
       "en": "Jesus was probably not born in the year one."
-    }
+    },
+    "paintings": [
+      "Christ Pantocrator Saint Catherine Sinai",
+      "Rembrandt Head of Christ"
+    ]
   },
   {
     "id": "saint-peters-basilica",
@@ -2155,7 +2179,11 @@
     },
     "hook": {
       "en": "Saint Peter's Basilica took more than a century to finish."
-    }
+    },
+    "paintings": [
+      "Panini Interior of Saint Peter's",
+      "Saint Peter's Basilica photochrom"
+    ]
   },
   {
     "id": "saint-nicholas",
@@ -2213,7 +2241,10 @@
     },
     "hook": {
       "en": "The Jordan is the lowest river on Earth."
-    }
+    },
+    "paintings": [
+      "Jordan River photochrom"
+    ]
   },
   {
     "id": "the-book-of-exodus",
@@ -2240,7 +2271,11 @@
     },
     "hook": {
       "en": "Exodus is named for a Greek word meaning departure."
-    }
+    },
+    "paintings": [
+      "David Roberts Departure of the Israelites",
+      "Rembrandt Moses Ten Commandments"
+    ]
   },
   {
     "id": "the-cross",
@@ -2267,7 +2302,10 @@
     },
     "hook": {
       "en": "A Roman wall scratching once mocked early Christians' faith."
-    }
+    },
+    "paintings": [
+      "Ruthwell Cross"
+    ]
   },
   {
     "id": "eve",
@@ -2321,7 +2359,11 @@
     },
     "hook": {
       "en": "Saint Thomas Aquinas was kidnapped by his own brothers."
-    }
+    },
+    "paintings": [
+      "Carlo Crivelli Saint Thomas Aquinas",
+      "Benozzo Gozzoli Triumph of Saint Thomas Aquinas"
+    ]
   },
   {
     "id": "the-persecution-under-nero",
@@ -2348,7 +2390,10 @@
     },
     "hook": {
       "en": "Emperor Nero blamed Christians for burning Rome."
-    }
+    },
+    "paintings": [
+      "Hubert Robert Fire of Rome"
+    ]
   },
   {
     "id": "the-binding-of-isaac",
@@ -2402,7 +2447,11 @@
     },
     "hook": {
       "en": "The oldest known baptistery was a converted house."
-    }
+    },
+    "paintings": [
+      "Dura Europos baptistery",
+      "Verrocchio Baptism of Christ"
+    ]
   },
   {
     "id": "the-word-bible",
@@ -2456,7 +2505,11 @@
     },
     "hook": {
       "en": "Mary is the only woman named in the Quran."
-    }
+    },
+    "paintings": [
+      "Sassoferrato The Virgin in Prayer",
+      "Theotokos of Vladimir"
+    ]
   },
   {
     "id": "cain",
@@ -2510,7 +2563,11 @@
     },
     "hook": {
       "en": "Almost every English monarch was crowned in one abbey."
-    }
+    },
+    "paintings": [
+      "Canaletto Westminster Abbey",
+      "Westminster Abbey photochrom"
+    ]
   },
   {
     "id": "the-dead-sea",
@@ -2537,7 +2594,10 @@
     },
     "hook": {
       "en": "The shore of the Dead Sea is Earth's lowest land."
-    }
+    },
+    "paintings": [
+      "Dead Sea photochrom"
+    ]
   },
   {
     "id": "saint-lucy",
@@ -2564,7 +2624,10 @@
     },
     "hook": {
       "en": "Saint Lucy's day was once the longest night."
-    }
+    },
+    "paintings": [
+      "Francesco del Cossa Saint Lucy"
+    ]
   },
   {
     "id": "the-book-of-leviticus",
@@ -2645,7 +2708,11 @@
     },
     "hook": {
       "en": "Constantine was baptized only on his deathbed."
-    }
+    },
+    "paintings": [
+      "Raphael Vision of the Cross",
+      "Rubens Constantine"
+    ]
   },
   {
     "id": "jacobs-ladder",
@@ -2672,7 +2739,10 @@
     },
     "hook": {
       "en": "Jacob's ladder may really have been a staircase."
-    }
+    },
+    "paintings": [
+      "William Blake Jacob's Ladder"
+    ]
   },
   {
     "id": "abel",
@@ -2726,7 +2796,11 @@
     },
     "hook": {
       "en": "Joseph never speaks a single word in the Gospels."
-    }
+    },
+    "paintings": [
+      "Georges de La Tour Joseph the Carpenter",
+      "Guido Reni Saint Joseph"
+    ]
   },
   {
     "id": "mother-teresa",
@@ -2780,7 +2854,10 @@
     },
     "hook": {
       "en": "For centuries, crucifixes showed a living Jesus."
-    }
+    },
+    "paintings": [
+      "Cimabue Crucifix"
+    ]
   },
   {
     "id": "canterbury-cathedral",
@@ -2807,7 +2884,10 @@
     },
     "hook": {
       "en": "Four knights killed an archbishop inside Canterbury Cathedral."
-    }
+    },
+    "paintings": [
+      "Canterbury Cathedral photochrom"
+    ]
   },
   {
     "id": "seth",
@@ -2888,7 +2968,10 @@
     },
     "hook": {
       "en": "One newspaper picture made Christmas trees fashionable worldwide."
-    }
+    },
+    "paintings": [
+      "Queen Victoria Christmas tree Illustrated London News"
+    ]
   },
   {
     "id": "the-edict-of-milan",
@@ -2915,7 +2998,10 @@
     },
     "hook": {
       "en": "The Edict of Milan may never have been an edict."
-    }
+    },
+    "paintings": [
+      "Raphael Baptism of Constantine"
+    ]
   },
   {
     "id": "nativity-scenes",
@@ -2942,7 +3028,10 @@
     },
     "hook": {
       "en": "Saint Francis created the first living nativity scene."
-    }
+    },
+    "paintings": [
+      "Giotto Institution of the Crib at Greccio"
+    ]
   },
   {
     "id": "the-book-of-numbers",
@@ -2996,7 +3085,10 @@
     },
     "hook": {
       "en": "Xmas was not invented to remove Christ."
-    }
+    },
+    "paintings": [
+      "Gerard van Honthorst Adoration of the Shepherds"
+    ]
   },
   {
     "id": "josephs-coat-of-many-colors",
@@ -3023,7 +3115,10 @@
     },
     "hook": {
       "en": "Nobody is sure Joseph's coat had many colors."
-    }
+    },
+    "paintings": [
+      "Ford Madox Brown Coat of Many Colours"
+    ]
   },
   {
     "id": "christmas-carols",
@@ -3104,7 +3199,11 @@
     },
     "hook": {
       "en": "Luke never says an innkeeper turned Mary away."
-    }
+    },
+    "paintings": [
+      "Botticelli Mystic Nativity",
+      "Gerard van Honthorst Adoration of the Shepherds"
+    ]
   },
   {
     "id": "saint-anthony-of-padua",
@@ -3131,7 +3230,10 @@
     },
     "hook": {
       "en": "Saint Anthony of Padua was not born in Padua."
-    }
+    },
+    "paintings": [
+      "Murillo Saint Anthony of Padua"
+    ]
   },
   {
     "id": "the-star-of-bethlehem",
@@ -3158,7 +3260,10 @@
     },
     "hook": {
       "en": "Only one Gospel mentions the star of Bethlehem."
-    }
+    },
+    "paintings": [
+      "Giotto Adoration of the Magi Scrovegni"
+    ]
   },
   {
     "id": "midnight-mass",
@@ -3185,7 +3290,10 @@
     },
     "hook": {
       "en": "Spain calls Midnight Mass the Mass of the Rooster."
-    }
+    },
+    "paintings": [
+      "Correggio Holy Night"
+    ]
   },
   {
     "id": "christmas",
@@ -3212,7 +3320,11 @@
     },
     "hook": {
       "en": "Christmas was once banned in England and Boston."
-    }
+    },
+    "paintings": [
+      "Fra Angelico Nativity",
+      "Gerard David Nativity"
+    ]
   },
   {
     "id": "elizabeth",
@@ -3239,7 +3351,11 @@
     },
     "hook": {
       "en": "Elizabeth was first to call Mary mother of the Lord."
-    }
+    },
+    "paintings": [
+      "Ghirlandaio Visitation",
+      "Pontormo Visitation"
+    ]
   },
   {
     "id": "the-twelve-days-of-christmas",
@@ -3266,7 +3382,10 @@
     },
     "hook": {
       "en": "The twelve days of Christmas come after Christmas."
-    }
+    },
+    "paintings": [
+      "Gentile da Fabriano Adoration of the Magi"
+    ]
   },
   {
     "id": "the-council-of-nicaea",
@@ -3293,7 +3412,10 @@
     },
     "hook": {
       "en": "The Council of Nicaea did not choose the Bible's books."
-    }
+    },
+    "paintings": [
+      "First Council of Nicaea icon"
+    ]
   },
   {
     "id": "cologne-cathedral",
@@ -3320,7 +3442,10 @@
     },
     "hook": {
       "en": "Cologne Cathedral took more than six hundred years to build."
-    }
+    },
+    "paintings": [
+      "Cologne Cathedral photochrom"
+    ]
   },
   {
     "id": "the-burning-bush",
@@ -3347,7 +3472,10 @@
     },
     "hook": {
       "en": "God gave his name at the burning bush."
-    }
+    },
+    "paintings": [
+      "Nicolas Froment Burning Bush"
+    ]
   },
   {
     "id": "noah",
@@ -3428,7 +3556,10 @@
     },
     "hook": {
       "en": "Saint Anthony the Great reportedly lived past one hundred."
-    }
+    },
+    "paintings": [
+      "Velazquez Saint Anthony Abbot and Saint Paul the Hermit"
+    ]
   },
   {
     "id": "the-book-of-deuteronomy",
@@ -3482,7 +3613,10 @@
     },
     "hook": {
       "en": "Paul described the Last Supper before any Gospel did."
-    }
+    },
+    "paintings": [
+      "Leonardo da Vinci Last Supper"
+    ]
   },
   {
     "id": "hallelujah",
@@ -3536,7 +3670,10 @@
     },
     "hook": {
       "en": "Zechariah's greatest moment came only once in his life."
-    }
+    },
+    "paintings": [
+      "Ghirlandaio Annunciation to Zacharias"
+    ]
   },
   {
     "id": "the-ichthys-fish-symbol",
