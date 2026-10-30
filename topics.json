@@ -1915,6 +1915,249 @@
     ]
   },
   {
+    "id": "saint-christopher",
+    "category": "Saints",
+    "title": {
+      "en": "Saint Christopher"
+    },
+    "keywords": [
+      "old stone river crossing",
+      "river water flowing",
+      "ancient stone bridge",
+      "old chapel candles"
+    ],
+    "hashtags": {
+      "en": "#saintchristopher #saints #legend #travelers"
+    },
+    "facts": {
+      "en": [
+        "Saint Christopher is honored as the patron saint of travelers. His name comes from Greek words meaning Christ bearer, and many people still carry medals with his image when they go on a journey.",
+        "According to the legend, Christopher was a giant who helped people cross a dangerous river. One night a child asked to be carried, and grew so heavy that Christopher felt he was carrying the whole world.",
+        "Historians know almost nothing about the real Christopher, who is said to have died as a martyr in the third century. In nineteen sixty nine the Catholic Church removed his feast from its universal calendar because his story was mostly legend.",
+        "Even so, he was never declared unreal. Local churches may still honor him, and his feast day, the twenty fifth of July, is still celebrated in many places, and his medals remain popular with drivers and travelers."
+      ]
+    },
+    "hook": {
+      "en": "Saint Christopher was removed from the official calendar."
+    }
+  },
+  {
+    "id": "golgotha",
+    "category": "Bible places",
+    "title": {
+      "en": "Golgotha"
+    },
+    "keywords": [
+      "rocky hill sunrise",
+      "ancient stone tomb entrance",
+      "old stone church dome",
+      "jerusalem old stone wall"
+    ],
+    "hashtags": {
+      "en": "#golgotha #calvary #jerusalem #biblehistory"
+    },
+    "facts": {
+      "en": [
+        "Golgotha is the place where, according to the Gospels, Jesus was crucified. The name is Aramaic and means skull, which is why the Latin Bible calls it Calvaria, and why English says Calvary.",
+        "Nobody is certain why it was called the place of the skull. Some think the rocky hill looked like a skull, while an old Christian tradition said Adam's skull was buried there, an idea found in early writings.",
+        "The Gospels never call it a mountain. They only say it was outside the city walls of Jerusalem and close to a road, so that many passersby could see what happened there.",
+        "Today most Christians remember the site inside the Church of the Holy Sepulchre. Archaeologists found that the area was a stone quarry outside the city walls in the first century, which fits the Gospel descriptions."
+      ]
+    },
+    "hook": {
+      "en": "The Gospels never call Golgotha a mountain."
+    }
+  },
+  {
+    "id": "the-book-of-genesis",
+    "category": "Books of the Bible",
+    "title": {
+      "en": "the Book of Genesis"
+    },
+    "keywords": [
+      "ancient scroll parchment",
+      "desert mountain sunrise",
+      "old book candle",
+      "starry night desert"
+    ],
+    "hashtags": {
+      "en": "#genesis #bible #oldtestament #creation"
+    },
+    "facts": {
+      "en": [
+        "Genesis is the first book of the Bible, and its name comes from a Greek word meaning origin or beginning. The Hebrew Bible uses its opening word instead, Bereshit, which means in the beginning.",
+        "The book covers more time than any other in the Bible. It starts with creation and follows Abraham, Isaac, Jacob and Joseph, ending with Joseph's death in Egypt, a story that stretches across many generations.",
+        "The Bible says Jacob was renamed Israel after wrestling with a mysterious figure all night. The name Israel means he struggles with God, and it later became the name of the whole nation descended from his twelve sons.",
+        "Joseph's story, from his coat and his brothers' jealousy to his rise in Egypt, fills more than a quarter of Genesis. It is the longest continuous story about one person in the whole book."
+      ]
+    },
+    "hook": {
+      "en": "The nation of Israel is named after a wrestler."
+    }
+  },
+  {
+    "id": "adam",
+    "category": "Old Testament people",
+    "title": {
+      "en": "Adam"
+    },
+    "keywords": [
+      "red clay earth soil",
+      "lush garden green",
+      "ancient scroll parchment",
+      "sunrise over valley"
+    ],
+    "hashtags": {
+      "en": "#adam #genesis #bible #oldtestament"
+    },
+    "facts": {
+      "en": [
+        "Adam is the first man in the Book of Genesis. The Bible says God formed him from the dust of the ground, then breathed into his nostrils the breath of life, and he became a living being.",
+        "The Bible says Adam gave names to all the animals, as God brought them to him. It is one of the first jobs given to a human in Genesis, and it shows his role of caring for creation.",
+        "In Hebrew, the word adam means human being or mankind, and it sounds like adamah, the word for ground. So the very name of the first man carries a wordplay, meaning something like the earthling.",
+        "Genesis says Adam lived nine hundred and thirty years. His descendants are listed through Seth down to Noah, and Luke's Gospel traces the family of Jesus all the way back to Adam, whom it calls a son of God."
+      ]
+    },
+    "hook": {
+      "en": "Adam's name is a pun on the ground."
+    }
+  },
+  {
+    "id": "saint-benedict",
+    "category": "Saints",
+    "title": {
+      "en": "Saint Benedict"
+    },
+    "keywords": [
+      "old stone monastery",
+      "monastery hills italy",
+      "candle old manuscript",
+      "stone cloister arches"
+    ],
+    "hashtags": {
+      "en": "#saintbenedict #monks #monastery #churchhistory"
+    },
+    "facts": {
+      "en": [
+        "Benedict of Nursia lived in Italy around the five hundreds. As a young man he left Rome and lived alone in a cave, and later founded several monasteries, including the famous one at Monte Cassino.",
+        "He wrote a guide for monks called the Rule of Saint Benedict. Its motto is often summed up as pray and work, and it set a daily balance of prayer, reading, rest and manual labor.",
+        "Historians credit Benedictine monasteries with preserving ancient books through the dark centuries after Rome fell. Monks copied Latin texts by hand, and many works we can read today survived because they were patiently copied in monasteries.",
+        "In nineteen sixty four Pope Paul the Sixth named Benedict the patron saint of Europe. His medal, with a cross and the first letters of Latin prayers, is still worn by many people today."
+      ]
+    },
+    "hook": {
+      "en": "Saint Benedict wrote a rulebook that shaped Europe."
+    }
+  },
+  {
+    "id": "the-first-christians",
+    "category": "Church history",
+    "title": {
+      "en": "the first Christians"
+    },
+    "keywords": [
+      "ancient roman road",
+      "old stone ruins",
+      "olive trees mediterranean",
+      "ancient scroll parchment"
+    ],
+    "hashtags": {
+      "en": "#earlychurch #christians #antioch #churchhistory"
+    },
+    "facts": {
+      "en": [
+        "Early believers did not call themselves Christians at first. The Book of Acts says they simply called themselves followers of the Way, a name that described a path of life.",
+        "The first believers were mostly Jews, and they kept visiting the Temple in Jerusalem. The Acts of the Apostles says they shared their belongings, so that nobody among them was in need.",
+        "The Book of Acts says the disciples were first called Christians in Antioch, a large city in what is now Turkey. The word may have been an outsider's label, and it appears only three times in the whole New Testament.",
+        "Early Christians met in private homes, since there were no church buildings yet. The oldest known purpose built church, found at Dura Europos in Syria, is a house converted for worship in about the year two hundred forty."
+      ]
+    },
+    "hook": {
+      "en": "The word Christian appears only three times in the Bible."
+    }
+  },
+  {
+    "id": "the-forbidden-fruit",
+    "category": "Bible stories",
+    "title": {
+      "en": "the forbidden fruit"
+    },
+    "keywords": [
+      "red apple tree orchard",
+      "pomegranate fruit tree",
+      "fig tree leaves",
+      "lush garden green"
+    ],
+    "hashtags": {
+      "en": "#forbiddenfruit #genesis #bible #edenstory"
+    },
+    "facts": {
+      "en": [
+        "Genesis only calls it the fruit of the tree of the knowledge of good and evil. It never says what kind of fruit it was, and neither does the rest of the Bible.",
+        "The apple idea likely comes from a Latin pun. The Latin word for evil and the word for apple are spelled almost alike, so later artists and writers began to paint the forbidden fruit as an apple.",
+        "Jewish writers have suggested other fruits across the centuries. Some said a fig, since Adam and Eve covered themselves with fig leaves, while others suggested grapes, wheat, a pomegranate or the citron.",
+        "In the Middle Ages, some paintings showed the serpent with a human face, and many showed apples. Because of those pictures, an apple is still the best known symbol of temptation, even though Genesis never mentions one."
+      ]
+    },
+    "hook": {
+      "en": "The forbidden fruit has no name in Genesis."
+    }
+  },
+  {
+    "id": "jesus",
+    "category": "New Testament people",
+    "title": {
+      "en": "Jesus"
+    },
+    "keywords": [
+      "old stone village hills",
+      "ancient scroll parchment",
+      "galilee hills green",
+      "sunrise over desert"
+    ],
+    "hashtags": {
+      "en": "#jesus #christianity #gospels #newtestament"
+    },
+    "facts": {
+      "en": [
+        "Jesus is the central figure of Christianity. Christians believe he is the Son of God, and the New Testament presents him as a teacher from Nazareth in Galilee who was crucified under Pontius Pilate.",
+        "His name is the Greek form of Yeshua, a Hebrew name meaning the Lord saves. Christ is not a surname but a title, from a Greek word meaning anointed, the same as the Hebrew Messiah.",
+        "Our calendar was set in the sixth century by a monk named Dionysius Exiguus, who counted from the birth of Jesus. Most historians think he erred, and date the birth a few years earlier, before King Herod died in about four before Christ.",
+        "Ancient writers outside the Bible, including the Roman historian Tacitus and the Jewish historian Josephus, mention Jesus. Most scholars agree that he really lived and was executed under Pontius Pilate."
+      ]
+    },
+    "hook": {
+      "en": "Jesus was probably not born in the year one."
+    }
+  },
+  {
+    "id": "saint-peters-basilica",
+    "category": "Churches and cathedrals",
+    "title": {
+      "en": "Saint Peter's Basilica"
+    },
+    "keywords": [
+      "large dome basilica",
+      "marble columns",
+      "stone cathedral interior",
+      "rome old buildings"
+    ],
+    "hashtags": {
+      "en": "#saintpetersbasilica #vatican #rome #churches"
+    },
+    "facts": {
+      "en": [
+        "Saint Peter's Basilica in Vatican City stands over a place that Christian tradition holds to be the tomb of the apostle Peter. The first church here was built by the Emperor Constantine in the fourth century.",
+        "The present basilica was begun in fifteen o six and consecrated in sixteen twenty six. Famous artists worked on it, and Michelangelo designed its huge dome, though he died before the dome was finished.",
+        "The dome rises about one hundred thirty six meters above the floor, and it is one of the tallest in the world. Visitors can climb hundreds of steps to the top for a view over Rome.",
+        "The sale of indulgences to help pay for this building was one of the causes of the Protestant Reformation, since Martin Luther strongly criticized that fundraising. The church holds up to about sixty thousand people."
+      ]
+    },
+    "hook": {
+      "en": "Saint Peter's Basilica took more than a century to finish."
+    }
+  },
+  {
     "id": "saint-nicholas",
     "category": "Saints",
     "title": {
@@ -1944,5 +2187,1382 @@
       "Saint Nicholas icon",
       "Gentile da Fabriano Saint Nicholas dowry"
     ]
+  },
+  {
+    "id": "the-jordan-river",
+    "category": "Bible places",
+    "title": {
+      "en": "the Jordan River"
+    },
+    "keywords": [
+      "river flowing through valley",
+      "calm river reeds",
+      "desert river banks",
+      "green trees riverbank"
+    ],
+    "hashtags": {
+      "en": "#jordanriver #baptism #biblicalplaces #holyland"
+    },
+    "facts": {
+      "en": [
+        "The Jordan River flows from the mountains in the north through the Sea of Galilee and down to the Dead Sea. It is the river most often mentioned in the Bible, a symbol of crossing into a new life.",
+        "In the Bible the Jordan is a river of crossings. Joshua led the Israelites across it into the promised land, and Elijah and Elisha both parted its waters, according to the Books of Kings.",
+        "It is the lowest river in the world, because it ends at the Dead Sea, about four hundred meters below sea level. The Gospels say Jesus was baptized by John in the Jordan, and pilgrims still visit the site.",
+        "The river is quite small. In places it is only a few meters wide, yet the Bible mentions it many times, and its name has long been used in hymns and songs as a picture of crossing over."
+      ]
+    },
+    "hook": {
+      "en": "The Jordan is the lowest river on Earth."
+    }
+  },
+  {
+    "id": "the-book-of-exodus",
+    "category": "Books of the Bible",
+    "title": {
+      "en": "the Book of Exodus"
+    },
+    "keywords": [
+      "desert dunes sunrise",
+      "rocky mountain desert",
+      "ancient scroll parchment",
+      "sinai desert landscape"
+    ],
+    "hashtags": {
+      "en": "#exodus #moses #bible #oldtestament"
+    },
+    "facts": {
+      "en": [
+        "The word exodus is Greek and means going out. The Hebrew Bible names the book Shemot, which means names, because it opens by listing the sons of Jacob who came into Egypt.",
+        "The book tells how the Israelites left slavery in Egypt under Moses. Its central moments are the ten plagues, the Passover, the crossing of the sea, and the giving of the Ten Commandments at Mount Sinai.",
+        "Exodus also gives very detailed building instructions for the tabernacle, the portable tent of worship. Nearly half of the book's chapters describe its design, from the curtains to the golden Ark of the Covenant.",
+        "Historians and archaeologists debate when, and whether, the events happened. No Egyptian record of the Exodus has been found, yet the story has shaped Jewish and Christian worship through the Passover and Easter."
+      ]
+    },
+    "hook": {
+      "en": "Exodus is named for a Greek word meaning departure."
+    }
+  },
+  {
+    "id": "the-cross",
+    "category": "Symbols and mysteries",
+    "title": {
+      "en": "the cross"
+    },
+    "keywords": [
+      "wooden cross silhouette sunrise",
+      "old stone cross",
+      "cross on hill sunset",
+      "church cross stone"
+    ],
+    "hashtags": {
+      "en": "#cross #christiansymbols #churchhistory #faith"
+    },
+    "facts": {
+      "en": [
+        "Crucifixion was a Roman punishment, and for early Christians the cross was a shameful image. Few Christian cross images survive from the first two centuries, and early believers preferred symbols such as the fish and the shepherd.",
+        "After the Emperor Constantine ended persecution in the early fourth century, the cross became public. A story says that his mother Helena found the true cross in Jerusalem, and the church still remembers this each September.",
+        "A Roman graffito from about the year two hundred, found on the Palatine Hill in Rome, mocks a man worshipping a crucified figure with a donkey head. It shows how strange the faith of a crucified savior seemed to outsiders.",
+        "Today the cross appears in many shapes. The Greek cross has four equal arms, the Latin cross has a longer lower arm, and the Celtic cross has a ring around its center."
+      ]
+    },
+    "hook": {
+      "en": "A Roman wall scratching once mocked early Christians' faith."
+    }
+  },
+  {
+    "id": "eve",
+    "category": "Old Testament people",
+    "title": {
+      "en": "Eve"
+    },
+    "keywords": [
+      "lush garden green",
+      "fig tree leaves",
+      "sunrise over valley",
+      "ancient scroll parchment"
+    ],
+    "hashtags": {
+      "en": "#eve #genesis #bible #oldtestament"
+    },
+    "facts": {
+      "en": [
+        "According to Genesis, Eve is the first woman. The Bible says God made her while Adam slept. The Hebrew word often translated as rib can also mean side, and some rabbis read the passage as God dividing one first human into two.",
+        "The Bible never calls Eve the cause of all evil, and Genesis tells the story of the fruit with Adam present beside her. Later writers and artists built many of the traditions that people now connect to her.",
+        "According to Genesis, Adam named his wife Eve because she would become the mother of all the living. Her Hebrew name, Chavah, is related to the word for life, and it is a name of hope after the Fall.",
+        "Eve's name appears only a few times in the Bible. In the New Testament, Paul mentions her twice, and early Christian writers often paired her with Mary, calling Mary the new Eve."
+      ]
+    },
+    "hook": {
+      "en": "Eve's name in Hebrew means life."
+    }
+  },
+  {
+    "id": "saint-thomas-aquinas",
+    "category": "Saints",
+    "title": {
+      "en": "Saint Thomas Aquinas"
+    },
+    "keywords": [
+      "old library books",
+      "candle old manuscript",
+      "stone monastery corridor",
+      "old stone abbey"
+    ],
+    "hashtags": {
+      "en": "#thomasaquinas #saints #theology #churchhistory"
+    },
+    "facts": {
+      "en": [
+        "Thomas Aquinas was born in about twelve twenty five into a noble Italian family. Relatives wanted him to become a rich abbot, but he joined the Dominicans, a poor, wandering order of preaching friars.",
+        "His family was so opposed that his brothers captured him on the road and held him in a family castle for about a year. He stayed firm in his choice, and finally escaped and rejoined the Dominicans.",
+        "His classmates nicknamed him the Dumb Ox because he was big and quiet. His teacher Albert the Great is said to have replied that this ox would one day bellow so loudly that the whole world would hear.",
+        "Aquinas wrote the Summa Theologiae, a huge work of theology which he never finished. Near the end of his life, after a deep experience while praying, he told a friend that all he had written seemed like straw."
+      ]
+    },
+    "hook": {
+      "en": "Saint Thomas Aquinas was kidnapped by his own brothers."
+    }
+  },
+  {
+    "id": "the-persecution-under-nero",
+    "category": "Church history",
+    "title": {
+      "en": "the persecution under Nero"
+    },
+    "keywords": [
+      "ancient roman ruins",
+      "roman colosseum stone",
+      "old stone arches",
+      "fire flames dark"
+    ],
+    "hashtags": {
+      "en": "#nero #earlychurch #rome #churchhistory"
+    },
+    "facts": {
+      "en": [
+        "In the year sixty four a huge fire destroyed much of Rome. Many Romans suspected that Emperor Nero himself was responsible, so the historian Tacitus says Nero blamed the Christians in order to turn suspicion away.",
+        "Tacitus, who disliked Christians, wrote that many of them were arrested and put to death. He added that the crowd began to feel pity for them, because they seemed to suffer to satisfy one man's cruelty.",
+        "Christian tradition says that both Peter and Paul died in Rome around this time. Paul, as a Roman citizen, was beheaded, while Peter was crucified, though the exact date and the details are debated by historians.",
+        "Christians later remembered Nero as the ultimate tyrant. Many scholars think the mysterious number of the beast in the Book of Revelation, six hundred sixty six, is a code for his name, written in Hebrew letters."
+      ]
+    },
+    "hook": {
+      "en": "Emperor Nero blamed Christians for burning Rome."
+    }
+  },
+  {
+    "id": "the-binding-of-isaac",
+    "category": "Bible stories",
+    "title": {
+      "en": "the binding of Isaac"
+    },
+    "keywords": [
+      "rocky mountain desert",
+      "ancient scroll parchment",
+      "wooden altar fire",
+      "sunrise over hills"
+    ],
+    "hashtags": {
+      "en": "#isaac #abraham #genesis #biblestories"
+    },
+    "facts": {
+      "en": [
+        "In Genesis, God tests Abraham by asking him to offer his son Isaac on a mountain. At the last moment an angel stops him, and a ram caught in a thicket is offered instead.",
+        "Jews call this story the Akedah, which means binding. It is read every year on Rosh Hashanah, and the ram's horn, or shofar, blown during the service recalls the ram from the story.",
+        "The story also appears in Islam, where the son is usually understood to be Ishmael, remembered each year at the feast of Eid al Adha, when Muslims remember Abraham's willingness to obey.",
+        "Genesis says the place was in the land of Moriah. Later tradition and the Second Book of Chronicles link Moriah with Jerusalem, where Solomon built the Temple. Christian writers also saw in Isaac a sign pointing to Jesus."
+      ]
+    },
+    "hook": {
+      "en": "Three faiths tell the story of Abraham's test."
+    }
+  },
+  {
+    "id": "baptism",
+    "category": "Traditions and holidays",
+    "title": {
+      "en": "baptism"
+    },
+    "keywords": [
+      "flowing river water",
+      "stone baptismal font",
+      "old stone church interior",
+      "water drops ripples"
+    ],
+    "hashtags": {
+      "en": "#baptism #sacraments #christianity #churchhistory"
+    },
+    "facts": {
+      "en": [
+        "The word baptism comes from a Greek word meaning to dip or to immerse. In the New Testament, John the Baptist baptized people in the Jordan River, and Jesus himself was baptized there.",
+        "Early Christian writers describe baptism by full immersion in rivers or pools. Afterwards the newly baptized put on a white robe, a custom that explains why many baptized Christians still wear white.",
+        "The oldest known baptistery used for worship is at Dura Europos in Syria, from the third century. It was a private house converted for Christians, with a small basin, and wall paintings of Jesus as the Good Shepherd.",
+        "Today churches practice baptism in different ways. Some pour or sprinkle water, others immerse, and some baptize babies while others baptize only believers who are old enough to profess their own faith."
+      ]
+    },
+    "hook": {
+      "en": "The oldest known baptistery was a converted house."
+    }
+  },
+  {
+    "id": "the-word-bible",
+    "category": "Words and translations",
+    "title": {
+      "en": "the word Bible"
+    },
+    "keywords": [
+      "old book candle",
+      "ancient scroll parchment",
+      "old library books",
+      "stack old books"
+    ],
+    "hashtags": {
+      "en": "#bible #wordorigins #history #biblewords"
+    },
+    "facts": {
+      "en": [
+        "The word Bible comes from the Greek word biblia, which means books. It is the plural of biblion, a small book or scroll, so the Bible is really a library rather than a single book.",
+        "Biblos in Greek was the word for the papyrus plant, which was used to make scrolls. The city of Byblos in Lebanon was a famous trade port for papyrus, and some people think it gave the books their name.",
+        "By the Middle Ages, Latin speakers used the plural biblia as if it were a single feminine word. Through French, it became the English word Bible, and the idea of one book from many took root.",
+        "The Bible contains seventy three books in the Catholic canon and sixty six in the Protestant one. They were written over many centuries by many different authors, in Hebrew, Aramaic and Greek."
+      ]
+    },
+    "hook": {
+      "en": "The Bible's name simply means the books."
+    }
+  },
+  {
+    "id": "mary-the-mother-of-jesus",
+    "category": "New Testament people",
+    "title": {
+      "en": "Mary the mother of Jesus"
+    },
+    "keywords": [
+      "old stone chapel",
+      "candles burning church",
+      "blue sky white clouds",
+      "ancient scroll parchment"
+    ],
+    "hashtags": {
+      "en": "#mary #motherofjesus #christianity #newtestament"
+    },
+    "facts": {
+      "en": [
+        "Mary appears in the Gospels as the mother of Jesus. Luke says an angel announced to her that she would bear a son, and that she answered, let it be done to me according to your word.",
+        "Early Christians gave her the Greek title Theotokos, meaning God bearer. The Council of Ephesus affirmed the title in the year four thirty one, and it remains central for Orthodox and Catholic Christians.",
+        "Mary is the only woman named in the Quran, where she is mentioned by name more than thirty times. A whole chapter, called Maryam, is named after her, and Muslims honor her as a righteous woman.",
+        "After the Gospels, Mary is mentioned in the Book of Acts, praying with the disciples. Tradition says she later lived in Jerusalem or Ephesus, and Catholic and Orthodox Christians celebrate her Dormition or Assumption in August."
+      ]
+    },
+    "hook": {
+      "en": "Mary is the only woman named in the Quran."
+    }
+  },
+  {
+    "id": "cain",
+    "category": "Old Testament people",
+    "title": {
+      "en": "Cain"
+    },
+    "keywords": [
+      "old stone ruins",
+      "desert wilderness",
+      "ancient scroll parchment",
+      "farm field wheat"
+    ],
+    "hashtags": {
+      "en": "#cain #abel #genesis #biblestories"
+    },
+    "facts": {
+      "en": [
+        "Cain was the first son of Adam and Eve, and a farmer. Genesis says his name sounds like a Hebrew word for acquired, because Eve said she had acquired a man with the help of the Lord.",
+        "After he killed his brother Abel, God sent Cain away to wander. Genesis says that God placed a mark on him so that no one would kill him, but it never says what the mark was.",
+        "Cain is the first builder of a city in the Bible. Genesis says that he built one and named it Enoch after his son, and his descendants are described as herdsmen, musicians and metal workers.",
+        "The New Testament mentions Cain several times as a warning. The First Letter of John uses him as the example of hatred, and Hebrews says Abel's offering was better because it came from faith."
+      ]
+    },
+    "hook": {
+      "en": "Cain was the first city builder in the Bible."
+    }
+  },
+  {
+    "id": "westminster-abbey",
+    "category": "Churches and cathedrals",
+    "title": {
+      "en": "Westminster Abbey"
+    },
+    "keywords": [
+      "gothic cathedral exterior",
+      "old stone abbey",
+      "stone cathedral interior",
+      "london old stone tower"
+    ],
+    "hashtags": {
+      "en": "#westminsterabbey #london #coronation #churchhistory"
+    },
+    "facts": {
+      "en": [
+        "Westminster Abbey was rebuilt by King Edward the Confessor, and consecrated in the year ten sixty five. The present Gothic church was begun by King Henry the Third in twelve forty five.",
+        "The Coronation Chair, made of oak, was ordered by King Edward the First around the year thirteen hundred. It has been used for the crowning of English and British monarchs for more than seven hundred years.",
+        "William the Conqueror was crowned in the abbey on Christmas Day in ten sixty six. Since then, almost every English and British monarch has been crowned there, with only two kings never having had a coronation.",
+        "Poets' Corner honors writers in the south transept. Geoffrey Chaucer, author of the Canterbury Tales, was buried there in the year fourteen hundred, and later poets and authors were laid to rest or remembered beside him."
+      ]
+    },
+    "hook": {
+      "en": "Almost every English monarch was crowned in one abbey."
+    }
+  },
+  {
+    "id": "the-dead-sea",
+    "category": "Bible places",
+    "title": {
+      "en": "the Dead Sea"
+    },
+    "keywords": [
+      "dead sea salt crystals",
+      "desert lake mountains",
+      "salt rocks shore",
+      "desert canyon sunrise"
+    ],
+    "hashtags": {
+      "en": "#deadsea #holyland #biblicalplaces #israel"
+    },
+    "facts": {
+      "en": [
+        "In the Bible, the Dead Sea is usually called the Salt Sea. It lies at the southern end of the Jordan valley, and no river flows out of it, so its water only leaves by evaporating.",
+        "The Bible says David hid from King Saul in the wilderness near En Gedi, an oasis with springs and caves beside the western shore. The first Book of Samuel describes how David even spared Saul's life there.",
+        "Its shore is about four hundred thirty meters below sea level, which makes it the lowest dry land on Earth. The water is also almost ten times saltier than the ocean, so swimmers float without effort.",
+        "The prophet Ezekiel had a vision of a river flowing from the Temple that makes the Dead Sea fresh and full of fish. Fishermen would stand along its shores, and the book says the water would be healed."
+      ]
+    },
+    "hook": {
+      "en": "The shore of the Dead Sea is Earth's lowest land."
+    }
+  },
+  {
+    "id": "saint-lucy",
+    "category": "Saints",
+    "title": {
+      "en": "Saint Lucy"
+    },
+    "keywords": [
+      "candles burning dark",
+      "snowy winter forest",
+      "old candle flame",
+      "old stone church"
+    ],
+    "hashtags": {
+      "en": "#saintlucy #saints #christmastraditions #stlucyday"
+    },
+    "facts": {
+      "en": [
+        "Saint Lucy was a young Christian woman of Syracuse in Sicily who, according to tradition, died as a martyr around the year three hundred four. Her name comes from the Latin word lux, which means light.",
+        "She is the patron saint of the blind and those with eye troubles. Her feast is on the thirteenth of December, and she is mentioned by name in the Roman Mass, and in Dante's Divine Comedy.",
+        "Before the calendar reform of fifteen eighty two, the thirteenth of December fell near the winter solstice, the longest night of the year. The poet John Donne even wrote a poem about the shortest day, Saint Lucy's Day.",
+        "In Sweden, a girl dressed in a white gown with a crown of candles leads a procession on this morning. The Saint Lucia festival brings light into the darkest month, and it is also celebrated in Norway and Finland."
+      ]
+    },
+    "hook": {
+      "en": "Saint Lucy's day was once the longest night."
+    }
+  },
+  {
+    "id": "the-book-of-leviticus",
+    "category": "Books of the Bible",
+    "title": {
+      "en": "the Book of Leviticus"
+    },
+    "keywords": [
+      "ancient scroll parchment",
+      "stone altar ancient",
+      "old book candle",
+      "desert tent camp"
+    ],
+    "hashtags": {
+      "en": "#leviticus #bible #oldtestament #loveyourneighbor"
+    },
+    "facts": {
+      "en": [
+        "The Book of Leviticus is named after the Levites, the tribe of priests. It is mostly a handbook for priests, with rules for offerings, festivals and holiness. The Hebrew title, Vayikra, means and he called.",
+        "Leviticus describes the Day of Atonement, when a goat was sent into the wilderness carrying the people's sins. This is the origin of the English word scapegoat, which was coined by the translator William Tyndale.",
+        "Many people assume that the famous command, love your neighbor as yourself, comes from the Gospels. It actually comes from Leviticus, chapter nineteen, and Jesus quoted it when he was asked about the greatest commandment.",
+        "The Liberty Bell in Philadelphia carries a line from Leviticus: proclaim liberty throughout all the land. In the book it is part of the jubilee year, which was to be celebrated every fiftieth year."
+      ]
+    },
+    "hook": {
+      "en": "Love your neighbor as yourself comes from Leviticus."
+    }
+  },
+  {
+    "id": "saint-teresa-of-avila",
+    "category": "Saints",
+    "title": {
+      "en": "Saint Teresa of Avila"
+    },
+    "keywords": [
+      "old spanish stone city",
+      "medieval stone walls",
+      "candle old manuscript",
+      "stone convent courtyard"
+    ],
+    "hashtags": {
+      "en": "#teresaofavila #saints #mystics #carmelite"
+    },
+    "facts": {
+      "en": [
+        "Teresa of Avila was born in Spain in fifteen fifteen. As a Carmelite nun she began a reform of her order, founding small convents where the sisters lived simply and prayed daily, called Discalced Carmelites.",
+        "She wrote books about prayer, including The Interior Castle, in which she describes the soul as a castle with many rooms. Her best known prayer begins with the words: let nothing disturb you.",
+        "Because she described visions and mystical experiences, and because she was a woman writing about theology, her book of her life was examined by the Spanish Inquisition. In the end it was not condemned, and it became a classic.",
+        "In nineteen seventy, Pope Paul the Sixth named her a Doctor of the Church, a title for great teachers. She and Catherine of Siena were the first two women ever to receive it."
+      ]
+    },
+    "hook": {
+      "en": "Saint Teresa's writings were once examined by the Inquisition."
+    }
+  },
+  {
+    "id": "constantine-the-great",
+    "category": "Church history",
+    "title": {
+      "en": "Constantine the Great"
+    },
+    "keywords": [
+      "ancient roman ruins",
+      "old stone arch",
+      "ancient roman road",
+      "old stone bridge river"
+    ],
+    "hashtags": {
+      "en": "#constantine #romanempire #churchhistory #christianity"
+    },
+    "facts": {
+      "en": [
+        "Constantine was proclaimed emperor by his soldiers in York, in what is now England, in the year three hundred six. After years of civil war, he became sole ruler of the Roman Empire in three twenty four.",
+        "Before the Battle of the Milvian Bridge in the year three twelve, the historian Eusebius says Constantine saw a sign of the cross and the words, in this sign conquer. His soldiers painted a Christian symbol on their shields.",
+        "Although he favored Christianity for twenty five years, Constantine was baptized only shortly before his death in three thirty seven. Many people at the time delayed baptism until late in life, hoping to be forgiven all their sins.",
+        "In three thirty he dedicated a new capital on the Bosphorus, named Constantinople after him. Today it is called Istanbul, and for more than a thousand years it was the center of the Eastern Roman Empire."
+      ]
+    },
+    "hook": {
+      "en": "Constantine was baptized only on his deathbed."
+    }
+  },
+  {
+    "id": "jacobs-ladder",
+    "category": "Bible stories",
+    "title": {
+      "en": "Jacob's ladder"
+    },
+    "keywords": [
+      "stone stairs sky clouds",
+      "rocky desert hill night",
+      "stars night sky",
+      "ancient stone steps"
+    ],
+    "hashtags": {
+      "en": "#jacobsladder #genesis #bethel #biblestories"
+    },
+    "facts": {
+      "en": [
+        "In Genesis, Jacob flees from his brother Esau and stops for the night in the wilderness. Using a stone as a pillow, he dreams of a ladder reaching from earth up to heaven, with angels going up and down.",
+        "God stands above it and repeats the promise he made to Abraham and Isaac, that Jacob's descendants will be many. Jacob wakes, sets the stone up as a pillar, and names the place Bethel, meaning house of God.",
+        "The Hebrew word, sullam, appears only once in the whole Bible. Many scholars think it means a stairway or ramp, perhaps like the stepped temple towers of Mesopotamia, rather than a ladder with rungs.",
+        "In the Gospel of John, Jesus tells Nathanael that he will see heaven open and the angels of God ascending and descending on the Son of Man. Christians read this as a reference to Jacob's dream."
+      ]
+    },
+    "hook": {
+      "en": "Jacob's ladder may really have been a staircase."
+    }
+  },
+  {
+    "id": "abel",
+    "category": "Old Testament people",
+    "title": {
+      "en": "Abel"
+    },
+    "keywords": [
+      "sheep grazing hillside",
+      "shepherd flock field",
+      "ancient scroll parchment",
+      "green pasture sunrise"
+    ],
+    "hashtags": {
+      "en": "#abel #cain #genesis #biblestories"
+    },
+    "facts": {
+      "en": [
+        "Abel was the second son of Adam and Eve, and a keeper of sheep. His name in Hebrew, Hevel, means breath or vapor, the same word the Book of Ecclesiastes uses for the fleetingness of life.",
+        "Genesis says that God accepted Abel's offering of the firstborn of his flock, but not his brother's. The story does not say why, but later writers, including the author of Hebrews, say that Abel's offering came from faith.",
+        "Abel is the first person whose death is recorded in the Bible. God tells Cain that his brother's blood cries out from the ground, a vivid picture of justice calling out for the victim.",
+        "Jesus himself mentions Abel. In Matthew's Gospel, he speaks of the blood of righteous Abel as the first in a long line of innocent people killed, and Christians often honor Abel as the first martyr."
+      ]
+    },
+    "hook": {
+      "en": "Abel is the first person to die in the Bible."
+    }
+  },
+  {
+    "id": "joseph-of-nazareth",
+    "category": "New Testament people",
+    "title": {
+      "en": "Joseph of Nazareth"
+    },
+    "keywords": [
+      "wood workshop tools",
+      "old carpenter workshop",
+      "wood shavings",
+      "old stone village"
+    ],
+    "hashtags": {
+      "en": "#josephofnazareth #holyfamily #nativity #saints"
+    },
+    "facts": {
+      "en": [
+        "Joseph is the husband of Mary and the earthly father of Jesus. The Gospels of Matthew and Luke trace his family back to King David, and they call him a righteous man.",
+        "He is called a carpenter, but the Greek word, tekton, can also mean a builder or craftsman who worked with wood, stone or metal. Nazareth was a small village, so such skills would have been much in demand.",
+        "The Gospels record no words spoken by Joseph. They only show him acting, and mostly in response to dreams, in which an angel tells him to take Mary as his wife, to flee to Egypt, and later to return.",
+        "He disappears from the story after Jesus is twelve and visits the Temple. Tradition says he died before Jesus began to teach. In nineteen fifty five, Pope Pius the Twelfth created the feast of Saint Joseph the Worker, on the first of May."
+      ]
+    },
+    "hook": {
+      "en": "Joseph never speaks a single word in the Gospels."
+    }
+  },
+  {
+    "id": "mother-teresa",
+    "category": "Saints",
+    "title": {
+      "en": "Mother Teresa"
+    },
+    "keywords": [
+      "candle flame dark",
+      "old stone chapel",
+      "hands clasped prayer",
+      "rain on window"
+    ],
+    "hashtags": {
+      "en": "#motherteresa #saints #charity #kolkata"
+    },
+    "facts": {
+      "en": [
+        "Mother Teresa was born Anjezë Bojaxhiu in nineteen ten in Skopje, now in North Macedonia. At eighteen she left home to become a nun, and a year later she began teaching in India.",
+        "In nineteen fifty she founded the Missionaries of Charity in Calcutta, now called Kolkata. Its sisters care for the poor, the sick and the dying, and by the time of her death the order worked in dozens of countries.",
+        "After her death, her letters were published in a book called Come Be My Light. They show that, for most of her life, she felt that God was absent, yet she kept praying and serving, and called it her darkness.",
+        "She won the Nobel Peace Prize in nineteen seventy nine. Pope Francis declared her a saint on the fourth of September, twenty sixteen, nineteen years after her death in nineteen ninety seven."
+      ]
+    },
+    "hook": {
+      "en": "Mother Teresa privately struggled with spiritual darkness for decades."
+    }
+  },
+  {
+    "id": "the-crucifix",
+    "category": "Symbols and mysteries",
+    "title": {
+      "en": "the crucifix"
+    },
+    "keywords": [
+      "wooden crucifix old",
+      "stone church interior",
+      "candles church altar",
+      "carved wood statue"
+    ],
+    "hashtags": {
+      "en": "#crucifix #christianart #churchhistory #catholic"
+    },
+    "facts": {
+      "en": [
+        "A crucifix is a cross that carries the figure of Jesus. Catholic, Orthodox and some Lutheran and Anglican churches use it, while many other Protestants prefer an empty cross, as a sign of resurrection.",
+        "One of the oldest known crucifixion scenes is carved on the wooden doors of the church of Santa Sabina in Rome, dated to about the year four thirty. It is small and tucked away among other Bible scenes.",
+        "For the first thousand years, Christ was usually shown alive on the cross, with open eyes, and sometimes wearing a crown or royal robe. Images showing a suffering, dying Jesus became common only in the later Middle Ages.",
+        "The Gero Crucifix in Cologne Cathedral, carved about nine seventy, is considered the oldest large crucifix north of the Alps. Its sculpture shows Christ's head bowed and eyes closed in death."
+      ]
+    },
+    "hook": {
+      "en": "For centuries, crucifixes showed a living Jesus."
+    }
+  },
+  {
+    "id": "canterbury-cathedral",
+    "category": "Churches and cathedrals",
+    "title": {
+      "en": "Canterbury Cathedral"
+    },
+    "keywords": [
+      "gothic cathedral exterior",
+      "stone cathedral interior",
+      "old stone church",
+      "medieval stone arches"
+    ],
+    "hashtags": {
+      "en": "#canterbury #thomasbecket #cathedral #englishhistory"
+    },
+    "facts": {
+      "en": [
+        "Canterbury Cathedral was founded in five ninety seven by Augustine, a monk sent by Pope Gregory the Great to bring Christianity to the Anglo-Saxons. He became the first Archbishop of Canterbury, in southeast England.",
+        "The Archbishop of Canterbury remains the senior bishop of the Church of England, and the spiritual leader of the worldwide Anglican Communion. The cathedral's present Gothic structure was begun after a fire in eleven seventy four.",
+        "On the twenty ninth of December, eleven seventy, four knights of King Henry the Second killed Archbishop Thomas Becket in the cathedral. The shock was huge, and Becket was named a saint only three years later.",
+        "For centuries pilgrims walked to Becket's shrine, a journey Geoffrey Chaucer made famous in the Canterbury Tales. In fifteen thirty eight, during the English Reformation, King Henry the Eighth had the shrine destroyed."
+      ]
+    },
+    "hook": {
+      "en": "Four knights killed an archbishop inside Canterbury Cathedral."
+    }
+  },
+  {
+    "id": "seth",
+    "category": "Old Testament people",
+    "title": {
+      "en": "Seth"
+    },
+    "keywords": [
+      "old tree roots forest",
+      "ancient scroll parchment",
+      "lush garden green",
+      "old oak tree"
+    ],
+    "hashtags": {
+      "en": "#seth #adamandeve #genesis #biblelegends"
+    },
+    "facts": {
+      "en": [
+        "Seth was the third son of Adam and Eve. Genesis says that Eve named him because God had appointed another child in place of Abel, whom Cain had killed. The name Seth sounds like the Hebrew word for appointed.",
+        "Genesis says Seth lived nine hundred twelve years and became the father of Enosh. His family line leads through several generations to Noah, so Genesis counts him as an ancestor of the people who survived the flood.",
+        "A medieval legend says that Seth traveled to the gates of Eden, and an angel gave him seeds from the tree of life. Legend says they grew into the tree whose wood was later used for the cross.",
+        "Genesis adds that in the time of Seth's son Enosh, people began to call upon the name of the Lord. Luke's Gospel includes Seth in the family tree of Jesus, going back to Adam."
+      ]
+    },
+    "hook": {
+      "en": "A medieval legend says Seth's seeds became the cross."
+    }
+  },
+  {
+    "id": "babylon",
+    "category": "Bible places",
+    "title": {
+      "en": "Babylon"
+    },
+    "keywords": [
+      "ancient ruins desert",
+      "blue glazed brick wall",
+      "ancient stone ruins sunset",
+      "river desert plain"
+    ],
+    "hashtags": {
+      "en": "#babylon #nebuchadnezzar #biblicalplaces #ancienthistory"
+    },
+    "facts": {
+      "en": [
+        "Babylon was an ancient city on the Euphrates River, in what is now Iraq. The Bible says King Nebuchadnezzar conquered Jerusalem in five eighty six before Christ, and carried many of its people into exile there.",
+        "Psalm one thirty seven, which begins by the rivers of Babylon, we sat down and wept, expresses the sorrow of that exile. The Jews lived in Babylon for about fifty years, until Cyrus of Persia let them return home.",
+        "The Ishtar Gate, built about five seventy five before Christ, was covered in glazed blue bricks with golden lions and bulls. German archaeologists took it apart and rebuilt it in the Pergamon Museum in Berlin.",
+        "The Hanging Gardens of Babylon are listed as one of the Seven Wonders, but no archaeologist has found them. In the Book of Revelation, Babylon becomes a symbol of arrogant worldly power, which many scholars link to Rome."
+      ]
+    },
+    "hook": {
+      "en": "Babylon's famous blue gate is now in a Berlin museum."
+    }
+  },
+  {
+    "id": "christmas-trees",
+    "category": "Traditions and holidays",
+    "title": {
+      "en": "Christmas trees"
+    },
+    "keywords": [
+      "christmas tree candles",
+      "evergreen forest snow",
+      "pine branches snow",
+      "fir tree snow"
+    ],
+    "hashtags": {
+      "en": "#christmastree #christmastraditions #christianhistory #christmas"
+    },
+    "facts": {
+      "en": [
+        "Evergreen branches have long been used in winter celebrations. The earliest written mention of a decorated Christmas tree in a home comes from Strasbourg, in the year sixteen oh five, where it was hung with paper roses and apples.",
+        "A popular story says Martin Luther first put candles on a tree after seeing stars through the branches. There is no evidence for it, but the Christmas tree did become a favorite custom among German Protestants.",
+        "In eighteen forty eight, the Illustrated London News printed a picture of Queen Victoria, Prince Albert and their children around a decorated tree. When the picture was copied in America, it made the custom fashionable on both sides of the Atlantic.",
+        "Every year since nineteen forty seven, Norway has sent a large Christmas tree to London for Trafalgar Square, as a thank you for British help during the Second World War."
+      ]
+    },
+    "hook": {
+      "en": "One newspaper picture made Christmas trees fashionable worldwide."
+    }
+  },
+  {
+    "id": "the-edict-of-milan",
+    "category": "Church history",
+    "title": {
+      "en": "the Edict of Milan"
+    },
+    "keywords": [
+      "ancient roman ruins",
+      "old parchment document",
+      "roman stone road",
+      "ancient stone columns"
+    ],
+    "hashtags": {
+      "en": "#edictofmilan #constantine #churchhistory #romanempire"
+    },
+    "facts": {
+      "en": [
+        "In the year three hundred thirteen, the emperors Constantine and Licinius met in Milan and agreed to grant freedom of worship across the Roman Empire. The agreement ended the persecution of Christians.",
+        "It also ordered the return of buildings and property that had been taken from Christians during the Great Persecution, which began in three hundred three under the Emperor Diocletian and lasted for several years.",
+        "Many historians point out that no formal edict was issued in Milan. What survives are letters, one issued by Licinius in Nicomedia, preserved by the writers Lactantius and Eusebius, and scholars still discuss what exactly was decided.",
+        "It did not make Christianity the official religion, because the agreement granted freedom to all religions. Christianity became the state religion of the empire only in three hundred eighty, under Emperor Theodosius the First."
+      ]
+    },
+    "hook": {
+      "en": "The Edict of Milan may never have been an edict."
+    }
+  },
+  {
+    "id": "nativity-scenes",
+    "category": "Traditions and holidays",
+    "title": {
+      "en": "nativity scenes"
+    },
+    "keywords": [
+      "christmas nativity figures",
+      "hay straw stable",
+      "candles dark night",
+      "old stone cave"
+    ],
+    "hashtags": {
+      "en": "#nativity #saintfrancis #christmastraditions #crib"
+    },
+    "facts": {
+      "en": [
+        "Saint Francis of Assisi wanted people to see the birth of Jesus with their own eyes. In twelve twenty three, at Greccio in Italy, he set up a manger with hay, an ox and a donkey in a cave.",
+        "The story comes from Francis's first biographer, Thomas of Celano. He says that villagers walked through the forest with torches on Christmas Eve to attend a Mass beside the manger, which made the night bright as day.",
+        "The Gospels do not mention an ox or a donkey at the stable. Christians have added them over time, partly inspired by a verse in Isaiah which says the ox knows its owner, and the donkey its master's crib.",
+        "After Greccio, the idea spread across Europe. In Naples in the seventeen hundreds, artists made detailed nativity figures from clay and cloth, and the custom of the crib, or crèche, is now found in homes worldwide."
+      ]
+    },
+    "hook": {
+      "en": "Saint Francis created the first living nativity scene."
+    }
+  },
+  {
+    "id": "the-book-of-numbers",
+    "category": "Books of the Bible",
+    "title": {
+      "en": "the Book of Numbers"
+    },
+    "keywords": [
+      "desert mountain sunrise",
+      "silver scroll ancient",
+      "ancient scroll parchment",
+      "rocky desert landscape"
+    ],
+    "hashtags": {
+      "en": "#numbers #bible #oldtestament #ketefhinnom"
+    },
+    "facts": {
+      "en": [
+        "The Book of Numbers gets its English name from the two censuses of the Israelites that it records. The Hebrew title, Bemidbar, means in the wilderness, which is a better description of the story.",
+        "The book tells of the long wandering of the Israelites in the desert. After the people refuse to enter the promised land out of fear, God says that they must wander for forty years.",
+        "The oldest known biblical text is probably the priestly blessing from Numbers, the lord bless you and keep you. It was found engraved on two tiny silver scrolls in a tomb at Ketef Hinnom in Jerusalem, dated about six hundred before Christ.",
+        "Numbers also includes the story of Balaam, a prophet whose donkey sees an angel before he does. The donkey speaks, and asks him why he beat it three times. It is one of two talking animals in the Bible."
+      ]
+    },
+    "hook": {
+      "en": "The oldest known Bible verses were found on silver scrolls."
+    }
+  },
+  {
+    "id": "the-word-christmas",
+    "category": "Words and translations",
+    "title": {
+      "en": "the word Christmas"
+    },
+    "keywords": [
+      "old book candle",
+      "greek manuscript old",
+      "ancient scroll parchment",
+      "christmas candle snow"
+    ],
+    "hashtags": {
+      "en": "#christmas #xmas #wordorigins #christmastraditions"
+    },
+    "facts": {
+      "en": [
+        "The word Christmas comes from the Old English Cristes maesse, which means Christ's Mass. It was first recorded in the eleventh century, and the name always meant a festival of worship.",
+        "The letter X in Xmas is not a cross or a modern invention. It is the Greek letter chi, the first letter of Christos, the Greek word for Christ, and Christian writers used it as an abbreviation for centuries.",
+        "The abbreviation appears in English writing as early as the fifteen hundreds, and Christian scribes used chi in manuscripts long before that. So Xmas was never a way to take Christ out of Christmas.",
+        "The old word Yule comes from Germanic winter festivals, while Noel comes from the Latin word natalis, which means birth. Many languages name the holiday after the Nativity, the birth of Jesus."
+      ]
+    },
+    "hook": {
+      "en": "Xmas was not invented to remove Christ."
+    }
+  },
+  {
+    "id": "josephs-coat-of-many-colors",
+    "category": "Bible stories",
+    "title": {
+      "en": "Joseph's coat of many colors"
+    },
+    "keywords": [
+      "colorful woven fabric",
+      "desert tents camp",
+      "ancient scroll parchment",
+      "sheep flock desert"
+    ],
+    "hashtags": {
+      "en": "#joseph #genesis #coatofmanycolors #biblestories"
+    },
+    "facts": {
+      "en": [
+        "Genesis says that Jacob loved Joseph more than his other sons, and gave him a special coat. The brothers were jealous, and they sold Joseph to traders traveling to Egypt for twenty pieces of silver.",
+        "The English phrase coat of many colors comes from the Greek Bible and the King James Version. But the Hebrew phrase, ketonet passim, is rare and its exact meaning is uncertain.",
+        "Some scholars think it means a long robe with sleeves, a garment worn by princes. The only other time the phrase appears is in the second Book of Samuel, describing the robe of King David's daughter Tamar.",
+        "After years as a slave and prisoner in Egypt, Joseph rose to become governor under Pharaoh. When his brothers came asking for grain during a famine, he forgave them, and the family settled in Egypt."
+      ]
+    },
+    "hook": {
+      "en": "Nobody is sure Joseph's coat had many colors."
+    }
+  },
+  {
+    "id": "christmas-carols",
+    "category": "Traditions and holidays",
+    "title": {
+      "en": "Christmas carols"
+    },
+    "keywords": [
+      "christmas candles snow",
+      "old church organ",
+      "snowy village night",
+      "candle flame dark"
+    ],
+    "hashtags": {
+      "en": "#christmascarols #silentnight #christmasmusic #christmashistory"
+    },
+    "facts": {
+      "en": [
+        "The word carol comes from an old French word, carole, which meant a circle dance with singing. Medieval carols were joyful songs and dances, and only later did the word come to mean songs about Christmas.",
+        "Silent Night was first sung on Christmas Eve in eighteen eighteen, in the village of Oberndorf in Austria. The words were written by the priest Joseph Mohr, and the melody by the schoolteacher Franz Gruber.",
+        "It was performed with a guitar, not an organ. A popular story says the church organ was out of order, and the song was written in a hurry. Today the carol has been translated into about three hundred languages and dialects.",
+        "Charles Wesley wrote the words of Hark the Herald Angels Sing in seventeen thirty nine. His first line was Hark how all the welkin rings, and it was changed later by the preacher George Whitefield."
+      ]
+    },
+    "hook": {
+      "en": "Silent Night was first performed with a guitar."
+    }
+  },
+  {
+    "id": "enoch",
+    "category": "Old Testament people",
+    "title": {
+      "en": "Enoch"
+    },
+    "keywords": [
+      "ancient scroll parchment",
+      "forest path sunrise",
+      "mountain mist sunrise",
+      "old book candle"
+    ],
+    "hashtags": {
+      "en": "#enoch #genesis #bible #oldtestament"
+    },
+    "facts": {
+      "en": [
+        "Enoch is the seventh person in the family line from Adam. Genesis says that he walked with God, and that he became the father of Methuselah when he was sixty five years old.",
+        "In the long list of ancestors in Genesis, every person is described with the same ending: and then he died. Enoch is the exception. The Bible says only that he was not, for God took him.",
+        "Genesis also gives Enoch's age, three hundred sixty five years, which is unusually short for the people listed there, and also matches the number of days in a year. Scholars have noticed the connection, but cannot say why it was chosen.",
+        "The New Testament mentions Enoch twice. The Letter to the Hebrews says he was taken so that he did not experience death because of his faith, and the Letter of Jude calls him the seventh from Adam."
+      ]
+    },
+    "hook": {
+      "en": "Enoch lived three hundred sixty five years, then vanished."
+    }
+  },
+  {
+    "id": "the-nativity",
+    "category": "Bible stories",
+    "title": {
+      "en": "the Nativity"
+    },
+    "keywords": [
+      "old stone stable",
+      "hay straw stable",
+      "starry night village",
+      "stone village hills night"
+    ],
+    "hashtags": {
+      "en": "#nativity #christmas #luke #biblestories"
+    },
+    "facts": {
+      "en": [
+        "Only two Gospels tell the story of the birth of Jesus. Luke says that Mary and Joseph traveled from Nazareth to Bethlehem for a census ordered by Caesar Augustus, and that Mary gave birth there.",
+        "Luke includes the shepherds who hear the news from angels, while Matthew tells of the wise men from the East. The two accounts are different, and many popular nativity scenes combine them into one.",
+        "Luke says that Mary laid her baby in a manger, because there was no room for them in the katalyma. This Greek word can mean a guest room, so some scholars think that it was not an inn at all.",
+        "Matthew says that the birth in Bethlehem fulfilled the words of the prophet Micah, who said that a ruler would come from that small town. Bethlehem was also the town of King David."
+      ]
+    },
+    "hook": {
+      "en": "Luke never says an innkeeper turned Mary away."
+    }
+  },
+  {
+    "id": "saint-anthony-of-padua",
+    "category": "Saints",
+    "title": {
+      "en": "Saint Anthony of Padua"
+    },
+    "keywords": [
+      "old lisbon rooftops",
+      "old stone basilica",
+      "medieval stone city",
+      "candles old church"
+    ],
+    "hashtags": {
+      "en": "#saintanthony #padua #saints #franciscans"
+    },
+    "facts": {
+      "en": [
+        "Anthony was born in Lisbon, in Portugal, around eleven ninety five, and was baptized Fernando. He joined the Franciscans after seeing the bodies of five friars who had been killed in Morocco for preaching.",
+        "He took the name Anthony and became one of the most gifted preachers of his time. He taught theology to the friars, and crowds in Italy and France came to hear him, even filling the squares.",
+        "He is called Anthony of Padua because he spent his last years in that Italian city, and died near it in twelve thirty one at about thirty five years old. His birthplace was Lisbon, where he is still loved.",
+        "He was declared a saint in twelve thirty two, less than a year after his death, one of the fastest canonizations in history. Catholics pray to him to find lost things, from a story about a stolen book."
+      ]
+    },
+    "hook": {
+      "en": "Saint Anthony of Padua was not born in Padua."
+    }
+  },
+  {
+    "id": "the-star-of-bethlehem",
+    "category": "Bible stories",
+    "title": {
+      "en": "the star of Bethlehem"
+    },
+    "keywords": [
+      "starry night sky",
+      "night sky stars desert",
+      "old telescope night",
+      "bright star sky"
+    ],
+    "hashtags": {
+      "en": "#starofbethlehem #christmas #magi #astronomy"
+    },
+    "facts": {
+      "en": [
+        "The star of Bethlehem appears only in the Gospel of Matthew. Luke, Mark and John never mention it. Matthew says wise men from the East saw his star at its rising, and came to Jerusalem looking for the newborn king.",
+        "The Bible does not say what the star was. Some astronomers suggest that it was a comet, a bright new star, or a rare meeting of the planets Jupiter and Saturn, which happened three times in seven before Christ.",
+        "Chinese astronomers recorded a comet or new star in the spring of five before Christ. Scholars disagree about whether this or any other event is what Matthew described, since he gives few details.",
+        "In sixteen oh four, the astronomer Johannes Kepler saw Jupiter and Saturn come close together, and he wondered whether a similar event had been the star. His idea is still discussed today."
+      ]
+    },
+    "hook": {
+      "en": "Only one Gospel mentions the star of Bethlehem."
+    }
+  },
+  {
+    "id": "midnight-mass",
+    "category": "Traditions and holidays",
+    "title": {
+      "en": "midnight Mass"
+    },
+    "keywords": [
+      "candles burning church",
+      "old stone church night",
+      "church bells snow",
+      "candle flame dark"
+    ],
+    "hashtags": {
+      "en": "#midnightmass #christmas #catholic #traditions"
+    },
+    "facts": {
+      "en": [
+        "Midnight Mass is the service held on Christmas Eve, so that the birth of Jesus is celebrated at the moment of his arrival. Catholic, Anglican and Lutheran churches, and many others, hold it each year.",
+        "The tradition goes back to Rome. Tradition says that in the fifth century Pope Sixtus the Third rebuilt the church of Saint Mary Major, with a chapel made as a copy of Bethlehem, where pilgrims came to celebrate the night Mass.",
+        "In Spanish, the Midnight Mass is called Misa del Gallo, the Mass of the Rooster. A legend says that a rooster was the first to crow when Jesus was born, so the name remembers the animal.",
+        "Christmas once had three Masses. The Roman tradition has Mass at midnight, at dawn and during the day, honoring the birth of Christ in eternity, in Bethlehem and in the heart of the believer."
+      ]
+    },
+    "hook": {
+      "en": "Spain calls Midnight Mass the Mass of the Rooster."
+    }
+  },
+  {
+    "id": "christmas",
+    "category": "Traditions and holidays",
+    "title": {
+      "en": "Christmas"
+    },
+    "keywords": [
+      "christmas candles snow",
+      "snowy village night",
+      "old church snow",
+      "candle old window"
+    ],
+    "hashtags": {
+      "en": "#christmas #christmashistory #traditions #christianity"
+    },
+    "facts": {
+      "en": [
+        "The Gospels never give a date for the birth of Jesus. The first record of Christmas on the twenty fifth of December comes from Rome, in the year three thirty six, during the reign of the Emperor Constantine.",
+        "Historians offer two main ideas for the date. One links it to a Roman festival of the sun on the twenty fifth, while another counts nine months from an early belief that Jesus died on the twenty fifth of March.",
+        "Not everyone celebrated it. In sixteen forty seven, the English Parliament, led by Puritans, banned Christmas as unbiblical, and from sixteen fifty nine to sixteen eighty one, celebrating it in Boston carried a fine.",
+        "Many Eastern churches celebrate on the sixth or seventh of January. In the United States, Christmas became a federal holiday in eighteen seventy, after being a normal working day in many states."
+      ]
+    },
+    "hook": {
+      "en": "Christmas was once banned in England and Boston."
+    }
+  },
+  {
+    "id": "elizabeth",
+    "category": "New Testament people",
+    "title": {
+      "en": "Elizabeth"
+    },
+    "keywords": [
+      "old stone village hills",
+      "ancient scroll parchment",
+      "stone house hill country",
+      "olive trees hills"
+    ],
+    "hashtags": {
+      "en": "#elizabeth #visitation #luke #newtestament"
+    },
+    "facts": {
+      "en": [
+        "Elizabeth was the wife of the priest Zechariah and, according to Luke, a descendant of Aaron. The couple were righteous people, but had no children, and both were already old.",
+        "Luke says that Elizabeth conceived, and for five months kept to herself. Then her relative Mary, who was expecting Jesus, traveled to the hill country of Judea to stay with her for about three months.",
+        "When Mary arrived, Elizabeth was filled with the Spirit and cried out, blessed are you among women, why am I so honored that the mother of my Lord comes to me? The baby in her womb leapt for joy.",
+        "Elizabeth's words became part of the Hail Mary, a prayer that Catholics say daily. The meeting of the two women is remembered in art as the Visitation, and Catholics celebrate it on the thirty first of May."
+      ]
+    },
+    "hook": {
+      "en": "Elizabeth was first to call Mary mother of the Lord."
+    }
+  },
+  {
+    "id": "the-twelve-days-of-christmas",
+    "category": "Traditions and holidays",
+    "title": {
+      "en": "the twelve days of Christmas"
+    },
+    "keywords": [
+      "christmas candles snow",
+      "partridge bird snow",
+      "old church snow",
+      "pear tree winter"
+    ],
+    "hashtags": {
+      "en": "#twelvedaysofchristmas #christmas #epiphany #traditions"
+    },
+    "facts": {
+      "en": [
+        "Many people think the twelve days come before Christmas, but in the Church calendar they begin on Christmas Day. They run from the twenty fifth of December to the fifth of January, the eve of Epiphany.",
+        "The twelfth night, the fifth of January, was once a time of feasting and games across Britain. Shakespeare named a play Twelfth Night, after this festival, which ended the Christmas season with plays and parties.",
+        "A popular story says that the song was a secret code to teach Catholic children their faith, when Catholics were persecuted in England. Historians find no evidence for this, and it appears to be a modern legend.",
+        "The carol was first printed in England in seventeen eighty, probably as a memory game. If you add up all the gifts in every verse, the total is three hundred sixty four."
+      ]
+    },
+    "hook": {
+      "en": "The twelve days of Christmas come after Christmas."
+    }
+  },
+  {
+    "id": "the-council-of-nicaea",
+    "category": "Church history",
+    "title": {
+      "en": "the Council of Nicaea"
+    },
+    "keywords": [
+      "ancient stone ruins",
+      "old parchment document",
+      "byzantine church mosaic",
+      "ancient scroll parchment"
+    ],
+    "hashtags": {
+      "en": "#nicaea #creed #churchhistory #earlychurch"
+    },
+    "facts": {
+      "en": [
+        "In the year three twenty five, Emperor Constantine invited bishops from across the empire to the city of Nicaea, in what is now Turkey. Tradition says that about three hundred eighteen bishops attended.",
+        "The main question was about Arius, a priest from Alexandria who taught that Jesus was created by God and was not fully divine. The council rejected this and affirmed that the Son shares the same nature as the Father.",
+        "A popular myth says that the council voted on which books belong in the Bible. Historians say this is false. The ancient sources do not mention any decision about the biblical canon at Nicaea.",
+        "The council also agreed that Easter should be celebrated on the same Sunday everywhere. Its creed was later expanded in three eighty one, and that version, the Nicene Creed, is still recited in many churches today."
+      ]
+    },
+    "hook": {
+      "en": "The Council of Nicaea did not choose the Bible's books."
+    }
+  },
+  {
+    "id": "cologne-cathedral",
+    "category": "Churches and cathedrals",
+    "title": {
+      "en": "Cologne Cathedral"
+    },
+    "keywords": [
+      "gothic cathedral exterior",
+      "large gothic spires",
+      "stone cathedral interior",
+      "rhine river old town"
+    ],
+    "hashtags": {
+      "en": "#colognecathedral #gothic #germany #cathedral"
+    },
+    "facts": {
+      "en": [
+        "Work on Cologne Cathedral started in twelve forty eight, but it was completed only in eighteen eighty, after a long pause of about three centuries. That makes it one of the slowest building projects in history.",
+        "For centuries a huge medieval crane stood on top of the unfinished south tower. It became a symbol of the city, and when work resumed in the nineteenth century, builders followed the original medieval plans.",
+        "When completed, it was the tallest building in the world, at about one hundred fifty seven meters, until the Washington Monument was finished in eighteen eighty four. Its two towers are still among the tallest church spires.",
+        "The cathedral houses a golden shrine said to hold the relics of the Three Kings, or Magi. They were brought to Cologne in eleven sixty four. The cathedral was damaged in the Second World War but survived."
+      ]
+    },
+    "hook": {
+      "en": "Cologne Cathedral took more than six hundred years to build."
+    }
+  },
+  {
+    "id": "the-burning-bush",
+    "category": "Bible stories",
+    "title": {
+      "en": "the burning bush"
+    },
+    "keywords": [
+      "desert bush fire",
+      "mountain desert sunset",
+      "rocky mountain desert",
+      "sinai desert landscape"
+    ],
+    "hashtags": {
+      "en": "#burningbush #moses #exodus #biblestories"
+    },
+    "facts": {
+      "en": [
+        "In the Book of Exodus, Moses is shepherding the flock of his father in law in the wilderness when he sees a bush that burns but is not consumed. When he draws near, a voice calls him by name.",
+        "God tells Moses to take off his sandals because the ground is holy, and sends him to lead the Israelites out of Egypt. Moses protests that he is a poor speaker, but God promises to be with him.",
+        "Moses asks what name he should give to the people. God answers, I am who I am. The Hebrew name behind it, written with four letters, became so sacred that many Jews do not say it aloud.",
+        "At the foot of Mount Sinai stands Saint Catherine's Monastery, built in the sixth century. Its monks tell of a living bush in its courtyard, which they honor as the burning bush itself, or its descendant."
+      ]
+    },
+    "hook": {
+      "en": "God gave his name at the burning bush."
+    }
+  },
+  {
+    "id": "noah",
+    "category": "Old Testament people",
+    "title": {
+      "en": "Noah"
+    },
+    "keywords": [
+      "vineyard grapes hillside",
+      "rainbow over field",
+      "ancient scroll parchment",
+      "green hills sunrise"
+    ],
+    "hashtags": {
+      "en": "#noah #genesis #bible #oldtestament"
+    },
+    "facts": {
+      "en": [
+        "Noah's name in Hebrew sounds like the word for rest or comfort. His father Lamech said at his birth that this child would bring relief from the hard work of the cursed ground.",
+        "Genesis calls Noah a righteous man, blameless in his generation, who walked with God. It says that he was five hundred years old when he became the father of his three sons, Shem, Ham and Japheth.",
+        "After the flood, Genesis says Noah became a man of the soil and planted a vineyard. It is the first vineyard in the Bible, and the story says Noah drank some of its wine and fell asleep in his tent.",
+        "God promised Noah that the waters would never again destroy the earth, and set the rainbow in the clouds as a sign. The Book of Ezekiel also names him with Daniel and Job as famous righteous men."
+      ]
+    },
+    "hook": {
+      "en": "Noah planted the first vineyard mentioned in the Bible."
+    }
+  },
+  {
+    "id": "nineveh",
+    "category": "Bible places",
+    "title": {
+      "en": "Nineveh"
+    },
+    "keywords": [
+      "ancient ruins desert",
+      "clay tablets cuneiform",
+      "ancient stone ruins sunset",
+      "desert ruins sunrise"
+    ],
+    "hashtags": {
+      "en": "#nineveh #assyria #gilgamesh #biblicalplaces"
+    },
+    "facts": {
+      "en": [
+        "Nineveh was the capital of the Assyrian Empire, on the Tigris River in what is now northern Iraq. In the Bible, it is the city to which the prophet Jonah was sent to warn its people.",
+        "The prophet Nahum announced that Nineveh would fall. This happened in six twelve before Christ, when the Babylonians and the Medes destroyed the city, and the Assyrian Empire came to an end soon after.",
+        "In the eighteen fifties, archaeologists found the library of King Ashurbanipal at Nineveh, with tens of thousands of clay tablets. One of them, read in eighteen seventy two, told a flood story with striking similarities to Noah's.",
+        "That tablet belongs to the Epic of Gilgamesh, one of the oldest known works of literature. Scholars still discuss how the Mesopotamian flood stories and the account in Genesis are related, and how they influenced each other."
+      ]
+    },
+    "hook": {
+      "en": "A flood story like Noah's was found in Nineveh."
+    }
+  },
+  {
+    "id": "saint-anthony-the-great",
+    "category": "Saints",
+    "title": {
+      "en": "Saint Anthony the Great"
+    },
+    "keywords": [
+      "egypt desert dunes",
+      "desert cave mountain",
+      "old stone monastery",
+      "desert sunrise sand"
+    ],
+    "hashtags": {
+      "en": "#saintanthony #desertfathers #monks #churchhistory"
+    },
+    "facts": {
+      "en": [
+        "Anthony was born in Egypt about two fifty one, to a wealthy Christian family. After his parents died, he heard the words of Jesus in church, go, sell what you have and give to the poor, and he took them literally.",
+        "He gave away his inheritance and went to live in the desert, first near his village and later in the mountains. Many followers came to learn from him, and so he is known as the father of monasticism.",
+        "The tradition recorded by Athanasius of Alexandria says that he lived to be one hundred five, dying in about three fifty six. He asked to be buried in a secret place, so that no one would make a shrine.",
+        "Athanasius wrote his Life of Anthony, which became a bestseller of the ancient world. It describes Anthony's struggles with temptation, a theme later painted by artists like Bosch and Grunewald."
+      ]
+    },
+    "hook": {
+      "en": "Saint Anthony the Great reportedly lived past one hundred."
+    }
+  },
+  {
+    "id": "the-book-of-deuteronomy",
+    "category": "Books of the Bible",
+    "title": {
+      "en": "the Book of Deuteronomy"
+    },
+    "keywords": [
+      "desert mountain sunrise",
+      "rocky desert landscape",
+      "ancient scroll parchment",
+      "old book candle"
+    ],
+    "hashtags": {
+      "en": "#deuteronomy #bible #oldtestament #moses"
+    },
+    "facts": {
+      "en": [
+        "Deuteronomy is the fifth book of the Bible. Its name is Greek and means second law, because of an old translation of a verse, though it really presents Moses's final speeches to the people before they enter the land.",
+        "It contains the Shema, which begins hear, O Israel, the Lord our God, the Lord is one. This verse is the central prayer of Judaism, recited morning and evening, and written on small scrolls kept in doorway cases.",
+        "In the Gospels, when the devil tempts Jesus in the wilderness, Jesus answers each time with a quotation from Deuteronomy, including man shall not live by bread alone. It is one of the books Jesus quotes most.",
+        "The book ends with the death of Moses on Mount Nebo, overlooking the promised land. It says that God buried him, and that no one knows where his grave is to this day."
+      ]
+    },
+    "hook": {
+      "en": "Jesus answered the devil using Deuteronomy three times."
+    }
+  },
+  {
+    "id": "holy-communion",
+    "category": "Traditions and holidays",
+    "title": {
+      "en": "Holy Communion"
+    },
+    "keywords": [
+      "bread and wine table",
+      "candles old church",
+      "old stone church interior",
+      "wine cup candlelight"
+    ],
+    "hashtags": {
+      "en": "#communion #eucharist #lastsupper #christianity"
+    },
+    "facts": {
+      "en": [
+        "Holy Communion goes by many names. Catholics call it the Eucharist, a Greek word for thanksgiving, Anglicans and Lutherans may call it the Eucharist or Holy Communion, and many Protestants call it the Lord's Supper.",
+        "It remembers the Last Supper, when the Gospels say Jesus shared bread and wine with his disciples, and told them to do this in remembrance of him. Christians have repeated this meal since the earliest times.",
+        "The oldest written account of the Last Supper is not in a Gospel. It is in the First Letter of Paul to the Corinthians, written about the year fifty five, which is earlier than the Gospels were written.",
+        "Christians understand the meal in different ways. Catholics and Orthodox believe the bread and wine become the body and blood of Christ, while many Protestants see them as symbols of his presence and sacrifice."
+      ]
+    },
+    "hook": {
+      "en": "Paul described the Last Supper before any Gospel did."
+    }
+  },
+  {
+    "id": "hallelujah",
+    "category": "Words and translations",
+    "title": {
+      "en": "Hallelujah"
+    },
+    "keywords": [
+      "choir singing church",
+      "old church organ",
+      "pipe organ church",
+      "candles old church"
+    ],
+    "hashtags": {
+      "en": "#hallelujah #psalms #handel #biblewords"
+    },
+    "facts": {
+      "en": [
+        "Hallelujah comes from two Hebrew words, hallelu and Yah. Yah is a short form of the divine name, and hallelu means praise, so the word is an invitation to praise the Lord.",
+        "The form hallelu is a plural command, so it is not one person saying praise, but calling on a group to join in. The word appears twenty four times in the Psalms, especially in the last five.",
+        "In the New Testament, the word appears only in the Book of Revelation, where a great multitude in heaven cries out Hallelujah. Greek and Latin turned it into Alleluia, which many churches still sing.",
+        "Handel's Messiah, first performed in Dublin in seventeen forty two, ends its second part with the Hallelujah chorus. A famous story says that King George stood up while it was being sung, but historians are not sure it happened."
+      ]
+    },
+    "hook": {
+      "en": "Hallelujah is a command given to a whole crowd."
+    }
+  },
+  {
+    "id": "zechariah-the-priest",
+    "category": "New Testament people",
+    "title": {
+      "en": "Zechariah the priest"
+    },
+    "keywords": [
+      "old stone temple columns",
+      "incense smoke candle",
+      "ancient scroll parchment",
+      "old stone ruins"
+    ],
+    "hashtags": {
+      "en": "#zechariah #johnthebaptist #luke #newtestament"
+    },
+    "facts": {
+      "en": [
+        "Zechariah was a Jewish priest in the days of King Herod, and belonged to the priestly division of Abijah. Luke says that both he and his wife Elizabeth lived blamelessly, but they had no child.",
+        "There were so many priests that they were chosen by lot for the most sacred duties. The Mishnah, an early Jewish text, suggests that a priest who burned incense in the Temple would never be chosen again.",
+        "Luke says that this happened to Zechariah, who was chosen to burn incense while the crowd prayed outside. There he saw an angel, who announced that his wife would bear a son named John.",
+        "When John was born, Zechariah spoke again and sang a song of praise, called the Benedictus. It comes from the first chapter of Luke, and Christians still sing it during morning prayer in many churches."
+      ]
+    },
+    "hook": {
+      "en": "Zechariah's greatest moment came only once in his life."
+    }
+  },
+  {
+    "id": "the-ichthys-fish-symbol",
+    "category": "Symbols and mysteries",
+    "title": {
+      "en": "the ichthys fish symbol"
+    },
+    "keywords": [
+      "fish swimming clear water",
+      "old stone carving",
+      "ancient stone wall",
+      "fishing boat sea"
+    ],
+    "hashtags": {
+      "en": "#ichthys #fish #earlychurch #christiansymbols"
+    },
+    "facts": {
+      "en": [
+        "Ichthys is the Greek word for fish. The early Christians noticed that its five letters began five Greek words, Jesus Christ, God's Son, Savior, so the fish became a short confession of faith.",
+        "Fish images appear in the Roman catacombs and on early rings and lamps. The writer Clement of Alexandria, around the year two hundred, advised Christians who wore signet rings to choose a fish or a dove as their seal.",
+        "Fish also matched the Gospel stories. Jesus called his disciples to be fishers of men, he fed a crowd with loaves and two fish, and Tertullian wrote that Christians are born in water like little fishes.",
+        "A popular story says that Christians used the symbol as a secret sign, drawing one arc in the dust and waiting for the other person to complete it. There is little evidence for this practice."
+      ]
+    },
+    "hook": {
+      "en": "The Christian fish symbol is a code in Greek."
+    }
   }
 ]
