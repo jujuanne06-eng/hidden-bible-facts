@@ -13,15 +13,19 @@ animated captions) and sends the same video to TikTok + Instagram through **Zern
 - Each video has its own caption with keywords and 5 hashtags (Instagram's maximum since December 2025).
 
 ## Video style (what each video looks like)
+- **Calm look** (all in `"style"` in `config.json`): warm gold text, warm darker color grade with a vignette,
+  soft crossfades between shots, slow camera moves only.
 - **Hook (first ~3 s):** a short surprising line, shown big on screen from the first frame and spoken right away
-  ("White chocolate isn't really chocolate. Wait for number three."). Each topic has its own `hook`.
-- **#1, #2, #3, BONUS:** a new shot, a short flash and a zoom "punch" exactly when each fact starts;
+  ("Judas betrayed Jesus for the price of a slave. Stay until number three."). Each topic has its own `hook`.
+- **#1, #2, #3, BONUS:** a new shot and a soft golden glow exactly when each fact starts;
   before the bonus, a call to comment ("comment the one you didn't know").
-- **Montage:** shots of 1.5–3.4 s (faster during the hook), each with its own camera move (zooms, pans,
-  punch-in, tilt, handheld), about 1 in 4 in slow motion. Only real footage that matches the topic
-  (no cartoons, fair rides, fashion portraits or very dark clips).
-- **Captions:** word by word, the spoken word in yellow; kept away from the app's buttons and bottom text.
-- **Voice:** slightly slowed (−4% to −10%) when a text is short, so the voice fills the minute.
+- **Montage:** shots of about 3–4 s (a bit faster during the hook), slow zooms and pans, about 4 in 10 in slow
+  motion. Two sources mixed: **Pixabay** real footage matching the topic (no cartoons, fashion, modern things like
+  phones, cars or Bitcoin, or very dark clips), and **famous public-domain paintings** from Wikimedia Commons
+  (each topic's `paintings` searches, e.g. "Caravaggio The Taking of Christ"): the first shot and about one shot
+  in three. Only files marked public domain are used, so no credit is needed.
+- **Captions:** word by word, the spoken word in gold; kept away from the app's buttons and bottom text.
+- **Voice:** en-US-ChristopherNeural (deep, calm), at normal speed.
 - **Music:** a royalty-free track from `assets\music`, chosen by mood for the topic's category
   (`assets\music\moods.json`), started after its quiet intro at a different point each time, at the same
   quiet level for every track, and dipping automatically while the voice speaks. Final sound at about −14 LUFS.

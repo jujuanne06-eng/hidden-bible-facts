@@ -2,241 +2,415 @@
  {
   "id": "noahs-ark",
   "hook": "Noah's Ark was longer than a football field.",
-  "keywords": ["wooden ship stormy sea", "heavy rain flood", "animals herd walking", "rainbow over hills"],
+  "keywords": [
+   "wooden ship stormy sea",
+   "heavy rain flood",
+   "animals herd walking",
+   "rainbow over hills"
+  ],
   "hashtags": "#noahsark #bible #biblestories #genesis",
   "facts": [
    "The Bible says Noah was six hundred years old when the flood began, and lived three hundred and fifty more years after it. In the whole Bible, only Methuselah and Jared are said to have lived longer.",
    "Noah did not take just two of every animal. Genesis says that for the clean animals, the ones later used for sacrifice, he was told to take seven pairs. Only the other animals came in a single pair.",
    "Genesis gives the size of the ark: three hundred cubits long. A cubit was about forty five centimeters, the length of a forearm. That makes the ark around one hundred and thirty five meters long, longer than an American football field.",
    "The ark is not the only ancient flood story. The Epic of Gilgamesh, from Mesopotamia, tells of a man who builds a huge boat, saves animals, and sends out birds to find dry land. Scholars think it is older than the written Genesis."
+  ],
+  "paintings": [
+   "Edward Hicks Noah's Ark",
+   "Jacopo Bassano animals entering the Ark"
   ]
  },
  {
   "id": "the-dead-sea-scrolls",
   "hook": "A shepherd chasing a lost goat found them.",
-  "keywords": ["ancient scroll parchment", "desert caves cliffs", "dead sea shore", "clay pottery jars"],
+  "keywords": [
+   "ancient scroll parchment",
+   "desert caves cliffs",
+   "dead sea shore",
+   "clay pottery jars"
+  ],
   "hashtags": "#deadseascrolls #biblehistory #archaeology #ancienthistory",
   "facts": [
    "The Dead Sea Scrolls include some of the oldest known copies of the Bible, written more than two thousand years ago. Every book of the Hebrew Bible appears among them, except one, the Book of Esther.",
    "They were hidden in eleven caves near Qumran, close to the Dead Sea. Scholars count around nine hundred manuscripts, but most survive only as fragments, some smaller than a postage stamp, like a giant puzzle with missing pieces.",
    "Around nineteen forty seven, a young Bedouin shepherd was searching for a lost goat. He threw a stone into a cave and heard pottery break. Inside were clay jars holding ancient scrolls, and the first ones were sold for very little money.",
    "One scroll is unlike all the others. The Copper Scroll is engraved on metal, and it lists dozens of hiding places of gold and silver. Treasure hunters have searched for decades, but nobody has ever found any of it."
+  ],
+  "paintings": [
+   "Great Isaiah Scroll"
   ]
  },
  {
   "id": "moses",
   "hook": "Moses grew up as a prince of Egypt.",
-  "keywords": ["nile river reeds", "egypt desert pyramids", "river reeds water", "desert mountain sunrise"],
+  "keywords": [
+   "nile river reeds",
+   "egypt desert pyramids",
+   "river reeds water",
+   "desert mountain sunrise"
+  ],
   "hashtags": "#moses #bible #exodus #biblestories",
   "facts": [
    "Moses was born when Pharaoh had ordered every Hebrew baby boy to be thrown into the Nile. His mother hid him for three months, then put him in a basket covered with tar and left it among the reeds of the river.",
    "Moses did not feel ready to lead. At the burning bush, he told God he was slow of speech and begged him to send someone else. So God chose his older brother Aaron to speak for him.",
    "The basket was found by the daughter of Pharaoh herself, who adopted the crying baby. Even better, his own mother was secretly hired to nurse him. So the future leader of the Hebrews grew up in the Egyptian royal palace.",
    "Moses never entered the promised land. After forty years in the desert, he climbed Mount Nebo and saw it from far away. He died there at one hundred and twenty, and the Bible says nobody knows where his grave is."
+  ],
+  "paintings": [
+   "Poussin Finding of Moses",
+   "Rembrandt Moses Ten Commandments"
   ]
  },
  {
   "id": "notre-dame-de-paris",
   "hook": "Notre-Dame took almost two hundred years to build.",
-  "keywords": ["notre dame cathedral paris", "paris seine river", "gothic cathedral interior", "cathedral stained glass"],
+  "keywords": [
+   "notre dame cathedral paris",
+   "paris seine river",
+   "gothic cathedral interior",
+   "cathedral stained glass"
+  ],
   "hashtags": "#notredame #paris #cathedral #churchhistory",
   "facts": [
    "In April twenty nineteen, a fire destroyed the roof and spire of Notre-Dame. The roof frame used so much old oak that it was nicknamed the forest. After a huge restoration, the cathedral reopened in December twenty twenty four.",
    "Notre-Dame keeps a relic that tradition calls the crown of thorns of Jesus. On the night of the fire, a priest and firefighters went into the burning cathedral and carried it out to safety.",
    "The first stone of Notre-Dame was laid in eleven sixty three, and the main work only ended around thirteen forty five. The workers who started it never saw it finished, and neither did their children or grandchildren.",
    "In the eighteen hundreds, Notre-Dame was falling apart and some wanted it torn down. The novel by Victor Hugo, The Hunchback of Notre-Dame, made it famous again and helped save it with a big restoration."
+  ],
+  "paintings": [
+   "Notre-Dame de Paris photochrom",
+   "Notre-Dame de Paris 1890"
   ]
  },
  {
   "id": "the-garden-of-eden",
   "hook": "The Bible never says the forbidden fruit was an apple.",
-  "keywords": ["lush garden green trees", "red apple tree", "river flowing forest", "garden flowers sunlight"],
+  "keywords": [
+   "lush garden green trees",
+   "red apple tree",
+   "river flowing forest",
+   "garden flowers sunlight"
+  ],
   "hashtags": "#gardenofeden #genesis #bible #adamandeve",
   "facts": [
    "Genesis says a river flowed out of Eden and split into four. Two of those rivers still have the same names, the Tigris and the Euphrates, in modern Iraq. But the garden itself has never been found.",
    "Eden had two special trees, not one. Besides the tree of the knowledge of good and evil, there was the tree of life. After Adam and Eve left, cherubim and a flaming sword guarded the way to it.",
    "Genesis only says the fruit of the tree. The apple came later, in Western Europe, maybe because in Latin the word malum means both evil and apple. Some Jewish traditions said it was a fig, grapes, or even wheat.",
    "The name Eden is linked to a Hebrew word meaning delight. The Greek translation of the Bible called the garden paradeisos, a Persian word for a walled royal park. That is where our word paradise comes from."
+  ],
+  "paintings": [
+   "Thomas Cole Garden of Eden"
   ]
  },
  {
   "id": "the-knights-templar",
   "hook": "The Templars were arrested on Friday the thirteenth.",
-  "keywords": ["medieval knight armor", "medieval castle walls", "sword and shield", "old stone fortress"],
+  "keywords": [
+   "medieval knight armor",
+   "medieval castle walls",
+   "sword and shield",
+   "old stone fortress"
+  ],
   "hashtags": "#knightstemplar #templars #medievalhistory #churchhistory",
   "facts": [
    "The Knights Templar began around eleven nineteen in Jerusalem, with only a handful of knights. They protected Christian pilgrims on the roads to the Holy Land, and they took vows like monks while also being trained warriors.",
    "Their name comes from their first home. The King of Jerusalem gave them part of his palace on the Temple Mount, linked to the ancient Temple of Solomon. So they became the Knights of the Temple, the Templars.",
    "On Friday the thirteenth of October, thirteen oh seven, King Philip the Fourth of France, who owed them a fortune, had Templars across his kingdom arrested at dawn. Many link this to the unlucky Friday the thirteenth, but historians doubt it.",
    "The Templars were some of the first international bankers. A pilgrim could leave money with them in Europe, get a written note, and collect the money again in the Holy Land, safe from robbers on the road."
+  ],
+  "paintings": [
+   "Knights Templar miniature",
+   "Burning of Jacques de Molay"
   ]
  },
  {
   "id": "jerusalem",
   "hook": "Jerusalem has been attacked more than fifty times.",
-  "keywords": ["jerusalem old city", "jerusalem stone walls", "ancient city aerial", "old city streets"],
+  "keywords": [
+   "jerusalem old city",
+   "jerusalem stone walls",
+   "ancient city aerial",
+   "old city streets"
+  ],
   "hashtags": "#jerusalem #holyland #biblehistory #bibleplaces",
   "facts": [
    "People have lived in Jerusalem for more than five thousand years. For Christians, it is where Jesus was crucified and, according to the Gospels, rose again. It is also a holy city for Jews and Muslims.",
    "The Old City is tiny, less than one square kilometer. Its walls, built in the fifteen hundreds by the Ottoman sultan Suleiman the Magnificent, have several gates, and one of them, the Golden Gate, has been sealed for centuries.",
    "According to the historian Eric Cline, Jerusalem has been attacked fifty two times, captured and recaptured forty four times, besieged twenty three times, and destroyed twice. Few cities on Earth have been fought over so often.",
    "Many medieval maps put Jerusalem at the exact center of the world. On the famous Hereford map in England, the earth is a circle with the holy city in the middle, as the spiritual heart of the world."
+  ],
+  "paintings": [
+   "David Roberts Jerusalem",
+   "Jerusalem photochrom"
   ]
  },
  {
   "id": "king-david",
   "hook": "David is credited with writing seventy three Psalms.",
-  "keywords": ["shepherd with sheep", "harp music strings", "ancient stone ruins", "desert hills landscape"],
+  "keywords": [
+   "shepherd with sheep",
+   "harp music strings",
+   "ancient stone ruins",
+   "desert hills landscape"
+  ],
   "hashtags": "#kingdavid #bible #psalms #oldtestament",
   "facts": [
    "David was the youngest of eight brothers and a shepherd. When the prophet Samuel came to choose a king among the sons of Jesse, David was not even invited. He had to be called in from the fields.",
    "David first came to King Saul's court as a musician, playing the lyre to calm the troubled king. Later Saul became so jealous of him that he tried to kill him, even throwing a spear at him.",
    "David was a poet as much as a warrior. In the Hebrew Bible, seventy three of the one hundred and fifty Psalms carry his name, including Psalm twenty three, which begins, the Lord is my shepherd.",
    "For a long time, some scholars doubted David even existed. Then in nineteen ninety three, archaeologists found a stone inscription mentioning the House of David. It is the oldest known mention of David outside the Bible."
+  ],
+  "paintings": [
+   "Honthorst King David playing the harp",
+   "Caravaggio David with the Head of Goliath"
   ]
  },
  {
   "id": "the-shroud-of-turin",
   "hook": "The Shroud of Turin works like a photographic negative.",
-  "keywords": ["old linen cloth", "turin italy city", "church candle light", "old camera photograph"],
+  "keywords": [
+   "old linen cloth",
+   "turin italy city",
+   "church candle light",
+   "old camera photograph"
+  ],
   "hashtags": "#shroudofturin #christianhistory #mystery #relics",
   "facts": [
    "The Shroud of Turin is a linen cloth more than four meters long, showing the faint image of a crucified man. Many Christians believe it is the burial cloth of Jesus. It is kept in Turin, Italy, and rarely shown.",
    "In nineteen eighty eight, three laboratories carbon dated the cloth to the Middle Ages, between about twelve sixty and thirteen ninety. Some researchers think the sample came from a repaired corner, so the debate goes on.",
    "In eighteen ninety eight, a lawyer named Secondo Pia took the first photo of the shroud. On his glass negative, the face suddenly looked clear and lifelike, because the image on the cloth itself behaves like a photographic negative.",
    "In fifteen thirty two, the shroud almost burned in a chapel fire in France. Melted silver from its box dripped onto the folded cloth and burned holes in it. Nuns sewed patches over them, and the marks are still visible."
+  ],
+  "paintings": [
+   "Shroud of Turin negative Secondo Pia"
   ]
  },
  {
   "id": "judas-iscariot",
   "hook": "Judas betrayed Jesus for the price of a slave.",
-  "keywords": ["ancient silver coins", "olive trees garden", "old coins hand", "candle flame table"],
+  "keywords": [
+   "ancient silver coins",
+   "olive trees garden",
+   "old coins hand",
+   "candle flame table"
+  ],
   "hashtags": "#judas #jesus #bible #newtestament",
   "facts": [
    "Judas was one of the twelve apostles, and the Gospel of John says he kept the group's money bag. John even accuses him of stealing from it. So Jesus had trusted him with the money of the whole group.",
    "Judas gave the soldiers a secret signal: the man he kissed was the one to arrest. That night in the garden of Gethsemane, he greeted Jesus with a kiss, and that kiss became a symbol of betrayal.",
    "Matthew says Judas was paid thirty pieces of silver, and that amount was not random. In the Book of Exodus, thirty shekels of silver is the price paid when an ox kills a slave. Jesus was sold for the price of a slave.",
    "Judas later regretted it and threw the silver back into the Temple. The priests would not keep blood money, so they bought a potter's field to bury foreigners. It became known as the Field of Blood."
+  ],
+  "paintings": [
+   "Caravaggio The Taking of Christ",
+   "Giotto Kiss of Judas"
   ]
  },
  {
   "id": "the-sistine-chapel",
   "hook": "Michelangelo did not want to paint the Sistine Chapel.",
-  "keywords": ["sistine chapel ceiling", "vatican rome", "fresco painting art", "church ceiling painting"],
+  "keywords": [
+   "sistine chapel ceiling",
+   "vatican rome",
+   "fresco painting art",
+   "church ceiling painting"
+  ],
   "hashtags": "#sistinechapel #michelangelo #vatican #arthistory",
   "facts": [
    "The Sistine Chapel is where cardinals are locked in to elect a new pope. Black smoke from its chimney means no pope yet. White smoke tells the waiting crowd that a new pope has been chosen.",
    "Michelangelo painted the ceiling from fifteen oh eight to fifteen twelve, with more than three hundred figures. Despite the legend, he did not lie on his back. He stood on a platform he designed, his head bent backward.",
    "Michelangelo saw himself as a sculptor, not a painter, but Pope Julius the Second insisted. He even wrote a poem complaining about the job, with his beard pointing to heaven, paint dripping on his face, and his body bent like a bow.",
    "Years later, Michelangelo painted The Last Judgment behind the altar, full of nude figures that shocked church leaders. After his death, another painter covered them with cloth, and was mocked as the breeches maker."
+  ],
+  "paintings": [
+   "Michelangelo Delphic Sibyl",
+   "Sistine Chapel ceiling Michelangelo"
   ]
  },
  {
   "id": "the-book-of-revelation",
   "hook": "The Book of Revelation was written in exile.",
-  "keywords": ["greek island sea", "stormy sky clouds", "ancient scroll book", "island sea cliffs"],
+  "keywords": [
+   "greek island sea",
+   "stormy sky clouds",
+   "ancient scroll book",
+   "island sea cliffs"
+  ],
   "hashtags": "#revelation #bible #apocalypse #newtestament",
   "facts": [
    "The last book of the Bible is Revelation, not Revelations. Its Greek title is Apokalypsis, meaning an unveiling. That is where our word apocalypse comes from, even though it did not originally mean the end of the world.",
    "Revelation loves the number seven: seven churches, seven seals, seven trumpets, seven bowls, seven stars. For ancient readers seven meant completeness, so many scholars think the numbers are symbols, not exact counts.",
    "The author, John, says he saw his visions on Patmos, a small Greek island, because of his witness to Jesus. Early Christians said a Roman emperor had exiled him there. A cave on Patmos is still visited as the place of his visions.",
    "Revelation was one of the last books accepted into the Bible, and the Eastern churches debated it for centuries. Even today, it is the only New Testament book never read aloud in the main Orthodox liturgy."
+  ],
+  "paintings": [
+   "Durer Four Horsemen",
+   "Bosch Saint John on Patmos"
   ]
  },
  {
   "id": "the-great-flood",
   "hook": "The flood lasted much longer than forty days.",
-  "keywords": ["heavy rain storm", "flood water river", "white dove flying", "rainbow sky clouds"],
+  "keywords": [
+   "heavy rain storm",
+   "flood water river",
+   "white dove flying",
+   "rainbow sky clouds"
+  ],
   "hashtags": "#greatflood #noah #genesis #oldtestament",
   "facts": [
    "Flood stories appear in many ancient cultures, from Mesopotamia and Greece to India and the Americas. In the Greek myth, a man named Deucalion and his wife survive the flood inside a wooden chest.",
    "Noah sent out a raven, then a dove that came back with nothing. The second time, the dove returned with a fresh olive leaf in its beak, and that image became a worldwide symbol of peace.",
    "The forty days of rain were only the beginning. Genesis says the waters covered the earth for one hundred and fifty days, and counting the dates in the text, Noah stayed in the ark for about a full year.",
    "After the flood, Genesis says God put a rainbow in the clouds as a promise never to flood the earth again. The ark came to rest on the mountains of Ararat, in what is now eastern Turkey and Armenia."
+  ],
+  "paintings": [
+   "Thomas Cole Subsiding of the Waters of the Deluge",
+   "John Martin The Deluge"
   ]
  },
  {
   "id": "mary-magdalene",
   "hook": "The Bible never calls Mary Magdalene a prostitute.",
-  "keywords": ["lake shore boat", "stone tomb garden", "sunrise over hills", "church candles"],
+  "keywords": [
+   "lake shore boat",
+   "stone tomb garden",
+   "sunrise over hills",
+   "church candles"
+  ],
   "hashtags": "#marymagdalene #jesus #bible #christianhistory",
   "facts": [
    "Mary Magdalene probably came from Magdala, a fishing town on the Sea of Galilee. Luke says she was one of several women who followed Jesus and paid for his mission with their own money.",
    "All four Gospels place Mary Magdalene at the empty tomb on Easter morning. In John, she is the very first to see Jesus risen, so early Christians called her the apostle to the apostles.",
    "The prostitute idea is not in the Bible. It comes from a sermon by Pope Gregory the Great in five ninety one, which mixed her up with other women. In twenty sixteen, the Catholic Church gave her a full feast day.",
    "A French legend says Mary Magdalene sailed to Provence and lived her last years in a cave. A basilica in Saint-Maximin claims to hold her skull, still carried through the streets every year in a golden case."
+  ],
+  "paintings": [
+   "Titian Noli me tangere",
+   "Caravaggio Penitent Magdalene"
   ]
  },
  {
   "id": "unicorns-in-the-bible",
   "hook": "The King James Bible mentions unicorns nine times.",
-  "keywords": ["wild bull horns", "white horse running", "bison herd", "narwhal arctic"],
+  "keywords": [
+   "wild bull horns",
+   "white horse running",
+   "bison herd",
+   "narwhal arctic"
+  ],
   "hashtags": "#unicorn #bible #kingjamesbible #mythology",
   "facts": [
    "The Hebrew word behind these unicorns is reem, a strong wild animal with powerful horns that nobody could tame. In the Book of Job, God asks if the reem would ever agree to work for a farmer.",
    "Many scholars think the reem was the aurochs, a giant wild ox almost two meters tall at the shoulder. It once roamed the Middle East and Europe, and the last one died in a Polish forest in sixteen twenty seven.",
    "Greek translators of the Bible chose monokeros, meaning one horn, and Latin used unicornis. So the King James Bible of sixteen eleven said unicorn, nine times. Most modern Bibles now just say wild ox.",
    "In the Middle Ages, the unicorn became a symbol of Christ. Unicorn horns were sold as powerful medicine, but most of them were actually tusks from the narwhal, a whale of the Arctic."
+  ],
+  "paintings": [
+   "Lady and the Unicorn tapestry"
   ]
  },
  {
   "id": "bethlehem",
   "hook": "Bethlehem's name means house of bread.",
-  "keywords": ["bethlehem town", "old stone church", "bread loaves bakery", "church candle light"],
+  "keywords": [
+   "bethlehem town",
+   "old stone church",
+   "bread loaves bakery",
+   "church candle light"
+  ],
   "hashtags": "#bethlehem #christmas #jesus #holyland",
   "facts": [
    "Bethlehem is about ten kilometers south of Jerusalem. Long before Jesus, it was famous as the hometown of King David, which is why the Gospels call it the city of David.",
    "The Church of the Nativity is entered through the Door of Humility, a doorway so low that most adults must bend down. It was probably made small to stop people riding in on horses.",
    "In Hebrew, Bethlehem is Beit Lechem, meaning house of bread. And in the Gospel of John, Jesus calls himself the bread of life. So the bread of life was born in the house of bread.",
    "A silver star in a cave under the church marks the traditional birthplace of Jesus. In eighteen forty seven the star was stolen, and the quarrel over replacing it added to the tensions before the Crimean War."
+  ],
+  "paintings": [
+   "David Roberts Bethlehem",
+   "Bethlehem photochrom"
   ]
  },
  {
   "id": "samson",
   "hook": "Samson once killed a lion with his bare hands.",
-  "keywords": ["lion roaring", "long hair wind", "ancient stone pillars", "honey bees honeycomb"],
+  "keywords": [
+   "lion roaring",
+   "long hair wind",
+   "ancient stone pillars",
+   "honey bees honeycomb"
+  ],
   "hashtags": "#samson #bible #biblestories #oldtestament",
   "facts": [
    "Before Samson was born, an angel said he would be a Nazirite, set apart for God. That meant no wine, never touching a dead body, and never cutting his hair. His strength was tied to that promise.",
    "The Philistine leaders each offered Delilah eleven hundred pieces of silver to find the secret of his strength. Samson lied to her three times. The fourth time he told the truth, and his head was shaved while he slept.",
    "The Book of Judges says a young lion came roaring at Samson. With no weapon at all, he tore it apart like a young goat. Later he found bees and honey inside its body, and turned it into a riddle.",
    "Blinded and chained, Samson was brought into a Philistine temple to entertain a crowd. He prayed for strength one last time, pushed apart the two middle pillars, and brought the whole temple down."
+  ],
+  "paintings": [
+   "Rembrandt Blinding of Samson"
   ]
  },
  {
   "id": "the-ark-of-the-covenant",
   "hook": "Touching the Ark of the Covenant could be deadly.",
-  "keywords": ["golden box treasure", "ancient temple ruins", "gold ornament", "desert caravan camels"],
+  "keywords": [
+   "golden box treasure",
+   "ancient temple ruins",
+   "gold ornament",
+   "desert caravan camels"
+  ],
   "hashtags": "#arkofthecovenant #bible #mystery #oldtestament",
   "facts": [
    "The Ark of the Covenant was a wooden chest covered in gold, a little over one meter long. It held the stone tablets of the Ten Commandments, and Hebrews adds a jar of manna and the staff of Aaron.",
    "The Ark was never carried by hand. Golden poles went through rings on its sides, and priests carried it on their shoulders. The Bible says those poles must never be taken out.",
    "Once, the Ark was moved on a cart and the oxen stumbled. A man named Uzzah reached out to steady it with his hand, and the Bible says he died on the spot. Even King David was afraid of it after that.",
    "Nobody knows where the Ark went. It vanishes from the Bible around the fall of Jerusalem. The Ethiopian Orthodox Church says it is in a chapel in Aksum, guarded by one monk who may never show it to anyone."
+  ],
+  "paintings": [
+   "Tissot Ark of the Covenant",
+   "Poussin Plague of Ashdod"
   ]
  },
  {
   "id": "the-parting-of-the-red-sea",
   "hook": "The Hebrew Bible may not say Red Sea at all.",
-  "keywords": ["red sea coast", "ocean waves storm", "reeds marsh water", "desert sea shore"],
+  "keywords": [
+   "red sea coast",
+   "ocean waves storm",
+   "reeds marsh water",
+   "desert sea shore"
+  ],
   "hashtags": "#redsea #moses #exodus #biblestories",
   "facts": [
    "When the Israelites left Egypt, Pharaoh changed his mind and chased them with six hundred of his best chariots. Trapped against the sea, the people panicked, but Moses told them to stand still and watch.",
    "The sea did not open in an instant. Exodus says a strong east wind blew all night and made the sea dry land, with the water like a wall on each side. In the morning, it came back over the chariots.",
    "In Hebrew, it is called yam suph, which many scholars translate as sea of reeds. The name Red Sea came from the Greek translation. Since reeds need fresh water, some think the crossing was at a marshy lake.",
    "In twenty ten, scientists used computer models to show that a strong all night wind could push water back and open a dry path in a shallow lagoon of the Nile delta. For believers, the timing is the miracle."
+  ],
+  "paintings": [
+   "Crossing of the Red Sea painting"
   ]
  },
  {
   "id": "saint-augustine",
   "hook": "Saint Augustine once prayed, make me pure, but not yet.",
-  "keywords": ["old book pages", "roman ruins", "garden trees sunlight", "pear tree fruit"],
+  "keywords": [
+   "old book pages",
+   "roman ruins",
+   "garden trees sunlight",
+   "pear tree fruit"
+  ],
   "hashtags": "#saintaugustine #saints #christianhistory #confessions",
   "facts": [
    "Augustine was born in three fifty four in North Africa, in what is now Algeria. His mother Monica was a devoted Christian, but his father was not, and young Augustine became a brilliant teacher of public speaking.",
    "His book Confessions is often called the first real autobiography in the West. He even confesses stealing pears from a neighbor's tree as a teenager, not because he was hungry, but for the thrill of it.",
    "Before his conversion, Augustine wanted to change but kept delaying. In Confessions he admits praying, give me chastity and self control, but not yet. He was afraid God would answer him too quickly.",
    "In a garden in Milan, Augustine heard a child singing, take up and read. He opened Paul's letters at random, read a verse about leaving his old life, and changed. He became one of the greatest thinkers in Christian history."
+  ],
+  "paintings": [
+   "Botticelli Saint Augustine in his study",
+   "Philippe de Champaigne Saint Augustine"
   ]
  }
 ]

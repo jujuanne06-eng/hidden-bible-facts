@@ -21,6 +21,8 @@ MAX_DOWNLOAD_MB = 40
 KEEP_CLIPS_DAYS = 30
 W, H, FPS = 1080, 1920, 30
 HEADERS = {"User-Agent": "hidden-bible-facts"}
+# Wikimedia asks every automated tool to name itself in the User-Agent
+COMMONS_HEADERS = {"User-Agent": "HiddenBibleFactsBot/1.0 (automated short-video maker; public-domain paintings only)"}
 
 
 def env_key(name):
@@ -87,24 +89,87 @@ def search(query, name, key):
     return results
 
 
+def search_paintings(query):
+    """Public-domain artworks on Wikimedia Commons for a search like 'Caravaggio Taking of Christ'.
+
+    Only files marked public domain are kept (old paintings: free to use, no credit required),
+    big enough to stay sharp in a vertical video. Cached for 7 days.
+    """
+    cache = load_json(SEARCH_CACHE, {})
+    entry = cache.get(f"commons:{query}")
+    if entry and time.time() - entry["time"] < 7 * 24 * 3600:
+        return entry["results"]
+    url = "https://commons.wikimedia.org/w/api.php?" + urllib.parse.urlencode(
+        {"action": "query", "format": "json", "generator": "search", "gsrnamespace": 6,
+         "gsrsearch": f"{query} filetype:bitmap", "gsrlimit": 8, "prop": "imageinfo",
+         "iiprop": "url|size|mime|extmetadata", "iiurlwidth": 2400})
+    for attempt in range(4):  # Wikimedia answers 429 "too many requests" when called too fast: wait and retry
+        try:
+            data = get_json(url, COMMONS_HEADERS)
+            break
+        except urllib.error.HTTPError as e:
+            if e.code != 429 or attempt == 3:
+                raise
+            time.sleep(int(e.headers.get("Retry-After") or 0) or 15 * (attempt + 1))
+    pages = sorted(data.get("query", {}).get("pages", {}).values(), key=lambda p: p.get("index", 99))
+    found = []
+    for page in pages:
+        info = (page.get("imageinfo") or [{}])[0]
+        meta = info.get("extmetadata", {})
+        license = (meta.get("License", {}).get("value", "") + " " +
+                   meta.get("LicenseShortName", {}).get("value", "")).lower()
+        if not ("public domain" in license or license.startswith("pd")):
+            continue
+        width, height = info.get("width", 0), info.get("height", 0)
+        if info.get("mime") not in ("image/jpeg", "image/png") or min(width, height) < 900:
+            continue
+        if max(width, height) > 2.5 * min(width, height):  # long scrolls and panoramas don't fit a vertical video
+            continue
+        found.append({"id": f"commons_{page['pageid']}", "url": info.get("thumburl") or info["url"],
+                      "title": page.get("title", ""), "width": info["width"], "height": info["height"]})
+    cache[f"commons:{query}"] = {"time": time.time(), "results": found}
+    SEARCH_CACHE.parent.mkdir(parents=True, exist_ok=True)
+    save_json(SEARCH_CACHE, cache)
+    return found
+
+
+def find_paintings(queries):
+    """The best public-domain painting for each search (a failed search is skipped).
+    Returns a list of (path, width, height)."""
+    paintings, used = [], set()
+    for n, q in enumerate(queries):
+        if n:
+            time.sleep(1)  # gentle with Wikimedia's servers
+        try:
+            hit = next((p for p in search_paintings(q) if p["id"] not in used), None)
+            if not hit:
+                print(f"No public-domain painting for '{q}'.")
+                continue
+            used.add(hit["id"])
+            paintings.append((download(hit, ext=".jpg", headers=COMMONS_HEADERS), hit["width"], hit["height"]))
+        except Exception as e:
+            print(f"Painting search '{q}' failed ({type(e).__name__}), skipping it.")
+    return paintings
+
+
 def clean_old_clips():
     """Delete clips not used for KEEP_CLIPS_DAYS days, so the folder doesn't keep growing."""
     if not CLIPS.exists():
         return
     limit = time.time() - KEEP_CLIPS_DAYS * 24 * 3600
-    for path in CLIPS.glob("*.mp4"):
+    for path in [*CLIPS.glob("*.mp4"), *CLIPS.glob("*.jpg")]:
         if path.stat().st_mtime < limit:
             path.unlink()
 
 
-def download(clip):
+def download(clip, ext=".mp4", headers=None):
     CLIPS.mkdir(parents=True, exist_ok=True)
-    path = CLIPS / f"{clip['id']}.mp4"
+    path = CLIPS / f"{clip['id']}{ext}"
     if path.exists():
         os.utime(path)  # mark as recently used so the cleanup keeps it
     else:
         tmp = path.with_suffix(".part")
-        with urllib.request.urlopen(urllib.request.Request(clip["url"], headers=HEADERS), timeout=600) as resp, \
+        with urllib.request.urlopen(urllib.request.Request(clip["url"], headers=headers or HEADERS), timeout=600) as resp, \
                 open(tmp, "wb") as f:
             while chunk := resp.read(1 << 20):
                 f.write(chunk)
@@ -215,11 +280,14 @@ def too_dark(path, limit=40):
     return False
 
 
-def build_background(keywords, durations, out_mp4, seed=""):
+def build_background(keywords, durations, out_mp4, seed="", paintings=()):
     """Make a silent 1080x1920 montage from shots of the given `durations` (seconds).
 
     Every shot gets its own camera move (zooms, pans, punch-in, tilt, handheld) and about one in four
     is in slow motion, so the background never feels static or repetitive.
+    `paintings` are Wikimedia Commons searches: the first shot and about one shot in three then show
+    a famous public-domain painting with a slow zoom or pan. With "crossfade_seconds" in the style,
+    shots blend into each other instead of cutting.
     Returns False if no stock-video key is set or no clip can be used.
     """
     name, _ = provider()
@@ -229,29 +297,51 @@ def build_background(keywords, durations, out_mp4, seed=""):
     clean_old_clips()
     count = len(durations)
     seconds = sum(durations)
-    clips = find_clips(keywords, math.ceil(count / CUTS_PER_CLIP))
-    if not clips:
+    art = find_paintings(paintings) if paintings else []
+    art_shots = {i for i in range(count) if art and i % PAINTING_EVERY == 0}
+    clips = find_clips(keywords, math.ceil((count - len(art_shots)) / CUTS_PER_CLIP))
+    if not clips and art:  # paintings alone are better than the plain background
+        art_shots = set(range(count))
+    elif not clips:
         print("No stock clips found: using the plain animated background.")
         return False
 
     rng = random.Random(f"{seed}-montage")
     ffmpeg = find_ffmpeg()
-    parts, previous = [], None
+    parts, previous, video_i, art_i = [], None, 0, 0
     for i, shot in enumerate(durations):
+        # every shot but the last is a bit longer: that extra part is where it blends into the next one
+        length = shot + (CROSSFADE if i < count - 1 else 0)
+        part = out_mp4.parent / f"part{i:02d}.mp4"
+        if i in art_shots:
+            path, width, height = art[(art_i // CUTS_PER_CLIP) % len(art)]
+            move = rng.choice([m for m in ["zoom_in", "zoom_out"] if m != previous] or ["zoom_in"])
+            previous, art_i = move, art_i + 1
+            # wide paintings are shown whole (cropping them to vertical cuts out the main scene),
+            # tall ones fill the screen; both with a slow zoom
+            vf = framed_painting(move, length) if width > height * 0.8 else camera_move(move, length, grade=PAINTING_GRADE)
+            done = subprocess.run([ffmpeg, "-y", "-loglevel", "error", "-loop", "1", "-framerate", str(FPS),
+                                   "-t", f"{length:.3f}", "-i", str(path),
+                                   "-filter_complex" if vf.startswith("[") else "-vf", vf, "-t", f"{length:.3f}",
+                                   "-an", "-c:v", "libx264", "-preset", "veryfast", "-crf", "18",
+                                   "-pix_fmt", "yuv420p", str(part)])
+            if done.returncode == 0 and part.exists():
+                parts.append(part)
+                continue
+            print(f"Broken painting {path.name}, using a video clip instead.")
         move = MOVES[0] if i == 0 else rng.choice([m for m in MOVES if m != previous])
         previous = move
         speed = SLOW_MOTION if i >= 2 and rng.random() < SLOW_MOTION_SHARE else 1.0
-        vf = camera_move(move, shot, speed)
-        part = out_mp4.parent / f"part{i:02d}.mp4"
+        vf = camera_move(move, length, speed)
         # if a clip is broken, delete it and use the next one instead
         for attempt in range(len(clips)):
-            path, duration = clips[(i // CUTS_PER_CLIP + attempt) % len(clips)]
-            need = shot * speed  # source seconds used (less in slow motion)
+            path, duration = clips[(video_i // CUTS_PER_CLIP + attempt) % len(clips)]
+            need = length * speed  # source seconds used (less in slow motion)
             # 1st shot skips the first second (often a fade-in); 2nd shot takes a later moment of the same clip
-            start = 1.0 + (i % CUTS_PER_CLIP) * 3.5
+            start = 1.0 + (video_i % CUTS_PER_CLIP) * 3.5
             start = min(start, max(0.0, duration - need - 0.2))
             done = subprocess.run([ffmpeg, "-y", "-loglevel", "error", "-ss", f"{start:.2f}", "-t", f"{need:.3f}",
-                                   "-i", str(path), "-vf", vf, "-t", f"{shot:.3f}", "-an", "-c:v", "libx264",
+                                   "-i", str(path), "-vf", vf, "-t", f"{length:.3f}", "-an", "-c:v", "libx264",
                                    "-preset", "veryfast", "-crf", "18", "-pix_fmt", "yuv420p", str(part)])
             if done.returncode == 0 and part.exists():
                 break
@@ -262,17 +352,39 @@ def build_background(keywords, durations, out_mp4, seed=""):
             for p in parts:
                 p.unlink(missing_ok=True)
             return False
+        video_i += 1
         parts.append(part)
 
-    concat_list = out_mp4.parent / "parts.txt"
-    concat_list.write_text("".join(f"file '{p.name}'\n" for p in parts), encoding="utf-8")
-    subprocess.run([ffmpeg, "-y", "-loglevel", "error", "-f", "concat", "-safe", "0", "-i", str(concat_list),
-                    "-t", f"{seconds:.2f}", "-c", "copy", str(out_mp4)], check=True)
+    join_parts(parts, durations, seconds, out_mp4)
     for p in parts:
         p.unlink()
-    concat_list.unlink()
-    print(f"Montage: {count} shots from {len(clips)} {name} clips")
+    print(f"Montage: {count} shots from {len(clips)} {name} clips and {len(art)} paintings")
     return True
+
+
+def join_parts(parts, durations, seconds, out_mp4):
+    """Put the shots end to end: a soft crossfade between shots, or plain cuts if crossfade_seconds is 0.
+    Each crossfade starts exactly where the next shot was planned, so new facts still start on a new shot."""
+    ffmpeg = find_ffmpeg()
+    if CROSSFADE <= 0 or len(parts) < 2:
+        concat_list = out_mp4.parent / "parts.txt"
+        concat_list.write_text("".join(f"file '{p.name}'\n" for p in parts), encoding="utf-8")
+        subprocess.run([ffmpeg, "-y", "-loglevel", "error", "-f", "concat", "-safe", "0", "-i", str(concat_list),
+                        "-t", f"{seconds:.2f}", "-c", "copy", str(out_mp4)], check=True)
+        concat_list.unlink()
+        return
+    chain, last, offset = [], "[0:v]", 0.0
+    for k in range(1, len(parts)):
+        offset += durations[k - 1]
+        out = f"[x{k}]" if k < len(parts) - 1 else "[v]"
+        chain.append(f"{last}[{k}:v]xfade=transition=fade:duration={CROSSFADE}:offset={offset:.3f}{out}")
+        last = out
+    cmd = [ffmpeg, "-y", "-loglevel", "error"]
+    for p in parts:
+        cmd += ["-i", str(p)]
+    cmd += ["-filter_complex", ";".join(chain), "-map", "[v]", "-t", f"{seconds:.2f}", "-an",
+            "-c:v", "libx264", "-preset", "veryfast", "-crf", "18", "-pix_fmt", "yuv420p", str(out_mp4)]
+    subprocess.run(cmd, check=True)
 
 
 STYLE = (load_config() or {}).get("style", {})  # look of the channel, see "style" in config.json
@@ -280,17 +392,33 @@ MOVES = STYLE.get("moves", ["zoom_in", "zoom_out", "punch_in", "pan_left", "pan_
 SLOW_MOTION = STYLE.get("slow_motion_speed", 0.75)  # slow-motion shots play the clip at 75% speed
 SLOW_MOTION_SHARE = STYLE.get("slow_motion_share", 0.25)  # about one shot in four
 GRADE = STYLE.get("grade", "eq=brightness=-0.06:saturation=1.15")
+PAINTING_GRADE = STYLE.get("painting_grade", GRADE)  # old paintings are often dark: they can get their own grade
+CROSSFADE = STYLE.get("crossfade_seconds", 0)  # 0 = hard cuts
+PAINTING_EVERY = STYLE.get("painting_every", 3)  # with paintings: shots 1, 4, 7... show a painting
 BW, BH = int(W * 1.2), int(H * 1.2)  # oversized frame, so pans / tilt / shake never show an edge
 
 
-def camera_move(move, shot, speed=1.0):
+def framed_painting(move, shot):
+    """FFmpeg filter for a wide painting: the whole painting across the screen, over a blurred and darker
+    copy of itself filling the vertical frame, then a slow zoom on everything."""
+    d = f"{shot:.3f}"
+    z = f"(1+0.08*t/{d})" if move == "zoom_in" else f"(1.08-0.08*t/{d})"
+    return (f"[0:v]{PAINTING_GRADE},split[a][b];"
+            f"[a]scale={W}:{H}:force_original_aspect_ratio=increase,crop={W}:{H},boxblur=40:2,"
+            f"eq=brightness=-0.18:saturation=0.8[bg];"
+            f"[b]scale={W - 40}:-2:flags=lanczos[fg];"
+            f"[bg][fg]overlay=(W-w)/2:(H-h)/2,"
+            f"scale=w='trunc({W}*{z}/2)*2':h='trunc({H}*{z}/2)*2':eval=frame,crop={W}:{H},fps={FPS},setsar=1")
+
+
+def camera_move(move, shot, speed=1.0, grade=None):
     """FFmpeg filter for one shot: fill the vertical frame, light grade, then a camera move.
 
     Note: in filter expressions a comma must be written as \\, (it separates filters otherwise).
     """
     d = f"{shot:.3f}"
     head = f"setpts=PTS/{speed}," if speed != 1.0 else ""
-    grade = GRADE  # color filters must come before per-frame scaling (eq after it crashes FFmpeg 9.0.2)
+    grade = grade or GRADE  # color filters must come before per-frame scaling (eq after it crashes FFmpeg 9.0.2)
     if move in ("zoom_in", "zoom_out", "punch_in"):
         z = {"zoom_in": f"(1+0.12*t/{d})",
              "zoom_out": f"(1.12-0.12*t/{d})",

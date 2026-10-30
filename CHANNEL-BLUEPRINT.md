@@ -157,8 +157,12 @@ around post times  (with links) or "❌ problem"; reminders "🔔" before a conn
 {"id": "<plan id>", "hook": "6-10 words, true, teased claim paid off by fact 3",
  "keywords": ["subject first, visual, specific", "...", "...", "..."],
  "hashtags": "#four #lowercase #topic #tags",
- "facts": ["30-43 words, ~37 on average", "30-43 words, ~37 on average", "30-43 words (the most surprising, explains the hook)", "bonus 30-43 words"]}
+ "facts": ["30-43 words, ~37 on average", "30-43 words, ~37 on average", "30-43 words (the most surprising, explains the hook)", "bonus 30-43 words"],
+ "paintings": ["Artist + exact artwork title, e.g. Caravaggio The Taking of Christ", "a second famous artwork"]}
 ```
+`paintings` (Hidden Bible Facts): 2-3 Wikimedia Commons searches for famous artworks of the topic, painted
+before about 1900 so they are public domain (Old Masters, Dore engravings, icons, 1890s photochroms of places).
+Name artist + title, not a vague subject. `[]` when nothing fits (e.g. Advent): the video then uses footage only.
 Writing rules for the voice: numbers in words, no digits, no symbols (% & $), no double quotes, no
 parentheses, no emojis, no abbreviations. Only well-established facts; say "scientists think" when unsure.
 

@@ -1,6 +1,7 @@
 """Merge written topics from content/*.json into topics.json, in the order of topic_plan.json.
 
-Each content file is a list of {"id", "hook", "keywords", "hashtags", "facts": [3 facts + 1 bonus]} (English).
+Each content file is a list of {"id", "hook", "keywords", "hashtags", "facts": [3 facts + 1 bonus]} (English),
+plus optional "paintings": 2-3 Wikimedia Commons searches for famous public-domain artworks of the topic.
 Also checks every topic and estimates its spoken length. Run: python src/add_content.py
 """
 import json
@@ -39,7 +40,8 @@ def main():
             continue
         topics.append({"id": p["id"], "category": p["category"], "title": {lang: p["title"]},
                        "keywords": item["keywords"], "hashtags": {lang: item["hashtags"]},
-                       "facts": {lang: item["facts"]}, **({"hook": {lang: item["hook"]}} if item.get("hook") else {})})
+                       "facts": {lang: item["facts"]}, **({"hook": {lang: item["hook"]}} if item.get("hook") else {}),
+                       **({"paintings": item["paintings"]} if item.get("paintings") else {})})
         # same hook as the video (older topics without one use the first sentence of fact 3)
         teaser = item.get("hook") or item["facts"][2].split(". ")[0].rstrip(".!?") + "."
         if len(teaser.split()) > 12:

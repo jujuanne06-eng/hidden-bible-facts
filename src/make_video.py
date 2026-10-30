@@ -542,7 +542,8 @@ def make_video(lang, topic_id=None, exclude=()):
     bg_mp4 = folder / "montage.mp4"
     print(f"[{lang}] Finding video clips...")
     durations, keys = cut_plan(total, spans, topic["id"])
-    has_footage = build_background(topic.get("keywords", []), durations, bg_mp4, topic["id"])
+    has_footage = build_background(topic.get("keywords", []), durations, bg_mp4, topic["id"],
+                                   paintings=topic.get("paintings", []))
     print(f"[{lang}] Rendering video ({len(words)} words, {total:.1f}s)...")
     badge_text = lang_cfg["badge"].format(title=title.upper())
     seconds = render(words, spans, folder / "voice.wav", video, lang_cfg, badge_text, topic["id"], total,
