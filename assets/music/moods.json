@@ -1,9 +1,20 @@
 {
-  "_help": "Each mood lists music files from this folder. Each category of the year plan uses one mood. The 3 tracks here are temporary (copied from Fun Facts): replace them with calm, cinematic tracks from Pixabay Music and list them below. New files not listed anywhere are used for every mood.",
+  "_help": "Each mood lists music files from this folder. Each category of the year plan uses one mood. A track can be in several moods. New files not listed anywhere are used for every mood. Tracks shorter than the video (about 80 s) are skipped automatically.",
   "moods": {
-    "mysterious": ["romansenykmusic-a-curious-discovery-243799.mp3"],
-    "epic": ["romansenykmusic-a-curious-discovery-243799.mp3", "mmaudio-start-somewhere-good-512524.mp3"],
-    "peaceful": ["mmaudio-start-somewhere-good-512524.mp3", "alex-morgan-lofi-sunny-cafe-568156.mp3"]
+    "epic": [
+      "good_b_music-epic-hollywood-trailer-9489.mp3",
+      "sonican-epic-orchestral-music-dramatic-loop-467131.mp3",
+      "the_mountain-epic-508009.mp3"
+    ],
+    "mysterious": [
+      "vjgalaxy-epic-gregorian-choir-cinematic-soundtrack-355524.mp3",
+      "the_mountain-epic-508009.mp3",
+      "sonican-epic-mystery-choir-60-seconds-579934.mp3"
+    ],
+    "peaceful": [
+      "good_b_music-seventh-day-567057.mp3",
+      "vjgalaxy-epic-gregorian-choir-cinematic-soundtrack-355524.mp3"
+    ]
   },
   "categories": {
     "Old Testament people": "epic",
