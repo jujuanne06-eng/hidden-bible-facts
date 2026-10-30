@@ -1,7 +1,7 @@
 # Hidden Bible Facts
 
-> **Status (30 Oct 2026):** built and tested on the PC, in **draft** mode. Not on GitHub yet: waiting for the
-> channel's own GitHub login, TikTok + Instagram accounts, Zernio answer, Pixabay key and music tracks.
+> **Status:** LIVE since 31 Oct 2026 (2 public videos a day, ~8:00 and ~20:00 Paris). TikTok + Instagram
+> `hidden_bible_facts_real`, repo `jujuanne06-eng/hidden-bible-facts`, weekly writing task every Monday 08:30 Paris.
 
 Makes vertical "3 hidden facts: ___ (+ a bonus)" Christianity videos (real stock footage, AI voice,
 animated captions) and sends the same video to TikTok + Instagram through **Zernio**.

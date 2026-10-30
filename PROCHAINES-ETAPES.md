@@ -1,5 +1,7 @@
 # Hidden Bible Facts : prochaines étapes
 
+> ✅ **Tout est fait : la chaîne est en ligne depuis le 31 octobre 2026.** Ce fichier reste comme historique.
+
 Suivi des étapes du blueprint (`CHANNEL-BLUEPRINT.md`, section 3) pour cette chaîne.
 ✅ = fait · 👤 = à faire par toi · 🤖 = je le fais quand tu me dis que c'est prêt
 
