@@ -157,7 +157,7 @@ around post times  (with links) or "❌ problem"; reminders "🔔" before a conn
 {"id": "<plan id>", "hook": "6-10 words, true, teased claim paid off by fact 3",
  "keywords": ["subject first, visual, specific", "...", "...", "..."],
  "hashtags": "#four #lowercase #topic #tags",
- "facts": ["45-60 words", "45-60 words", "45-60 words (the most surprising, explains the hook)", "bonus 45-60 words"]}
+ "facts": ["30-43 words, ~37 on average", "30-43 words, ~37 on average", "30-43 words (the most surprising, explains the hook)", "bonus 30-43 words"]}
 ```
 Writing rules for the voice: numbers in words, no digits, no symbols (% & $), no double quotes, no
 parentheses, no emojis, no abbreviations. Only well-established facts; say "scientists think" when unsure.
@@ -231,7 +231,7 @@ tools `Bash, Read, Write, Edit, Glob, Grep, WebSearch, WebFetch`, then `clear_mc
 Copy the current prompt from the existing routine "Fun facts - write next topics" (RemoteTrigger `get`
 `trig_015K6jsrb5fKSc766tFZWhys`) and change only the niche description and examples. Its key steps:
 1. If ≥ 100 written-but-unused topics: stop. 2. Take the next 60 plan topics without content.
-3. Write `content/monthNN.json` (hook 6–10 words, 4 facts of 45–60 words, keyword and hashtag rules).
+3. Write `content/monthNN.json` (hook 6–10 words, 4 facts of 30–43 words (~37 avg; 45–60 made 94 s videos), keyword and hashtag rules).
 4. Fact-check every fact and hook with WebSearch. 5. Run `python3 src/add_content.py` until clean.
 6. Commit only `content/` + `topics.json`, `git pull --rebase`, push to main.
 
