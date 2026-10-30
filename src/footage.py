@@ -308,7 +308,7 @@ def build_background(keywords, durations, out_mp4, seed="", paintings=()):
 
     rng = random.Random(f"{seed}-montage")
     ffmpeg = find_ffmpeg()
-    parts, previous, video_i, art_i = [], None, 0, 0
+    parts, previous, video_i, art_i, stills = [], None, 0, 0, {}
     for i, shot in enumerate(durations):
         # every shot but the last is a bit longer: that extra part is where it blends into the next one
         length = shot + (CROSSFADE if i < count - 1 else 0)
@@ -317,15 +317,13 @@ def build_background(keywords, durations, out_mp4, seed="", paintings=()):
             path, width, height = art[(art_i // CUTS_PER_CLIP) % len(art)]
             move = rng.choice([m for m in ["zoom_in", "zoom_out"] if m != previous] or ["zoom_in"])
             previous, art_i = move, art_i + 1
-            # wide paintings are shown whole (cropping them to vertical cuts out the main scene),
-            # tall ones fill the screen; both with a slow zoom
-            vf = framed_painting(move, length) if width > height * 0.8 else camera_move(move, length, grade=PAINTING_GRADE)
+            if path not in stills:  # the painting doesn't move: grade, blur and frame it once, then only zoom
+                stills[path] = painting_still(path, width, height, out_mp4.parent / f"still{len(stills)}.png")
             done = subprocess.run([ffmpeg, "-y", "-loglevel", "error", "-loop", "1", "-framerate", str(FPS),
-                                   "-t", f"{length:.3f}", "-i", str(path),
-                                   "-filter_complex" if vf.startswith("[") else "-vf", vf, "-t", f"{length:.3f}",
-                                   "-an", "-c:v", "libx264", "-preset", "veryfast", "-crf", "18",
-                                   "-pix_fmt", "yuv420p", str(part)])
-            if done.returncode == 0 and part.exists():
+                                   "-t", f"{length:.3f}", "-i", str(stills[path]),
+                                   "-vf", slow_zoom(move, length), "-t", f"{length:.3f}", "-an", *FAST_ENCODE,
+                                   str(part)]) if stills[path] else None
+            if done and done.returncode == 0 and part.exists():
                 parts.append(part)
                 continue
             print(f"Broken painting {path.name}, using a video clip instead.")
@@ -341,8 +339,8 @@ def build_background(keywords, durations, out_mp4, seed="", paintings=()):
             start = 1.0 + (video_i % CUTS_PER_CLIP) * 3.5
             start = min(start, max(0.0, duration - need - 0.2))
             done = subprocess.run([ffmpeg, "-y", "-loglevel", "error", "-ss", f"{start:.2f}", "-t", f"{need:.3f}",
-                                   "-i", str(path), "-vf", vf, "-t", f"{length:.3f}", "-an", "-c:v", "libx264",
-                                   "-preset", "veryfast", "-crf", "18", "-pix_fmt", "yuv420p", str(part)])
+                                   "-i", str(path), "-vf", vf, "-t", f"{length:.3f}", "-an", *FAST_ENCODE,
+                                   str(part)])
             if done.returncode == 0 and part.exists():
                 break
             print(f"Broken clip {path.name}, using another one.")
@@ -356,7 +354,7 @@ def build_background(keywords, durations, out_mp4, seed="", paintings=()):
         parts.append(part)
 
     join_parts(parts, durations, seconds, out_mp4)
-    for p in parts:
+    for p in [*parts, *(s for s in stills.values() if s)]:
         p.unlink()
     print(f"Montage: {count} shots from {len(clips)} {name} clips and {len(art)} paintings")
     return True
@@ -383,7 +381,7 @@ def join_parts(parts, durations, seconds, out_mp4):
     for p in parts:
         cmd += ["-i", str(p)]
     cmd += ["-filter_complex", ";".join(chain), "-map", "[v]", "-t", f"{seconds:.2f}", "-an",
-            "-c:v", "libx264", "-preset", "veryfast", "-crf", "18", "-pix_fmt", "yuv420p", str(out_mp4)]
+            *FAST_ENCODE, str(out_mp4)]
     subprocess.run(cmd, check=True)
 
 
@@ -398,17 +396,32 @@ PAINTING_EVERY = STYLE.get("painting_every", 3)  # with paintings: shots 1, 4, 7
 BW, BH = int(W * 1.2), int(H * 1.2)  # oversized frame, so pans / tilt / shake never show an edge
 
 
-def framed_painting(move, shot):
-    """FFmpeg filter for a wide painting: the whole painting across the screen, over a blurred and darker
-    copy of itself filling the vertical frame, then a slow zoom on everything."""
+# intermediate shots are re-encoded once more for the final video: encode them fast, at high quality
+FAST_ENCODE = ["-c:v", "libx264", "-preset", "ultrafast", "-crf", "16", "-pix_fmt", "yuv420p"]
+
+
+def painting_still(path, width, height, out_png):
+    """One graded 1080x1920 picture of a painting. Wide paintings are shown whole (cropping them to vertical
+    cuts out the main scene) over a blurred, darker copy of themselves; tall ones fill the frame.
+    Returns the picture's path, or None if FFmpeg can't read the painting."""
+    if width > height * 0.8:
+        graph = ["-filter_complex",
+                 f"[0:v]{PAINTING_GRADE},split[a][b];"
+                 f"[a]scale={W}:{H}:force_original_aspect_ratio=increase,crop={W}:{H},boxblur=40:2,"
+                 f"eq=brightness=-0.18:saturation=0.8[bg];"
+                 f"[b]scale={W - 40}:-2:flags=lanczos[fg];[bg][fg]overlay=(W-w)/2:(H-h)/2"]
+    else:
+        graph = ["-vf", f"scale={W}:{H}:force_original_aspect_ratio=increase:flags=lanczos,crop={W}:{H},{PAINTING_GRADE}"]
+    done = subprocess.run([find_ffmpeg(), "-y", "-loglevel", "error", "-i", str(path), *graph,
+                           "-frames:v", "1", str(out_png)])
+    return out_png if done.returncode == 0 and out_png.exists() else None
+
+
+def slow_zoom(move, shot):
+    """FFmpeg filter: a slow 8% zoom in or out on a still picture."""
     d = f"{shot:.3f}"
     z = f"(1+0.08*t/{d})" if move == "zoom_in" else f"(1.08-0.08*t/{d})"
-    return (f"[0:v]{PAINTING_GRADE},split[a][b];"
-            f"[a]scale={W}:{H}:force_original_aspect_ratio=increase,crop={W}:{H},boxblur=40:2,"
-            f"eq=brightness=-0.18:saturation=0.8[bg];"
-            f"[b]scale={W - 40}:-2:flags=lanczos[fg];"
-            f"[bg][fg]overlay=(W-w)/2:(H-h)/2,"
-            f"scale=w='trunc({W}*{z}/2)*2':h='trunc({H}*{z}/2)*2':eval=frame,crop={W}:{H},fps={FPS},setsar=1")
+    return f"scale=w='trunc({W}*{z}/2)*2':h='trunc({H}*{z}/2)*2':eval=frame,crop={W}:{H},fps={FPS},setsar=1"
 
 
 def camera_move(move, shot, speed=1.0, grade=None):
