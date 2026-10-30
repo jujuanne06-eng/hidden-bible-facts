@@ -4,7 +4,7 @@ name: Daily Hidden Bible Facts videos
 
 on:
   schedule:
-    - cron: "20 4 * * *"   # 04:20 UTC = 05:20 Paris in winter, 06:00 in summer (GitHub may start a bit late)
+    - cron: "20 4 * * *"   # 04:20 UTC = 05:20 Paris in winter, 06:20 in summer (GitHub may start a bit late)
     - cron: "50 6 * * *"  # backup in case GitHub skipped the first one; it skips slots already sent today
   workflow_dispatch:     # "Run workflow" button for tests
     inputs:
