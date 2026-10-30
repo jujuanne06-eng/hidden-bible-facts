@@ -10,7 +10,7 @@ from datetime import date, timedelta
 
 from common import ROOT, save_json
 
-START = date(2026, 11, 9)
+START = date(2026, 10, 31)
 SLOTS = ["08:00", "20:00"]
 
 CATEGORIES = {
@@ -179,8 +179,10 @@ SEASONAL = {
     "easter": "2027-03-28", "the-resurrection-of-jesus": "2027-03-28", "the-empty-tomb": "2027-03-29",
     "saint-george": "2027-04-23", "orthodox-easter": "2027-05-02", "the-ascension": "2027-05-06",
     "pentecost": "2027-05-16", "corpus-christi": "2027-05-27", "the-feast-of-the-assumption": "2027-08-15",
-    "saint-francis-of-assisi": "2027-10-04", "halloween": "2027-10-31", "reformation-day": "2027-10-31",
-    "all-saints-day": "2027-11-01", "all-souls-day": "2027-11-02",
+    "saint-francis-of-assisi": "2027-10-04",
+    # the channel starts on 31 October 2026: these open the year on their real dates
+    "halloween": "2026-10-31", "reformation-day": "2026-10-31", "all-saints-day": "2026-11-01",
+    "all-souls-day": "2026-11-02",
 }
 
 

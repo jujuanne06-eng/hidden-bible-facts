@@ -1,5 +1,96 @@
 [
   {
+    "id": "halloween",
+    "category": "Traditions and holidays",
+    "title": {
+      "en": "Halloween"
+    },
+    "keywords": [
+      "candles burning church",
+      "autumn cemetery",
+      "autumn leaves falling",
+      "old stone chapel"
+    ],
+    "hashtags": {
+      "en": "#halloween #allhallowseve #christianhistory #traditions"
+    },
+    "facts": {
+      "en": [
+        "The word Halloween is short for All Hallows' Eve. Hallow is an old English word for saint, so Halloween simply means the evening before All Saints' Day, which is celebrated on the first of November.",
+        "Many historians think some Halloween customs go back to Samhain, an ancient Celtic festival at the end of the harvest, when people believed the boundary with the world of the dead grew thin. Others stress its Christian roots.",
+        "In the seven hundreds, Pope Gregory the Third dedicated a chapel in Rome to all the saints on the first of November. The feast later spread across the whole Church, and the night before it became All Hallows' Eve.",
+        "Trick or treat may have a Christian ancestor called souling. In medieval England, poor people and children went from door to door around All Souls' Day, offering prayers for the dead in exchange for small cakes called soul cakes."
+      ]
+    },
+    "hook": {
+      "en": "Halloween began as the eve of a Christian feast."
+    },
+    "paintings": [
+      "Durer Adoration of the Trinity"
+    ]
+  },
+  {
+    "id": "reformation-day",
+    "category": "Traditions and holidays",
+    "title": {
+      "en": "Reformation Day"
+    },
+    "keywords": [
+      "old church door",
+      "wittenberg church",
+      "printing press",
+      "old book candle"
+    ],
+    "hashtags": {
+      "en": "#reformation #martinluther #churchhistory #protestant"
+    },
+    "facts": {
+      "en": [
+        "Reformation Day is celebrated on the thirty first of October. It remembers the day in fifteen seventeen when the monk Martin Luther sent his Ninety-Five Theses, a list of arguments against the sale of indulgences, to his archbishop.",
+        "Indulgences were documents promising less punishment for sins after death. A preacher named Johann Tetzel was famous for selling them in Germany, and a saying was linked to him: as soon as the coin in the coffer rings, the soul from purgatory springs.",
+        "The famous image of Luther hammering his theses onto the church door in Wittenberg comes from later accounts. In the nineteen sixties, a historian argued it never happened, and scholars still debate it. What is certain is that Luther mailed them.",
+        "Thanks to the new printing press, Luther's ideas spread across Germany in just a few weeks. Later, while hiding in Wartburg Castle, he translated the whole New Testament into German in only about eleven weeks."
+      ]
+    },
+    "hook": {
+      "en": "Luther may never have nailed his theses to a door."
+    },
+    "paintings": [
+      "Lucas Cranach Martin Luther portrait"
+    ]
+  },
+  {
+    "id": "all-saints-day",
+    "category": "Traditions and holidays",
+    "title": {
+      "en": "All Saints' Day"
+    },
+    "keywords": [
+      "cemetery candles",
+      "chrysanthemum flowers",
+      "church candles",
+      "autumn church"
+    ],
+    "hashtags": {
+      "en": "#allsaintsday #saints #catholic #traditions"
+    },
+    "facts": {
+      "en": [
+        "All Saints' Day is celebrated on the first of November by Catholics and many Protestants. In France, Italy, Spain, Poland and other countries it is a public holiday, and families visit cemeteries and decorate graves with flowers.",
+        "In Poland, cemeteries glow on All Saints' Day. Millions of people light candles in little glass lanterns on the graves, and whole hillsides of tombs shine with thousands of tiny flames after dark.",
+        "The feast is not only for famous saints who have their own day. It honors all the faithful in heaven, known and unknown, including ordinary people whose holiness was never officially recognized by any church.",
+        "Orthodox Christians also have a feast of All Saints, but on a different day. They celebrate it on the first Sunday after Pentecost, so its date changes every year, just like Easter."
+      ]
+    },
+    "hook": {
+      "en": "All Saints' Day honors saints nobody has ever heard of."
+    },
+    "paintings": [
+      "Fra Angelico Forerunners of Christ with Saints and Martyrs",
+      "Durer Adoration of the Trinity"
+    ]
+  },
+  {
     "id": "noahs-ark",
     "category": "Bible stories",
     "title": {
@@ -28,6 +119,36 @@
     "paintings": [
       "Edward Hicks Noah's Ark",
       "Jacopo Bassano animals entering the Ark"
+    ]
+  },
+  {
+    "id": "all-souls-day",
+    "category": "Traditions and holidays",
+    "title": {
+      "en": "All Souls' Day"
+    },
+    "keywords": [
+      "memorial candles",
+      "marigold flowers",
+      "old cemetery",
+      "church bell tower"
+    ],
+    "hashtags": {
+      "en": "#allsoulsday #dayofthedead #catholic #traditions"
+    },
+    "facts": {
+      "en": [
+        "All Souls' Day falls on the second of November. While All Saints' Day celebrates those already in heaven, this day is for praying for all the faithful who have died, and remembering family members who are gone.",
+        "In Mexico, these days are part of the Day of the Dead. Families build colorful altars with photos, candles, marigold flowers and the favorite foods of loved ones who have died, mixing old local traditions with Catholic feasts.",
+        "The feast was started around the year nine hundred and ninety eight by Odilo, the abbot of the great monastery of Cluny in France. He asked his monks to pray for all the dead on that day, and the custom spread across Europe.",
+        "In parts of Europe, people once left a lit candle in the window on All Souls' night. In some places church bells rang for hours, and soul cakes were given to the poor, who promised to pray for the dead in return."
+      ]
+    },
+    "hook": {
+      "en": "All Souls' Day was started by a medieval monk."
+    },
+    "paintings": [
+      "Bouguereau Day of the Dead"
     ]
   },
   {
@@ -1221,33 +1342,6 @@
     ]
   },
   {
-    "id": "advent",
-    "category": "Traditions and holidays",
-    "title": {
-      "en": "Advent"
-    },
-    "keywords": [
-      "advent candles",
-      "christmas lights",
-      "advent calendar",
-      "winter snow church"
-    ],
-    "hashtags": {
-      "en": "#advent #christmas #christiantraditions #adventcalendar"
-    },
-    "facts": {
-      "en": [
-        "Advent comes from the Latin word adventus, which means coming or arrival. It is the season of waiting before Christmas, and it begins on the fourth Sunday before Christmas Day.",
-        "Advent is also the start of the Christian year. For many churches, the new church calendar begins on the first Sunday of Advent, not on the first of January.",
-        "In the Middle Ages, Advent was a time of fasting, a bit like Lent. In parts of Europe it started on the eleventh of November, the feast of Saint Martin, so it was even called Saint Martin's Lent.",
-        "The first Advent calendars appeared in Germany in the eighteen hundreds. Families drew chalk lines on a door or lit a candle each day. Printed calendars with little doors came in the early nineteen hundreds."
-      ]
-    },
-    "hook": {
-      "en": "Advent was once a time of fasting, like Lent."
-    }
-  },
-  {
     "id": "the-king-james-bible",
     "category": "Church history",
     "title": {
@@ -1277,33 +1371,6 @@
       "King James Bible 1611 title page",
       "King James I of England portrait"
     ]
-  },
-  {
-    "id": "the-advent-wreath",
-    "category": "Traditions and holidays",
-    "title": {
-      "en": "the Advent wreath"
-    },
-    "keywords": [
-      "advent wreath candles",
-      "pine branches",
-      "candle flame",
-      "christmas decoration"
-    ],
-    "hashtags": {
-      "en": "#adventwreath #advent #christmas #traditions"
-    },
-    "facts": {
-      "en": [
-        "An Advent wreath is a circle of evergreen branches with four candles, one lit on each Sunday of Advent. The circle, with no beginning and no end, is often seen as a symbol of eternal life.",
-        "In many traditions, three candles are purple and one is pink. The pink one is lit on the third Sunday, called Gaudete Sunday, from a Latin word meaning rejoice, because Christmas is getting close.",
-        "The Advent wreath was invented in eighteen thirty nine by Johann Hinrich Wichern, a German pastor who ran a home for poor children. The children kept asking when Christmas would come, so he put candles on an old cartwheel.",
-        "Wichern's wheel had a small candle for each weekday and a big one for each Sunday, so the children could count down every single day. Later, families kept only the four big Sunday candles."
-      ]
-    },
-    "hook": {
-      "en": "The first Advent wreath was made from a cartwheel."
-    }
   },
   {
     "id": "mount-sinai",
@@ -1643,37 +1710,6 @@
     ]
   },
   {
-    "id": "saint-nicholas",
-    "category": "Saints",
-    "title": {
-      "en": "Saint Nicholas"
-    },
-    "keywords": [
-      "santa claus christmas",
-      "gold coins",
-      "christmas stockings fireplace",
-      "old church italy"
-    ],
-    "hashtags": {
-      "en": "#saintnicholas #santaclaus #christmas #saints"
-    },
-    "facts": {
-      "en": [
-        "Saint Nicholas was a real bishop who lived in the three hundreds in Myra, in what is now Turkey. Stories of his kindness and secret gifts slowly turned him into Santa Claus.",
-        "The most famous legend says a poor man could not pay for his three daughters to marry. At night, Nicholas secretly threw bags of gold through their window, and in some versions, one landed in a stocking.",
-        "In ten eighty seven, sailors from Bari, Italy, took most of his bones from Myra to their city. Since then, a clear liquid called manna collects in his tomb, and every year it is gathered and shared with pilgrims.",
-        "In twenty seventeen, Oxford researchers carbon dated a bone fragment said to belong to Saint Nicholas. The result pointed to the fourth century, the time he lived, so the relic could be genuine."
-      ]
-    },
-    "hook": {
-      "en": "Saint Nicholas's bones give off a mysterious liquid."
-    },
-    "paintings": [
-      "Saint Nicholas icon",
-      "Gentile da Fabriano Saint Nicholas dowry"
-    ]
-  },
-  {
     "id": "the-annunciation",
     "category": "Bible stories",
     "title": {
@@ -1732,6 +1768,33 @@
     }
   },
   {
+    "id": "advent",
+    "category": "Traditions and holidays",
+    "title": {
+      "en": "Advent"
+    },
+    "keywords": [
+      "advent candles",
+      "christmas lights",
+      "advent calendar",
+      "winter snow church"
+    ],
+    "hashtags": {
+      "en": "#advent #christmas #christiantraditions #adventcalendar"
+    },
+    "facts": {
+      "en": [
+        "Advent comes from the Latin word adventus, which means coming or arrival. It is the season of waiting before Christmas, and it begins on the fourth Sunday before Christmas Day.",
+        "Advent is also the start of the Christian year. For many churches, the new church calendar begins on the first Sunday of Advent, not on the first of January.",
+        "In the Middle Ages, Advent was a time of fasting, a bit like Lent. In parts of Europe it started on the eleventh of November, the feast of Saint Martin, so it was even called Saint Martin's Lent.",
+        "The first Advent calendars appeared in Germany in the eighteen hundreds. Families drew chalk lines on a door or lit a candle each day. Printed calendars with little doors came in the early nineteen hundreds."
+      ]
+    },
+    "hook": {
+      "en": "Advent was once a time of fasting, like Lent."
+    }
+  },
+  {
     "id": "the-archangel-michael",
     "category": "Symbols and mysteries",
     "title": {
@@ -1761,6 +1824,33 @@
       "Raphael Saint Michael vanquishing Satan",
       "Guido Reni Archangel Michael"
     ]
+  },
+  {
+    "id": "the-advent-wreath",
+    "category": "Traditions and holidays",
+    "title": {
+      "en": "the Advent wreath"
+    },
+    "keywords": [
+      "advent wreath candles",
+      "pine branches",
+      "candle flame",
+      "christmas decoration"
+    ],
+    "hashtags": {
+      "en": "#adventwreath #advent #christmas #traditions"
+    },
+    "facts": {
+      "en": [
+        "An Advent wreath is a circle of evergreen branches with four candles, one lit on each Sunday of Advent. The circle, with no beginning and no end, is often seen as a symbol of eternal life.",
+        "In many traditions, three candles are purple and one is pink. The pink one is lit on the third Sunday, called Gaudete Sunday, from a Latin word meaning rejoice, because Christmas is getting close.",
+        "The Advent wreath was invented in eighteen thirty nine by Johann Hinrich Wichern, a German pastor who ran a home for poor children. The children kept asking when Christmas would come, so he put candles on an old cartwheel.",
+        "Wichern's wheel had a small candle for each weekday and a big one for each Sunday, so the children could count down every single day. Later, families kept only the four big Sunday candles."
+      ]
+    },
+    "hook": {
+      "en": "The first Advent wreath was made from a cartwheel."
+    }
   },
   {
     "id": "lazarus",
@@ -1822,6 +1912,37 @@
     "paintings": [
       "Michelangelo Separation of Light from Darkness",
       "Michelangelo Creation of the Sun and Moon"
+    ]
+  },
+  {
+    "id": "saint-nicholas",
+    "category": "Saints",
+    "title": {
+      "en": "Saint Nicholas"
+    },
+    "keywords": [
+      "santa claus christmas",
+      "gold coins",
+      "christmas stockings fireplace",
+      "old church italy"
+    ],
+    "hashtags": {
+      "en": "#saintnicholas #santaclaus #christmas #saints"
+    },
+    "facts": {
+      "en": [
+        "Saint Nicholas was a real bishop who lived in the three hundreds in Myra, in what is now Turkey. Stories of his kindness and secret gifts slowly turned him into Santa Claus.",
+        "The most famous legend says a poor man could not pay for his three daughters to marry. At night, Nicholas secretly threw bags of gold through their window, and in some versions, one landed in a stocking.",
+        "In ten eighty seven, sailors from Bari, Italy, took most of his bones from Myra to their city. Since then, a clear liquid called manna collects in his tomb, and every year it is gathered and shared with pilgrims.",
+        "In twenty seventeen, Oxford researchers carbon dated a bone fragment said to belong to Saint Nicholas. The result pointed to the fourth century, the time he lived, so the relic could be genuine."
+      ]
+    },
+    "hook": {
+      "en": "Saint Nicholas's bones give off a mysterious liquid."
+    },
+    "paintings": [
+      "Saint Nicholas icon",
+      "Gentile da Fabriano Saint Nicholas dowry"
     ]
   }
 ]

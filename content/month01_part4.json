@@ -1,0 +1,54 @@
+[
+ {
+  "id": "halloween",
+  "hook": "Halloween began as the eve of a Christian feast.",
+  "keywords": ["candles burning church", "autumn cemetery", "autumn leaves falling", "old stone chapel"],
+  "hashtags": "#halloween #allhallowseve #christianhistory #traditions",
+  "facts": [
+   "The word Halloween is short for All Hallows' Eve. Hallow is an old English word for saint, so Halloween simply means the evening before All Saints' Day, which is celebrated on the first of November.",
+   "Many historians think some Halloween customs go back to Samhain, an ancient Celtic festival at the end of the harvest, when people believed the boundary with the world of the dead grew thin. Others stress its Christian roots.",
+   "In the seven hundreds, Pope Gregory the Third dedicated a chapel in Rome to all the saints on the first of November. The feast later spread across the whole Church, and the night before it became All Hallows' Eve.",
+   "Trick or treat may have a Christian ancestor called souling. In medieval England, poor people and children went from door to door around All Souls' Day, offering prayers for the dead in exchange for small cakes called soul cakes."
+  ],
+  "paintings": ["Durer Adoration of the Trinity"]
+ },
+ {
+  "id": "reformation-day",
+  "hook": "Luther may never have nailed his theses to a door.",
+  "keywords": ["old church door", "wittenberg church", "printing press", "old book candle"],
+  "hashtags": "#reformation #martinluther #churchhistory #protestant",
+  "facts": [
+   "Reformation Day is celebrated on the thirty first of October. It remembers the day in fifteen seventeen when the monk Martin Luther sent his Ninety-Five Theses, a list of arguments against the sale of indulgences, to his archbishop.",
+   "Indulgences were documents promising less punishment for sins after death. A preacher named Johann Tetzel was famous for selling them in Germany, and a saying was linked to him: as soon as the coin in the coffer rings, the soul from purgatory springs.",
+   "The famous image of Luther hammering his theses onto the church door in Wittenberg comes from later accounts. In the nineteen sixties, a historian argued it never happened, and scholars still debate it. What is certain is that Luther mailed them.",
+   "Thanks to the new printing press, Luther's ideas spread across Germany in just a few weeks. Later, while hiding in Wartburg Castle, he translated the whole New Testament into German in only about eleven weeks."
+  ],
+  "paintings": ["Lucas Cranach Martin Luther portrait"]
+ },
+ {
+  "id": "all-saints-day",
+  "hook": "All Saints' Day honors saints nobody has ever heard of.",
+  "keywords": ["cemetery candles", "chrysanthemum flowers", "church candles", "autumn church"],
+  "hashtags": "#allsaintsday #saints #catholic #traditions",
+  "facts": [
+   "All Saints' Day is celebrated on the first of November by Catholics and many Protestants. In France, Italy, Spain, Poland and other countries it is a public holiday, and families visit cemeteries and decorate graves with flowers.",
+   "In Poland, cemeteries glow on All Saints' Day. Millions of people light candles in little glass lanterns on the graves, and whole hillsides of tombs shine with thousands of tiny flames after dark.",
+   "The feast is not only for famous saints who have their own day. It honors all the faithful in heaven, known and unknown, including ordinary people whose holiness was never officially recognized by any church.",
+   "Orthodox Christians also have a feast of All Saints, but on a different day. They celebrate it on the first Sunday after Pentecost, so its date changes every year, just like Easter."
+  ],
+  "paintings": ["Fra Angelico Forerunners of Christ with Saints and Martyrs", "Durer Adoration of the Trinity"]
+ },
+ {
+  "id": "all-souls-day",
+  "hook": "All Souls' Day was started by a medieval monk.",
+  "keywords": ["memorial candles", "marigold flowers", "old cemetery", "church bell tower"],
+  "hashtags": "#allsoulsday #dayofthedead #catholic #traditions",
+  "facts": [
+   "All Souls' Day falls on the second of November. While All Saints' Day celebrates those already in heaven, this day is for praying for all the faithful who have died, and remembering family members who are gone.",
+   "In Mexico, these days are part of the Day of the Dead. Families build colorful altars with photos, candles, marigold flowers and the favorite foods of loved ones who have died, mixing old local traditions with Catholic feasts.",
+   "The feast was started around the year nine hundred and ninety eight by Odilo, the abbot of the great monastery of Cluny in France. He asked his monks to pray for all the dead on that day, and the custom spread across Europe.",
+   "In parts of Europe, people once left a lit candle in the window on All Souls' night. In some places church bells rang for hours, and soul cakes were given to the poor, who promised to pray for the dead in return."
+  ],
+  "paintings": ["Bouguereau Day of the Dead"]
+ }
+]

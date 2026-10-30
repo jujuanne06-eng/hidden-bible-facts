@@ -1,326 +1,470 @@
 [
   {
     "n": 1,
-    "date": "2026-11-09",
+    "date": "2026-10-31",
     "time": "08:00",
+    "id": "halloween",
+    "category": "Traditions and holidays",
+    "title": "Halloween"
+  },
+  {
+    "n": 2,
+    "date": "2026-10-31",
+    "time": "20:00",
+    "id": "reformation-day",
+    "category": "Traditions and holidays",
+    "title": "Reformation Day"
+  },
+  {
+    "n": 3,
+    "date": "2026-11-01",
+    "time": "08:00",
+    "id": "all-saints-day",
+    "category": "Traditions and holidays",
+    "title": "All Saints' Day"
+  },
+  {
+    "n": 4,
+    "date": "2026-11-01",
+    "time": "20:00",
     "id": "noahs-ark",
     "category": "Bible stories",
     "title": "Noah's Ark"
   },
   {
-    "n": 2,
-    "date": "2026-11-09",
+    "n": 5,
+    "date": "2026-11-02",
+    "time": "08:00",
+    "id": "all-souls-day",
+    "category": "Traditions and holidays",
+    "title": "All Souls' Day"
+  },
+  {
+    "n": 6,
+    "date": "2026-11-02",
     "time": "20:00",
     "id": "the-dead-sea-scrolls",
     "category": "Church history",
     "title": "the Dead Sea Scrolls"
   },
   {
-    "n": 3,
-    "date": "2026-11-10",
+    "n": 7,
+    "date": "2026-11-03",
     "time": "08:00",
     "id": "moses",
     "category": "Old Testament people",
     "title": "Moses"
   },
   {
-    "n": 4,
-    "date": "2026-11-10",
+    "n": 8,
+    "date": "2026-11-03",
     "time": "20:00",
     "id": "notre-dame-de-paris",
     "category": "Churches and cathedrals",
     "title": "Notre-Dame de Paris"
   },
   {
-    "n": 5,
-    "date": "2026-11-11",
+    "n": 9,
+    "date": "2026-11-04",
     "time": "08:00",
     "id": "the-garden-of-eden",
     "category": "Bible stories",
     "title": "the Garden of Eden"
   },
   {
-    "n": 6,
-    "date": "2026-11-11",
+    "n": 10,
+    "date": "2026-11-04",
     "time": "20:00",
     "id": "the-knights-templar",
     "category": "Church history",
     "title": "the Knights Templar"
   },
   {
-    "n": 7,
-    "date": "2026-11-12",
+    "n": 11,
+    "date": "2026-11-05",
     "time": "08:00",
     "id": "jerusalem",
     "category": "Bible places",
     "title": "Jerusalem"
   },
   {
-    "n": 8,
-    "date": "2026-11-12",
+    "n": 12,
+    "date": "2026-11-05",
     "time": "20:00",
     "id": "king-david",
     "category": "Old Testament people",
     "title": "King David"
   },
   {
-    "n": 9,
-    "date": "2026-11-13",
+    "n": 13,
+    "date": "2026-11-06",
     "time": "08:00",
     "id": "the-shroud-of-turin",
     "category": "Symbols and mysteries",
     "title": "the Shroud of Turin"
   },
   {
-    "n": 10,
-    "date": "2026-11-13",
+    "n": 14,
+    "date": "2026-11-06",
     "time": "20:00",
     "id": "judas-iscariot",
     "category": "New Testament people",
     "title": "Judas Iscariot"
   },
   {
-    "n": 11,
-    "date": "2026-11-14",
+    "n": 15,
+    "date": "2026-11-07",
     "time": "08:00",
     "id": "the-sistine-chapel",
     "category": "Churches and cathedrals",
     "title": "the Sistine Chapel"
   },
   {
-    "n": 12,
-    "date": "2026-11-14",
+    "n": 16,
+    "date": "2026-11-07",
     "time": "20:00",
     "id": "the-book-of-revelation",
     "category": "Books of the Bible",
     "title": "the Book of Revelation"
   },
   {
-    "n": 13,
-    "date": "2026-11-15",
+    "n": 17,
+    "date": "2026-11-08",
     "time": "08:00",
     "id": "the-great-flood",
     "category": "Bible stories",
     "title": "the Great Flood"
   },
   {
-    "n": 14,
-    "date": "2026-11-15",
+    "n": 18,
+    "date": "2026-11-08",
     "time": "20:00",
     "id": "mary-magdalene",
     "category": "New Testament people",
     "title": "Mary Magdalene"
   },
   {
-    "n": 15,
-    "date": "2026-11-16",
+    "n": 19,
+    "date": "2026-11-09",
     "time": "08:00",
     "id": "unicorns-in-the-bible",
     "category": "Symbols and mysteries",
     "title": "unicorns in the Bible"
   },
   {
-    "n": 16,
-    "date": "2026-11-16",
+    "n": 20,
+    "date": "2026-11-09",
     "time": "20:00",
     "id": "bethlehem",
     "category": "Bible places",
     "title": "Bethlehem"
   },
   {
-    "n": 17,
-    "date": "2026-11-17",
+    "n": 21,
+    "date": "2026-11-10",
     "time": "08:00",
     "id": "samson",
     "category": "Old Testament people",
     "title": "Samson"
   },
   {
-    "n": 18,
-    "date": "2026-11-17",
+    "n": 22,
+    "date": "2026-11-10",
     "time": "20:00",
     "id": "the-ark-of-the-covenant",
     "category": "Symbols and mysteries",
     "title": "the Ark of the Covenant"
   },
   {
-    "n": 19,
-    "date": "2026-11-18",
+    "n": 23,
+    "date": "2026-11-11",
     "time": "08:00",
     "id": "the-parting-of-the-red-sea",
     "category": "Bible stories",
     "title": "the parting of the Red Sea"
   },
   {
-    "n": 20,
-    "date": "2026-11-18",
+    "n": 24,
+    "date": "2026-11-11",
     "time": "20:00",
     "id": "saint-augustine",
     "category": "Saints",
     "title": "Saint Augustine"
   },
   {
-    "n": 21,
-    "date": "2026-11-19",
+    "n": 25,
+    "date": "2026-11-12",
     "time": "08:00",
     "id": "the-tower-of-babel",
     "category": "Bible stories",
     "title": "the Tower of Babel"
   },
   {
-    "n": 22,
-    "date": "2026-11-19",
+    "n": 26,
+    "date": "2026-11-12",
     "time": "20:00",
     "id": "hagia-sophia",
     "category": "Churches and cathedrals",
     "title": "Hagia Sophia"
   },
   {
-    "n": 23,
-    "date": "2026-11-20",
+    "n": 27,
+    "date": "2026-11-13",
     "time": "08:00",
     "id": "the-apostle-paul",
     "category": "New Testament people",
     "title": "the Apostle Paul"
   },
   {
-    "n": 24,
-    "date": "2026-11-20",
+    "n": 28,
+    "date": "2026-11-13",
     "time": "20:00",
     "id": "the-nephilim",
     "category": "Symbols and mysteries",
     "title": "the Nephilim"
   },
   {
-    "n": 25,
-    "date": "2026-11-21",
+    "n": 29,
+    "date": "2026-11-14",
     "time": "08:00",
     "id": "jonah-and-the-whale",
     "category": "Bible stories",
     "title": "Jonah and the whale"
   },
   {
-    "n": 26,
-    "date": "2026-11-21",
+    "n": 30,
+    "date": "2026-11-14",
     "time": "20:00",
     "id": "pontius-pilate",
     "category": "New Testament people",
     "title": "Pontius Pilate"
   },
   {
-    "n": 27,
-    "date": "2026-11-22",
+    "n": 31,
+    "date": "2026-11-15",
     "time": "08:00",
     "id": "the-catacombs-of-rome",
     "category": "Church history",
     "title": "the catacombs of Rome"
   },
   {
-    "n": 28,
-    "date": "2026-11-22",
+    "n": 32,
+    "date": "2026-11-15",
     "time": "20:00",
     "id": "king-solomon",
     "category": "Old Testament people",
     "title": "King Solomon"
   },
   {
-    "n": 29,
-    "date": "2026-11-23",
+    "n": 33,
+    "date": "2026-11-16",
     "time": "08:00",
     "id": "methuselah",
     "category": "Old Testament people",
     "title": "Methuselah"
   },
   {
-    "n": 30,
-    "date": "2026-11-23",
+    "n": 34,
+    "date": "2026-11-16",
     "time": "20:00",
     "id": "the-sea-of-galilee",
     "category": "Bible places",
     "title": "the Sea of Galilee"
   },
   {
-    "n": 31,
-    "date": "2026-11-24",
+    "n": 35,
+    "date": "2026-11-17",
     "time": "08:00",
     "id": "joan-of-arc",
     "category": "Saints",
     "title": "Joan of Arc"
   },
   {
-    "n": 32,
-    "date": "2026-11-24",
+    "n": 36,
+    "date": "2026-11-17",
     "time": "20:00",
     "id": "the-book-of-enoch",
     "category": "Books of the Bible",
     "title": "the Book of Enoch"
   },
   {
-    "n": 33,
-    "date": "2026-11-25",
+    "n": 37,
+    "date": "2026-11-18",
     "time": "08:00",
     "id": "elijah",
     "category": "Old Testament people",
     "title": "Elijah"
   },
   {
-    "n": 34,
-    "date": "2026-11-25",
+    "n": 38,
+    "date": "2026-11-18",
     "time": "20:00",
     "id": "the-holy-grail",
     "category": "Symbols and mysteries",
     "title": "the Holy Grail"
   },
   {
-    "n": 35,
-    "date": "2026-11-26",
+    "n": 39,
+    "date": "2026-11-19",
     "time": "08:00",
     "id": "peter",
     "category": "New Testament people",
     "title": "Peter"
   },
   {
-    "n": 36,
-    "date": "2026-11-26",
+    "n": 40,
+    "date": "2026-11-19",
     "time": "20:00",
     "id": "the-walls-of-jericho",
     "category": "Bible stories",
     "title": "the walls of Jericho"
   },
   {
-    "n": 37,
-    "date": "2026-11-27",
+    "n": 41,
+    "date": "2026-11-20",
     "time": "08:00",
     "id": "the-sagrada-familia",
     "category": "Churches and cathedrals",
     "title": "the Sagrada Familia"
   },
   {
-    "n": 38,
-    "date": "2026-11-27",
+    "n": 42,
+    "date": "2026-11-20",
     "time": "20:00",
     "id": "goliath",
     "category": "Old Testament people",
     "title": "Goliath"
   },
   {
-    "n": 39,
-    "date": "2026-11-28",
+    "n": 43,
+    "date": "2026-11-21",
     "time": "08:00",
     "id": "the-angel-gabriel",
     "category": "Symbols and mysteries",
     "title": "the angel Gabriel"
   },
   {
-    "n": 40,
-    "date": "2026-11-28",
+    "n": 44,
+    "date": "2026-11-21",
     "time": "20:00",
     "id": "daniel",
     "category": "Old Testament people",
     "title": "Daniel"
   },
   {
-    "n": 41,
+    "n": 45,
+    "date": "2026-11-22",
+    "time": "08:00",
+    "id": "the-king-james-bible",
+    "category": "Church history",
+    "title": "the King James Bible"
+  },
+  {
+    "n": 46,
+    "date": "2026-11-22",
+    "time": "20:00",
+    "id": "mount-sinai",
+    "category": "Bible places",
+    "title": "Mount Sinai"
+  },
+  {
+    "n": 47,
+    "date": "2026-11-23",
+    "time": "08:00",
+    "id": "sodom-and-gomorrah",
+    "category": "Bible stories",
+    "title": "Sodom and Gomorrah"
+  },
+  {
+    "n": 48,
+    "date": "2026-11-23",
+    "time": "20:00",
+    "id": "the-queen-of-sheba",
+    "category": "Old Testament people",
+    "title": "the Queen of Sheba"
+  },
+  {
+    "n": 49,
+    "date": "2026-11-24",
+    "time": "08:00",
+    "id": "the-vatican",
+    "category": "Church history",
+    "title": "the Vatican"
+  },
+  {
+    "n": 50,
+    "date": "2026-11-24",
+    "time": "20:00",
+    "id": "john-the-baptist",
+    "category": "New Testament people",
+    "title": "John the Baptist"
+  },
+  {
+    "n": 51,
+    "date": "2026-11-25",
+    "time": "08:00",
+    "id": "the-leviathan",
+    "category": "Symbols and mysteries",
+    "title": "the Leviathan"
+  },
+  {
+    "n": 52,
+    "date": "2026-11-25",
+    "time": "20:00",
+    "id": "the-word-amen",
+    "category": "Words and translations",
+    "title": "the word Amen"
+  },
+  {
+    "n": 53,
+    "date": "2026-11-26",
+    "time": "08:00",
+    "id": "esther",
+    "category": "Old Testament people",
+    "title": "Esther"
+  },
+  {
+    "n": 54,
+    "date": "2026-11-26",
+    "time": "20:00",
+    "id": "the-swiss-guard",
+    "category": "Church history",
+    "title": "the Swiss Guard"
+  },
+  {
+    "n": 55,
+    "date": "2026-11-27",
+    "time": "08:00",
+    "id": "nazareth",
+    "category": "Bible places",
+    "title": "Nazareth"
+  },
+  {
+    "n": 56,
+    "date": "2026-11-27",
+    "time": "20:00",
+    "id": "jezebel",
+    "category": "Old Testament people",
+    "title": "Jezebel"
+  },
+  {
+    "n": 57,
+    "date": "2026-11-28",
+    "time": "08:00",
+    "id": "the-annunciation",
+    "category": "Bible stories",
+    "title": "the Annunciation"
+  },
+  {
+    "n": 58,
+    "date": "2026-11-28",
+    "time": "20:00",
+    "id": "mount-ararat",
+    "category": "Bible places",
+    "title": "Mount Ararat"
+  },
+  {
+    "n": 59,
     "date": "2026-11-29",
     "time": "08:00",
     "id": "advent",
@@ -328,15 +472,15 @@
     "title": "Advent"
   },
   {
-    "n": 42,
+    "n": 60,
     "date": "2026-11-29",
     "time": "20:00",
-    "id": "the-king-james-bible",
-    "category": "Church history",
-    "title": "the King James Bible"
+    "id": "the-archangel-michael",
+    "category": "Symbols and mysteries",
+    "title": "the archangel Michael"
   },
   {
-    "n": 43,
+    "n": 61,
     "date": "2026-11-30",
     "time": "08:00",
     "id": "the-advent-wreath",
@@ -344,95 +488,95 @@
     "title": "the Advent wreath"
   },
   {
-    "n": 44,
+    "n": 62,
     "date": "2026-11-30",
     "time": "20:00",
-    "id": "mount-sinai",
-    "category": "Bible places",
-    "title": "Mount Sinai"
-  },
-  {
-    "n": 45,
-    "date": "2026-12-01",
-    "time": "08:00",
-    "id": "sodom-and-gomorrah",
-    "category": "Bible stories",
-    "title": "Sodom and Gomorrah"
-  },
-  {
-    "n": 46,
-    "date": "2026-12-01",
-    "time": "20:00",
-    "id": "the-queen-of-sheba",
-    "category": "Old Testament people",
-    "title": "the Queen of Sheba"
-  },
-  {
-    "n": 47,
-    "date": "2026-12-02",
-    "time": "08:00",
-    "id": "the-vatican",
-    "category": "Church history",
-    "title": "the Vatican"
-  },
-  {
-    "n": 48,
-    "date": "2026-12-02",
-    "time": "20:00",
-    "id": "john-the-baptist",
+    "id": "lazarus",
     "category": "New Testament people",
-    "title": "John the Baptist"
+    "title": "Lazarus"
   },
   {
-    "n": 49,
-    "date": "2026-12-03",
+    "n": 63,
+    "date": "2026-12-01",
     "time": "08:00",
-    "id": "the-leviathan",
-    "category": "Symbols and mysteries",
-    "title": "the Leviathan"
+    "id": "the-creation-story",
+    "category": "Bible stories",
+    "title": "the creation story"
   },
   {
-    "n": 50,
-    "date": "2026-12-03",
+    "n": 64,
+    "date": "2026-12-01",
     "time": "20:00",
-    "id": "the-word-amen",
-    "category": "Words and translations",
-    "title": "the word Amen"
+    "id": "saint-christopher",
+    "category": "Saints",
+    "title": "Saint Christopher"
   },
   {
-    "n": 51,
-    "date": "2026-12-04",
+    "n": 65,
+    "date": "2026-12-02",
     "time": "08:00",
-    "id": "esther",
-    "category": "Old Testament people",
-    "title": "Esther"
-  },
-  {
-    "n": 52,
-    "date": "2026-12-04",
-    "time": "20:00",
-    "id": "the-swiss-guard",
-    "category": "Church history",
-    "title": "the Swiss Guard"
-  },
-  {
-    "n": 53,
-    "date": "2026-12-05",
-    "time": "08:00",
-    "id": "nazareth",
+    "id": "golgotha",
     "category": "Bible places",
-    "title": "Nazareth"
+    "title": "Golgotha"
   },
   {
-    "n": 54,
+    "n": 66,
+    "date": "2026-12-02",
+    "time": "20:00",
+    "id": "the-book-of-genesis",
+    "category": "Books of the Bible",
+    "title": "the Book of Genesis"
+  },
+  {
+    "n": 67,
+    "date": "2026-12-03",
+    "time": "08:00",
+    "id": "adam",
+    "category": "Old Testament people",
+    "title": "Adam"
+  },
+  {
+    "n": 68,
+    "date": "2026-12-03",
+    "time": "20:00",
+    "id": "saint-benedict",
+    "category": "Saints",
+    "title": "Saint Benedict"
+  },
+  {
+    "n": 69,
+    "date": "2026-12-04",
+    "time": "08:00",
+    "id": "the-first-christians",
+    "category": "Church history",
+    "title": "the first Christians"
+  },
+  {
+    "n": 70,
+    "date": "2026-12-04",
+    "time": "20:00",
+    "id": "the-forbidden-fruit",
+    "category": "Bible stories",
+    "title": "the forbidden fruit"
+  },
+  {
+    "n": 71,
+    "date": "2026-12-05",
+    "time": "08:00",
+    "id": "jesus",
+    "category": "New Testament people",
+    "title": "Jesus"
+  },
+  {
+    "n": 72,
     "date": "2026-12-05",
     "time": "20:00",
-    "id": "jezebel",
-    "category": "Old Testament people",
-    "title": "Jezebel"
+    "id": "saint-peters-basilica",
+    "category": "Churches and cathedrals",
+    "title": "Saint Peter's Basilica"
   },
   {
-    "n": 55,
+    "n": 73,
     "date": "2026-12-06",
     "time": "08:00",
     "id": "saint-nicholas",
@@ -440,248 +584,104 @@
     "title": "Saint Nicholas"
   },
   {
-    "n": 56,
+    "n": 74,
     "date": "2026-12-06",
     "time": "20:00",
-    "id": "the-annunciation",
-    "category": "Bible stories",
-    "title": "the Annunciation"
-  },
-  {
-    "n": 57,
-    "date": "2026-12-07",
-    "time": "08:00",
-    "id": "mount-ararat",
-    "category": "Bible places",
-    "title": "Mount Ararat"
-  },
-  {
-    "n": 58,
-    "date": "2026-12-07",
-    "time": "20:00",
-    "id": "the-archangel-michael",
-    "category": "Symbols and mysteries",
-    "title": "the archangel Michael"
-  },
-  {
-    "n": 59,
-    "date": "2026-12-08",
-    "time": "08:00",
-    "id": "lazarus",
-    "category": "New Testament people",
-    "title": "Lazarus"
-  },
-  {
-    "n": 60,
-    "date": "2026-12-08",
-    "time": "20:00",
-    "id": "the-creation-story",
-    "category": "Bible stories",
-    "title": "the creation story"
-  },
-  {
-    "n": 61,
-    "date": "2026-12-09",
-    "time": "08:00",
-    "id": "saint-christopher",
-    "category": "Saints",
-    "title": "Saint Christopher"
-  },
-  {
-    "n": 62,
-    "date": "2026-12-09",
-    "time": "20:00",
-    "id": "golgotha",
-    "category": "Bible places",
-    "title": "Golgotha"
-  },
-  {
-    "n": 63,
-    "date": "2026-12-10",
-    "time": "08:00",
-    "id": "the-book-of-genesis",
-    "category": "Books of the Bible",
-    "title": "the Book of Genesis"
-  },
-  {
-    "n": 64,
-    "date": "2026-12-10",
-    "time": "20:00",
-    "id": "adam",
-    "category": "Old Testament people",
-    "title": "Adam"
-  },
-  {
-    "n": 65,
-    "date": "2026-12-11",
-    "time": "08:00",
-    "id": "saint-benedict",
-    "category": "Saints",
-    "title": "Saint Benedict"
-  },
-  {
-    "n": 66,
-    "date": "2026-12-11",
-    "time": "20:00",
-    "id": "the-first-christians",
-    "category": "Church history",
-    "title": "the first Christians"
-  },
-  {
-    "n": 67,
-    "date": "2026-12-12",
-    "time": "08:00",
-    "id": "the-forbidden-fruit",
-    "category": "Bible stories",
-    "title": "the forbidden fruit"
-  },
-  {
-    "n": 68,
-    "date": "2026-12-12",
-    "time": "20:00",
-    "id": "jesus",
-    "category": "New Testament people",
-    "title": "Jesus"
-  },
-  {
-    "n": 69,
-    "date": "2026-12-13",
-    "time": "08:00",
-    "id": "saint-lucy",
-    "category": "Saints",
-    "title": "Saint Lucy"
-  },
-  {
-    "n": 70,
-    "date": "2026-12-13",
-    "time": "20:00",
-    "id": "saint-peters-basilica",
-    "category": "Churches and cathedrals",
-    "title": "Saint Peter's Basilica"
-  },
-  {
-    "n": 71,
-    "date": "2026-12-14",
-    "time": "08:00",
     "id": "the-jordan-river",
     "category": "Bible places",
     "title": "the Jordan River"
   },
   {
-    "n": 72,
-    "date": "2026-12-14",
-    "time": "20:00",
+    "n": 75,
+    "date": "2026-12-07",
+    "time": "08:00",
     "id": "the-book-of-exodus",
     "category": "Books of the Bible",
     "title": "the Book of Exodus"
   },
   {
-    "n": 73,
-    "date": "2026-12-15",
-    "time": "08:00",
+    "n": 76,
+    "date": "2026-12-07",
+    "time": "20:00",
     "id": "the-cross",
     "category": "Symbols and mysteries",
     "title": "the cross"
   },
   {
-    "n": 74,
-    "date": "2026-12-15",
-    "time": "20:00",
+    "n": 77,
+    "date": "2026-12-08",
+    "time": "08:00",
     "id": "eve",
     "category": "Old Testament people",
     "title": "Eve"
   },
   {
-    "n": 75,
-    "date": "2026-12-16",
-    "time": "08:00",
+    "n": 78,
+    "date": "2026-12-08",
+    "time": "20:00",
     "id": "saint-thomas-aquinas",
     "category": "Saints",
     "title": "Saint Thomas Aquinas"
   },
   {
-    "n": 76,
-    "date": "2026-12-16",
-    "time": "20:00",
+    "n": 79,
+    "date": "2026-12-09",
+    "time": "08:00",
     "id": "the-persecution-under-nero",
     "category": "Church history",
     "title": "the persecution under Nero"
   },
   {
-    "n": 77,
-    "date": "2026-12-17",
-    "time": "08:00",
+    "n": 80,
+    "date": "2026-12-09",
+    "time": "20:00",
     "id": "the-binding-of-isaac",
     "category": "Bible stories",
     "title": "the binding of Isaac"
   },
   {
-    "n": 78,
-    "date": "2026-12-17",
-    "time": "20:00",
+    "n": 81,
+    "date": "2026-12-10",
+    "time": "08:00",
     "id": "baptism",
     "category": "Traditions and holidays",
     "title": "baptism"
   },
   {
-    "n": 79,
-    "date": "2026-12-18",
-    "time": "08:00",
+    "n": 82,
+    "date": "2026-12-10",
+    "time": "20:00",
     "id": "the-word-bible",
     "category": "Words and translations",
     "title": "the word Bible"
   },
   {
-    "n": 80,
-    "date": "2026-12-18",
-    "time": "20:00",
+    "n": 83,
+    "date": "2026-12-11",
+    "time": "08:00",
     "id": "mary-the-mother-of-jesus",
     "category": "New Testament people",
     "title": "Mary the mother of Jesus"
   },
   {
-    "n": 81,
-    "date": "2026-12-19",
-    "time": "08:00",
-    "id": "christmas-trees",
-    "category": "Traditions and holidays",
-    "title": "Christmas trees"
-  },
-  {
-    "n": 82,
-    "date": "2026-12-19",
+    "n": 84,
+    "date": "2026-12-11",
     "time": "20:00",
     "id": "cain",
     "category": "Old Testament people",
     "title": "Cain"
   },
   {
-    "n": 83,
-    "date": "2026-12-20",
+    "n": 85,
+    "date": "2026-12-12",
     "time": "08:00",
-    "id": "nativity-scenes",
-    "category": "Traditions and holidays",
-    "title": "nativity scenes"
-  },
-  {
-    "n": 84,
-    "date": "2026-12-20",
-    "time": "20:00",
     "id": "westminster-abbey",
     "category": "Churches and cathedrals",
     "title": "Westminster Abbey"
   },
   {
-    "n": 85,
-    "date": "2026-12-21",
-    "time": "08:00",
-    "id": "the-word-christmas",
-    "category": "Words and translations",
-    "title": "the word Christmas"
-  },
-  {
     "n": 86,
-    "date": "2026-12-21",
+    "date": "2026-12-12",
     "time": "20:00",
     "id": "the-dead-sea",
     "category": "Bible places",
@@ -689,15 +689,15 @@
   },
   {
     "n": 87,
-    "date": "2026-12-22",
+    "date": "2026-12-13",
     "time": "08:00",
-    "id": "christmas-carols",
-    "category": "Traditions and holidays",
-    "title": "Christmas carols"
+    "id": "saint-lucy",
+    "category": "Saints",
+    "title": "Saint Lucy"
   },
   {
     "n": 88,
-    "date": "2026-12-22",
+    "date": "2026-12-13",
     "time": "20:00",
     "id": "the-book-of-leviticus",
     "category": "Books of the Bible",
@@ -705,6 +705,150 @@
   },
   {
     "n": 89,
+    "date": "2026-12-14",
+    "time": "08:00",
+    "id": "saint-teresa-of-avila",
+    "category": "Saints",
+    "title": "Saint Teresa of Avila"
+  },
+  {
+    "n": 90,
+    "date": "2026-12-14",
+    "time": "20:00",
+    "id": "constantine-the-great",
+    "category": "Church history",
+    "title": "Constantine the Great"
+  },
+  {
+    "n": 91,
+    "date": "2026-12-15",
+    "time": "08:00",
+    "id": "jacobs-ladder",
+    "category": "Bible stories",
+    "title": "Jacob's ladder"
+  },
+  {
+    "n": 92,
+    "date": "2026-12-15",
+    "time": "20:00",
+    "id": "abel",
+    "category": "Old Testament people",
+    "title": "Abel"
+  },
+  {
+    "n": 93,
+    "date": "2026-12-16",
+    "time": "08:00",
+    "id": "joseph-of-nazareth",
+    "category": "New Testament people",
+    "title": "Joseph of Nazareth"
+  },
+  {
+    "n": 94,
+    "date": "2026-12-16",
+    "time": "20:00",
+    "id": "mother-teresa",
+    "category": "Saints",
+    "title": "Mother Teresa"
+  },
+  {
+    "n": 95,
+    "date": "2026-12-17",
+    "time": "08:00",
+    "id": "the-crucifix",
+    "category": "Symbols and mysteries",
+    "title": "the crucifix"
+  },
+  {
+    "n": 96,
+    "date": "2026-12-17",
+    "time": "20:00",
+    "id": "canterbury-cathedral",
+    "category": "Churches and cathedrals",
+    "title": "Canterbury Cathedral"
+  },
+  {
+    "n": 97,
+    "date": "2026-12-18",
+    "time": "08:00",
+    "id": "seth",
+    "category": "Old Testament people",
+    "title": "Seth"
+  },
+  {
+    "n": 98,
+    "date": "2026-12-18",
+    "time": "20:00",
+    "id": "babylon",
+    "category": "Bible places",
+    "title": "Babylon"
+  },
+  {
+    "n": 99,
+    "date": "2026-12-19",
+    "time": "08:00",
+    "id": "christmas-trees",
+    "category": "Traditions and holidays",
+    "title": "Christmas trees"
+  },
+  {
+    "n": 100,
+    "date": "2026-12-19",
+    "time": "20:00",
+    "id": "the-edict-of-milan",
+    "category": "Church history",
+    "title": "the Edict of Milan"
+  },
+  {
+    "n": 101,
+    "date": "2026-12-20",
+    "time": "08:00",
+    "id": "nativity-scenes",
+    "category": "Traditions and holidays",
+    "title": "nativity scenes"
+  },
+  {
+    "n": 102,
+    "date": "2026-12-20",
+    "time": "20:00",
+    "id": "the-book-of-numbers",
+    "category": "Books of the Bible",
+    "title": "the Book of Numbers"
+  },
+  {
+    "n": 103,
+    "date": "2026-12-21",
+    "time": "08:00",
+    "id": "the-word-christmas",
+    "category": "Words and translations",
+    "title": "the word Christmas"
+  },
+  {
+    "n": 104,
+    "date": "2026-12-21",
+    "time": "20:00",
+    "id": "josephs-coat-of-many-colors",
+    "category": "Bible stories",
+    "title": "Joseph's coat of many colors"
+  },
+  {
+    "n": 105,
+    "date": "2026-12-22",
+    "time": "08:00",
+    "id": "christmas-carols",
+    "category": "Traditions and holidays",
+    "title": "Christmas carols"
+  },
+  {
+    "n": 106,
+    "date": "2026-12-22",
+    "time": "20:00",
+    "id": "enoch",
+    "category": "Old Testament people",
+    "title": "Enoch"
+  },
+  {
+    "n": 107,
     "date": "2026-12-23",
     "time": "08:00",
     "id": "the-nativity",
@@ -712,152 +856,8 @@
     "title": "the Nativity"
   },
   {
-    "n": 90,
-    "date": "2026-12-23",
-    "time": "20:00",
-    "id": "saint-teresa-of-avila",
-    "category": "Saints",
-    "title": "Saint Teresa of Avila"
-  },
-  {
-    "n": 91,
-    "date": "2026-12-24",
-    "time": "08:00",
-    "id": "the-star-of-bethlehem",
-    "category": "Bible stories",
-    "title": "the star of Bethlehem"
-  },
-  {
-    "n": 92,
-    "date": "2026-12-24",
-    "time": "20:00",
-    "id": "midnight-mass",
-    "category": "Traditions and holidays",
-    "title": "midnight Mass"
-  },
-  {
-    "n": 93,
-    "date": "2026-12-25",
-    "time": "08:00",
-    "id": "christmas",
-    "category": "Traditions and holidays",
-    "title": "Christmas"
-  },
-  {
-    "n": 94,
-    "date": "2026-12-25",
-    "time": "20:00",
-    "id": "constantine-the-great",
-    "category": "Church history",
-    "title": "Constantine the Great"
-  },
-  {
-    "n": 95,
-    "date": "2026-12-26",
-    "time": "08:00",
-    "id": "the-twelve-days-of-christmas",
-    "category": "Traditions and holidays",
-    "title": "the twelve days of Christmas"
-  },
-  {
-    "n": 96,
-    "date": "2026-12-26",
-    "time": "20:00",
-    "id": "jacobs-ladder",
-    "category": "Bible stories",
-    "title": "Jacob's ladder"
-  },
-  {
-    "n": 97,
-    "date": "2026-12-27",
-    "time": "08:00",
-    "id": "abel",
-    "category": "Old Testament people",
-    "title": "Abel"
-  },
-  {
-    "n": 98,
-    "date": "2026-12-27",
-    "time": "20:00",
-    "id": "joseph-of-nazareth",
-    "category": "New Testament people",
-    "title": "Joseph of Nazareth"
-  },
-  {
-    "n": 99,
-    "date": "2026-12-28",
-    "time": "08:00",
-    "id": "mother-teresa",
-    "category": "Saints",
-    "title": "Mother Teresa"
-  },
-  {
-    "n": 100,
-    "date": "2026-12-28",
-    "time": "20:00",
-    "id": "the-crucifix",
-    "category": "Symbols and mysteries",
-    "title": "the crucifix"
-  },
-  {
-    "n": 101,
-    "date": "2026-12-29",
-    "time": "08:00",
-    "id": "canterbury-cathedral",
-    "category": "Churches and cathedrals",
-    "title": "Canterbury Cathedral"
-  },
-  {
-    "n": 102,
-    "date": "2026-12-29",
-    "time": "20:00",
-    "id": "seth",
-    "category": "Old Testament people",
-    "title": "Seth"
-  },
-  {
-    "n": 103,
-    "date": "2026-12-30",
-    "time": "08:00",
-    "id": "babylon",
-    "category": "Bible places",
-    "title": "Babylon"
-  },
-  {
-    "n": 104,
-    "date": "2026-12-30",
-    "time": "20:00",
-    "id": "the-edict-of-milan",
-    "category": "Church history",
-    "title": "the Edict of Milan"
-  },
-  {
-    "n": 105,
-    "date": "2026-12-31",
-    "time": "08:00",
-    "id": "the-book-of-numbers",
-    "category": "Books of the Bible",
-    "title": "the Book of Numbers"
-  },
-  {
-    "n": 106,
-    "date": "2026-12-31",
-    "time": "20:00",
-    "id": "josephs-coat-of-many-colors",
-    "category": "Bible stories",
-    "title": "Joseph's coat of many colors"
-  },
-  {
-    "n": 107,
-    "date": "2027-01-01",
-    "time": "08:00",
-    "id": "enoch",
-    "category": "Old Testament people",
-    "title": "Enoch"
-  },
-  {
     "n": 108,
-    "date": "2027-01-01",
+    "date": "2026-12-23",
     "time": "20:00",
     "id": "saint-anthony-of-padua",
     "category": "Saints",
@@ -865,54 +865,198 @@
   },
   {
     "n": 109,
-    "date": "2027-01-02",
+    "date": "2026-12-24",
     "time": "08:00",
+    "id": "the-star-of-bethlehem",
+    "category": "Bible stories",
+    "title": "the star of Bethlehem"
+  },
+  {
+    "n": 110,
+    "date": "2026-12-24",
+    "time": "20:00",
+    "id": "midnight-mass",
+    "category": "Traditions and holidays",
+    "title": "midnight Mass"
+  },
+  {
+    "n": 111,
+    "date": "2026-12-25",
+    "time": "08:00",
+    "id": "christmas",
+    "category": "Traditions and holidays",
+    "title": "Christmas"
+  },
+  {
+    "n": 112,
+    "date": "2026-12-25",
+    "time": "20:00",
     "id": "elizabeth",
     "category": "New Testament people",
     "title": "Elizabeth"
   },
   {
-    "n": 110,
-    "date": "2027-01-02",
+    "n": 113,
+    "date": "2026-12-26",
+    "time": "08:00",
+    "id": "the-twelve-days-of-christmas",
+    "category": "Traditions and holidays",
+    "title": "the twelve days of Christmas"
+  },
+  {
+    "n": 114,
+    "date": "2026-12-26",
     "time": "20:00",
     "id": "the-council-of-nicaea",
     "category": "Church history",
     "title": "the Council of Nicaea"
   },
   {
-    "n": 111,
-    "date": "2027-01-03",
+    "n": 115,
+    "date": "2026-12-27",
     "time": "08:00",
     "id": "cologne-cathedral",
     "category": "Churches and cathedrals",
     "title": "Cologne Cathedral"
   },
   {
-    "n": 112,
-    "date": "2027-01-03",
+    "n": 116,
+    "date": "2026-12-27",
     "time": "20:00",
     "id": "the-burning-bush",
     "category": "Bible stories",
     "title": "the burning bush"
   },
   {
-    "n": 113,
-    "date": "2027-01-04",
+    "n": 117,
+    "date": "2026-12-28",
     "time": "08:00",
     "id": "noah",
     "category": "Old Testament people",
     "title": "Noah"
   },
   {
-    "n": 114,
-    "date": "2027-01-04",
+    "n": 118,
+    "date": "2026-12-28",
     "time": "20:00",
     "id": "nineveh",
     "category": "Bible places",
     "title": "Nineveh"
   },
   {
-    "n": 115,
+    "n": 119,
+    "date": "2026-12-29",
+    "time": "08:00",
+    "id": "saint-anthony-the-great",
+    "category": "Saints",
+    "title": "Saint Anthony the Great"
+  },
+  {
+    "n": 120,
+    "date": "2026-12-29",
+    "time": "20:00",
+    "id": "the-book-of-deuteronomy",
+    "category": "Books of the Bible",
+    "title": "the Book of Deuteronomy"
+  },
+  {
+    "n": 121,
+    "date": "2026-12-30",
+    "time": "08:00",
+    "id": "holy-communion",
+    "category": "Traditions and holidays",
+    "title": "Holy Communion"
+  },
+  {
+    "n": 122,
+    "date": "2026-12-30",
+    "time": "20:00",
+    "id": "hallelujah",
+    "category": "Words and translations",
+    "title": "Hallelujah"
+  },
+  {
+    "n": 123,
+    "date": "2026-12-31",
+    "time": "08:00",
+    "id": "zechariah-the-priest",
+    "category": "New Testament people",
+    "title": "Zechariah the priest"
+  },
+  {
+    "n": 124,
+    "date": "2026-12-31",
+    "time": "20:00",
+    "id": "the-ichthys-fish-symbol",
+    "category": "Symbols and mysteries",
+    "title": "the ichthys fish symbol"
+  },
+  {
+    "n": 125,
+    "date": "2027-01-01",
+    "time": "08:00",
+    "id": "the-nicene-creed",
+    "category": "Church history",
+    "title": "the Nicene Creed"
+  },
+  {
+    "n": 126,
+    "date": "2027-01-01",
+    "time": "20:00",
+    "id": "nimrod",
+    "category": "Old Testament people",
+    "title": "Nimrod"
+  },
+  {
+    "n": 127,
+    "date": "2027-01-02",
+    "time": "08:00",
+    "id": "the-ten-plagues-of-egypt",
+    "category": "Bible stories",
+    "title": "the ten plagues of Egypt"
+  },
+  {
+    "n": 128,
+    "date": "2027-01-02",
+    "time": "20:00",
+    "id": "saint-jerome",
+    "category": "Saints",
+    "title": "Saint Jerome"
+  },
+  {
+    "n": 129,
+    "date": "2027-01-03",
+    "time": "08:00",
+    "id": "chartres-cathedral",
+    "category": "Churches and cathedrals",
+    "title": "Chartres Cathedral"
+  },
+  {
+    "n": 130,
+    "date": "2027-01-03",
+    "time": "20:00",
+    "id": "jericho",
+    "category": "Bible places",
+    "title": "Jericho"
+  },
+  {
+    "n": 131,
+    "date": "2027-01-04",
+    "time": "08:00",
+    "id": "abraham",
+    "category": "Old Testament people",
+    "title": "Abraham"
+  },
+  {
+    "n": 132,
+    "date": "2027-01-04",
+    "time": "20:00",
+    "id": "the-desert-fathers",
+    "category": "Church history",
+    "title": "the Desert Fathers"
+  },
+  {
+    "n": 133,
     "date": "2027-01-05",
     "time": "08:00",
     "id": "the-three-wise-men",
@@ -920,15 +1064,15 @@
     "title": "the three wise men"
   },
   {
-    "n": 116,
+    "n": 134,
     "date": "2027-01-05",
     "time": "20:00",
-    "id": "saint-anthony-the-great",
-    "category": "Saints",
-    "title": "Saint Anthony the Great"
+    "id": "the-book-of-judges",
+    "category": "Books of the Bible",
+    "title": "the Book of Judges"
   },
   {
-    "n": 117,
+    "n": 135,
     "date": "2027-01-06",
     "time": "08:00",
     "id": "epiphany",
@@ -936,568 +1080,424 @@
     "title": "Epiphany"
   },
   {
-    "n": 118,
+    "n": 136,
     "date": "2027-01-06",
-    "time": "20:00",
-    "id": "the-book-of-deuteronomy",
-    "category": "Books of the Bible",
-    "title": "the Book of Deuteronomy"
-  },
-  {
-    "n": 119,
-    "date": "2027-01-07",
-    "time": "08:00",
-    "id": "holy-communion",
-    "category": "Traditions and holidays",
-    "title": "Holy Communion"
-  },
-  {
-    "n": 120,
-    "date": "2027-01-07",
-    "time": "20:00",
-    "id": "hallelujah",
-    "category": "Words and translations",
-    "title": "Hallelujah"
-  },
-  {
-    "n": 121,
-    "date": "2027-01-08",
-    "time": "08:00",
-    "id": "zechariah-the-priest",
-    "category": "New Testament people",
-    "title": "Zechariah the priest"
-  },
-  {
-    "n": 122,
-    "date": "2027-01-08",
-    "time": "20:00",
-    "id": "the-ichthys-fish-symbol",
-    "category": "Symbols and mysteries",
-    "title": "the ichthys fish symbol"
-  },
-  {
-    "n": 123,
-    "date": "2027-01-09",
-    "time": "08:00",
-    "id": "the-nicene-creed",
-    "category": "Church history",
-    "title": "the Nicene Creed"
-  },
-  {
-    "n": 124,
-    "date": "2027-01-09",
-    "time": "20:00",
-    "id": "nimrod",
-    "category": "Old Testament people",
-    "title": "Nimrod"
-  },
-  {
-    "n": 125,
-    "date": "2027-01-10",
-    "time": "08:00",
-    "id": "the-ten-plagues-of-egypt",
-    "category": "Bible stories",
-    "title": "the ten plagues of Egypt"
-  },
-  {
-    "n": 126,
-    "date": "2027-01-10",
-    "time": "20:00",
-    "id": "saint-jerome",
-    "category": "Saints",
-    "title": "Saint Jerome"
-  },
-  {
-    "n": 127,
-    "date": "2027-01-11",
-    "time": "08:00",
-    "id": "chartres-cathedral",
-    "category": "Churches and cathedrals",
-    "title": "Chartres Cathedral"
-  },
-  {
-    "n": 128,
-    "date": "2027-01-11",
-    "time": "20:00",
-    "id": "jericho",
-    "category": "Bible places",
-    "title": "Jericho"
-  },
-  {
-    "n": 129,
-    "date": "2027-01-12",
-    "time": "08:00",
-    "id": "abraham",
-    "category": "Old Testament people",
-    "title": "Abraham"
-  },
-  {
-    "n": 130,
-    "date": "2027-01-12",
-    "time": "20:00",
-    "id": "the-desert-fathers",
-    "category": "Church history",
-    "title": "the Desert Fathers"
-  },
-  {
-    "n": 131,
-    "date": "2027-01-13",
-    "time": "08:00",
-    "id": "the-book-of-judges",
-    "category": "Books of the Bible",
-    "title": "the Book of Judges"
-  },
-  {
-    "n": 132,
-    "date": "2027-01-13",
     "time": "20:00",
     "id": "andrew",
     "category": "New Testament people",
     "title": "Andrew"
   },
   {
-    "n": 133,
-    "date": "2027-01-14",
+    "n": 137,
+    "date": "2027-01-07",
     "time": "08:00",
     "id": "the-first-passover",
     "category": "Bible stories",
     "title": "the first Passover"
   },
   {
-    "n": 134,
-    "date": "2027-01-14",
+    "n": 138,
+    "date": "2027-01-07",
     "time": "20:00",
     "id": "saint-ambrose",
     "category": "Saints",
     "title": "Saint Ambrose"
   },
   {
-    "n": 135,
-    "date": "2027-01-15",
+    "n": 139,
+    "date": "2027-01-08",
     "time": "08:00",
     "id": "sarah",
     "category": "Old Testament people",
     "title": "Sarah"
   },
   {
-    "n": 136,
-    "date": "2027-01-15",
+    "n": 140,
+    "date": "2027-01-08",
     "time": "20:00",
     "id": "milan-cathedral",
     "category": "Churches and cathedrals",
     "title": "Milan Cathedral"
   },
   {
-    "n": 137,
-    "date": "2027-01-16",
+    "n": 141,
+    "date": "2027-01-09",
     "time": "08:00",
     "id": "the-first-monks",
     "category": "Church history",
     "title": "the first monks"
   },
   {
-    "n": 138,
-    "date": "2027-01-16",
+    "n": 142,
+    "date": "2027-01-09",
     "time": "20:00",
     "id": "the-chi-rho",
     "category": "Symbols and mysteries",
     "title": "the Chi Rho"
   },
   {
-    "n": 139,
-    "date": "2027-01-17",
+    "n": 143,
+    "date": "2027-01-10",
     "time": "08:00",
     "id": "capernaum",
     "category": "Bible places",
     "title": "Capernaum"
   },
   {
-    "n": 140,
-    "date": "2027-01-17",
+    "n": 144,
+    "date": "2027-01-10",
     "time": "20:00",
     "id": "james-son-of-zebedee",
     "category": "New Testament people",
     "title": "James son of Zebedee"
   },
   {
-    "n": 141,
-    "date": "2027-01-18",
+    "n": 145,
+    "date": "2027-01-11",
     "time": "08:00",
     "id": "saint-catherine-of-siena",
     "category": "Saints",
     "title": "Saint Catherine of Siena"
   },
   {
-    "n": 142,
-    "date": "2027-01-18",
+    "n": 146,
+    "date": "2027-01-11",
     "time": "20:00",
     "id": "manna-from-heaven",
     "category": "Bible stories",
     "title": "manna from heaven"
   },
   {
-    "n": 143,
-    "date": "2027-01-19",
+    "n": 147,
+    "date": "2027-01-12",
     "time": "08:00",
     "id": "hagar",
     "category": "Old Testament people",
     "title": "Hagar"
   },
   {
-    "n": 144,
-    "date": "2027-01-19",
+    "n": 148,
+    "date": "2027-01-12",
     "time": "20:00",
     "id": "the-books-of-samuel",
     "category": "Books of the Bible",
     "title": "the Books of Samuel"
   },
   {
-    "n": 145,
-    "date": "2027-01-20",
+    "n": 149,
+    "date": "2027-01-13",
     "time": "08:00",
     "id": "the-great-schism",
     "category": "Church history",
     "title": "the Great Schism"
   },
   {
-    "n": 146,
-    "date": "2027-01-20",
+    "n": 150,
+    "date": "2027-01-13",
     "time": "20:00",
     "id": "saint-pauls-cathedral",
     "category": "Churches and cathedrals",
     "title": "Saint Paul's Cathedral"
   },
   {
-    "n": 147,
-    "date": "2027-01-21",
+    "n": 151,
+    "date": "2027-01-14",
     "time": "08:00",
     "id": "ishmael",
     "category": "Old Testament people",
     "title": "Ishmael"
   },
   {
-    "n": 148,
-    "date": "2027-01-21",
+    "n": 152,
+    "date": "2027-01-14",
     "time": "20:00",
     "id": "saint-clare-of-assisi",
     "category": "Saints",
     "title": "Saint Clare of Assisi"
   },
   {
-    "n": 149,
-    "date": "2027-01-22",
+    "n": 153,
+    "date": "2027-01-15",
     "time": "08:00",
     "id": "confession",
     "category": "Traditions and holidays",
     "title": "confession"
   },
   {
-    "n": 150,
-    "date": "2027-01-22",
+    "n": 154,
+    "date": "2027-01-15",
     "time": "20:00",
     "id": "the-word-christ",
     "category": "Words and translations",
     "title": "the word Christ"
   },
   {
-    "n": 151,
-    "date": "2027-01-23",
+    "n": 155,
+    "date": "2027-01-16",
     "time": "08:00",
     "id": "the-ten-commandments",
     "category": "Bible stories",
     "title": "the Ten Commandments"
   },
   {
-    "n": 152,
-    "date": "2027-01-23",
+    "n": 156,
+    "date": "2027-01-16",
     "time": "20:00",
     "id": "john-the-apostle",
     "category": "New Testament people",
     "title": "John the Apostle"
   },
   {
-    "n": 153,
-    "date": "2027-01-24",
+    "n": 157,
+    "date": "2027-01-17",
     "time": "08:00",
     "id": "bethany",
     "category": "Bible places",
     "title": "Bethany"
   },
   {
-    "n": 154,
-    "date": "2027-01-24",
+    "n": 158,
+    "date": "2027-01-17",
     "time": "20:00",
     "id": "lot",
     "category": "Old Testament people",
     "title": "Lot"
   },
   {
-    "n": 155,
-    "date": "2027-01-25",
+    "n": 159,
+    "date": "2027-01-18",
     "time": "08:00",
     "id": "the-books-of-kings",
     "category": "Books of the Bible",
     "title": "the Books of Kings"
   },
   {
-    "n": 156,
-    "date": "2027-01-25",
+    "n": 160,
+    "date": "2027-01-18",
     "time": "20:00",
     "id": "the-crusades",
     "category": "Church history",
     "title": "the Crusades"
   },
   {
-    "n": 157,
-    "date": "2027-01-26",
+    "n": 161,
+    "date": "2027-01-19",
     "time": "08:00",
     "id": "saint-ignatius-of-loyola",
     "category": "Saints",
     "title": "Saint Ignatius of Loyola"
   },
   {
-    "n": 158,
-    "date": "2027-01-26",
+    "n": 162,
+    "date": "2027-01-19",
     "time": "20:00",
     "id": "the-dove",
     "category": "Symbols and mysteries",
     "title": "the dove"
   },
   {
-    "n": 159,
-    "date": "2027-01-27",
+    "n": 163,
+    "date": "2027-01-20",
     "time": "08:00",
     "id": "the-golden-calf",
     "category": "Bible stories",
     "title": "the golden calf"
   },
   {
-    "n": 160,
-    "date": "2027-01-27",
+    "n": 164,
+    "date": "2027-01-20",
     "time": "20:00",
     "id": "the-church-of-the-holy-sepulchre",
     "category": "Churches and cathedrals",
     "title": "the Church of the Holy Sepulchre"
   },
   {
-    "n": 161,
-    "date": "2027-01-28",
+    "n": 165,
+    "date": "2027-01-21",
     "time": "08:00",
     "id": "lots-wife",
     "category": "Old Testament people",
     "title": "Lot's wife"
   },
   {
-    "n": 162,
-    "date": "2027-01-28",
+    "n": 166,
+    "date": "2027-01-21",
     "time": "20:00",
     "id": "philip-the-apostle",
     "category": "New Testament people",
     "title": "Philip the Apostle"
   },
   {
-    "n": 163,
-    "date": "2027-01-29",
+    "n": 167,
+    "date": "2027-01-22",
     "time": "08:00",
     "id": "the-mount-of-olives",
     "category": "Bible places",
     "title": "the Mount of Olives"
   },
   {
-    "n": 164,
-    "date": "2027-01-29",
+    "n": 168,
+    "date": "2027-01-22",
     "time": "20:00",
     "id": "the-first-crusade",
     "category": "Church history",
     "title": "the First Crusade"
   },
   {
-    "n": 165,
-    "date": "2027-01-30",
+    "n": 169,
+    "date": "2027-01-23",
     "time": "08:00",
     "id": "saint-francis-xavier",
     "category": "Saints",
     "title": "Saint Francis Xavier"
   },
   {
-    "n": 166,
-    "date": "2027-01-30",
+    "n": 170,
+    "date": "2027-01-23",
     "time": "20:00",
     "id": "melchizedek",
     "category": "Old Testament people",
     "title": "Melchizedek"
   },
   {
-    "n": 167,
-    "date": "2027-01-31",
+    "n": 171,
+    "date": "2027-01-24",
     "time": "08:00",
     "id": "the-books-of-chronicles",
     "category": "Books of the Bible",
     "title": "the Books of Chronicles"
   },
   {
-    "n": 168,
-    "date": "2027-01-31",
+    "n": 172,
+    "date": "2027-01-24",
     "time": "20:00",
     "id": "the-day-the-sun-stood-still",
     "category": "Bible stories",
     "title": "the day the sun stood still"
   },
   {
-    "n": 169,
-    "date": "2027-02-01",
+    "n": 173,
+    "date": "2027-01-25",
     "time": "08:00",
     "id": "the-church-of-the-nativity",
     "category": "Churches and cathedrals",
     "title": "the Church of the Nativity"
   },
   {
-    "n": 170,
-    "date": "2027-02-01",
+    "n": 174,
+    "date": "2027-01-25",
     "time": "20:00",
     "id": "bartholomew",
     "category": "New Testament people",
     "title": "Bartholomew"
   },
   {
-    "n": 171,
-    "date": "2027-02-02",
+    "n": 175,
+    "date": "2027-01-26",
     "time": "08:00",
-    "id": "candlemas",
-    "category": "Traditions and holidays",
-    "title": "Candlemas"
-  },
-  {
-    "n": 172,
-    "date": "2027-02-02",
-    "time": "20:00",
     "id": "saint-therese-of-lisieux",
     "category": "Saints",
     "title": "Saint Therese of Lisieux"
   },
   {
-    "n": 173,
-    "date": "2027-02-03",
-    "time": "08:00",
+    "n": 176,
+    "date": "2027-01-26",
+    "time": "20:00",
     "id": "the-childrens-crusade",
     "category": "Church history",
     "title": "the Children's Crusade"
   },
   {
-    "n": 174,
-    "date": "2027-02-03",
-    "time": "20:00",
+    "n": 177,
+    "date": "2027-01-27",
+    "time": "08:00",
     "id": "isaac",
     "category": "Old Testament people",
     "title": "Isaac"
   },
   {
-    "n": 175,
-    "date": "2027-02-04",
-    "time": "08:00",
+    "n": 178,
+    "date": "2027-01-27",
+    "time": "20:00",
     "id": "solomons-temple",
     "category": "Bible places",
     "title": "Solomon's Temple"
   },
   {
-    "n": 176,
-    "date": "2027-02-04",
-    "time": "20:00",
+    "n": 179,
+    "date": "2027-01-28",
+    "time": "08:00",
     "id": "the-lamb-of-god",
     "category": "Symbols and mysteries",
     "title": "the Lamb of God"
   },
   {
-    "n": 177,
-    "date": "2027-02-05",
-    "time": "08:00",
+    "n": 180,
+    "date": "2027-01-28",
+    "time": "20:00",
     "id": "david-and-goliath",
     "category": "Bible stories",
     "title": "David and Goliath"
   },
   {
-    "n": 178,
-    "date": "2027-02-05",
-    "time": "20:00",
+    "n": 181,
+    "date": "2027-01-29",
+    "time": "08:00",
     "id": "the-book-of-psalms",
     "category": "Books of the Bible",
     "title": "the Book of Psalms"
   },
   {
-    "n": 179,
-    "date": "2027-02-06",
-    "time": "08:00",
+    "n": 182,
+    "date": "2027-01-29",
+    "time": "20:00",
     "id": "rebekah",
     "category": "Old Testament people",
     "title": "Rebekah"
   },
   {
-    "n": 180,
-    "date": "2027-02-06",
-    "time": "20:00",
+    "n": 183,
+    "date": "2027-01-30",
+    "time": "08:00",
     "id": "saint-bernadette",
     "category": "Saints",
     "title": "Saint Bernadette"
   },
   {
-    "n": 181,
-    "date": "2027-02-07",
-    "time": "08:00",
+    "n": 184,
+    "date": "2027-01-30",
+    "time": "20:00",
     "id": "confirmation",
     "category": "Traditions and holidays",
     "title": "confirmation"
   },
   {
-    "n": 182,
-    "date": "2027-02-07",
-    "time": "20:00",
+    "n": 185,
+    "date": "2027-01-31",
+    "time": "08:00",
     "id": "the-name-jesus",
     "category": "Words and translations",
     "title": "the name Jesus"
   },
   {
-    "n": 183,
-    "date": "2027-02-08",
-    "time": "08:00",
-    "id": "mardi-gras",
-    "category": "Traditions and holidays",
-    "title": "Mardi Gras"
-  },
-  {
-    "n": 184,
-    "date": "2027-02-08",
+    "n": 186,
+    "date": "2027-01-31",
     "time": "20:00",
     "id": "the-knights-hospitaller",
     "category": "Church history",
     "title": "the Knights Hospitaller"
   },
   {
-    "n": 185,
-    "date": "2027-02-09",
+    "n": 187,
+    "date": "2027-02-01",
     "time": "08:00",
-    "id": "pancake-day",
-    "category": "Traditions and holidays",
-    "title": "Pancake Day"
-  },
-  {
-    "n": 186,
-    "date": "2027-02-09",
-    "time": "20:00",
     "id": "matthew-the-tax-collector",
     "category": "New Testament people",
     "title": "Matthew the tax collector"
   },
   {
-    "n": 187,
-    "date": "2027-02-10",
-    "time": "08:00",
-    "id": "ash-wednesday",
-    "category": "Traditions and holidays",
-    "title": "Ash Wednesday"
-  },
-  {
     "n": 188,
-    "date": "2027-02-10",
+    "date": "2027-02-01",
     "time": "20:00",
     "id": "mont-saint-michel",
     "category": "Churches and cathedrals",
@@ -1505,15 +1505,15 @@
   },
   {
     "n": 189,
-    "date": "2027-02-11",
+    "date": "2027-02-02",
     "time": "08:00",
-    "id": "lent",
+    "id": "candlemas",
     "category": "Traditions and holidays",
-    "title": "Lent"
+    "title": "Candlemas"
   },
   {
     "n": 190,
-    "date": "2027-02-11",
+    "date": "2027-02-02",
     "time": "20:00",
     "id": "daniel-in-the-lions-den",
     "category": "Bible stories",
@@ -1521,7 +1521,7 @@
   },
   {
     "n": 191,
-    "date": "2027-02-12",
+    "date": "2027-02-03",
     "time": "08:00",
     "id": "esau",
     "category": "Old Testament people",
@@ -1529,7 +1529,7 @@
   },
   {
     "n": 192,
-    "date": "2027-02-12",
+    "date": "2027-02-03",
     "time": "20:00",
     "id": "padre-pio",
     "category": "Saints",
@@ -1537,7 +1537,7 @@
   },
   {
     "n": 193,
-    "date": "2027-02-13",
+    "date": "2027-02-04",
     "time": "08:00",
     "id": "the-western-wall",
     "category": "Bible places",
@@ -1545,7 +1545,7 @@
   },
   {
     "n": 194,
-    "date": "2027-02-13",
+    "date": "2027-02-04",
     "time": "20:00",
     "id": "the-inquisition",
     "category": "Church history",
@@ -1553,63 +1553,63 @@
   },
   {
     "n": 195,
-    "date": "2027-02-14",
+    "date": "2027-02-05",
     "time": "08:00",
-    "id": "saint-valentine",
-    "category": "Saints",
-    "title": "Saint Valentine"
-  },
-  {
-    "n": 196,
-    "date": "2027-02-14",
-    "time": "20:00",
     "id": "thomas",
     "category": "New Testament people",
     "title": "Thomas"
   },
   {
-    "n": 197,
-    "date": "2027-02-15",
-    "time": "08:00",
+    "n": 196,
+    "date": "2027-02-05",
+    "time": "20:00",
     "id": "the-book-of-proverbs",
     "category": "Books of the Bible",
     "title": "the Book of Proverbs"
   },
   {
-    "n": 198,
-    "date": "2027-02-15",
-    "time": "20:00",
+    "n": 197,
+    "date": "2027-02-06",
+    "time": "08:00",
     "id": "jacob",
     "category": "Old Testament people",
     "title": "Jacob"
   },
   {
-    "n": 199,
-    "date": "2027-02-16",
-    "time": "08:00",
+    "n": 198,
+    "date": "2027-02-06",
+    "time": "20:00",
     "id": "saint-basils-cathedral",
     "category": "Churches and cathedrals",
     "title": "Saint Basil's Cathedral"
   },
   {
-    "n": 200,
-    "date": "2027-02-16",
-    "time": "20:00",
+    "n": 199,
+    "date": "2027-02-07",
+    "time": "08:00",
     "id": "the-fiery-furnace",
     "category": "Bible stories",
     "title": "the fiery furnace"
   },
   {
-    "n": 201,
-    "date": "2027-02-17",
-    "time": "08:00",
+    "n": 200,
+    "date": "2027-02-07",
+    "time": "20:00",
     "id": "the-halo",
     "category": "Symbols and mysteries",
     "title": "the halo"
   },
   {
+    "n": 201,
+    "date": "2027-02-08",
+    "time": "08:00",
+    "id": "mardi-gras",
+    "category": "Traditions and holidays",
+    "title": "Mardi Gras"
+  },
+  {
     "n": 202,
-    "date": "2027-02-17",
+    "date": "2027-02-08",
     "time": "20:00",
     "id": "pope-john-paul-the-second",
     "category": "Saints",
@@ -1617,527 +1617,527 @@
   },
   {
     "n": 203,
-    "date": "2027-02-18",
+    "date": "2027-02-09",
     "time": "08:00",
+    "id": "pancake-day",
+    "category": "Traditions and holidays",
+    "title": "Pancake Day"
+  },
+  {
+    "n": 204,
+    "date": "2027-02-09",
+    "time": "20:00",
     "id": "the-spanish-inquisition",
     "category": "Church history",
     "title": "the Spanish Inquisition"
   },
   {
-    "n": 204,
-    "date": "2027-02-18",
+    "n": 205,
+    "date": "2027-02-10",
+    "time": "08:00",
+    "id": "ash-wednesday",
+    "category": "Traditions and holidays",
+    "title": "Ash Wednesday"
+  },
+  {
+    "n": 206,
+    "date": "2027-02-10",
     "time": "20:00",
     "id": "rachel",
     "category": "Old Testament people",
     "title": "Rachel"
   },
   {
-    "n": 205,
-    "date": "2027-02-19",
+    "n": 207,
+    "date": "2027-02-11",
     "time": "08:00",
+    "id": "lent",
+    "category": "Traditions and holidays",
+    "title": "Lent"
+  },
+  {
+    "n": 208,
+    "date": "2027-02-11",
+    "time": "20:00",
     "id": "masada",
     "category": "Bible places",
     "title": "Masada"
   },
   {
-    "n": 206,
-    "date": "2027-02-19",
-    "time": "20:00",
+    "n": 209,
+    "date": "2027-02-12",
+    "time": "08:00",
     "id": "james-son-of-alphaeus",
     "category": "New Testament people",
     "title": "James son of Alphaeus"
   },
   {
-    "n": 207,
-    "date": "2027-02-20",
-    "time": "08:00",
+    "n": 210,
+    "date": "2027-02-12",
+    "time": "20:00",
     "id": "saint-monica",
     "category": "Saints",
     "title": "Saint Monica"
   },
   {
-    "n": 208,
-    "date": "2027-02-20",
-    "time": "20:00",
+    "n": 211,
+    "date": "2027-02-13",
+    "time": "08:00",
     "id": "the-writing-on-the-wall",
     "category": "Bible stories",
     "title": "the writing on the wall"
   },
   {
-    "n": 209,
-    "date": "2027-02-21",
-    "time": "08:00",
+    "n": 212,
+    "date": "2027-02-13",
+    "time": "20:00",
     "id": "florence-cathedral",
     "category": "Churches and cathedrals",
     "title": "Florence Cathedral"
   },
   {
-    "n": 210,
-    "date": "2027-02-21",
+    "n": 213,
+    "date": "2027-02-14",
+    "time": "08:00",
+    "id": "saint-valentine",
+    "category": "Saints",
+    "title": "Saint Valentine"
+  },
+  {
+    "n": 214,
+    "date": "2027-02-14",
     "time": "20:00",
     "id": "the-book-of-ecclesiastes",
     "category": "Books of the Bible",
     "title": "the Book of Ecclesiastes"
   },
   {
-    "n": 211,
-    "date": "2027-02-22",
+    "n": 215,
+    "date": "2027-02-15",
     "time": "08:00",
     "id": "leah",
     "category": "Old Testament people",
     "title": "Leah"
   },
   {
-    "n": 212,
-    "date": "2027-02-22",
+    "n": 216,
+    "date": "2027-02-15",
     "time": "20:00",
     "id": "the-avignon-popes",
     "category": "Church history",
     "title": "the Avignon popes"
   },
   {
-    "n": 213,
-    "date": "2027-02-23",
+    "n": 217,
+    "date": "2027-02-16",
     "time": "08:00",
     "id": "the-rosary",
     "category": "Traditions and holidays",
     "title": "the rosary"
   },
   {
-    "n": 214,
-    "date": "2027-02-23",
+    "n": 218,
+    "date": "2027-02-16",
     "time": "20:00",
     "id": "biblical-hebrew",
     "category": "Words and translations",
     "title": "biblical Hebrew"
   },
   {
-    "n": 215,
-    "date": "2027-02-24",
+    "n": 219,
+    "date": "2027-02-17",
     "time": "08:00",
     "id": "saint-agnes",
     "category": "Saints",
     "title": "Saint Agnes"
   },
   {
-    "n": 216,
-    "date": "2027-02-24",
+    "n": 220,
+    "date": "2027-02-17",
     "time": "20:00",
     "id": "qumran",
     "category": "Bible places",
     "title": "Qumran"
   },
   {
-    "n": 217,
-    "date": "2027-02-25",
+    "n": 221,
+    "date": "2027-02-18",
     "time": "08:00",
     "id": "laban",
     "category": "Old Testament people",
     "title": "Laban"
   },
   {
-    "n": 218,
-    "date": "2027-02-25",
+    "n": 222,
+    "date": "2027-02-18",
     "time": "20:00",
     "id": "thaddeus",
     "category": "New Testament people",
     "title": "Thaddeus"
   },
   {
-    "n": 219,
-    "date": "2027-02-26",
+    "n": 223,
+    "date": "2027-02-19",
     "time": "08:00",
     "id": "elijah-and-the-prophets-of-baal",
     "category": "Bible stories",
     "title": "Elijah and the prophets of Baal"
   },
   {
-    "n": 220,
-    "date": "2027-02-26",
+    "n": 224,
+    "date": "2027-02-19",
     "time": "20:00",
     "id": "the-true-cross",
     "category": "Symbols and mysteries",
     "title": "the True Cross"
   },
   {
-    "n": 221,
-    "date": "2027-02-27",
+    "n": 225,
+    "date": "2027-02-20",
     "time": "08:00",
     "id": "the-western-schism",
     "category": "Church history",
     "title": "the Western Schism"
   },
   {
-    "n": 222,
-    "date": "2027-02-27",
+    "n": 226,
+    "date": "2027-02-20",
     "time": "20:00",
     "id": "the-rock-churches-of-lalibela",
     "category": "Churches and cathedrals",
     "title": "the rock churches of Lalibela"
   },
   {
-    "n": 223,
-    "date": "2027-02-28",
+    "n": 227,
+    "date": "2027-02-21",
     "time": "08:00",
     "id": "the-song-of-songs",
     "category": "Books of the Bible",
     "title": "the Song of Songs"
   },
   {
-    "n": 224,
-    "date": "2027-02-28",
+    "n": 228,
+    "date": "2027-02-21",
     "time": "20:00",
     "id": "joseph",
     "category": "Old Testament people",
     "title": "Joseph"
   },
   {
-    "n": 225,
-    "date": "2027-03-01",
+    "n": 229,
+    "date": "2027-02-22",
     "time": "08:00",
     "id": "saint-cecilia",
     "category": "Saints",
     "title": "Saint Cecilia"
   },
   {
-    "n": 226,
-    "date": "2027-03-01",
+    "n": 230,
+    "date": "2027-02-22",
     "time": "20:00",
     "id": "the-chariot-of-fire",
     "category": "Bible stories",
     "title": "the chariot of fire"
   },
   {
-    "n": 227,
-    "date": "2027-03-02",
+    "n": 231,
+    "date": "2027-02-23",
     "time": "08:00",
     "id": "simon-the-zealot",
     "category": "New Testament people",
     "title": "Simon the Zealot"
   },
   {
-    "n": 228,
-    "date": "2027-03-02",
+    "n": 232,
+    "date": "2027-02-23",
     "time": "20:00",
     "id": "damascus",
     "category": "Bible places",
     "title": "Damascus"
   },
   {
-    "n": 229,
-    "date": "2027-03-03",
+    "n": 233,
+    "date": "2027-02-24",
     "time": "08:00",
     "id": "martin-luther",
     "category": "Church history",
     "title": "Martin Luther"
   },
   {
-    "n": 230,
-    "date": "2027-03-03",
+    "n": 234,
+    "date": "2027-02-24",
     "time": "20:00",
     "id": "judah",
     "category": "Old Testament people",
     "title": "Judah"
   },
   {
-    "n": 231,
-    "date": "2027-03-04",
+    "n": 235,
+    "date": "2027-02-25",
     "time": "08:00",
     "id": "saint-sebastian",
     "category": "Saints",
     "title": "Saint Sebastian"
   },
   {
-    "n": 232,
-    "date": "2027-03-04",
+    "n": 236,
+    "date": "2027-02-25",
     "time": "20:00",
     "id": "hallgrimskirkja",
     "category": "Churches and cathedrals",
     "title": "Hallgrimskirkja"
   },
   {
-    "n": 233,
-    "date": "2027-03-05",
+    "n": 237,
+    "date": "2027-02-26",
     "time": "08:00",
     "id": "the-book-of-lamentations",
     "category": "Books of the Bible",
     "title": "the Book of Lamentations"
   },
   {
-    "n": 234,
-    "date": "2027-03-05",
+    "n": 238,
+    "date": "2027-02-26",
     "time": "20:00",
     "id": "the-babylonian-exile",
     "category": "Bible stories",
     "title": "the Babylonian exile"
   },
   {
-    "n": 235,
-    "date": "2027-03-06",
+    "n": 239,
+    "date": "2027-02-27",
     "time": "08:00",
     "id": "benjamin",
     "category": "Old Testament people",
     "title": "Benjamin"
   },
   {
-    "n": 236,
-    "date": "2027-03-06",
+    "n": 240,
+    "date": "2027-02-27",
     "time": "20:00",
     "id": "the-ninety-five-theses",
     "category": "Church history",
     "title": "the Ninety-Five Theses"
   },
   {
-    "n": 237,
-    "date": "2027-03-07",
+    "n": 241,
+    "date": "2027-02-28",
     "time": "08:00",
     "id": "matthias",
     "category": "New Testament people",
     "title": "Matthias"
   },
   {
-    "n": 238,
-    "date": "2027-03-07",
+    "n": 242,
+    "date": "2027-02-28",
     "time": "20:00",
     "id": "stained-glass-windows",
     "category": "Symbols and mysteries",
     "title": "stained glass windows"
   },
   {
-    "n": 239,
-    "date": "2027-03-08",
+    "n": 243,
+    "date": "2027-03-01",
     "time": "08:00",
     "id": "saint-lawrence",
     "category": "Saints",
     "title": "Saint Lawrence"
   },
   {
-    "n": 240,
-    "date": "2027-03-08",
+    "n": 244,
+    "date": "2027-03-01",
     "time": "20:00",
     "id": "antioch",
     "category": "Bible places",
     "title": "Antioch"
   },
   {
-    "n": 241,
-    "date": "2027-03-09",
+    "n": 245,
+    "date": "2027-03-02",
     "time": "08:00",
     "id": "reuben",
     "category": "Old Testament people",
     "title": "Reuben"
   },
   {
-    "n": 242,
-    "date": "2027-03-09",
+    "n": 246,
+    "date": "2027-03-02",
     "time": "20:00",
     "id": "las-lajas-sanctuary",
     "category": "Churches and cathedrals",
     "title": "Las Lajas Sanctuary"
   },
   {
-    "n": 243,
-    "date": "2027-03-10",
+    "n": 247,
+    "date": "2027-03-03",
     "time": "08:00",
     "id": "the-flight-into-egypt",
     "category": "Bible stories",
     "title": "the flight into Egypt"
   },
   {
-    "n": 244,
-    "date": "2027-03-10",
+    "n": 248,
+    "date": "2027-03-03",
     "time": "20:00",
     "id": "the-sign-of-the-cross",
     "category": "Traditions and holidays",
     "title": "the sign of the cross"
   },
   {
-    "n": 245,
-    "date": "2027-03-11",
+    "n": 249,
+    "date": "2027-03-04",
     "time": "08:00",
     "id": "aramaic",
     "category": "Words and translations",
     "title": "Aramaic"
   },
   {
-    "n": 246,
-    "date": "2027-03-11",
+    "n": 250,
+    "date": "2027-03-04",
     "time": "20:00",
     "id": "the-protestant-reformation",
     "category": "Church history",
     "title": "the Protestant Reformation"
   },
   {
-    "n": 247,
-    "date": "2027-03-12",
+    "n": 251,
+    "date": "2027-03-05",
     "time": "08:00",
     "id": "the-book-of-isaiah",
     "category": "Books of the Bible",
     "title": "the Book of Isaiah"
   },
   {
-    "n": 248,
-    "date": "2027-03-12",
+    "n": 252,
+    "date": "2027-03-05",
     "time": "20:00",
     "id": "saint-polycarp",
     "category": "Saints",
     "title": "Saint Polycarp"
   },
   {
-    "n": 249,
-    "date": "2027-03-13",
+    "n": 253,
+    "date": "2027-03-06",
     "time": "08:00",
     "id": "barnabas",
     "category": "New Testament people",
     "title": "Barnabas"
   },
   {
-    "n": 250,
-    "date": "2027-03-13",
+    "n": 254,
+    "date": "2027-03-06",
     "time": "20:00",
     "id": "dinah",
     "category": "Old Testament people",
     "title": "Dinah"
   },
   {
-    "n": 251,
-    "date": "2027-03-14",
+    "n": 255,
+    "date": "2027-03-07",
     "time": "08:00",
     "id": "ephesus",
     "category": "Bible places",
     "title": "Ephesus"
   },
   {
-    "n": 252,
-    "date": "2027-03-14",
+    "n": 256,
+    "date": "2027-03-07",
     "time": "20:00",
     "id": "the-baptism-of-jesus",
     "category": "Bible stories",
     "title": "the baptism of Jesus"
   },
   {
-    "n": 253,
-    "date": "2027-03-15",
+    "n": 257,
+    "date": "2027-03-08",
     "time": "08:00",
     "id": "washington-national-cathedral",
     "category": "Churches and cathedrals",
     "title": "Washington National Cathedral"
   },
   {
-    "n": 254,
-    "date": "2027-03-15",
+    "n": 258,
+    "date": "2027-03-08",
     "time": "20:00",
     "id": "john-calvin",
     "category": "Church history",
     "title": "John Calvin"
   },
   {
-    "n": 255,
-    "date": "2027-03-16",
+    "n": 259,
+    "date": "2027-03-09",
     "time": "08:00",
     "id": "tamar",
     "category": "Old Testament people",
     "title": "Tamar"
   },
   {
-    "n": 256,
-    "date": "2027-03-16",
+    "n": 260,
+    "date": "2027-03-09",
     "time": "20:00",
     "id": "saint-ignatius-of-antioch",
     "category": "Saints",
     "title": "Saint Ignatius of Antioch"
   },
   {
-    "n": 257,
-    "date": "2027-03-17",
+    "n": 261,
+    "date": "2027-03-10",
     "time": "08:00",
-    "id": "saint-patrick",
-    "category": "Saints",
-    "title": "Saint Patrick"
-  },
-  {
-    "n": 258,
-    "date": "2027-03-17",
-    "time": "20:00",
     "id": "orthodox-icons",
     "category": "Symbols and mysteries",
     "title": "Orthodox icons"
   },
   {
-    "n": 259,
-    "date": "2027-03-18",
-    "time": "08:00",
+    "n": 262,
+    "date": "2027-03-10",
+    "time": "20:00",
     "id": "silas",
     "category": "New Testament people",
     "title": "Silas"
   },
   {
-    "n": 260,
-    "date": "2027-03-18",
-    "time": "20:00",
+    "n": 263,
+    "date": "2027-03-11",
+    "time": "08:00",
     "id": "the-book-of-jeremiah",
     "category": "Books of the Bible",
     "title": "the Book of Jeremiah"
   },
   {
-    "n": 261,
-    "date": "2027-03-19",
-    "time": "08:00",
+    "n": 264,
+    "date": "2027-03-11",
+    "time": "20:00",
     "id": "potiphar",
     "category": "Old Testament people",
     "title": "Potiphar"
   },
   {
-    "n": 262,
-    "date": "2027-03-19",
-    "time": "20:00",
+    "n": 265,
+    "date": "2027-03-12",
+    "time": "08:00",
     "id": "the-temptation-in-the-desert",
     "category": "Bible stories",
     "title": "the temptation in the desert"
   },
   {
-    "n": 263,
-    "date": "2027-03-20",
-    "time": "08:00",
-    "id": "the-entry-into-jerusalem",
-    "category": "Bible stories",
-    "title": "the entry into Jerusalem"
-  },
-  {
-    "n": 264,
-    "date": "2027-03-20",
+    "n": 266,
+    "date": "2027-03-12",
     "time": "20:00",
     "id": "saint-perpetua",
     "category": "Saints",
     "title": "Saint Perpetua"
   },
   {
-    "n": 265,
-    "date": "2027-03-21",
+    "n": 267,
+    "date": "2027-03-13",
     "time": "08:00",
-    "id": "palm-sunday",
-    "category": "Traditions and holidays",
-    "title": "Palm Sunday"
-  },
-  {
-    "n": 266,
-    "date": "2027-03-21",
-    "time": "20:00",
     "id": "henry-the-eighth-and-the-church",
     "category": "Church history",
     "title": "Henry the Eighth and the Church"
   },
   {
-    "n": 267,
-    "date": "2027-03-22",
-    "time": "08:00",
-    "id": "holy-week",
-    "category": "Traditions and holidays",
-    "title": "Holy Week"
-  },
-  {
     "n": 268,
-    "date": "2027-03-22",
+    "date": "2027-03-13",
     "time": "20:00",
     "id": "corinth",
     "category": "Bible places",
@@ -2145,6 +2145,150 @@
   },
   {
     "n": 269,
+    "date": "2027-03-14",
+    "time": "08:00",
+    "id": "saint-patricks-cathedral-in-new-york",
+    "category": "Churches and cathedrals",
+    "title": "Saint Patrick's Cathedral in New York"
+  },
+  {
+    "n": 270,
+    "date": "2027-03-14",
+    "time": "20:00",
+    "id": "aaron",
+    "category": "Old Testament people",
+    "title": "Aaron"
+  },
+  {
+    "n": 271,
+    "date": "2027-03-15",
+    "time": "08:00",
+    "id": "timothy",
+    "category": "New Testament people",
+    "title": "Timothy"
+  },
+  {
+    "n": 272,
+    "date": "2027-03-15",
+    "time": "20:00",
+    "id": "saint-athanasius",
+    "category": "Saints",
+    "title": "Saint Athanasius"
+  },
+  {
+    "n": 273,
+    "date": "2027-03-16",
+    "time": "08:00",
+    "id": "the-wedding-at-cana",
+    "category": "Bible stories",
+    "title": "the wedding at Cana"
+  },
+  {
+    "n": 274,
+    "date": "2027-03-16",
+    "time": "20:00",
+    "id": "the-book-of-ezekiel",
+    "category": "Books of the Bible",
+    "title": "the Book of Ezekiel"
+  },
+  {
+    "n": 275,
+    "date": "2027-03-17",
+    "time": "08:00",
+    "id": "saint-patrick",
+    "category": "Saints",
+    "title": "Saint Patrick"
+  },
+  {
+    "n": 276,
+    "date": "2027-03-17",
+    "time": "20:00",
+    "id": "the-church-of-england",
+    "category": "Church history",
+    "title": "the Church of England"
+  },
+  {
+    "n": 277,
+    "date": "2027-03-18",
+    "time": "08:00",
+    "id": "miriam",
+    "category": "Old Testament people",
+    "title": "Miriam"
+  },
+  {
+    "n": 278,
+    "date": "2027-03-18",
+    "time": "20:00",
+    "id": "frankincense-and-myrrh",
+    "category": "Symbols and mysteries",
+    "title": "frankincense and myrrh"
+  },
+  {
+    "n": 279,
+    "date": "2027-03-19",
+    "time": "08:00",
+    "id": "christian-weddings",
+    "category": "Traditions and holidays",
+    "title": "Christian weddings"
+  },
+  {
+    "n": 280,
+    "date": "2027-03-19",
+    "time": "20:00",
+    "id": "koine-greek",
+    "category": "Words and translations",
+    "title": "Koine Greek"
+  },
+  {
+    "n": 281,
+    "date": "2027-03-20",
+    "time": "08:00",
+    "id": "the-entry-into-jerusalem",
+    "category": "Bible stories",
+    "title": "the entry into Jerusalem"
+  },
+  {
+    "n": 282,
+    "date": "2027-03-20",
+    "time": "20:00",
+    "id": "the-areopagus",
+    "category": "Bible places",
+    "title": "the Areopagus"
+  },
+  {
+    "n": 283,
+    "date": "2027-03-21",
+    "time": "08:00",
+    "id": "palm-sunday",
+    "category": "Traditions and holidays",
+    "title": "Palm Sunday"
+  },
+  {
+    "n": 284,
+    "date": "2027-03-21",
+    "time": "20:00",
+    "id": "the-basilica-of-guadalupe",
+    "category": "Churches and cathedrals",
+    "title": "the Basilica of Guadalupe"
+  },
+  {
+    "n": 285,
+    "date": "2027-03-22",
+    "time": "08:00",
+    "id": "holy-week",
+    "category": "Traditions and holidays",
+    "title": "Holy Week"
+  },
+  {
+    "n": 286,
+    "date": "2027-03-22",
+    "time": "20:00",
+    "id": "luke-the-physician",
+    "category": "New Testament people",
+    "title": "Luke the physician"
+  },
+  {
+    "n": 287,
     "date": "2027-03-23",
     "time": "08:00",
     "id": "the-stations-of-the-cross",
@@ -2152,15 +2296,15 @@
     "title": "the Stations of the Cross"
   },
   {
-    "n": 270,
+    "n": 288,
     "date": "2027-03-23",
     "time": "20:00",
-    "id": "saint-patricks-cathedral-in-new-york",
-    "category": "Churches and cathedrals",
-    "title": "Saint Patrick's Cathedral in New York"
+    "id": "saint-basil-the-great",
+    "category": "Saints",
+    "title": "Saint Basil the Great"
   },
   {
-    "n": 271,
+    "n": 289,
     "date": "2027-03-24",
     "time": "08:00",
     "id": "the-word-easter",
@@ -2168,15 +2312,15 @@
     "title": "the word Easter"
   },
   {
-    "n": 272,
+    "n": 290,
     "date": "2027-03-24",
     "time": "20:00",
-    "id": "aaron",
-    "category": "Old Testament people",
-    "title": "Aaron"
+    "id": "the-sermon-on-the-mount",
+    "category": "Bible stories",
+    "title": "the Sermon on the Mount"
   },
   {
-    "n": 273,
+    "n": 291,
     "date": "2027-03-25",
     "time": "08:00",
     "id": "the-last-supper",
@@ -2184,7 +2328,7 @@
     "title": "the Last Supper"
   },
   {
-    "n": 274,
+    "n": 292,
     "date": "2027-03-25",
     "time": "20:00",
     "id": "hot-cross-buns",
@@ -2192,7 +2336,7 @@
     "title": "hot cross buns"
   },
   {
-    "n": 275,
+    "n": 293,
     "date": "2027-03-26",
     "time": "08:00",
     "id": "good-friday",
@@ -2200,7 +2344,7 @@
     "title": "Good Friday"
   },
   {
-    "n": 276,
+    "n": 294,
     "date": "2027-03-26",
     "time": "20:00",
     "id": "the-crucifixion",
@@ -2208,7 +2352,7 @@
     "title": "the crucifixion"
   },
   {
-    "n": 277,
+    "n": 295,
     "date": "2027-03-27",
     "time": "08:00",
     "id": "the-easter-vigil",
@@ -2216,7 +2360,7 @@
     "title": "the Easter Vigil"
   },
   {
-    "n": 278,
+    "n": 296,
     "date": "2027-03-27",
     "time": "20:00",
     "id": "easter-eggs",
@@ -2224,7 +2368,7 @@
     "title": "Easter eggs"
   },
   {
-    "n": 279,
+    "n": 297,
     "date": "2027-03-28",
     "time": "08:00",
     "id": "easter",
@@ -2232,7 +2376,7 @@
     "title": "Easter"
   },
   {
-    "n": 280,
+    "n": 298,
     "date": "2027-03-28",
     "time": "20:00",
     "id": "the-resurrection-of-jesus",
@@ -2240,7 +2384,7 @@
     "title": "the resurrection of Jesus"
   },
   {
-    "n": 281,
+    "n": 299,
     "date": "2027-03-29",
     "time": "08:00",
     "id": "the-empty-tomb",
@@ -2248,399 +2392,399 @@
     "title": "the empty tomb"
   },
   {
-    "n": 282,
+    "n": 300,
     "date": "2027-03-29",
-    "time": "20:00",
-    "id": "timothy",
-    "category": "New Testament people",
-    "title": "Timothy"
-  },
-  {
-    "n": 283,
-    "date": "2027-03-30",
-    "time": "08:00",
-    "id": "saint-athanasius",
-    "category": "Saints",
-    "title": "Saint Athanasius"
-  },
-  {
-    "n": 284,
-    "date": "2027-03-30",
-    "time": "20:00",
-    "id": "the-wedding-at-cana",
-    "category": "Bible stories",
-    "title": "the wedding at Cana"
-  },
-  {
-    "n": 285,
-    "date": "2027-03-31",
-    "time": "08:00",
-    "id": "the-book-of-ezekiel",
-    "category": "Books of the Bible",
-    "title": "the Book of Ezekiel"
-  },
-  {
-    "n": 286,
-    "date": "2027-03-31",
-    "time": "20:00",
-    "id": "the-church-of-england",
-    "category": "Church history",
-    "title": "the Church of England"
-  },
-  {
-    "n": 287,
-    "date": "2027-04-01",
-    "time": "08:00",
-    "id": "miriam",
-    "category": "Old Testament people",
-    "title": "Miriam"
-  },
-  {
-    "n": 288,
-    "date": "2027-04-01",
-    "time": "20:00",
-    "id": "frankincense-and-myrrh",
-    "category": "Symbols and mysteries",
-    "title": "frankincense and myrrh"
-  },
-  {
-    "n": 289,
-    "date": "2027-04-02",
-    "time": "08:00",
-    "id": "christian-weddings",
-    "category": "Traditions and holidays",
-    "title": "Christian weddings"
-  },
-  {
-    "n": 290,
-    "date": "2027-04-02",
-    "time": "20:00",
-    "id": "koine-greek",
-    "category": "Words and translations",
-    "title": "Koine Greek"
-  },
-  {
-    "n": 291,
-    "date": "2027-04-03",
-    "time": "08:00",
-    "id": "the-areopagus",
-    "category": "Bible places",
-    "title": "the Areopagus"
-  },
-  {
-    "n": 292,
-    "date": "2027-04-03",
-    "time": "20:00",
-    "id": "the-basilica-of-guadalupe",
-    "category": "Churches and cathedrals",
-    "title": "the Basilica of Guadalupe"
-  },
-  {
-    "n": 293,
-    "date": "2027-04-04",
-    "time": "08:00",
-    "id": "luke-the-physician",
-    "category": "New Testament people",
-    "title": "Luke the physician"
-  },
-  {
-    "n": 294,
-    "date": "2027-04-04",
-    "time": "20:00",
-    "id": "saint-basil-the-great",
-    "category": "Saints",
-    "title": "Saint Basil the Great"
-  },
-  {
-    "n": 295,
-    "date": "2027-04-05",
-    "time": "08:00",
-    "id": "the-sermon-on-the-mount",
-    "category": "Bible stories",
-    "title": "the Sermon on the Mount"
-  },
-  {
-    "n": 296,
-    "date": "2027-04-05",
     "time": "20:00",
     "id": "the-council-of-trent",
     "category": "Church history",
     "title": "the Council of Trent"
   },
   {
-    "n": 297,
-    "date": "2027-04-06",
+    "n": 301,
+    "date": "2027-03-30",
     "time": "08:00",
     "id": "jethro",
     "category": "Old Testament people",
     "title": "Jethro"
   },
   {
-    "n": 298,
-    "date": "2027-04-06",
+    "n": 302,
+    "date": "2027-03-30",
     "time": "20:00",
     "id": "the-book-of-hosea",
     "category": "Books of the Bible",
     "title": "the Book of Hosea"
   },
   {
-    "n": 299,
-    "date": "2027-04-07",
+    "n": 303,
+    "date": "2027-03-31",
     "time": "08:00",
     "id": "pope-gregory-the-great",
     "category": "Saints",
     "title": "Pope Gregory the Great"
   },
   {
-    "n": 300,
-    "date": "2027-04-07",
+    "n": 304,
+    "date": "2027-03-31",
     "time": "20:00",
     "id": "zipporah",
     "category": "Old Testament people",
     "title": "Zipporah"
   },
   {
-    "n": 301,
-    "date": "2027-04-08",
+    "n": 305,
+    "date": "2027-04-01",
     "time": "08:00",
     "id": "the-island-of-patmos",
     "category": "Bible places",
     "title": "the island of Patmos"
   },
   {
-    "n": 302,
-    "date": "2027-04-08",
+    "n": 306,
+    "date": "2027-04-01",
     "time": "20:00",
     "id": "christ-the-redeemer",
     "category": "Churches and cathedrals",
     "title": "Christ the Redeemer"
   },
   {
-    "n": 303,
-    "date": "2027-04-09",
+    "n": 307,
+    "date": "2027-04-02",
     "time": "08:00",
     "id": "martha",
     "category": "New Testament people",
     "title": "Martha"
   },
   {
-    "n": 304,
-    "date": "2027-04-09",
+    "n": 308,
+    "date": "2027-04-02",
     "time": "20:00",
     "id": "the-feeding-of-the-five-thousand",
     "category": "Bible stories",
     "title": "the feeding of the five thousand"
   },
   {
-    "n": 305,
-    "date": "2027-04-10",
+    "n": 309,
+    "date": "2027-04-03",
     "time": "08:00",
     "id": "the-jesuits",
     "category": "Church history",
     "title": "the Jesuits"
   },
   {
-    "n": 306,
-    "date": "2027-04-10",
+    "n": 310,
+    "date": "2027-04-03",
     "time": "20:00",
     "id": "the-crown-of-thorns",
     "category": "Symbols and mysteries",
     "title": "the crown of thorns"
   },
   {
-    "n": 307,
-    "date": "2027-04-11",
+    "n": 311,
+    "date": "2027-04-04",
     "time": "08:00",
     "id": "the-pharaoh-of-the-exodus",
     "category": "Old Testament people",
     "title": "the Pharaoh of the Exodus"
   },
   {
-    "n": 308,
-    "date": "2027-04-11",
+    "n": 312,
+    "date": "2027-04-04",
     "time": "20:00",
     "id": "saint-john-chrysostom",
     "category": "Saints",
     "title": "Saint John Chrysostom"
   },
   {
-    "n": 309,
-    "date": "2027-04-12",
+    "n": 313,
+    "date": "2027-04-05",
     "time": "08:00",
     "id": "the-book-of-amos",
     "category": "Books of the Bible",
     "title": "the Book of Amos"
   },
   {
-    "n": 310,
-    "date": "2027-04-12",
+    "n": 314,
+    "date": "2027-04-05",
     "time": "20:00",
     "id": "william-tyndale",
     "category": "Church history",
     "title": "William Tyndale"
   },
   {
-    "n": 311,
-    "date": "2027-04-13",
+    "n": 315,
+    "date": "2027-04-06",
     "time": "08:00",
     "id": "jesus-walking-on-water",
     "category": "Bible stories",
     "title": "Jesus walking on water"
   },
   {
-    "n": 312,
-    "date": "2027-04-13",
+    "n": 316,
+    "date": "2027-04-06",
     "time": "20:00",
     "id": "nicodemus",
     "category": "New Testament people",
     "title": "Nicodemus"
   },
   {
-    "n": 313,
-    "date": "2027-04-14",
+    "n": 317,
+    "date": "2027-04-07",
     "time": "08:00",
     "id": "lourdes",
     "category": "Churches and cathedrals",
     "title": "Lourdes"
   },
   {
-    "n": 314,
-    "date": "2027-04-14",
+    "n": 318,
+    "date": "2027-04-07",
     "time": "20:00",
     "id": "joshua",
     "category": "Old Testament people",
     "title": "Joshua"
   },
   {
-    "n": 315,
-    "date": "2027-04-15",
+    "n": 319,
+    "date": "2027-04-08",
     "time": "08:00",
     "id": "tarsus",
     "category": "Bible places",
     "title": "Tarsus"
   },
   {
-    "n": 316,
-    "date": "2027-04-15",
+    "n": 320,
+    "date": "2027-04-08",
     "time": "20:00",
     "id": "saints-cyril-and-methodius",
     "category": "Saints",
     "title": "Saints Cyril and Methodius"
   },
   {
-    "n": 317,
-    "date": "2027-04-16",
+    "n": 321,
+    "date": "2027-04-09",
     "time": "08:00",
     "id": "church-bells",
     "category": "Traditions and holidays",
     "title": "church bells"
   },
   {
-    "n": 318,
-    "date": "2027-04-16",
+    "n": 322,
+    "date": "2027-04-09",
     "time": "20:00",
     "id": "the-septuagint",
     "category": "Words and translations",
     "title": "the Septuagint"
   },
   {
-    "n": 319,
-    "date": "2027-04-17",
+    "n": 323,
+    "date": "2027-04-10",
     "time": "08:00",
     "id": "john-wycliffe",
     "category": "Church history",
     "title": "John Wycliffe"
   },
   {
-    "n": 320,
-    "date": "2027-04-17",
+    "n": 324,
+    "date": "2027-04-10",
     "time": "20:00",
     "id": "caleb",
     "category": "Old Testament people",
     "title": "Caleb"
   },
   {
-    "n": 321,
-    "date": "2027-04-18",
+    "n": 325,
+    "date": "2027-04-11",
     "time": "08:00",
     "id": "the-transfiguration",
     "category": "Bible stories",
     "title": "the Transfiguration"
   },
   {
-    "n": 322,
-    "date": "2027-04-18",
+    "n": 326,
+    "date": "2027-04-11",
     "time": "20:00",
     "id": "the-book-of-micah",
     "category": "Books of the Bible",
     "title": "the Book of Micah"
   },
   {
-    "n": 323,
-    "date": "2027-04-19",
+    "n": 327,
+    "date": "2027-04-12",
     "time": "08:00",
     "id": "joseph-of-arimathea",
     "category": "New Testament people",
     "title": "Joseph of Arimathea"
   },
   {
-    "n": 324,
-    "date": "2027-04-19",
+    "n": 328,
+    "date": "2027-04-12",
     "time": "20:00",
     "id": "saint-boniface",
     "category": "Saints",
     "title": "Saint Boniface"
   },
   {
-    "n": 325,
-    "date": "2027-04-20",
+    "n": 329,
+    "date": "2027-04-13",
     "time": "08:00",
     "id": "fatima",
     "category": "Churches and cathedrals",
     "title": "Fatima"
   },
   {
-    "n": 326,
-    "date": "2027-04-20",
+    "n": 330,
+    "date": "2027-04-13",
     "time": "20:00",
     "id": "alpha-and-omega",
     "category": "Symbols and mysteries",
     "title": "Alpha and Omega"
   },
   {
-    "n": 327,
-    "date": "2027-04-21",
+    "n": 331,
+    "date": "2027-04-14",
     "time": "08:00",
     "id": "ur-of-the-chaldees",
     "category": "Bible places",
     "title": "Ur of the Chaldees"
   },
   {
-    "n": 328,
-    "date": "2027-04-21",
+    "n": 332,
+    "date": "2027-04-14",
     "time": "20:00",
     "id": "rahab",
     "category": "Old Testament people",
     "title": "Rahab"
   },
   {
-    "n": 329,
-    "date": "2027-04-22",
+    "n": 333,
+    "date": "2027-04-15",
     "time": "08:00",
     "id": "jan-hus",
     "category": "Church history",
     "title": "Jan Hus"
   },
   {
-    "n": 330,
-    "date": "2027-04-22",
+    "n": 334,
+    "date": "2027-04-15",
     "time": "20:00",
     "id": "the-raising-of-lazarus",
     "category": "Bible stories",
     "title": "the raising of Lazarus"
   },
   {
-    "n": 331,
+    "n": 335,
+    "date": "2027-04-16",
+    "time": "08:00",
+    "id": "saint-columba",
+    "category": "Saints",
+    "title": "Saint Columba"
+  },
+  {
+    "n": 336,
+    "date": "2027-04-16",
+    "time": "20:00",
+    "id": "balaam",
+    "category": "Old Testament people",
+    "title": "Balaam"
+  },
+  {
+    "n": 337,
+    "date": "2027-04-17",
+    "time": "08:00",
+    "id": "zacchaeus",
+    "category": "New Testament people",
+    "title": "Zacchaeus"
+  },
+  {
+    "n": 338,
+    "date": "2027-04-17",
+    "time": "20:00",
+    "id": "the-book-of-habakkuk",
+    "category": "Books of the Bible",
+    "title": "the Book of Habakkuk"
+  },
+  {
+    "n": 339,
+    "date": "2027-04-18",
+    "time": "08:00",
+    "id": "the-meteora-monasteries",
+    "category": "Churches and cathedrals",
+    "title": "the Meteora monasteries"
+  },
+  {
+    "n": 340,
+    "date": "2027-04-18",
+    "time": "20:00",
+    "id": "the-gutenberg-bible",
+    "category": "Church history",
+    "title": "the Gutenberg Bible"
+  },
+  {
+    "n": 341,
+    "date": "2027-04-19",
+    "time": "08:00",
+    "id": "hebron",
+    "category": "Bible places",
+    "title": "Hebron"
+  },
+  {
+    "n": 342,
+    "date": "2027-04-19",
+    "time": "20:00",
+    "id": "the-parable-of-the-prodigal-son",
+    "category": "Bible stories",
+    "title": "the parable of the Prodigal Son"
+  },
+  {
+    "n": 343,
+    "date": "2027-04-20",
+    "time": "08:00",
+    "id": "korah",
+    "category": "Old Testament people",
+    "title": "Korah"
+  },
+  {
+    "n": 344,
+    "date": "2027-04-20",
+    "time": "20:00",
+    "id": "saint-brigid",
+    "category": "Saints",
+    "title": "Saint Brigid"
+  },
+  {
+    "n": 345,
+    "date": "2027-04-21",
+    "time": "08:00",
+    "id": "herod-the-great",
+    "category": "New Testament people",
+    "title": "Herod the Great"
+  },
+  {
+    "n": 346,
+    "date": "2027-04-21",
+    "time": "20:00",
+    "id": "gargoyles",
+    "category": "Symbols and mysteries",
+    "title": "gargoyles"
+  },
+  {
+    "n": 347,
+    "date": "2027-04-22",
+    "time": "08:00",
+    "id": "the-pilgrims",
+    "category": "Church history",
+    "title": "the Pilgrims"
+  },
+  {
+    "n": 348,
+    "date": "2027-04-22",
+    "time": "20:00",
+    "id": "deborah",
+    "category": "Old Testament people",
+    "title": "Deborah"
+  },
+  {
+    "n": 349,
     "date": "2027-04-23",
     "time": "08:00",
     "id": "saint-george",
@@ -2648,143 +2792,143 @@
     "title": "Saint George"
   },
   {
-    "n": 332,
+    "n": 350,
     "date": "2027-04-23",
-    "time": "20:00",
-    "id": "saint-columba",
-    "category": "Saints",
-    "title": "Saint Columba"
-  },
-  {
-    "n": 333,
-    "date": "2027-04-24",
-    "time": "08:00",
-    "id": "balaam",
-    "category": "Old Testament people",
-    "title": "Balaam"
-  },
-  {
-    "n": 334,
-    "date": "2027-04-24",
-    "time": "20:00",
-    "id": "zacchaeus",
-    "category": "New Testament people",
-    "title": "Zacchaeus"
-  },
-  {
-    "n": 335,
-    "date": "2027-04-25",
-    "time": "08:00",
-    "id": "the-book-of-habakkuk",
-    "category": "Books of the Bible",
-    "title": "the Book of Habakkuk"
-  },
-  {
-    "n": 336,
-    "date": "2027-04-25",
-    "time": "20:00",
-    "id": "the-meteora-monasteries",
-    "category": "Churches and cathedrals",
-    "title": "the Meteora monasteries"
-  },
-  {
-    "n": 337,
-    "date": "2027-04-26",
-    "time": "08:00",
-    "id": "the-gutenberg-bible",
-    "category": "Church history",
-    "title": "the Gutenberg Bible"
-  },
-  {
-    "n": 338,
-    "date": "2027-04-26",
-    "time": "20:00",
-    "id": "hebron",
-    "category": "Bible places",
-    "title": "Hebron"
-  },
-  {
-    "n": 339,
-    "date": "2027-04-27",
-    "time": "08:00",
-    "id": "the-parable-of-the-prodigal-son",
-    "category": "Bible stories",
-    "title": "the parable of the Prodigal Son"
-  },
-  {
-    "n": 340,
-    "date": "2027-04-27",
-    "time": "20:00",
-    "id": "korah",
-    "category": "Old Testament people",
-    "title": "Korah"
-  },
-  {
-    "n": 341,
-    "date": "2027-04-28",
-    "time": "08:00",
-    "id": "saint-brigid",
-    "category": "Saints",
-    "title": "Saint Brigid"
-  },
-  {
-    "n": 342,
-    "date": "2027-04-28",
-    "time": "20:00",
-    "id": "herod-the-great",
-    "category": "New Testament people",
-    "title": "Herod the Great"
-  },
-  {
-    "n": 343,
-    "date": "2027-04-29",
-    "time": "08:00",
-    "id": "gargoyles",
-    "category": "Symbols and mysteries",
-    "title": "gargoyles"
-  },
-  {
-    "n": 344,
-    "date": "2027-04-29",
-    "time": "20:00",
-    "id": "the-pilgrims",
-    "category": "Church history",
-    "title": "the Pilgrims"
-  },
-  {
-    "n": 345,
-    "date": "2027-04-30",
-    "time": "08:00",
-    "id": "deborah",
-    "category": "Old Testament people",
-    "title": "Deborah"
-  },
-  {
-    "n": 346,
-    "date": "2027-04-30",
     "time": "20:00",
     "id": "saint-david-of-wales",
     "category": "Saints",
     "title": "Saint David of Wales"
   },
   {
-    "n": 347,
-    "date": "2027-05-01",
+    "n": 351,
+    "date": "2027-04-24",
     "time": "08:00",
     "id": "the-parable-of-the-good-samaritan",
     "category": "Bible stories",
     "title": "the parable of the Good Samaritan"
   },
   {
-    "n": 348,
-    "date": "2027-05-01",
+    "n": 352,
+    "date": "2027-04-24",
     "time": "20:00",
     "id": "mount-athos",
     "category": "Churches and cathedrals",
     "title": "Mount Athos"
   },
   {
-    "n": 349,
+    "n": 353,
+    "date": "2027-04-25",
+    "time": "08:00",
+    "id": "the-book-of-zechariah",
+    "category": "Books of the Bible",
+    "title": "the Book of Zechariah"
+  },
+  {
+    "n": 354,
+    "date": "2027-04-25",
+    "time": "20:00",
+    "id": "candles-in-church",
+    "category": "Traditions and holidays",
+    "title": "candles in church"
+  },
+  {
+    "n": 355,
+    "date": "2027-04-26",
+    "time": "08:00",
+    "id": "the-latin-vulgate",
+    "category": "Words and translations",
+    "title": "the Latin Vulgate"
+  },
+  {
+    "n": 356,
+    "date": "2027-04-26",
+    "time": "20:00",
+    "id": "beersheba",
+    "category": "Bible places",
+    "title": "Beersheba"
+  },
+  {
+    "n": 357,
+    "date": "2027-04-27",
+    "time": "08:00",
+    "id": "jael",
+    "category": "Old Testament people",
+    "title": "Jael"
+  },
+  {
+    "n": 358,
+    "date": "2027-04-27",
+    "time": "20:00",
+    "id": "herod-antipas",
+    "category": "New Testament people",
+    "title": "Herod Antipas"
+  },
+  {
+    "n": 359,
+    "date": "2027-04-28",
+    "time": "08:00",
+    "id": "the-puritans",
+    "category": "Church history",
+    "title": "the Puritans"
+  },
+  {
+    "n": 360,
+    "date": "2027-04-28",
+    "time": "20:00",
+    "id": "saint-simeon-stylites",
+    "category": "Saints",
+    "title": "Saint Simeon Stylites"
+  },
+  {
+    "n": 361,
+    "date": "2027-04-29",
+    "time": "08:00",
+    "id": "the-parable-of-the-talents",
+    "category": "Bible stories",
+    "title": "the parable of the talents"
+  },
+  {
+    "n": 362,
+    "date": "2027-04-29",
+    "time": "20:00",
+    "id": "gideon",
+    "category": "Old Testament people",
+    "title": "Gideon"
+  },
+  {
+    "n": 363,
+    "date": "2027-04-30",
+    "time": "08:00",
+    "id": "saint-catherines-monastery",
+    "category": "Churches and cathedrals",
+    "title": "Saint Catherine's Monastery"
+  },
+  {
+    "n": 364,
+    "date": "2027-04-30",
+    "time": "20:00",
+    "id": "the-book-of-malachi",
+    "category": "Books of the Bible",
+    "title": "the Book of Malachi"
+  },
+  {
+    "n": 365,
+    "date": "2027-05-01",
+    "time": "08:00",
+    "id": "shiloh",
+    "category": "Bible places",
+    "title": "Shiloh"
+  },
+  {
+    "n": 366,
+    "date": "2027-05-01",
+    "time": "20:00",
+    "id": "the-quakers",
+    "category": "Church history",
+    "title": "the Quakers"
+  },
+  {
+    "n": 367,
     "date": "2027-05-02",
     "time": "08:00",
     "id": "orthodox-easter",
@@ -2792,63 +2936,63 @@
     "title": "Orthodox Easter"
   },
   {
-    "n": 350,
+    "n": 368,
     "date": "2027-05-02",
     "time": "20:00",
-    "id": "the-book-of-zechariah",
-    "category": "Books of the Bible",
-    "title": "the Book of Zechariah"
+    "id": "saint-mary-of-egypt",
+    "category": "Saints",
+    "title": "Saint Mary of Egypt"
   },
   {
-    "n": 351,
+    "n": 369,
     "date": "2027-05-03",
     "time": "08:00",
-    "id": "candles-in-church",
-    "category": "Traditions and holidays",
-    "title": "candles in church"
+    "id": "the-bishops-crozier",
+    "category": "Symbols and mysteries",
+    "title": "the bishop's crozier"
   },
   {
-    "n": 352,
+    "n": 370,
     "date": "2027-05-03",
     "time": "20:00",
-    "id": "the-latin-vulgate",
-    "category": "Words and translations",
-    "title": "the Latin Vulgate"
-  },
-  {
-    "n": 353,
-    "date": "2027-05-04",
-    "time": "08:00",
-    "id": "beersheba",
-    "category": "Bible places",
-    "title": "Beersheba"
-  },
-  {
-    "n": 354,
-    "date": "2027-05-04",
-    "time": "20:00",
-    "id": "jael",
-    "category": "Old Testament people",
-    "title": "Jael"
-  },
-  {
-    "n": 355,
-    "date": "2027-05-05",
-    "time": "08:00",
-    "id": "herod-antipas",
+    "id": "herodias",
     "category": "New Testament people",
-    "title": "Herod Antipas"
+    "title": "Herodias"
   },
   {
-    "n": 356,
+    "n": 371,
+    "date": "2027-05-04",
+    "time": "08:00",
+    "id": "delilah",
+    "category": "Old Testament people",
+    "title": "Delilah"
+  },
+  {
+    "n": 372,
+    "date": "2027-05-04",
+    "time": "20:00",
+    "id": "the-garden-of-gethsemane",
+    "category": "Bible stories",
+    "title": "the Garden of Gethsemane"
+  },
+  {
+    "n": 373,
+    "date": "2027-05-05",
+    "time": "08:00",
+    "id": "the-sedlec-ossuary",
+    "category": "Churches and cathedrals",
+    "title": "the Sedlec Ossuary"
+  },
+  {
+    "n": 374,
     "date": "2027-05-05",
     "time": "20:00",
-    "id": "the-puritans",
-    "category": "Church history",
-    "title": "the Puritans"
+    "id": "saint-kateri-tekakwitha",
+    "category": "Saints",
+    "title": "Saint Kateri Tekakwitha"
   },
   {
-    "n": 357,
+    "n": 375,
     "date": "2027-05-06",
     "time": "08:00",
     "id": "the-ascension",
@@ -2856,159 +3000,159 @@
     "title": "the Ascension"
   },
   {
-    "n": 358,
+    "n": 376,
     "date": "2027-05-06",
-    "time": "20:00",
-    "id": "saint-simeon-stylites",
-    "category": "Saints",
-    "title": "Saint Simeon Stylites"
-  },
-  {
-    "n": 359,
-    "date": "2027-05-07",
-    "time": "08:00",
-    "id": "the-parable-of-the-talents",
-    "category": "Bible stories",
-    "title": "the parable of the talents"
-  },
-  {
-    "n": 360,
-    "date": "2027-05-07",
-    "time": "20:00",
-    "id": "gideon",
-    "category": "Old Testament people",
-    "title": "Gideon"
-  },
-  {
-    "n": 361,
-    "date": "2027-05-08",
-    "time": "08:00",
-    "id": "saint-catherines-monastery",
-    "category": "Churches and cathedrals",
-    "title": "Saint Catherine's Monastery"
-  },
-  {
-    "n": 362,
-    "date": "2027-05-08",
-    "time": "20:00",
-    "id": "the-book-of-malachi",
-    "category": "Books of the Bible",
-    "title": "the Book of Malachi"
-  },
-  {
-    "n": 363,
-    "date": "2027-05-09",
-    "time": "08:00",
-    "id": "shiloh",
-    "category": "Bible places",
-    "title": "Shiloh"
-  },
-  {
-    "n": 364,
-    "date": "2027-05-09",
-    "time": "20:00",
-    "id": "the-quakers",
-    "category": "Church history",
-    "title": "the Quakers"
-  },
-  {
-    "n": 365,
-    "date": "2027-05-10",
-    "time": "08:00",
-    "id": "saint-mary-of-egypt",
-    "category": "Saints",
-    "title": "Saint Mary of Egypt"
-  },
-  {
-    "n": 366,
-    "date": "2027-05-10",
-    "time": "20:00",
-    "id": "the-bishops-crozier",
-    "category": "Symbols and mysteries",
-    "title": "the bishop's crozier"
-  },
-  {
-    "n": 367,
-    "date": "2027-05-11",
-    "time": "08:00",
-    "id": "herodias",
-    "category": "New Testament people",
-    "title": "Herodias"
-  },
-  {
-    "n": 368,
-    "date": "2027-05-11",
-    "time": "20:00",
-    "id": "delilah",
-    "category": "Old Testament people",
-    "title": "Delilah"
-  },
-  {
-    "n": 369,
-    "date": "2027-05-12",
-    "time": "08:00",
-    "id": "the-garden-of-gethsemane",
-    "category": "Bible stories",
-    "title": "the Garden of Gethsemane"
-  },
-  {
-    "n": 370,
-    "date": "2027-05-12",
-    "time": "20:00",
-    "id": "the-sedlec-ossuary",
-    "category": "Churches and cathedrals",
-    "title": "the Sedlec Ossuary"
-  },
-  {
-    "n": 371,
-    "date": "2027-05-13",
-    "time": "08:00",
-    "id": "saint-kateri-tekakwitha",
-    "category": "Saints",
-    "title": "Saint Kateri Tekakwitha"
-  },
-  {
-    "n": 372,
-    "date": "2027-05-13",
     "time": "20:00",
     "id": "the-amish",
     "category": "Church history",
     "title": "the Amish"
   },
   {
-    "n": 373,
-    "date": "2027-05-14",
+    "n": 377,
+    "date": "2027-05-07",
     "time": "08:00",
     "id": "jephthah",
     "category": "Old Testament people",
     "title": "Jephthah"
   },
   {
-    "n": 374,
-    "date": "2027-05-14",
+    "n": 378,
+    "date": "2027-05-07",
     "time": "20:00",
     "id": "the-book-of-joel",
     "category": "Books of the Bible",
     "title": "the Book of Joel"
   },
   {
-    "n": 375,
-    "date": "2027-05-15",
+    "n": 379,
+    "date": "2027-05-08",
     "time": "08:00",
     "id": "bethel",
     "category": "Bible places",
     "title": "Bethel"
   },
   {
-    "n": 376,
-    "date": "2027-05-15",
+    "n": 380,
+    "date": "2027-05-08",
     "time": "20:00",
     "id": "salome",
     "category": "New Testament people",
     "title": "Salome"
   },
   {
-    "n": 377,
+    "n": 381,
+    "date": "2027-05-09",
+    "time": "08:00",
+    "id": "the-betrayal-of-jesus",
+    "category": "Bible stories",
+    "title": "the betrayal of Jesus"
+  },
+  {
+    "n": 382,
+    "date": "2027-05-09",
+    "time": "20:00",
+    "id": "ehud",
+    "category": "Old Testament people",
+    "title": "Ehud"
+  },
+  {
+    "n": 383,
+    "date": "2027-05-10",
+    "time": "08:00",
+    "id": "saint-rose-of-lima",
+    "category": "Saints",
+    "title": "Saint Rose of Lima"
+  },
+  {
+    "n": 384,
+    "date": "2027-05-10",
+    "time": "20:00",
+    "id": "incense",
+    "category": "Traditions and holidays",
+    "title": "incense"
+  },
+  {
+    "n": 385,
+    "date": "2027-05-11",
+    "time": "08:00",
+    "id": "bible-chapters-and-verses",
+    "category": "Words and translations",
+    "title": "Bible chapters and verses"
+  },
+  {
+    "n": 386,
+    "date": "2027-05-11",
+    "time": "20:00",
+    "id": "the-mennonites",
+    "category": "Church history",
+    "title": "the Mennonites"
+  },
+  {
+    "n": 387,
+    "date": "2027-05-12",
+    "time": "08:00",
+    "id": "the-capuchin-crypt",
+    "category": "Churches and cathedrals",
+    "title": "the Capuchin Crypt"
+  },
+  {
+    "n": 388,
+    "date": "2027-05-12",
+    "time": "20:00",
+    "id": "the-urim-and-thummim",
+    "category": "Symbols and mysteries",
+    "title": "the Urim and Thummim"
+  },
+  {
+    "n": 389,
+    "date": "2027-05-13",
+    "time": "08:00",
+    "id": "peters-denial",
+    "category": "Bible stories",
+    "title": "Peter's denial"
+  },
+  {
+    "n": 390,
+    "date": "2027-05-13",
+    "time": "20:00",
+    "id": "ruth",
+    "category": "Old Testament people",
+    "title": "Ruth"
+  },
+  {
+    "n": 391,
+    "date": "2027-05-14",
+    "time": "08:00",
+    "id": "caiaphas",
+    "category": "New Testament people",
+    "title": "Caiaphas"
+  },
+  {
+    "n": 392,
+    "date": "2027-05-14",
+    "time": "20:00",
+    "id": "the-book-of-nahum",
+    "category": "Books of the Bible",
+    "title": "the Book of Nahum"
+  },
+  {
+    "n": 393,
+    "date": "2027-05-15",
+    "time": "08:00",
+    "id": "samaria",
+    "category": "Bible places",
+    "title": "Samaria"
+  },
+  {
+    "n": 394,
+    "date": "2027-05-15",
+    "time": "20:00",
+    "id": "saint-martin-de-porres",
+    "category": "Saints",
+    "title": "Saint Martin de Porres"
+  },
+  {
+    "n": 395,
     "date": "2027-05-16",
     "time": "08:00",
     "id": "pentecost",
@@ -3016,175 +3160,175 @@
     "title": "Pentecost"
   },
   {
-    "n": 378,
+    "n": 396,
     "date": "2027-05-16",
-    "time": "20:00",
-    "id": "the-betrayal-of-jesus",
-    "category": "Bible stories",
-    "title": "the betrayal of Jesus"
-  },
-  {
-    "n": 379,
-    "date": "2027-05-17",
-    "time": "08:00",
-    "id": "ehud",
-    "category": "Old Testament people",
-    "title": "Ehud"
-  },
-  {
-    "n": 380,
-    "date": "2027-05-17",
-    "time": "20:00",
-    "id": "saint-rose-of-lima",
-    "category": "Saints",
-    "title": "Saint Rose of Lima"
-  },
-  {
-    "n": 381,
-    "date": "2027-05-18",
-    "time": "08:00",
-    "id": "incense",
-    "category": "Traditions and holidays",
-    "title": "incense"
-  },
-  {
-    "n": 382,
-    "date": "2027-05-18",
-    "time": "20:00",
-    "id": "bible-chapters-and-verses",
-    "category": "Words and translations",
-    "title": "Bible chapters and verses"
-  },
-  {
-    "n": 383,
-    "date": "2027-05-19",
-    "time": "08:00",
-    "id": "the-mennonites",
-    "category": "Church history",
-    "title": "the Mennonites"
-  },
-  {
-    "n": 384,
-    "date": "2027-05-19",
-    "time": "20:00",
-    "id": "the-capuchin-crypt",
-    "category": "Churches and cathedrals",
-    "title": "the Capuchin Crypt"
-  },
-  {
-    "n": 385,
-    "date": "2027-05-20",
-    "time": "08:00",
-    "id": "the-urim-and-thummim",
-    "category": "Symbols and mysteries",
-    "title": "the Urim and Thummim"
-  },
-  {
-    "n": 386,
-    "date": "2027-05-20",
-    "time": "20:00",
-    "id": "peters-denial",
-    "category": "Bible stories",
-    "title": "Peter's denial"
-  },
-  {
-    "n": 387,
-    "date": "2027-05-21",
-    "time": "08:00",
-    "id": "ruth",
-    "category": "Old Testament people",
-    "title": "Ruth"
-  },
-  {
-    "n": 388,
-    "date": "2027-05-21",
-    "time": "20:00",
-    "id": "caiaphas",
-    "category": "New Testament people",
-    "title": "Caiaphas"
-  },
-  {
-    "n": 389,
-    "date": "2027-05-22",
-    "time": "08:00",
-    "id": "the-book-of-nahum",
-    "category": "Books of the Bible",
-    "title": "the Book of Nahum"
-  },
-  {
-    "n": 390,
-    "date": "2027-05-22",
-    "time": "20:00",
-    "id": "samaria",
-    "category": "Bible places",
-    "title": "Samaria"
-  },
-  {
-    "n": 391,
-    "date": "2027-05-23",
-    "time": "08:00",
-    "id": "saint-martin-de-porres",
-    "category": "Saints",
-    "title": "Saint Martin de Porres"
-  },
-  {
-    "n": 392,
-    "date": "2027-05-23",
     "time": "20:00",
     "id": "john-wesley",
     "category": "Church history",
     "title": "John Wesley"
   },
   {
-    "n": 393,
-    "date": "2027-05-24",
+    "n": 397,
+    "date": "2027-05-17",
     "time": "08:00",
     "id": "naomi",
     "category": "Old Testament people",
     "title": "Naomi"
   },
   {
-    "n": 394,
-    "date": "2027-05-24",
+    "n": 398,
+    "date": "2027-05-17",
     "time": "20:00",
     "id": "the-trial-of-jesus",
     "category": "Bible stories",
     "title": "the trial of Jesus"
   },
   {
-    "n": 395,
-    "date": "2027-05-25",
+    "n": 399,
+    "date": "2027-05-18",
     "time": "08:00",
     "id": "salisbury-cathedral",
     "category": "Churches and cathedrals",
     "title": "Salisbury Cathedral"
   },
   {
-    "n": 396,
-    "date": "2027-05-25",
+    "n": 400,
+    "date": "2027-05-18",
     "time": "20:00",
     "id": "saint-juan-diego",
     "category": "Saints",
     "title": "Saint Juan Diego"
   },
   {
-    "n": 397,
-    "date": "2027-05-26",
+    "n": 401,
+    "date": "2027-05-19",
     "time": "08:00",
     "id": "barabbas",
     "category": "New Testament people",
     "title": "Barabbas"
   },
   {
-    "n": 398,
-    "date": "2027-05-26",
+    "n": 402,
+    "date": "2027-05-19",
     "time": "20:00",
     "id": "the-methodists",
     "category": "Church history",
     "title": "the Methodists"
   },
   {
-    "n": 399,
+    "n": 403,
+    "date": "2027-05-20",
+    "time": "08:00",
+    "id": "boaz",
+    "category": "Old Testament people",
+    "title": "Boaz"
+  },
+  {
+    "n": 404,
+    "date": "2027-05-20",
+    "time": "20:00",
+    "id": "the-book-of-zephaniah",
+    "category": "Books of the Bible",
+    "title": "the Book of Zephaniah"
+  },
+  {
+    "n": 405,
+    "date": "2027-05-21",
+    "time": "08:00",
+    "id": "megiddo",
+    "category": "Bible places",
+    "title": "Megiddo"
+  },
+  {
+    "n": 406,
+    "date": "2027-05-21",
+    "time": "20:00",
+    "id": "the-bronze-serpent",
+    "category": "Symbols and mysteries",
+    "title": "the bronze serpent"
+  },
+  {
+    "n": 407,
+    "date": "2027-05-22",
+    "time": "08:00",
+    "id": "the-road-to-emmaus",
+    "category": "Bible stories",
+    "title": "the road to Emmaus"
+  },
+  {
+    "n": 408,
+    "date": "2027-05-22",
+    "time": "20:00",
+    "id": "saint-vincent-de-paul",
+    "category": "Saints",
+    "title": "Saint Vincent de Paul"
+  },
+  {
+    "n": 409,
+    "date": "2027-05-23",
+    "time": "08:00",
+    "id": "hannah",
+    "category": "Old Testament people",
+    "title": "Hannah"
+  },
+  {
+    "n": 410,
+    "date": "2027-05-23",
+    "time": "20:00",
+    "id": "york-minster",
+    "category": "Churches and cathedrals",
+    "title": "York Minster"
+  },
+  {
+    "n": 411,
+    "date": "2027-05-24",
+    "time": "08:00",
+    "id": "simon-of-cyrene",
+    "category": "New Testament people",
+    "title": "Simon of Cyrene"
+  },
+  {
+    "n": 412,
+    "date": "2027-05-24",
+    "time": "20:00",
+    "id": "the-baptists",
+    "category": "Church history",
+    "title": "the Baptists"
+  },
+  {
+    "n": 413,
+    "date": "2027-05-25",
+    "time": "08:00",
+    "id": "mount-carmel",
+    "category": "Bible places",
+    "title": "Mount Carmel"
+  },
+  {
+    "n": 414,
+    "date": "2027-05-25",
+    "time": "20:00",
+    "id": "doubting-thomas",
+    "category": "Bible stories",
+    "title": "doubting Thomas"
+  },
+  {
+    "n": 415,
+    "date": "2027-05-26",
+    "time": "08:00",
+    "id": "the-book-of-haggai",
+    "category": "Books of the Bible",
+    "title": "the Book of Haggai"
+  },
+  {
+    "n": 416,
+    "date": "2027-05-26",
+    "time": "20:00",
+    "id": "samuel",
+    "category": "Old Testament people",
+    "title": "Samuel"
+  },
+  {
+    "n": 417,
     "date": "2027-05-27",
     "time": "08:00",
     "id": "corpus-christi",
@@ -3192,1279 +3336,1279 @@
     "title": "Corpus Christi"
   },
   {
-    "n": 400,
+    "n": 418,
     "date": "2027-05-27",
-    "time": "20:00",
-    "id": "boaz",
-    "category": "Old Testament people",
-    "title": "Boaz"
-  },
-  {
-    "n": 401,
-    "date": "2027-05-28",
-    "time": "08:00",
-    "id": "the-book-of-zephaniah",
-    "category": "Books of the Bible",
-    "title": "the Book of Zephaniah"
-  },
-  {
-    "n": 402,
-    "date": "2027-05-28",
-    "time": "20:00",
-    "id": "megiddo",
-    "category": "Bible places",
-    "title": "Megiddo"
-  },
-  {
-    "n": 403,
-    "date": "2027-05-29",
-    "time": "08:00",
-    "id": "the-bronze-serpent",
-    "category": "Symbols and mysteries",
-    "title": "the bronze serpent"
-  },
-  {
-    "n": 404,
-    "date": "2027-05-29",
-    "time": "20:00",
-    "id": "the-road-to-emmaus",
-    "category": "Bible stories",
-    "title": "the road to Emmaus"
-  },
-  {
-    "n": 405,
-    "date": "2027-05-30",
-    "time": "08:00",
-    "id": "saint-vincent-de-paul",
-    "category": "Saints",
-    "title": "Saint Vincent de Paul"
-  },
-  {
-    "n": 406,
-    "date": "2027-05-30",
-    "time": "20:00",
-    "id": "hannah",
-    "category": "Old Testament people",
-    "title": "Hannah"
-  },
-  {
-    "n": 407,
-    "date": "2027-05-31",
-    "time": "08:00",
-    "id": "york-minster",
-    "category": "Churches and cathedrals",
-    "title": "York Minster"
-  },
-  {
-    "n": 408,
-    "date": "2027-05-31",
-    "time": "20:00",
-    "id": "simon-of-cyrene",
-    "category": "New Testament people",
-    "title": "Simon of Cyrene"
-  },
-  {
-    "n": 409,
-    "date": "2027-06-01",
-    "time": "08:00",
-    "id": "the-baptists",
-    "category": "Church history",
-    "title": "the Baptists"
-  },
-  {
-    "n": 410,
-    "date": "2027-06-01",
-    "time": "20:00",
-    "id": "mount-carmel",
-    "category": "Bible places",
-    "title": "Mount Carmel"
-  },
-  {
-    "n": 411,
-    "date": "2027-06-02",
-    "time": "08:00",
-    "id": "doubting-thomas",
-    "category": "Bible stories",
-    "title": "doubting Thomas"
-  },
-  {
-    "n": 412,
-    "date": "2027-06-02",
-    "time": "20:00",
-    "id": "the-book-of-haggai",
-    "category": "Books of the Bible",
-    "title": "the Book of Haggai"
-  },
-  {
-    "n": 413,
-    "date": "2027-06-03",
-    "time": "08:00",
-    "id": "samuel",
-    "category": "Old Testament people",
-    "title": "Samuel"
-  },
-  {
-    "n": 414,
-    "date": "2027-06-03",
     "time": "20:00",
     "id": "saint-dominic",
     "category": "Saints",
     "title": "Saint Dominic"
   },
   {
-    "n": 415,
-    "date": "2027-06-04",
+    "n": 419,
+    "date": "2027-05-28",
     "time": "08:00",
     "id": "holy-water",
     "category": "Traditions and holidays",
     "title": "holy water"
   },
   {
-    "n": 416,
-    "date": "2027-06-04",
+    "n": 420,
+    "date": "2027-05-28",
     "time": "20:00",
     "id": "the-shortest-verse-in-the-bible",
     "category": "Words and translations",
     "title": "the shortest verse in the Bible"
   },
   {
-    "n": 417,
-    "date": "2027-06-05",
+    "n": 421,
+    "date": "2027-05-29",
     "time": "08:00",
     "id": "the-great-awakening",
     "category": "Church history",
     "title": "the Great Awakening"
   },
   {
-    "n": 418,
-    "date": "2027-06-05",
+    "n": 422,
+    "date": "2027-05-29",
     "time": "20:00",
     "id": "stephen",
     "category": "New Testament people",
     "title": "Stephen"
   },
   {
-    "n": 419,
-    "date": "2027-06-06",
+    "n": 423,
+    "date": "2027-05-30",
     "time": "08:00",
     "id": "durham-cathedral",
     "category": "Churches and cathedrals",
     "title": "Durham Cathedral"
   },
   {
-    "n": 420,
-    "date": "2027-06-06",
+    "n": 424,
+    "date": "2027-05-30",
     "time": "20:00",
     "id": "eli",
     "category": "Old Testament people",
     "title": "Eli"
   },
   {
-    "n": 421,
-    "date": "2027-06-07",
+    "n": 425,
+    "date": "2027-05-31",
     "time": "08:00",
     "id": "saint-bernard-of-clairvaux",
     "category": "Saints",
     "title": "Saint Bernard of Clairvaux"
   },
   {
-    "n": 422,
-    "date": "2027-06-07",
+    "n": 426,
+    "date": "2027-05-31",
     "time": "20:00",
     "id": "the-conversion-of-paul",
     "category": "Bible stories",
     "title": "the conversion of Paul"
   },
   {
-    "n": 423,
-    "date": "2027-06-08",
+    "n": 427,
+    "date": "2027-06-01",
     "time": "08:00",
     "id": "the-tabernacle",
     "category": "Symbols and mysteries",
     "title": "the Tabernacle"
   },
   {
-    "n": 424,
-    "date": "2027-06-08",
+    "n": 428,
+    "date": "2027-06-01",
     "time": "20:00",
     "id": "mount-tabor",
     "category": "Bible places",
     "title": "Mount Tabor"
   },
   {
-    "n": 425,
-    "date": "2027-06-09",
+    "n": 429,
+    "date": "2027-06-02",
     "time": "08:00",
     "id": "the-book-of-obadiah",
     "category": "Books of the Bible",
     "title": "the Book of Obadiah"
   },
   {
-    "n": 426,
-    "date": "2027-06-09",
+    "n": 430,
+    "date": "2027-06-02",
     "time": "20:00",
     "id": "king-saul",
     "category": "Old Testament people",
     "title": "King Saul"
   },
   {
-    "n": 427,
-    "date": "2027-06-10",
+    "n": 431,
+    "date": "2027-06-03",
     "time": "08:00",
     "id": "the-salvation-army",
     "category": "Church history",
     "title": "the Salvation Army"
   },
   {
-    "n": 428,
-    "date": "2027-06-10",
+    "n": 432,
+    "date": "2027-06-03",
     "time": "20:00",
     "id": "philip-the-evangelist",
     "category": "New Testament people",
     "title": "Philip the Evangelist"
   },
   {
-    "n": 429,
-    "date": "2027-06-11",
+    "n": 433,
+    "date": "2027-06-04",
     "time": "08:00",
     "id": "hildegard-of-bingen",
     "category": "Saints",
     "title": "Hildegard of Bingen"
   },
   {
-    "n": 430,
-    "date": "2027-06-11",
+    "n": 434,
+    "date": "2027-06-04",
     "time": "20:00",
     "id": "reims-cathedral",
     "category": "Churches and cathedrals",
     "title": "Reims Cathedral"
   },
   {
-    "n": 431,
-    "date": "2027-06-12",
+    "n": 435,
+    "date": "2027-06-05",
     "time": "08:00",
     "id": "pauls-shipwreck",
     "category": "Bible stories",
     "title": "Paul's shipwreck"
   },
   {
-    "n": 432,
-    "date": "2027-06-12",
+    "n": 436,
+    "date": "2027-06-05",
     "time": "20:00",
     "id": "jonathan",
     "category": "Old Testament people",
     "title": "Jonathan"
   },
   {
-    "n": 433,
-    "date": "2027-06-13",
+    "n": 437,
+    "date": "2027-06-06",
     "time": "08:00",
     "id": "william-wilberforce",
     "category": "Church history",
     "title": "William Wilberforce"
   },
   {
-    "n": 434,
-    "date": "2027-06-13",
+    "n": 438,
+    "date": "2027-06-06",
     "time": "20:00",
     "id": "saint-thomas-becket",
     "category": "Saints",
     "title": "Saint Thomas Becket"
   },
   {
-    "n": 435,
-    "date": "2027-06-14",
+    "n": 439,
+    "date": "2027-06-07",
     "time": "08:00",
     "id": "mount-hermon",
     "category": "Bible places",
     "title": "Mount Hermon"
   },
   {
-    "n": 436,
-    "date": "2027-06-14",
+    "n": 440,
+    "date": "2027-06-07",
     "time": "20:00",
     "id": "the-gospel-of-matthew",
     "category": "Books of the Bible",
     "title": "the Gospel of Matthew"
   },
   {
-    "n": 437,
-    "date": "2027-06-15",
+    "n": 441,
+    "date": "2027-06-08",
     "time": "08:00",
     "id": "the-ethiopian-eunuch",
     "category": "New Testament people",
     "title": "the Ethiopian eunuch"
   },
   {
-    "n": 438,
-    "date": "2027-06-15",
+    "n": 442,
+    "date": "2027-06-08",
     "time": "20:00",
     "id": "bathsheba",
     "category": "Old Testament people",
     "title": "Bathsheba"
   },
   {
-    "n": 439,
-    "date": "2027-06-16",
+    "n": 443,
+    "date": "2027-06-09",
     "time": "08:00",
     "id": "pauls-missionary-journeys",
     "category": "Bible stories",
     "title": "Paul's missionary journeys"
   },
   {
-    "n": 440,
-    "date": "2027-06-16",
+    "n": 444,
+    "date": "2027-06-09",
     "time": "20:00",
     "id": "the-temple-veil",
     "category": "Symbols and mysteries",
     "title": "the Temple veil"
   },
   {
-    "n": 441,
-    "date": "2027-06-17",
+    "n": 445,
+    "date": "2027-06-10",
     "time": "08:00",
     "id": "seville-cathedral",
     "category": "Churches and cathedrals",
     "title": "Seville Cathedral"
   },
   {
-    "n": 442,
-    "date": "2027-06-17",
+    "n": 446,
+    "date": "2027-06-10",
     "time": "20:00",
     "id": "dietrich-bonhoeffer",
     "category": "Church history",
     "title": "Dietrich Bonhoeffer"
   },
   {
-    "n": 443,
-    "date": "2027-06-18",
+    "n": 447,
+    "date": "2027-06-11",
     "time": "08:00",
     "id": "sunday",
     "category": "Traditions and holidays",
     "title": "Sunday"
   },
   {
-    "n": 444,
-    "date": "2027-06-18",
+    "n": 448,
+    "date": "2027-06-11",
     "time": "20:00",
     "id": "the-most-translated-book",
     "category": "Words and translations",
     "title": "the most translated book"
   },
   {
-    "n": 445,
-    "date": "2027-06-19",
+    "n": 449,
+    "date": "2027-06-12",
     "time": "08:00",
     "id": "saint-thomas-more",
     "category": "Saints",
     "title": "Saint Thomas More"
   },
   {
-    "n": 446,
-    "date": "2027-06-19",
+    "n": 450,
+    "date": "2027-06-12",
     "time": "20:00",
     "id": "uriah-the-hittite",
     "category": "Old Testament people",
     "title": "Uriah the Hittite"
   },
   {
-    "n": 447,
-    "date": "2027-06-20",
+    "n": 451,
+    "date": "2027-06-13",
     "time": "08:00",
     "id": "the-stoning-of-stephen",
     "category": "Bible stories",
     "title": "the stoning of Stephen"
   },
   {
-    "n": 448,
-    "date": "2027-06-20",
+    "n": 452,
+    "date": "2027-06-13",
     "time": "20:00",
     "id": "cornelius-the-centurion",
     "category": "New Testament people",
     "title": "Cornelius the centurion"
   },
   {
-    "n": 449,
-    "date": "2027-06-21",
+    "n": 453,
+    "date": "2027-06-14",
     "time": "08:00",
     "id": "the-judean-desert",
     "category": "Bible places",
     "title": "the Judean desert"
   },
   {
-    "n": 450,
-    "date": "2027-06-21",
+    "n": 454,
+    "date": "2027-06-14",
     "time": "20:00",
     "id": "the-gospel-of-mark",
     "category": "Books of the Bible",
     "title": "the Gospel of Mark"
   },
   {
-    "n": 451,
-    "date": "2027-06-22",
+    "n": 455,
+    "date": "2027-06-15",
     "time": "08:00",
     "id": "the-prophet-nathan",
     "category": "Old Testament people",
     "title": "the prophet Nathan"
   },
   {
-    "n": 452,
-    "date": "2027-06-22",
+    "n": 456,
+    "date": "2027-06-15",
     "time": "20:00",
     "id": "c-s-lewis",
     "category": "Church history",
     "title": "C. S. Lewis"
   },
   {
-    "n": 453,
-    "date": "2027-06-23",
+    "n": 457,
+    "date": "2027-06-16",
     "time": "08:00",
     "id": "saint-elizabeth-of-hungary",
     "category": "Saints",
     "title": "Saint Elizabeth of Hungary"
   },
   {
-    "n": 454,
-    "date": "2027-06-23",
+    "n": 458,
+    "date": "2027-06-16",
     "time": "20:00",
     "id": "santiago-de-compostela",
     "category": "Churches and cathedrals",
     "title": "Santiago de Compostela"
   },
   {
-    "n": 455,
-    "date": "2027-06-24",
+    "n": 459,
+    "date": "2027-06-17",
     "time": "08:00",
     "id": "the-council-of-jerusalem",
     "category": "Bible stories",
     "title": "the Council of Jerusalem"
   },
   {
-    "n": 456,
-    "date": "2027-06-24",
+    "n": 460,
+    "date": "2027-06-17",
     "time": "20:00",
     "id": "absalom",
     "category": "Old Testament people",
     "title": "Absalom"
   },
   {
-    "n": 457,
-    "date": "2027-06-25",
+    "n": 461,
+    "date": "2027-06-18",
     "time": "08:00",
     "id": "lydia-of-thyatira",
     "category": "New Testament people",
     "title": "Lydia of Thyatira"
   },
   {
-    "n": 458,
-    "date": "2027-06-25",
+    "n": 462,
+    "date": "2027-06-18",
     "time": "20:00",
     "id": "the-anchor-symbol",
     "category": "Symbols and mysteries",
     "title": "the anchor symbol"
   },
   {
-    "n": 459,
-    "date": "2027-06-26",
+    "n": 463,
+    "date": "2027-06-19",
     "time": "08:00",
     "id": "saint-wenceslaus",
     "category": "Saints",
     "title": "Saint Wenceslaus"
   },
   {
-    "n": 460,
-    "date": "2027-06-26",
+    "n": 464,
+    "date": "2027-06-19",
     "time": "20:00",
     "id": "billy-graham",
     "category": "Church history",
     "title": "Billy Graham"
   },
   {
-    "n": 461,
-    "date": "2027-06-27",
+    "n": 465,
+    "date": "2027-06-20",
     "time": "08:00",
     "id": "the-negev",
     "category": "Bible places",
     "title": "the Negev"
   },
   {
-    "n": 462,
-    "date": "2027-06-27",
+    "n": 466,
+    "date": "2027-06-20",
     "time": "20:00",
     "id": "the-gospel-of-luke",
     "category": "Books of the Bible",
     "title": "the Gospel of Luke"
   },
   {
-    "n": 463,
-    "date": "2027-06-28",
+    "n": 467,
+    "date": "2027-06-21",
     "time": "08:00",
     "id": "siena-cathedral",
     "category": "Churches and cathedrals",
     "title": "Siena Cathedral"
   },
   {
-    "n": 464,
-    "date": "2027-06-28",
+    "n": 468,
+    "date": "2027-06-21",
     "time": "20:00",
     "id": "michal",
     "category": "Old Testament people",
     "title": "Michal"
   },
   {
-    "n": 465,
-    "date": "2027-06-29",
+    "n": 469,
+    "date": "2027-06-22",
     "time": "08:00",
     "id": "the-four-horsemen",
     "category": "Bible stories",
     "title": "the Four Horsemen"
   },
   {
-    "n": 466,
-    "date": "2027-06-29",
+    "n": 470,
+    "date": "2027-06-22",
     "time": "20:00",
     "id": "saint-olaf",
     "category": "Saints",
     "title": "Saint Olaf"
   },
   {
-    "n": 467,
-    "date": "2027-06-30",
+    "n": 471,
+    "date": "2027-06-23",
     "time": "08:00",
     "id": "the-codex-sinaiticus",
     "category": "Church history",
     "title": "the Codex Sinaiticus"
   },
   {
-    "n": 468,
-    "date": "2027-06-30",
+    "n": 472,
+    "date": "2027-06-23",
     "time": "20:00",
     "id": "priscilla-and-aquila",
     "category": "New Testament people",
     "title": "Priscilla and Aquila"
   },
   {
-    "n": 469,
-    "date": "2027-07-01",
+    "n": 473,
+    "date": "2027-06-24",
     "time": "08:00",
     "id": "abigail",
     "category": "Old Testament people",
     "title": "Abigail"
   },
   {
-    "n": 470,
-    "date": "2027-07-01",
+    "n": 474,
+    "date": "2027-06-24",
     "time": "20:00",
     "id": "petra",
     "category": "Bible places",
     "title": "Petra"
   },
   {
-    "n": 471,
-    "date": "2027-07-02",
+    "n": 475,
+    "date": "2027-06-25",
     "time": "08:00",
     "id": "hymns",
     "category": "Traditions and holidays",
     "title": "hymns"
   },
   {
-    "n": 472,
-    "date": "2027-07-02",
+    "n": 476,
+    "date": "2027-06-25",
     "time": "20:00",
     "id": "the-word-gospel",
     "category": "Words and translations",
     "title": "the word Gospel"
   },
   {
-    "n": 473,
-    "date": "2027-07-03",
+    "n": 477,
+    "date": "2027-06-26",
     "time": "08:00",
     "id": "the-gospel-of-john",
     "category": "Books of the Bible",
     "title": "the Gospel of John"
   },
   {
-    "n": 474,
-    "date": "2027-07-03",
+    "n": 478,
+    "date": "2027-06-26",
     "time": "20:00",
     "id": "saint-marks-basilica",
     "category": "Churches and cathedrals",
     "title": "Saint Mark's Basilica"
   },
   {
-    "n": 475,
-    "date": "2027-07-04",
+    "n": 479,
+    "date": "2027-06-27",
     "time": "08:00",
     "id": "the-number-of-the-beast",
     "category": "Bible stories",
     "title": "the number of the beast"
   },
   {
-    "n": 476,
-    "date": "2027-07-04",
+    "n": 480,
+    "date": "2027-06-27",
     "time": "20:00",
     "id": "saint-louis-of-france",
     "category": "Saints",
     "title": "Saint Louis of France"
   },
   {
-    "n": 477,
-    "date": "2027-07-05",
+    "n": 481,
+    "date": "2027-06-28",
     "time": "08:00",
     "id": "rehoboam",
     "category": "Old Testament people",
     "title": "Rehoboam"
   },
   {
-    "n": 478,
-    "date": "2027-07-05",
+    "n": 482,
+    "date": "2027-06-28",
     "time": "20:00",
     "id": "relics",
     "category": "Church history",
     "title": "relics"
   },
   {
-    "n": 479,
-    "date": "2027-07-06",
+    "n": 483,
+    "date": "2027-06-29",
     "time": "08:00",
     "id": "the-keys-of-heaven",
     "category": "Symbols and mysteries",
     "title": "the keys of heaven"
   },
   {
-    "n": 480,
-    "date": "2027-07-06",
+    "n": 484,
+    "date": "2027-06-29",
     "time": "20:00",
     "id": "apollos",
     "category": "New Testament people",
     "title": "Apollos"
   },
   {
-    "n": 481,
-    "date": "2027-07-07",
+    "n": 485,
+    "date": "2027-06-30",
     "time": "08:00",
     "id": "jeroboam",
     "category": "Old Testament people",
     "title": "Jeroboam"
   },
   {
-    "n": 482,
-    "date": "2027-07-07",
+    "n": 486,
+    "date": "2027-06-30",
     "time": "20:00",
     "id": "saint-bede",
     "category": "Saints",
     "title": "Saint Bede"
   },
   {
-    "n": 483,
-    "date": "2027-07-08",
+    "n": 487,
+    "date": "2027-07-01",
     "time": "08:00",
     "id": "armageddon",
     "category": "Bible stories",
     "title": "Armageddon"
   },
   {
-    "n": 484,
-    "date": "2027-07-08",
+    "n": 488,
+    "date": "2027-07-01",
     "time": "20:00",
     "id": "tyre-and-sidon",
     "category": "Bible places",
     "title": "Tyre and Sidon"
   },
   {
-    "n": 485,
-    "date": "2027-07-09",
+    "n": 489,
+    "date": "2027-07-02",
     "time": "08:00",
     "id": "the-papal-conclave",
     "category": "Church history",
     "title": "the papal conclave"
   },
   {
-    "n": 486,
-    "date": "2027-07-09",
+    "n": 490,
+    "date": "2027-07-02",
     "time": "20:00",
     "id": "the-pantheon-in-rome",
     "category": "Churches and cathedrals",
     "title": "the Pantheon in Rome"
   },
   {
-    "n": 487,
-    "date": "2027-07-10",
+    "n": 491,
+    "date": "2027-07-03",
     "time": "08:00",
     "id": "the-book-of-acts",
     "category": "Books of the Bible",
     "title": "the Book of Acts"
   },
   {
-    "n": 488,
-    "date": "2027-07-10",
+    "n": 492,
+    "date": "2027-07-03",
     "time": "20:00",
     "id": "onesimus",
     "category": "New Testament people",
     "title": "Onesimus"
   },
   {
-    "n": 489,
-    "date": "2027-07-11",
+    "n": 493,
+    "date": "2027-07-04",
     "time": "08:00",
     "id": "king-ahab",
     "category": "Old Testament people",
     "title": "King Ahab"
   },
   {
-    "n": 490,
-    "date": "2027-07-11",
+    "n": 494,
+    "date": "2027-07-04",
     "time": "20:00",
     "id": "saint-cuthbert",
     "category": "Saints",
     "title": "Saint Cuthbert"
   },
   {
-    "n": 491,
-    "date": "2027-07-12",
+    "n": 495,
+    "date": "2027-07-05",
     "time": "08:00",
     "id": "the-new-jerusalem",
     "category": "Bible stories",
     "title": "the New Jerusalem"
   },
   {
-    "n": 492,
-    "date": "2027-07-12",
+    "n": 496,
+    "date": "2027-07-05",
     "time": "20:00",
     "id": "the-first-pope",
     "category": "Church history",
     "title": "the first pope"
   },
   {
-    "n": 493,
-    "date": "2027-07-13",
+    "n": 497,
+    "date": "2027-07-06",
     "time": "08:00",
     "id": "elisha",
     "category": "Old Testament people",
     "title": "Elisha"
   },
   {
-    "n": 494,
-    "date": "2027-07-13",
+    "n": 498,
+    "date": "2027-07-06",
     "time": "20:00",
     "id": "the-land-of-canaan",
     "category": "Bible places",
     "title": "the land of Canaan"
   },
   {
-    "n": 495,
-    "date": "2027-07-14",
+    "n": 499,
+    "date": "2027-07-07",
     "time": "08:00",
     "id": "the-sign-above-the-cross",
     "category": "Symbols and mysteries",
     "title": "the sign above the cross"
   },
   {
-    "n": 496,
-    "date": "2027-07-14",
+    "n": 500,
+    "date": "2027-07-07",
     "time": "20:00",
     "id": "sainte-chapelle",
     "category": "Churches and cathedrals",
     "title": "Sainte-Chapelle"
   },
   {
-    "n": 497,
-    "date": "2027-07-15",
+    "n": 501,
+    "date": "2027-07-08",
     "time": "08:00",
     "id": "saint-joseph-of-cupertino",
     "category": "Saints",
     "title": "Saint Joseph of Cupertino"
   },
   {
-    "n": 498,
-    "date": "2027-07-15",
+    "n": 502,
+    "date": "2027-07-08",
     "time": "20:00",
     "id": "gamaliel",
     "category": "New Testament people",
     "title": "Gamaliel"
   },
   {
-    "n": 499,
-    "date": "2027-07-16",
+    "n": 503,
+    "date": "2027-07-09",
     "time": "08:00",
     "id": "the-letter-to-the-romans",
     "category": "Books of the Bible",
     "title": "the Letter to the Romans"
   },
   {
-    "n": 500,
-    "date": "2027-07-16",
+    "n": 504,
+    "date": "2027-07-09",
     "time": "20:00",
     "id": "the-beatitudes",
     "category": "Bible stories",
     "title": "the Beatitudes"
   },
   {
-    "n": 501,
-    "date": "2027-07-17",
+    "n": 505,
+    "date": "2027-07-10",
     "time": "08:00",
     "id": "naaman",
     "category": "Old Testament people",
     "title": "Naaman"
   },
   {
-    "n": 502,
-    "date": "2027-07-17",
+    "n": 506,
+    "date": "2027-07-10",
     "time": "20:00",
     "id": "the-coptic-church",
     "category": "Church history",
     "title": "the Coptic Church"
   },
   {
-    "n": 503,
-    "date": "2027-07-18",
+    "n": 507,
+    "date": "2027-07-11",
     "time": "08:00",
     "id": "gospel-music",
     "category": "Traditions and holidays",
     "title": "gospel music"
   },
   {
-    "n": 504,
-    "date": "2027-07-18",
+    "n": 508,
+    "date": "2027-07-11",
     "time": "20:00",
     "id": "the-word-messiah",
     "category": "Words and translations",
     "title": "the word Messiah"
   },
   {
-    "n": 505,
-    "date": "2027-07-19",
+    "n": 509,
+    "date": "2027-07-12",
     "time": "08:00",
     "id": "saint-maximilian-kolbe",
     "category": "Saints",
     "title": "Saint Maximilian Kolbe"
   },
   {
-    "n": 506,
-    "date": "2027-07-19",
+    "n": 510,
+    "date": "2027-07-12",
     "time": "20:00",
     "id": "the-land-of-goshen",
     "category": "Bible places",
     "title": "the land of Goshen"
   },
   {
-    "n": 507,
-    "date": "2027-07-20",
+    "n": 511,
+    "date": "2027-07-13",
     "time": "08:00",
     "id": "jonah",
     "category": "Old Testament people",
     "title": "Jonah"
   },
   {
-    "n": 508,
-    "date": "2027-07-20",
+    "n": 512,
+    "date": "2027-07-13",
     "time": "20:00",
     "id": "the-cathedral-of-brasilia",
     "category": "Churches and cathedrals",
     "title": "the Cathedral of Brasilia"
   },
   {
-    "n": 509,
-    "date": "2027-07-21",
+    "n": 513,
+    "date": "2027-07-14",
     "time": "08:00",
     "id": "ananias-of-damascus",
     "category": "New Testament people",
     "title": "Ananias of Damascus"
   },
   {
-    "n": 510,
-    "date": "2027-07-21",
+    "n": 514,
+    "date": "2027-07-14",
     "time": "20:00",
     "id": "the-lords-prayer",
     "category": "Bible stories",
     "title": "the Lord's Prayer"
   },
   {
-    "n": 511,
-    "date": "2027-07-22",
+    "n": 515,
+    "date": "2027-07-15",
     "time": "08:00",
     "id": "the-ethiopian-church",
     "category": "Church history",
     "title": "the Ethiopian Church"
   },
   {
-    "n": 512,
-    "date": "2027-07-22",
+    "n": 516,
+    "date": "2027-07-15",
     "time": "20:00",
     "id": "the-first-letter-to-the-corinthians",
     "category": "Books of the Bible",
     "title": "the First Letter to the Corinthians"
   },
   {
-    "n": 513,
-    "date": "2027-07-23",
+    "n": 517,
+    "date": "2027-07-16",
     "time": "08:00",
     "id": "saint-edith-stein",
     "category": "Saints",
     "title": "Saint Edith Stein"
   },
   {
-    "n": 514,
-    "date": "2027-07-23",
+    "n": 518,
+    "date": "2027-07-16",
     "time": "20:00",
     "id": "nebuchadnezzar",
     "category": "Old Testament people",
     "title": "Nebuchadnezzar"
   },
   {
-    "n": 515,
-    "date": "2027-07-24",
+    "n": 519,
+    "date": "2027-07-17",
     "time": "08:00",
     "id": "the-thirty-pieces-of-silver",
     "category": "Symbols and mysteries",
     "title": "the thirty pieces of silver"
   },
   {
-    "n": 516,
-    "date": "2027-07-24",
+    "n": 520,
+    "date": "2027-07-17",
     "time": "20:00",
     "id": "armenia-the-first-christian-nation",
     "category": "Church history",
     "title": "Armenia the first Christian nation"
   },
   {
-    "n": 517,
-    "date": "2027-07-25",
+    "n": 521,
+    "date": "2027-07-18",
     "time": "08:00",
     "id": "the-golden-rule",
     "category": "Bible stories",
     "title": "the Golden Rule"
   },
   {
-    "n": 518,
-    "date": "2027-07-25",
+    "n": 522,
+    "date": "2027-07-18",
     "time": "20:00",
     "id": "ananias-and-sapphira",
     "category": "New Testament people",
     "title": "Ananias and Sapphira"
   },
   {
-    "n": 519,
-    "date": "2027-07-26",
+    "n": 523,
+    "date": "2027-07-19",
     "time": "08:00",
     "id": "ulm-minster",
     "category": "Churches and cathedrals",
     "title": "Ulm Minster"
   },
   {
-    "n": 520,
-    "date": "2027-07-26",
+    "n": 524,
+    "date": "2027-07-19",
     "time": "20:00",
     "id": "moab",
     "category": "Bible places",
     "title": "Moab"
   },
   {
-    "n": 521,
-    "date": "2027-07-27",
+    "n": 525,
+    "date": "2027-07-20",
     "time": "08:00",
     "id": "belshazzar",
     "category": "Old Testament people",
     "title": "Belshazzar"
   },
   {
-    "n": 522,
-    "date": "2027-07-27",
+    "n": 526,
+    "date": "2027-07-20",
     "time": "20:00",
     "id": "saint-faustina",
     "category": "Saints",
     "title": "Saint Faustina"
   },
   {
-    "n": 523,
-    "date": "2027-07-28",
+    "n": 527,
+    "date": "2027-07-21",
     "time": "08:00",
     "id": "the-second-letter-to-the-corinthians",
     "category": "Books of the Bible",
     "title": "the Second Letter to the Corinthians"
   },
   {
-    "n": 524,
-    "date": "2027-07-28",
+    "n": 528,
+    "date": "2027-07-21",
     "time": "20:00",
     "id": "cyrus-the-great",
     "category": "Old Testament people",
     "title": "Cyrus the Great"
   },
   {
-    "n": 525,
-    "date": "2027-07-29",
+    "n": 529,
+    "date": "2027-07-22",
     "time": "08:00",
     "id": "the-orthodox-church",
     "category": "Church history",
     "title": "the Orthodox Church"
   },
   {
-    "n": 526,
-    "date": "2027-07-29",
+    "n": 530,
+    "date": "2027-07-22",
     "time": "20:00",
     "id": "the-cleansing-of-the-temple",
     "category": "Bible stories",
     "title": "the cleansing of the Temple"
   },
   {
-    "n": 527,
-    "date": "2027-07-30",
+    "n": 531,
+    "date": "2027-07-23",
     "time": "08:00",
     "id": "saint-john-of-the-cross",
     "category": "Saints",
     "title": "Saint John of the Cross"
   },
   {
-    "n": 528,
-    "date": "2027-07-30",
+    "n": 532,
+    "date": "2027-07-23",
     "time": "20:00",
     "id": "dorcas",
     "category": "New Testament people",
     "title": "Dorcas"
   },
   {
-    "n": 529,
-    "date": "2027-07-31",
+    "n": 533,
+    "date": "2027-07-24",
     "time": "08:00",
     "id": "aachen-cathedral",
     "category": "Churches and cathedrals",
     "title": "Aachen Cathedral"
   },
   {
-    "n": 530,
-    "date": "2027-07-31",
+    "n": 534,
+    "date": "2027-07-24",
     "time": "20:00",
     "id": "edom",
     "category": "Bible places",
     "title": "Edom"
   },
   {
-    "n": 531,
-    "date": "2027-08-01",
+    "n": 535,
+    "date": "2027-07-25",
     "time": "08:00",
     "id": "christian-fasting",
     "category": "Traditions and holidays",
     "title": "Christian fasting"
   },
   {
-    "n": 532,
-    "date": "2027-08-01",
+    "n": 536,
+    "date": "2027-07-25",
     "time": "20:00",
     "id": "the-word-apostle",
     "category": "Words and translations",
     "title": "the word Apostle"
   },
   {
-    "n": 533,
-    "date": "2027-08-02",
+    "n": 537,
+    "date": "2027-07-26",
     "time": "08:00",
     "id": "the-staff-of-moses",
     "category": "Symbols and mysteries",
     "title": "the staff of Moses"
   },
   {
-    "n": 534,
-    "date": "2027-08-02",
+    "n": 538,
+    "date": "2027-07-26",
     "time": "20:00",
     "id": "mordecai",
     "category": "Old Testament people",
     "title": "Mordecai"
   },
   {
-    "n": 535,
-    "date": "2027-08-03",
+    "n": 539,
+    "date": "2027-07-27",
     "time": "08:00",
     "id": "the-church-of-the-east",
     "category": "Church history",
     "title": "the Church of the East"
   },
   {
-    "n": 536,
-    "date": "2027-08-03",
+    "n": 540,
+    "date": "2027-07-27",
     "time": "20:00",
     "id": "the-letter-to-the-galatians",
     "category": "Books of the Bible",
     "title": "the Letter to the Galatians"
   },
   {
-    "n": 537,
-    "date": "2027-08-04",
+    "n": 541,
+    "date": "2027-07-28",
     "time": "08:00",
     "id": "the-healing-of-the-blind-man",
     "category": "Bible stories",
     "title": "the healing of the blind man"
   },
   {
-    "n": 538,
-    "date": "2027-08-04",
+    "n": 542,
+    "date": "2027-07-28",
     "time": "20:00",
     "id": "saint-philip-neri",
     "category": "Saints",
     "title": "Saint Philip Neri"
   },
   {
-    "n": 539,
-    "date": "2027-08-05",
+    "n": 543,
+    "date": "2027-07-29",
     "time": "08:00",
     "id": "eutychus",
     "category": "New Testament people",
     "title": "Eutychus"
   },
   {
-    "n": 540,
-    "date": "2027-08-05",
+    "n": 544,
+    "date": "2027-07-29",
     "time": "20:00",
     "id": "haman",
     "category": "Old Testament people",
     "title": "Haman"
   },
   {
-    "n": 541,
-    "date": "2027-08-06",
+    "n": 545,
+    "date": "2027-07-30",
     "time": "08:00",
     "id": "the-rila-monastery",
     "category": "Churches and cathedrals",
     "title": "the Rila Monastery"
   },
   {
-    "n": 542,
-    "date": "2027-08-06",
+    "n": 546,
+    "date": "2027-07-30",
     "time": "20:00",
     "id": "the-pool-of-siloam",
     "category": "Bible places",
     "title": "the pool of Siloam"
   },
   {
-    "n": 543,
-    "date": "2027-08-07",
+    "n": 547,
+    "date": "2027-07-31",
     "time": "08:00",
     "id": "the-saint-thomas-christians-of-india",
     "category": "Church history",
     "title": "the Saint Thomas Christians of India"
   },
   {
-    "n": 544,
-    "date": "2027-08-07",
+    "n": 548,
+    "date": "2027-07-31",
     "time": "20:00",
     "id": "saint-francis-de-sales",
     "category": "Saints",
     "title": "Saint Francis de Sales"
   },
   {
-    "n": 545,
-    "date": "2027-08-08",
+    "n": 549,
+    "date": "2027-08-01",
     "time": "08:00",
     "id": "the-calming-of-the-storm",
     "category": "Bible stories",
     "title": "the calming of the storm"
   },
   {
-    "n": 546,
-    "date": "2027-08-08",
+    "n": 550,
+    "date": "2027-08-01",
     "time": "20:00",
     "id": "ezra",
     "category": "Old Testament people",
     "title": "Ezra"
   },
   {
-    "n": 547,
-    "date": "2027-08-09",
+    "n": 551,
+    "date": "2027-08-02",
     "time": "08:00",
     "id": "the-letter-to-the-ephesians",
     "category": "Books of the Bible",
     "title": "the Letter to the Ephesians"
   },
   {
-    "n": 548,
-    "date": "2027-08-09",
+    "n": 552,
+    "date": "2027-08-02",
     "time": "20:00",
     "id": "simon-magus",
     "category": "New Testament people",
     "title": "Simon Magus"
   },
   {
-    "n": 549,
-    "date": "2027-08-10",
+    "n": 553,
+    "date": "2027-08-03",
     "time": "08:00",
     "id": "the-menorah",
     "category": "Symbols and mysteries",
     "title": "the menorah"
   },
   {
-    "n": 550,
-    "date": "2027-08-10",
+    "n": 554,
+    "date": "2027-08-03",
     "time": "20:00",
     "id": "nehemiah",
     "category": "Old Testament people",
     "title": "Nehemiah"
   },
   {
-    "n": 551,
-    "date": "2027-08-11",
+    "n": 555,
+    "date": "2027-08-04",
     "time": "08:00",
     "id": "saint-john-bosco",
     "category": "Saints",
     "title": "Saint John Bosco"
   },
   {
-    "n": 552,
-    "date": "2027-08-11",
+    "n": 556,
+    "date": "2027-08-04",
     "time": "20:00",
     "id": "the-hidden-christians-of-japan",
     "category": "Church history",
     "title": "the hidden Christians of Japan"
   },
   {
-    "n": 553,
-    "date": "2027-08-12",
+    "n": 557,
+    "date": "2027-08-05",
     "time": "08:00",
     "id": "etchmiadzin-cathedral",
     "category": "Churches and cathedrals",
     "title": "Etchmiadzin Cathedral"
   },
   {
-    "n": 554,
-    "date": "2027-08-12",
+    "n": 558,
+    "date": "2027-08-05",
     "time": "20:00",
     "id": "the-miraculous-catch-of-fish",
     "category": "Bible stories",
     "title": "the miraculous catch of fish"
   },
   {
-    "n": 555,
-    "date": "2027-08-13",
+    "n": 559,
+    "date": "2027-08-06",
     "time": "08:00",
     "id": "the-pool-of-bethesda",
     "category": "Bible places",
     "title": "the pool of Bethesda"
   },
   {
-    "n": 556,
-    "date": "2027-08-13",
+    "n": 560,
+    "date": "2027-08-06",
     "time": "20:00",
     "id": "job",
     "category": "Old Testament people",
     "title": "Job"
   },
   {
-    "n": 557,
-    "date": "2027-08-14",
+    "n": 561,
+    "date": "2027-08-07",
     "time": "08:00",
     "id": "governor-felix",
     "category": "New Testament people",
     "title": "Governor Felix"
   },
   {
-    "n": 558,
-    "date": "2027-08-14",
+    "n": 562,
+    "date": "2027-08-07",
     "time": "20:00",
     "id": "saint-isidore-of-seville",
     "category": "Saints",
     "title": "Saint Isidore of Seville"
   },
   {
-    "n": 559,
+    "n": 563,
+    "date": "2027-08-08",
+    "time": "08:00",
+    "id": "the-letter-to-the-philippians",
+    "category": "Books of the Bible",
+    "title": "the Letter to the Philippians"
+  },
+  {
+    "n": 564,
+    "date": "2027-08-08",
+    "time": "20:00",
+    "id": "christian-missionaries",
+    "category": "Church history",
+    "title": "Christian missionaries"
+  },
+  {
+    "n": 565,
+    "date": "2027-08-09",
+    "time": "08:00",
+    "id": "monastic-life",
+    "category": "Traditions and holidays",
+    "title": "monastic life"
+  },
+  {
+    "n": 566,
+    "date": "2027-08-09",
+    "time": "20:00",
+    "id": "hosanna",
+    "category": "Words and translations",
+    "title": "Hosanna"
+  },
+  {
+    "n": 567,
+    "date": "2027-08-10",
+    "time": "08:00",
+    "id": "the-parable-of-the-lost-sheep",
+    "category": "Bible stories",
+    "title": "the parable of the lost sheep"
+  },
+  {
+    "n": 568,
+    "date": "2027-08-10",
+    "time": "20:00",
+    "id": "the-basilica-of-our-lady-of-peace",
+    "category": "Churches and cathedrals",
+    "title": "the Basilica of Our Lady of Peace"
+  },
+  {
+    "n": 569,
+    "date": "2027-08-11",
+    "time": "08:00",
+    "id": "king-hezekiah",
+    "category": "Old Testament people",
+    "title": "King Hezekiah"
+  },
+  {
+    "n": 570,
+    "date": "2027-08-11",
+    "time": "20:00",
+    "id": "caesarea-maritima",
+    "category": "Bible places",
+    "title": "Caesarea Maritima"
+  },
+  {
+    "n": 571,
+    "date": "2027-08-12",
+    "time": "08:00",
+    "id": "saint-blaise",
+    "category": "Saints",
+    "title": "Saint Blaise"
+  },
+  {
+    "n": 572,
+    "date": "2027-08-12",
+    "time": "20:00",
+    "id": "the-franciscans",
+    "category": "Church history",
+    "title": "the Franciscans"
+  },
+  {
+    "n": 573,
+    "date": "2027-08-13",
+    "time": "08:00",
+    "id": "herod-agrippa",
+    "category": "New Testament people",
+    "title": "Herod Agrippa"
+  },
+  {
+    "n": 574,
+    "date": "2027-08-13",
+    "time": "20:00",
+    "id": "the-behemoth",
+    "category": "Symbols and mysteries",
+    "title": "the Behemoth"
+  },
+  {
+    "n": 575,
+    "date": "2027-08-14",
+    "time": "08:00",
+    "id": "king-josiah",
+    "category": "Old Testament people",
+    "title": "King Josiah"
+  },
+  {
+    "n": 576,
+    "date": "2027-08-14",
+    "time": "20:00",
+    "id": "the-parable-of-the-mustard-seed",
+    "category": "Bible stories",
+    "title": "the parable of the mustard seed"
+  },
+  {
+    "n": 577,
     "date": "2027-08-15",
     "time": "08:00",
     "id": "the-feast-of-the-assumption",
@@ -4472,799 +4616,799 @@
     "title": "the Feast of the Assumption"
   },
   {
-    "n": 560,
+    "n": 578,
     "date": "2027-08-15",
-    "time": "20:00",
-    "id": "the-letter-to-the-philippians",
-    "category": "Books of the Bible",
-    "title": "the Letter to the Philippians"
-  },
-  {
-    "n": 561,
-    "date": "2027-08-16",
-    "time": "08:00",
-    "id": "christian-missionaries",
-    "category": "Church history",
-    "title": "Christian missionaries"
-  },
-  {
-    "n": 562,
-    "date": "2027-08-16",
-    "time": "20:00",
-    "id": "monastic-life",
-    "category": "Traditions and holidays",
-    "title": "monastic life"
-  },
-  {
-    "n": 563,
-    "date": "2027-08-17",
-    "time": "08:00",
-    "id": "hosanna",
-    "category": "Words and translations",
-    "title": "Hosanna"
-  },
-  {
-    "n": 564,
-    "date": "2027-08-17",
-    "time": "20:00",
-    "id": "the-parable-of-the-lost-sheep",
-    "category": "Bible stories",
-    "title": "the parable of the lost sheep"
-  },
-  {
-    "n": 565,
-    "date": "2027-08-18",
-    "time": "08:00",
-    "id": "the-basilica-of-our-lady-of-peace",
-    "category": "Churches and cathedrals",
-    "title": "the Basilica of Our Lady of Peace"
-  },
-  {
-    "n": 566,
-    "date": "2027-08-18",
-    "time": "20:00",
-    "id": "king-hezekiah",
-    "category": "Old Testament people",
-    "title": "King Hezekiah"
-  },
-  {
-    "n": 567,
-    "date": "2027-08-19",
-    "time": "08:00",
-    "id": "caesarea-maritima",
-    "category": "Bible places",
-    "title": "Caesarea Maritima"
-  },
-  {
-    "n": 568,
-    "date": "2027-08-19",
-    "time": "20:00",
-    "id": "saint-blaise",
-    "category": "Saints",
-    "title": "Saint Blaise"
-  },
-  {
-    "n": 569,
-    "date": "2027-08-20",
-    "time": "08:00",
-    "id": "the-franciscans",
-    "category": "Church history",
-    "title": "the Franciscans"
-  },
-  {
-    "n": 570,
-    "date": "2027-08-20",
-    "time": "20:00",
-    "id": "herod-agrippa",
-    "category": "New Testament people",
-    "title": "Herod Agrippa"
-  },
-  {
-    "n": 571,
-    "date": "2027-08-21",
-    "time": "08:00",
-    "id": "the-behemoth",
-    "category": "Symbols and mysteries",
-    "title": "the Behemoth"
-  },
-  {
-    "n": 572,
-    "date": "2027-08-21",
-    "time": "20:00",
-    "id": "king-josiah",
-    "category": "Old Testament people",
-    "title": "King Josiah"
-  },
-  {
-    "n": 573,
-    "date": "2027-08-22",
-    "time": "08:00",
-    "id": "the-parable-of-the-mustard-seed",
-    "category": "Bible stories",
-    "title": "the parable of the mustard seed"
-  },
-  {
-    "n": 574,
-    "date": "2027-08-22",
     "time": "20:00",
     "id": "the-letter-to-the-colossians",
     "category": "Books of the Bible",
     "title": "the Letter to the Colossians"
   },
   {
-    "n": 575,
-    "date": "2027-08-23",
+    "n": 579,
+    "date": "2027-08-16",
     "time": "08:00",
     "id": "the-cathedral-of-christ-the-saviour",
     "category": "Churches and cathedrals",
     "title": "the Cathedral of Christ the Saviour"
   },
   {
-    "n": 576,
-    "date": "2027-08-23",
+    "n": 580,
+    "date": "2027-08-16",
     "time": "20:00",
     "id": "saint-denis",
     "category": "Saints",
     "title": "Saint Denis"
   },
   {
-    "n": 577,
-    "date": "2027-08-24",
+    "n": 581,
+    "date": "2027-08-17",
     "time": "08:00",
     "id": "king-manasseh",
     "category": "Old Testament people",
     "title": "King Manasseh"
   },
   {
-    "n": 578,
-    "date": "2027-08-24",
+    "n": 582,
+    "date": "2027-08-17",
     "time": "20:00",
     "id": "the-benedictines",
     "category": "Church history",
     "title": "the Benedictines"
   },
   {
-    "n": 579,
-    "date": "2027-08-25",
+    "n": 583,
+    "date": "2027-08-18",
     "time": "08:00",
     "id": "caesarea-philippi",
     "category": "Bible places",
     "title": "Caesarea Philippi"
   },
   {
-    "n": 580,
-    "date": "2027-08-25",
+    "n": 584,
+    "date": "2027-08-18",
     "time": "20:00",
     "id": "anna-the-prophetess",
     "category": "New Testament people",
     "title": "Anna the prophetess"
   },
   {
-    "n": 581,
-    "date": "2027-08-26",
+    "n": 585,
+    "date": "2027-08-19",
     "time": "08:00",
     "id": "the-parable-of-the-ten-virgins",
     "category": "Bible stories",
     "title": "the parable of the ten virgins"
   },
   {
-    "n": 582,
-    "date": "2027-08-26",
+    "n": 586,
+    "date": "2027-08-19",
     "time": "20:00",
     "id": "saint-genevieve",
     "category": "Saints",
     "title": "Saint Genevieve"
   },
   {
-    "n": 583,
-    "date": "2027-08-27",
+    "n": 587,
+    "date": "2027-08-20",
     "time": "08:00",
     "id": "king-jehu",
     "category": "Old Testament people",
     "title": "King Jehu"
   },
   {
-    "n": 584,
-    "date": "2027-08-27",
+    "n": 588,
+    "date": "2027-08-20",
     "time": "20:00",
     "id": "the-letters-to-the-thessalonians",
     "category": "Books of the Bible",
     "title": "the Letters to the Thessalonians"
   },
   {
-    "n": 585,
-    "date": "2027-08-28",
+    "n": 589,
+    "date": "2027-08-21",
     "time": "08:00",
     "id": "the-kizhi-churches",
     "category": "Churches and cathedrals",
     "title": "the Kizhi churches"
   },
   {
-    "n": 586,
-    "date": "2027-08-28",
+    "n": 590,
+    "date": "2027-08-21",
     "time": "20:00",
     "id": "the-cistercians",
     "category": "Church history",
     "title": "the Cistercians"
   },
   {
-    "n": 587,
-    "date": "2027-08-29",
+    "n": 591,
+    "date": "2027-08-22",
     "time": "08:00",
     "id": "angels",
     "category": "Symbols and mysteries",
     "title": "angels"
   },
   {
-    "n": 588,
-    "date": "2027-08-29",
+    "n": 592,
+    "date": "2027-08-22",
     "time": "20:00",
     "id": "jesus-washing-the-disciples-feet",
     "category": "Bible stories",
     "title": "Jesus washing the disciples' feet"
   },
   {
-    "n": 589,
-    "date": "2027-08-30",
+    "n": 593,
+    "date": "2027-08-23",
     "time": "08:00",
     "id": "simeon-of-jerusalem",
     "category": "New Testament people",
     "title": "Simeon of Jerusalem"
   },
   {
-    "n": 590,
-    "date": "2027-08-30",
+    "n": 594,
+    "date": "2027-08-23",
     "time": "20:00",
     "id": "queen-athaliah",
     "category": "Old Testament people",
     "title": "Queen Athaliah"
   },
   {
-    "n": 591,
-    "date": "2027-08-31",
+    "n": 595,
+    "date": "2027-08-24",
     "time": "08:00",
     "id": "mount-nebo",
     "category": "Bible places",
     "title": "Mount Nebo"
   },
   {
-    "n": 592,
-    "date": "2027-08-31",
+    "n": 596,
+    "date": "2027-08-24",
     "time": "20:00",
     "id": "saint-martin-of-tours",
     "category": "Saints",
     "title": "Saint Martin of Tours"
   },
   {
-    "n": 593,
-    "date": "2027-09-01",
+    "n": 597,
+    "date": "2027-08-25",
     "time": "08:00",
     "id": "nuns",
     "category": "Traditions and holidays",
     "title": "nuns"
   },
   {
-    "n": 594,
-    "date": "2027-09-01",
+    "n": 598,
+    "date": "2027-08-25",
     "time": "20:00",
     "id": "everyday-phrases-from-the-bible",
     "category": "Words and translations",
     "title": "everyday phrases from the Bible"
   },
   {
-    "n": 595,
-    "date": "2027-09-02",
+    "n": 599,
+    "date": "2027-08-26",
     "time": "08:00",
     "id": "the-carmelites",
     "category": "Church history",
     "title": "the Carmelites"
   },
   {
-    "n": 596,
-    "date": "2027-09-02",
+    "n": 600,
+    "date": "2027-08-26",
     "time": "20:00",
     "id": "huldah-the-prophetess",
     "category": "Old Testament people",
     "title": "Huldah the prophetess"
   },
   {
-    "n": 597,
-    "date": "2027-09-03",
+    "n": 601,
+    "date": "2027-08-27",
     "time": "08:00",
     "id": "the-letters-to-timothy",
     "category": "Books of the Bible",
     "title": "the Letters to Timothy"
   },
   {
-    "n": 598,
-    "date": "2027-09-03",
+    "n": 602,
+    "date": "2027-08-27",
     "time": "20:00",
     "id": "the-california-missions",
     "category": "Churches and cathedrals",
     "title": "the California missions"
   },
   {
-    "n": 599,
-    "date": "2027-09-04",
+    "n": 603,
+    "date": "2027-08-28",
     "time": "08:00",
     "id": "the-exodus",
     "category": "Bible stories",
     "title": "the Exodus"
   },
   {
-    "n": 600,
-    "date": "2027-09-04",
+    "n": 604,
+    "date": "2027-08-28",
     "time": "20:00",
     "id": "saint-helena",
     "category": "Saints",
     "title": "Saint Helena"
   },
   {
-    "n": 601,
-    "date": "2027-09-05",
+    "n": 605,
+    "date": "2027-08-29",
     "time": "08:00",
     "id": "jairus",
     "category": "New Testament people",
     "title": "Jairus"
   },
   {
-    "n": 602,
-    "date": "2027-09-05",
+    "n": 606,
+    "date": "2027-08-29",
     "time": "20:00",
     "id": "mount-moriah",
     "category": "Bible places",
     "title": "Mount Moriah"
   },
   {
-    "n": 603,
-    "date": "2027-09-06",
+    "n": 607,
+    "date": "2027-08-30",
     "time": "08:00",
     "id": "joab",
     "category": "Old Testament people",
     "title": "Joab"
   },
   {
-    "n": 604,
-    "date": "2027-09-06",
+    "n": 608,
+    "date": "2027-08-30",
     "time": "20:00",
     "id": "medieval-monasteries",
     "category": "Church history",
     "title": "medieval monasteries"
   },
   {
-    "n": 605,
-    "date": "2027-09-07",
+    "n": 609,
+    "date": "2027-08-31",
     "time": "08:00",
     "id": "saint-scholastica",
     "category": "Saints",
     "title": "Saint Scholastica"
   },
   {
-    "n": 606,
-    "date": "2027-09-07",
+    "n": 610,
+    "date": "2027-08-31",
     "time": "20:00",
     "id": "cherubim",
     "category": "Symbols and mysteries",
     "title": "cherubim"
   },
   {
-    "n": 607,
-    "date": "2027-09-08",
+    "n": 611,
+    "date": "2027-09-01",
     "time": "08:00",
     "id": "forty-years-in-the-desert",
     "category": "Bible stories",
     "title": "forty years in the desert"
   },
   {
-    "n": 608,
-    "date": "2027-09-08",
+    "n": 612,
+    "date": "2027-09-01",
     "time": "20:00",
     "id": "saint-vitus-cathedral",
     "category": "Churches and cathedrals",
     "title": "Saint Vitus Cathedral"
   },
   {
-    "n": 609,
-    "date": "2027-09-09",
+    "n": 613,
+    "date": "2027-09-02",
     "time": "08:00",
     "id": "abner",
     "category": "Old Testament people",
     "title": "Abner"
   },
   {
-    "n": 610,
-    "date": "2027-09-09",
+    "n": 614,
+    "date": "2027-09-02",
     "time": "20:00",
     "id": "the-letter-to-titus",
     "category": "Books of the Bible",
     "title": "the Letter to Titus"
   },
   {
-    "n": 611,
-    "date": "2027-09-10",
+    "n": 615,
+    "date": "2027-09-03",
     "time": "08:00",
     "id": "bartimaeus",
     "category": "New Testament people",
     "title": "Bartimaeus"
   },
   {
-    "n": 612,
-    "date": "2027-09-10",
+    "n": 616,
+    "date": "2027-09-03",
     "time": "20:00",
     "id": "illuminated-manuscripts",
     "category": "Church history",
     "title": "illuminated manuscripts"
   },
   {
-    "n": 613,
-    "date": "2027-09-11",
+    "n": 617,
+    "date": "2027-09-04",
     "time": "08:00",
     "id": "the-via-dolorosa",
     "category": "Bible places",
     "title": "the Via Dolorosa"
   },
   {
-    "n": 614,
-    "date": "2027-09-11",
+    "n": 618,
+    "date": "2027-09-04",
     "time": "20:00",
     "id": "saint-anne",
     "category": "Saints",
     "title": "Saint Anne"
   },
   {
-    "n": 615,
-    "date": "2027-09-12",
+    "n": 619,
+    "date": "2027-09-05",
     "time": "08:00",
     "id": "mephibosheth",
     "category": "Old Testament people",
     "title": "Mephibosheth"
   },
   {
-    "n": 616,
-    "date": "2027-09-12",
+    "n": 620,
+    "date": "2027-09-05",
     "time": "20:00",
     "id": "the-twelve-spies-of-canaan",
     "category": "Bible stories",
     "title": "the twelve spies of Canaan"
   },
   {
-    "n": 617,
-    "date": "2027-09-13",
+    "n": 621,
+    "date": "2027-09-06",
     "time": "08:00",
     "id": "the-salt-cathedral-of-zipaquira",
     "category": "Churches and cathedrals",
     "title": "the Salt Cathedral of Zipaquira"
   },
   {
-    "n": 618,
-    "date": "2027-09-13",
+    "n": 622,
+    "date": "2027-09-06",
     "time": "20:00",
     "id": "malchus",
     "category": "New Testament people",
     "title": "Malchus"
   },
   {
-    "n": 619,
-    "date": "2027-09-14",
+    "n": 623,
+    "date": "2027-09-07",
     "time": "08:00",
     "id": "the-book-of-kells",
     "category": "Church history",
     "title": "the Book of Kells"
   },
   {
-    "n": 620,
-    "date": "2027-09-14",
+    "n": 624,
+    "date": "2027-09-07",
     "time": "20:00",
     "id": "the-letter-to-philemon",
     "category": "Books of the Bible",
     "title": "the Letter to Philemon"
   },
   {
-    "n": 621,
-    "date": "2027-09-15",
+    "n": 625,
+    "date": "2027-09-08",
     "time": "08:00",
     "id": "lamech",
     "category": "Old Testament people",
     "title": "Lamech"
   },
   {
-    "n": 622,
-    "date": "2027-09-15",
+    "n": 626,
+    "date": "2027-09-08",
     "time": "20:00",
     "id": "saint-barbara",
     "category": "Saints",
     "title": "Saint Barbara"
   },
   {
-    "n": 623,
-    "date": "2027-09-16",
+    "n": 627,
+    "date": "2027-09-09",
     "time": "08:00",
     "id": "church-organs",
     "category": "Traditions and holidays",
     "title": "church organs"
   },
   {
-    "n": 624,
-    "date": "2027-09-16",
+    "n": 628,
+    "date": "2027-09-09",
     "time": "20:00",
     "id": "the-name-of-god",
     "category": "Words and translations",
     "title": "the name of God"
   },
   {
-    "n": 625,
-    "date": "2027-09-17",
+    "n": 629,
+    "date": "2027-09-10",
     "time": "08:00",
     "id": "balaams-talking-donkey",
     "category": "Bible stories",
     "title": "Balaam's talking donkey"
   },
   {
-    "n": 626,
-    "date": "2027-09-17",
+    "n": 630,
+    "date": "2027-09-10",
     "time": "20:00",
     "id": "seraphim",
     "category": "Symbols and mysteries",
     "title": "seraphim"
   },
   {
-    "n": 627,
-    "date": "2027-09-18",
+    "n": 631,
+    "date": "2027-09-11",
     "time": "08:00",
     "id": "the-upper-room",
     "category": "Bible places",
     "title": "the Upper Room"
   },
   {
-    "n": 628,
-    "date": "2027-09-18",
+    "n": 632,
+    "date": "2027-09-11",
     "time": "20:00",
     "id": "og-of-bashan",
     "category": "Old Testament people",
     "title": "Og of Bashan"
   },
   {
-    "n": 629,
-    "date": "2027-09-19",
+    "n": 633,
+    "date": "2027-09-12",
     "time": "08:00",
     "id": "gregorian-chant",
     "category": "Church history",
     "title": "Gregorian chant"
   },
   {
-    "n": 630,
-    "date": "2027-09-19",
+    "n": 634,
+    "date": "2027-09-12",
     "time": "20:00",
     "id": "saint-roch",
     "category": "Saints",
     "title": "Saint Roch"
   },
   {
-    "n": 631,
-    "date": "2027-09-20",
+    "n": 635,
+    "date": "2027-09-13",
     "time": "08:00",
     "id": "mary-of-bethany",
     "category": "New Testament people",
     "title": "Mary of Bethany"
   },
   {
-    "n": 632,
-    "date": "2027-09-20",
+    "n": 636,
+    "date": "2027-09-13",
     "time": "20:00",
     "id": "the-rock-church-of-helsinki",
     "category": "Churches and cathedrals",
     "title": "the Rock Church of Helsinki"
   },
   {
-    "n": 633,
-    "date": "2027-09-21",
+    "n": 637,
+    "date": "2027-09-14",
     "time": "08:00",
     "id": "the-witch-of-endor",
     "category": "Bible stories",
     "title": "the Witch of Endor"
   },
   {
-    "n": 634,
-    "date": "2027-09-21",
+    "n": 638,
+    "date": "2027-09-14",
     "time": "20:00",
     "id": "the-letter-to-the-hebrews",
     "category": "Books of the Bible",
     "title": "the Letter to the Hebrews"
   },
   {
-    "n": 635,
-    "date": "2027-09-22",
+    "n": 639,
+    "date": "2027-09-15",
     "time": "08:00",
     "id": "phinehas",
     "category": "Old Testament people",
     "title": "Phinehas"
   },
   {
-    "n": 636,
-    "date": "2027-09-22",
+    "n": 640,
+    "date": "2027-09-15",
     "time": "20:00",
     "id": "saint-josephine-bakhita",
     "category": "Saints",
     "title": "Saint Josephine Bakhita"
   },
   {
-    "n": 637,
-    "date": "2027-09-23",
+    "n": 641,
+    "date": "2027-09-16",
     "time": "08:00",
     "id": "johann-sebastian-bach",
     "category": "Church history",
     "title": "Johann Sebastian Bach"
   },
   {
-    "n": 638,
-    "date": "2027-09-23",
+    "n": 642,
+    "date": "2027-09-16",
     "time": "20:00",
     "id": "hezekiahs-tunnel",
     "category": "Bible places",
     "title": "Hezekiah's tunnel"
   },
   {
-    "n": 639,
-    "date": "2027-09-24",
+    "n": 643,
+    "date": "2027-09-17",
     "time": "08:00",
     "id": "joanna",
     "category": "New Testament people",
     "title": "Joanna"
   },
   {
-    "n": 640,
-    "date": "2027-09-24",
+    "n": 644,
+    "date": "2027-09-17",
     "time": "20:00",
     "id": "achan",
     "category": "Old Testament people",
     "title": "Achan"
   },
   {
-    "n": 641,
-    "date": "2027-09-25",
+    "n": 645,
+    "date": "2027-09-18",
     "time": "08:00",
     "id": "norways-stave-churches",
     "category": "Churches and cathedrals",
     "title": "Norway's stave churches"
   },
   {
-    "n": 642,
-    "date": "2027-09-25",
+    "n": 646,
+    "date": "2027-09-18",
     "time": "20:00",
     "id": "the-judgment-of-solomon",
     "category": "Bible stories",
     "title": "the judgment of Solomon"
   },
   {
-    "n": 643,
-    "date": "2027-09-26",
+    "n": 647,
+    "date": "2027-09-19",
     "time": "08:00",
     "id": "lucifer",
     "category": "Symbols and mysteries",
     "title": "Lucifer"
   },
   {
-    "n": 644,
-    "date": "2027-09-26",
+    "n": 648,
+    "date": "2027-09-19",
     "time": "20:00",
     "id": "saint-oscar-romero",
     "category": "Saints",
     "title": "Saint Oscar Romero"
   },
   {
-    "n": 645,
-    "date": "2027-09-27",
+    "n": 649,
+    "date": "2027-09-20",
     "time": "08:00",
     "id": "handels-messiah",
     "category": "Church history",
     "title": "Handel's Messiah"
   },
   {
-    "n": 646,
-    "date": "2027-09-27",
+    "n": 650,
+    "date": "2027-09-20",
     "time": "20:00",
     "id": "the-letter-of-james",
     "category": "Books of the Bible",
     "title": "the Letter of James"
   },
   {
-    "n": 647,
-    "date": "2027-09-28",
+    "n": 651,
+    "date": "2027-09-21",
     "time": "08:00",
     "id": "shadrach-meshach-and-abednego",
     "category": "Old Testament people",
     "title": "Shadrach Meshach and Abednego"
   },
   {
-    "n": 648,
-    "date": "2027-09-28",
+    "n": 652,
+    "date": "2027-09-21",
     "time": "20:00",
     "id": "the-city-of-david",
     "category": "Bible places",
     "title": "the City of David"
   },
   {
-    "n": 649,
-    "date": "2027-09-29",
+    "n": 653,
+    "date": "2027-09-22",
     "time": "08:00",
     "id": "jude-the-brother-of-jesus",
     "category": "New Testament people",
     "title": "Jude the brother of Jesus"
   },
   {
-    "n": 650,
-    "date": "2027-09-29",
+    "n": 654,
+    "date": "2027-09-22",
     "time": "20:00",
     "id": "elisha-and-the-bears",
     "category": "Bible stories",
     "title": "Elisha and the bears"
   },
   {
-    "n": 651,
-    "date": "2027-09-30",
+    "n": 655,
+    "date": "2027-09-23",
     "time": "08:00",
     "id": "saying-grace",
     "category": "Traditions and holidays",
     "title": "saying grace"
   },
   {
-    "n": 652,
-    "date": "2027-09-30",
+    "n": 656,
+    "date": "2027-09-23",
     "time": "20:00",
     "id": "the-word-abba",
     "category": "Words and translations",
     "title": "the word Abba"
   },
   {
-    "n": 653,
-    "date": "2027-10-01",
+    "n": 657,
+    "date": "2027-09-24",
     "time": "08:00",
     "id": "saint-damien-of-molokai",
     "category": "Saints",
     "title": "Saint Damien of Molokai"
   },
   {
-    "n": 654,
-    "date": "2027-10-01",
+    "n": 658,
+    "date": "2027-09-24",
     "time": "20:00",
     "id": "sennacherib",
     "category": "Old Testament people",
     "title": "Sennacherib"
   },
   {
-    "n": 655,
-    "date": "2027-10-02",
+    "n": 659,
+    "date": "2027-09-25",
     "time": "08:00",
     "id": "the-basilica-of-saint-john-lateran",
     "category": "Churches and cathedrals",
     "title": "the Basilica of Saint John Lateran"
   },
   {
-    "n": 656,
-    "date": "2027-10-02",
+    "n": 660,
+    "date": "2027-09-25",
     "time": "20:00",
     "id": "the-hymn-amazing-grace",
     "category": "Church history",
     "title": "the hymn Amazing Grace"
   },
   {
-    "n": 657,
-    "date": "2027-10-03",
+    "n": 661,
+    "date": "2027-09-26",
     "time": "08:00",
     "id": "the-letters-of-peter",
     "category": "Books of the Bible",
     "title": "the Letters of Peter"
   },
   {
-    "n": 658,
-    "date": "2027-10-03",
+    "n": 662,
+    "date": "2027-09-26",
     "time": "20:00",
     "id": "darius-the-mede",
     "category": "Old Testament people",
     "title": "Darius the Mede"
   },
   {
-    "n": 659,
+    "n": 663,
+    "date": "2027-09-27",
+    "time": "08:00",
+    "id": "the-massacre-of-the-innocents",
+    "category": "Bible stories",
+    "title": "the massacre of the innocents"
+  },
+  {
+    "n": 664,
+    "date": "2027-09-27",
+    "time": "20:00",
+    "id": "saint-frances-cabrini",
+    "category": "Saints",
+    "title": "Saint Frances Cabrini"
+  },
+  {
+    "n": 665,
+    "date": "2027-09-28",
+    "time": "08:00",
+    "id": "the-thief-on-the-cross",
+    "category": "New Testament people",
+    "title": "the thief on the cross"
+  },
+  {
+    "n": 666,
+    "date": "2027-09-28",
+    "time": "20:00",
+    "id": "susa",
+    "category": "Bible places",
+    "title": "Susa"
+  },
+  {
+    "n": 667,
+    "date": "2027-09-29",
+    "time": "08:00",
+    "id": "the-serpent-of-eden",
+    "category": "Symbols and mysteries",
+    "title": "the serpent of Eden"
+  },
+  {
+    "n": 668,
+    "date": "2027-09-29",
+    "time": "20:00",
+    "id": "the-huguenots",
+    "category": "Church history",
+    "title": "the Huguenots"
+  },
+  {
+    "n": 669,
+    "date": "2027-09-30",
+    "time": "08:00",
+    "id": "the-painted-monasteries-of-romania",
+    "category": "Churches and cathedrals",
+    "title": "the Painted Monasteries of Romania"
+  },
+  {
+    "n": 670,
+    "date": "2027-09-30",
+    "time": "20:00",
+    "id": "tubal-cain",
+    "category": "Old Testament people",
+    "title": "Tubal-cain"
+  },
+  {
+    "n": 671,
+    "date": "2027-10-01",
+    "time": "08:00",
+    "id": "saint-moses-the-black",
+    "category": "Saints",
+    "title": "Saint Moses the Black"
+  },
+  {
+    "n": 672,
+    "date": "2027-10-01",
+    "time": "20:00",
+    "id": "jesus-lost-in-the-temple",
+    "category": "Bible stories",
+    "title": "Jesus lost in the Temple"
+  },
+  {
+    "n": 673,
+    "date": "2027-10-02",
+    "time": "08:00",
+    "id": "james-the-brother-of-jesus",
+    "category": "New Testament people",
+    "title": "James the brother of Jesus"
+  },
+  {
+    "n": 674,
+    "date": "2027-10-02",
+    "time": "20:00",
+    "id": "the-letters-of-john",
+    "category": "Books of the Bible",
+    "title": "the Letters of John"
+  },
+  {
+    "n": 675,
+    "date": "2027-10-03",
+    "time": "08:00",
+    "id": "thomas-cranmer",
+    "category": "Church history",
+    "title": "Thomas Cranmer"
+  },
+  {
+    "n": 676,
+    "date": "2027-10-03",
+    "time": "20:00",
+    "id": "barak",
+    "category": "Old Testament people",
+    "title": "Barak"
+  },
+  {
+    "n": 677,
     "date": "2027-10-04",
     "time": "08:00",
     "id": "saint-francis-of-assisi",
@@ -5272,472 +5416,328 @@
     "title": "Saint Francis of Assisi"
   },
   {
-    "n": 660,
+    "n": 678,
     "date": "2027-10-04",
-    "time": "20:00",
-    "id": "the-massacre-of-the-innocents",
-    "category": "Bible stories",
-    "title": "the massacre of the innocents"
-  },
-  {
-    "n": 661,
-    "date": "2027-10-05",
-    "time": "08:00",
-    "id": "saint-frances-cabrini",
-    "category": "Saints",
-    "title": "Saint Frances Cabrini"
-  },
-  {
-    "n": 662,
-    "date": "2027-10-05",
-    "time": "20:00",
-    "id": "the-thief-on-the-cross",
-    "category": "New Testament people",
-    "title": "the thief on the cross"
-  },
-  {
-    "n": 663,
-    "date": "2027-10-06",
-    "time": "08:00",
-    "id": "susa",
-    "category": "Bible places",
-    "title": "Susa"
-  },
-  {
-    "n": 664,
-    "date": "2027-10-06",
-    "time": "20:00",
-    "id": "the-serpent-of-eden",
-    "category": "Symbols and mysteries",
-    "title": "the serpent of Eden"
-  },
-  {
-    "n": 665,
-    "date": "2027-10-07",
-    "time": "08:00",
-    "id": "the-huguenots",
-    "category": "Church history",
-    "title": "the Huguenots"
-  },
-  {
-    "n": 666,
-    "date": "2027-10-07",
-    "time": "20:00",
-    "id": "the-painted-monasteries-of-romania",
-    "category": "Churches and cathedrals",
-    "title": "the Painted Monasteries of Romania"
-  },
-  {
-    "n": 667,
-    "date": "2027-10-08",
-    "time": "08:00",
-    "id": "tubal-cain",
-    "category": "Old Testament people",
-    "title": "Tubal-cain"
-  },
-  {
-    "n": 668,
-    "date": "2027-10-08",
-    "time": "20:00",
-    "id": "saint-moses-the-black",
-    "category": "Saints",
-    "title": "Saint Moses the Black"
-  },
-  {
-    "n": 669,
-    "date": "2027-10-09",
-    "time": "08:00",
-    "id": "jesus-lost-in-the-temple",
-    "category": "Bible stories",
-    "title": "Jesus lost in the Temple"
-  },
-  {
-    "n": 670,
-    "date": "2027-10-09",
-    "time": "20:00",
-    "id": "james-the-brother-of-jesus",
-    "category": "New Testament people",
-    "title": "James the brother of Jesus"
-  },
-  {
-    "n": 671,
-    "date": "2027-10-10",
-    "time": "08:00",
-    "id": "the-letters-of-john",
-    "category": "Books of the Bible",
-    "title": "the Letters of John"
-  },
-  {
-    "n": 672,
-    "date": "2027-10-10",
-    "time": "20:00",
-    "id": "thomas-cranmer",
-    "category": "Church history",
-    "title": "Thomas Cranmer"
-  },
-  {
-    "n": 673,
-    "date": "2027-10-11",
-    "time": "08:00",
-    "id": "barak",
-    "category": "Old Testament people",
-    "title": "Barak"
-  },
-  {
-    "n": 674,
-    "date": "2027-10-11",
     "time": "20:00",
     "id": "thessalonica",
     "category": "Bible places",
     "title": "Thessalonica"
   },
   {
-    "n": 675,
-    "date": "2027-10-12",
+    "n": 679,
+    "date": "2027-10-05",
     "time": "08:00",
     "id": "the-abbey-of-cluny",
     "category": "Churches and cathedrals",
     "title": "the Abbey of Cluny"
   },
   {
-    "n": 676,
-    "date": "2027-10-12",
+    "n": 680,
+    "date": "2027-10-05",
     "time": "20:00",
     "id": "saint-seraphim-of-sarov",
     "category": "Saints",
     "title": "Saint Seraphim of Sarov"
   },
   {
-    "n": 677,
-    "date": "2027-10-13",
+    "n": 681,
+    "date": "2027-10-06",
     "time": "08:00",
     "id": "the-healing-of-the-ten-lepers",
     "category": "Bible stories",
     "title": "the healing of the ten lepers"
   },
   {
-    "n": 678,
-    "date": "2027-10-13",
+    "n": 682,
+    "date": "2027-10-06",
     "time": "20:00",
     "id": "ham-the-son-of-noah",
     "category": "Old Testament people",
     "title": "Ham the son of Noah"
   },
   {
-    "n": 679,
-    "date": "2027-10-14",
+    "n": 683,
+    "date": "2027-10-07",
     "time": "08:00",
     "id": "erasmus",
     "category": "Church history",
     "title": "Erasmus"
   },
   {
-    "n": 680,
-    "date": "2027-10-14",
+    "n": 684,
+    "date": "2027-10-07",
     "time": "20:00",
     "id": "locusts-in-the-bible",
     "category": "Symbols and mysteries",
     "title": "locusts in the Bible"
   },
   {
-    "n": 681,
-    "date": "2027-10-15",
+    "n": 685,
+    "date": "2027-10-08",
     "time": "08:00",
     "id": "the-samaritan-woman",
     "category": "New Testament people",
     "title": "the Samaritan woman"
   },
   {
-    "n": 682,
-    "date": "2027-10-15",
+    "n": 686,
+    "date": "2027-10-08",
     "time": "20:00",
     "id": "the-sabbath",
     "category": "Traditions and holidays",
     "title": "the Sabbath"
   },
   {
-    "n": 683,
-    "date": "2027-10-16",
+    "n": 687,
+    "date": "2027-10-09",
     "time": "08:00",
     "id": "the-word-selah",
     "category": "Words and translations",
     "title": "the word Selah"
   },
   {
-    "n": 684,
-    "date": "2027-10-16",
+    "n": 688,
+    "date": "2027-10-09",
     "time": "20:00",
     "id": "the-letter-of-jude",
     "category": "Books of the Bible",
     "title": "the Letter of Jude"
   },
   {
-    "n": 685,
-    "date": "2027-10-17",
+    "n": 689,
+    "date": "2027-10-10",
     "time": "08:00",
     "id": "saint-sergius-of-radonezh",
     "category": "Saints",
     "title": "Saint Sergius of Radonezh"
   },
   {
-    "n": 686,
-    "date": "2027-10-17",
+    "n": 690,
+    "date": "2027-10-10",
     "time": "20:00",
     "id": "philippi",
     "category": "Bible places",
     "title": "Philippi"
   },
   {
-    "n": 687,
-    "date": "2027-10-18",
+    "n": 691,
+    "date": "2027-10-11",
     "time": "08:00",
     "id": "zerubbabel",
     "category": "Old Testament people",
     "title": "Zerubbabel"
   },
   {
-    "n": 688,
-    "date": "2027-10-18",
+    "n": 692,
+    "date": "2027-10-11",
     "time": "20:00",
     "id": "the-great-commission",
     "category": "Bible stories",
     "title": "the Great Commission"
   },
   {
-    "n": 689,
-    "date": "2027-10-19",
+    "n": 693,
+    "date": "2027-10-12",
     "time": "08:00",
     "id": "lindisfarne",
     "category": "Churches and cathedrals",
     "title": "Lindisfarne"
   },
   {
-    "n": 690,
-    "date": "2027-10-19",
+    "n": 694,
+    "date": "2027-10-12",
     "time": "20:00",
     "id": "blaise-pascal",
     "category": "Church history",
     "title": "Blaise Pascal"
   },
   {
-    "n": 691,
-    "date": "2027-10-20",
+    "n": 695,
+    "date": "2027-10-13",
     "time": "08:00",
     "id": "the-shepherds-of-bethlehem",
     "category": "New Testament people",
     "title": "the shepherds of Bethlehem"
   },
   {
-    "n": 692,
-    "date": "2027-10-20",
+    "n": 696,
+    "date": "2027-10-13",
     "time": "20:00",
     "id": "gomer",
     "category": "Old Testament people",
     "title": "Gomer"
   },
   {
-    "n": 693,
-    "date": "2027-10-21",
+    "n": 697,
+    "date": "2027-10-14",
     "time": "08:00",
     "id": "saint-nino-of-georgia",
     "category": "Saints",
     "title": "Saint Nino of Georgia"
   },
   {
-    "n": 694,
-    "date": "2027-10-21",
+    "n": 698,
+    "date": "2027-10-14",
     "time": "20:00",
     "id": "the-rich-young-man",
     "category": "Bible stories",
     "title": "the rich young man"
   },
   {
-    "n": 695,
-    "date": "2027-10-22",
+    "n": 699,
+    "date": "2027-10-15",
     "time": "08:00",
     "id": "the-gospel-of-thomas",
     "category": "Books of the Bible",
     "title": "the Gospel of Thomas"
   },
   {
-    "n": 696,
-    "date": "2027-10-22",
+    "n": 700,
+    "date": "2027-10-15",
     "time": "20:00",
     "id": "gregor-mendel",
     "category": "Church history",
     "title": "Gregor Mendel"
   },
   {
-    "n": 697,
-    "date": "2027-10-23",
+    "n": 701,
+    "date": "2027-10-16",
     "time": "08:00",
     "id": "the-seven-churches-of-revelation",
     "category": "Bible places",
     "title": "the seven churches of Revelation"
   },
   {
-    "n": 698,
-    "date": "2027-10-23",
+    "n": 702,
+    "date": "2027-10-16",
     "time": "20:00",
     "id": "baruch-the-scribe",
     "category": "Old Testament people",
     "title": "Baruch the scribe"
   },
   {
-    "n": 699,
-    "date": "2027-10-24",
+    "n": 703,
+    "date": "2027-10-17",
     "time": "08:00",
     "id": "iona-abbey",
     "category": "Churches and cathedrals",
     "title": "Iona Abbey"
   },
   {
-    "n": 700,
-    "date": "2027-10-24",
+    "n": 704,
+    "date": "2027-10-17",
     "time": "20:00",
     "id": "sheep-and-shepherds",
     "category": "Symbols and mysteries",
     "title": "sheep and shepherds"
   },
   {
-    "n": 701,
-    "date": "2027-10-25",
+    "n": 705,
+    "date": "2027-10-18",
     "time": "08:00",
     "id": "saint-gregory-the-illuminator",
     "category": "Saints",
     "title": "Saint Gregory the Illuminator"
   },
   {
-    "n": 702,
-    "date": "2027-10-25",
+    "n": 706,
+    "date": "2027-10-18",
     "time": "20:00",
     "id": "john-mark",
     "category": "New Testament people",
     "title": "John Mark"
   },
   {
-    "n": 703,
-    "date": "2027-10-26",
+    "n": 707,
+    "date": "2027-10-19",
     "time": "08:00",
     "id": "obed-the-grandfather-of-david",
     "category": "Old Testament people",
     "title": "Obed the grandfather of David"
   },
   {
-    "n": 704,
-    "date": "2027-10-26",
+    "n": 708,
+    "date": "2027-10-19",
     "time": "20:00",
     "id": "the-widows-offering",
     "category": "Bible stories",
     "title": "the widow's offering"
   },
   {
-    "n": 705,
-    "date": "2027-10-27",
+    "n": 709,
+    "date": "2027-10-20",
     "time": "08:00",
     "id": "georges-lemaitre",
     "category": "Church history",
     "title": "Georges Lemaitre"
   },
   {
-    "n": 706,
-    "date": "2027-10-27",
+    "n": 710,
+    "date": "2027-10-20",
     "time": "20:00",
     "id": "saint-hubert",
     "category": "Saints",
     "title": "Saint Hubert"
   },
   {
-    "n": 707,
-    "date": "2027-10-28",
+    "n": 711,
+    "date": "2027-10-21",
     "time": "08:00",
     "id": "the-books-of-maccabees",
     "category": "Books of the Bible",
     "title": "the Books of Maccabees"
   },
   {
-    "n": 708,
-    "date": "2027-10-28",
+    "n": 712,
+    "date": "2027-10-21",
     "time": "20:00",
     "id": "laodicea",
     "category": "Bible places",
     "title": "Laodicea"
   },
   {
-    "n": 709,
-    "date": "2027-10-29",
+    "n": 713,
+    "date": "2027-10-22",
     "time": "08:00",
     "id": "glendalough",
     "category": "Churches and cathedrals",
     "title": "Glendalough"
   },
   {
-    "n": 710,
-    "date": "2027-10-29",
+    "n": 714,
+    "date": "2027-10-22",
     "time": "20:00",
     "id": "asenath",
     "category": "Old Testament people",
     "title": "Asenath"
   },
   {
-    "n": 711,
-    "date": "2027-10-30",
+    "n": 715,
+    "date": "2027-10-23",
     "time": "08:00",
     "id": "phoebe",
     "category": "New Testament people",
     "title": "Phoebe"
   },
   {
-    "n": 712,
-    "date": "2027-10-30",
+    "n": 716,
+    "date": "2027-10-23",
     "time": "20:00",
     "id": "christian-names",
     "category": "Traditions and holidays",
     "title": "Christian names"
   },
   {
-    "n": 713,
-    "date": "2027-10-31",
+    "n": 717,
+    "date": "2027-10-24",
     "time": "08:00",
-    "id": "halloween",
-    "category": "Traditions and holidays",
-    "title": "Halloween"
-  },
-  {
-    "n": 714,
-    "date": "2027-10-31",
-    "time": "20:00",
-    "id": "reformation-day",
-    "category": "Traditions and holidays",
-    "title": "Reformation Day"
-  },
-  {
-    "n": 715,
-    "date": "2027-11-01",
-    "time": "08:00",
-    "id": "all-saints-day",
-    "category": "Traditions and holidays",
-    "title": "All Saints' Day"
-  },
-  {
-    "n": 716,
-    "date": "2027-11-01",
-    "time": "20:00",
     "id": "the-word-satan",
     "category": "Words and translations",
     "title": "the word Satan"
   },
   {
-    "n": 717,
-    "date": "2027-11-02",
-    "time": "08:00",
-    "id": "all-souls-day",
-    "category": "Traditions and holidays",
-    "title": "All Souls' Day"
-  },
-  {
     "n": 718,
-    "date": "2027-11-02",
+    "date": "2027-10-24",
     "time": "20:00",
     "id": "the-fall-of-satan",
     "category": "Bible stories",
@@ -5745,7 +5745,7 @@
   },
   {
     "n": 719,
-    "date": "2027-11-03",
+    "date": "2027-10-25",
     "time": "08:00",
     "id": "pilgrimages",
     "category": "Church history",
@@ -5753,7 +5753,7 @@
   },
   {
     "n": 720,
-    "date": "2027-11-03",
+    "date": "2027-10-25",
     "time": "20:00",
     "id": "saint-stanislaus",
     "category": "Saints",
@@ -5761,7 +5761,7 @@
   },
   {
     "n": 721,
-    "date": "2027-11-04",
+    "date": "2027-10-26",
     "time": "08:00",
     "id": "shem",
     "category": "Old Testament people",
@@ -5769,7 +5769,7 @@
   },
   {
     "n": 722,
-    "date": "2027-11-04",
+    "date": "2027-10-26",
     "time": "20:00",
     "id": "the-seven-deadly-sins",
     "category": "Symbols and mysteries",
@@ -5777,7 +5777,7 @@
   },
   {
     "n": 723,
-    "date": "2027-11-05",
+    "date": "2027-10-27",
     "time": "08:00",
     "id": "the-book-of-tobit",
     "category": "Books of the Bible",
@@ -5785,7 +5785,7 @@
   },
   {
     "n": 724,
-    "date": "2027-11-05",
+    "date": "2027-10-27",
     "time": "20:00",
     "id": "the-cedars-of-lebanon",
     "category": "Bible places",
@@ -5793,7 +5793,7 @@
   },
   {
     "n": 725,
-    "date": "2027-11-06",
+    "date": "2027-10-28",
     "time": "08:00",
     "id": "the-cathedral-of-light-in-oakland",
     "category": "Churches and cathedrals",
@@ -5801,7 +5801,7 @@
   },
   {
     "n": 726,
-    "date": "2027-11-06",
+    "date": "2027-10-28",
     "time": "20:00",
     "id": "the-centurion-at-the-cross",
     "category": "New Testament people",
@@ -5809,7 +5809,7 @@
   },
   {
     "n": 727,
-    "date": "2027-11-07",
+    "date": "2027-10-29",
     "time": "08:00",
     "id": "the-seven-seals",
     "category": "Bible stories",
@@ -5817,7 +5817,7 @@
   },
   {
     "n": 728,
-    "date": "2027-11-07",
+    "date": "2027-10-29",
     "time": "20:00",
     "id": "the-celtic-church",
     "category": "Church history",
@@ -5825,7 +5825,7 @@
   },
   {
     "n": 729,
-    "date": "2027-11-08",
+    "date": "2027-10-30",
     "time": "08:00",
     "id": "saint-ansgar",
     "category": "Saints",
@@ -5833,7 +5833,7 @@
   },
   {
     "n": 730,
-    "date": "2027-11-08",
+    "date": "2027-10-30",
     "time": "20:00",
     "id": "jochebed",
     "category": "Old Testament people",
