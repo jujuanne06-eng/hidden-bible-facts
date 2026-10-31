@@ -1,3 +1,28 @@
 {
-  "en": []
+  "en": [
+    "halloween",
+    "reformation-day"
+  ],
+  "slots": {
+    "en": {
+      "2026-10-31 08:00": "halloween",
+      "2026-10-31 20:00": "reformation-day"
+    }
+  },
+  "posts": [
+    {
+      "id": "6ae5766cf61832958301acd9",
+      "lang": "en",
+      "topic": "halloween",
+      "title": "Halloween",
+      "when": "2026-10-31T07:50:00"
+    },
+    {
+      "id": "6ae57813fb7d1e840a31f2f8",
+      "lang": "en",
+      "topic": "reformation-day",
+      "title": "Reformation Day",
+      "when": "2026-10-31T19:51:00"
+    }
+  ]
 }
