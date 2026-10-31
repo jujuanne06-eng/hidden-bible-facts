@@ -9,6 +9,11 @@ building it. Read it fully before doing anything. Reuse the reference implementa
 
 ## 0. The reference implementation (copy it, don't rewrite it)
 
+> **Updated 31 Oct 2026 after building the 2nd channel.** Copy **`C:\Users\wqach\hidden-bible-facts`** (repo
+> `jujuanne06-eng/hidden-bible-facts`) rather than Fun Facts: it is newer (configurable style, crossfades,
+> public-domain paintings, montage 2x faster, music never repeats, `posts_log.jsonl`, `tools/audit.py`).
+> **Read section 9 first**: it lists what changed and the traps met on the 2nd channel.
+
 - **Private GitHub repo:** `proutman123321-creator/fun-facts-shorts` (owner's account, GitHub CLI is installed
   and logged in: `"C:\Program Files\GitHub CLI\gh.exe"`).
 - **Local copy:** `C:\Users\wqach\fun-facts-shorts`
@@ -264,3 +269,77 @@ scratchpad; rebuild it from this list if needed.
 - French settings exist in `config.json` (`"fr"`, disabled) for a future French account.
 - The owner wants to grow toward monetization; next step suggested: review real stats after 2–3 weeks
   (views, watch time, followers) and tune hooks, times and topics.
+
+---
+
+## 9. Lessons from the 2nd channel (Hidden Bible Facts, built 30 Oct 2026, live 31 Oct)
+
+### 9.1 Accounts: one email per channel (owner's rule)
+- The owner creates a **new email per channel** and uses it for everything: TikTok, Instagram, **GitHub**, Zernio,
+  Pixabay. So a new channel = a **new GitHub account** (its own 2,000 free Actions minutes, no sharing).
+- **Zernio support confirmed (30 Oct 2026)** that a 2nd free Zernio account for a separate channel is allowed.
+- Steps that worked, in this order: owner creates the empty private repo on github.com (no README) → push with
+  the login in the URL (`https://<login>@github.com/<login>/<repo>.git`) so Git Credential Manager asks for the
+  right account → owner adds secrets on the website (paste Pixabay, Telegram, Zernio) → owner runs
+  `& "C:\Program Files\GitHub CLI\gh.exe" auth login` (PowerShell needs the `&`) to add the account to `gh`
+  (both accounts stay; `gh auth switch` changes the active one) → owner installs github.com/apps/claude on the
+  new account, only on that repo.
+- **Several GitHub accounts on one PC:** pin every local repo's remote to its login (`https://<login>@github.com/...`),
+  otherwise Git Credential Manager can't choose and any non-interactive pull fails (it broke the stats-hub pull of
+  Fun Facts until its remote was pinned).
+- TikTok on a PC: the website has no "add account": use a private window, or the mobile app (username → Add account).
+  Instagram: switch to **Creator** (Settings → Account type and tools), category Education.
+- A GitHub secret is never shown again after saving: an empty box is normal. If the job says Zernio **401 "Invalid,
+  revoked or expired API key"**, the secret was pasted wrong: paste it again from `.env`. The workflow
+  `notify.yml` has a mode **`accounts`** (20 s) that checks the Zernio key from GitHub and lists the accounts.
+- Brand-new GitHub accounts may run **one job at a time**: tests queue behind each other. Never launch duplicates.
+- The owner sometimes renames `.env.example` instead of copying it: restore it with `git checkout -- .env.example`.
+
+### 9.2 Video
+- **Fact length: about 37 words (30-43)**, not 45-60: 45-60 gave 94 s videos. Real Fun Facts facts average 37.
+- Voice: `en-US-ChristopherNeural` (deep, calm) at **+0%**. It is slower than Andrew: at -8% the video reached 87 s.
+- Style is now in `config.json` → `"style"`: highlight color, shot lengths, camera moves, slow motion share,
+  accent `glow` (soft) or `flash` (punchy), color `grade`, `crossfade_seconds`, `painting_every`, `painting_grade`.
+  A calm channel: warm gold, 2.8-4.2 s shots, no shake/punch-in, 40% slow motion, glow, warm grade + vignette.
+- **Paintings:** each topic can list 2-3 `paintings` searches (artist + exact title). The job searches Wikimedia
+  Commons, keeps **only public-domain** files ≥ 900 px (no credit needed), retries on HTTP 429. Wide paintings are
+  shown whole over a blurred copy (cropping cut out the main scene), tall ones fill the frame. **Exclude nudity and
+  gore** (Adam and Eve, Deluge, Delilah, Last Judgment, severed heads, martyrdoms, executions): it cuts reach.
+- **Montage 2x faster:** paintings are graded/framed once into a still, intermediate shots use `ultrafast` (a run of
+  2 videos takes ~11 min on GitHub instead of 34).
+- Block modern things in stock footage for a historical niche (Bitcoin, phones, cars, neon...): `OFF_TOPIC_TAGS`.
+- Music: owner downloads Pixabay tracks (> 90 s, no lyrics); a track may sit in several moods; `pick_music` now
+  guarantees the same track never plays twice in a row. Tracks shorter than the video are skipped.
+
+### 9.3 Plan and content
+- **Align the plan on the real launch day** (`START` in `build_plan.py`) and pin feast days (`SEASONAL`): the job
+  posts topics in order, so a different start date shifts Christmas, Easter... Launch-week feasts (here Halloween,
+  Reformation Day, All Saints) make a timely start.
+- The weekly cloud routine **cannot reach commons.wikimedia.org** (blocked network): its prompt now tells it to
+  still propose famous artworks; the daily job filters them. Spot-check its facts and paintings (nudity/gore).
+- A respectful tone for a religious niche: history as history, belief as belief ("the Bible says", "tradition says").
+
+### 9.4 Tests and launch
+- Draft test: TikTok drafts land only in the **mobile app inbox** (Zernio keeps showing "uploading", normal);
+  Instagram drafts stay **on zernio.com** (Instagram has no API drafts). Tell the owner to delete them, not post them.
+- **A draft run marks its topics as used:** reset `state.json` to `{"en": []}` before going public.
+- `dry-run` and `no-publish` never save state.
+- Downloading TikTok videos with yt-dlp needs browser impersonation, which the safety system blocks: ask the owner
+  to save reference videos himself; `tools/analyze_reference.py` (yt-dlp, faster-whisper, PySceneDetect in
+  `.venv-analysis`) analyzes a local file (script, cuts, frames, loudness).
+- **Audit:** `tools/audit.py` runs the whole section 7 checklist (+ timing, paintings, music rotation, accounts);
+  fix, then run again until "0 problem(s)", then a GitHub `dry-run`.
+
+### 9.5 Stats dashboard
+- Each run appends to **`posts_log.jsonl`** (Zernio post id, topic, category, title, channel), committed with
+  `state.json`. Stats Hub (`C:\Users\wqach\stats-hub`) pulls each channel repo before every sync (non-interactive).
+- Add a channel in Stats Hub → Settings: name, the channel's Zernio key, the channel's project folder.
+- Zernio post tags (`cat:`, `topic:`) are still **not** sent: not verified that the API accepts them.
+
+### 9.6 Owner's channels now
+| Channel | TikTok / Instagram | GitHub repo | Weekly routine |
+|---|---|---|---|
+| Fun Facts For Real | `fun_fact_for_real` / `funfact_for_real` | `proutman123321-creator/fun-facts-shorts` | trig_015K6jsrb5fKSc766tFZWhys (Mon 07:00 UTC) |
+| Hidden Bible Facts | `hidden_bible_facts_real` (both) | `jujuanne06-eng/hidden-bible-facts` | trig_01PWhc48cFGpbyrtWgMs2exU (Mon 07:30 UTC) |
+Both use the same Telegram bot; messages of the 2nd channel start with `[Hidden Bible Facts]`. Daily jobs are
+staggered (04:00 and 04:20 UTC).
