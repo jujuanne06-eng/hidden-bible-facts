@@ -15,7 +15,8 @@
       "lang": "en",
       "topic": "halloween",
       "title": "Halloween",
-      "when": "2026-10-31T07:50:00"
+      "when": "2026-10-31T07:50:00",
+      "checked": true
     },
     {
       "id": "6ae57813fb7d1e840a31f2f8",
