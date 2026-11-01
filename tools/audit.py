@@ -59,7 +59,9 @@ def audit_github():
     notify = (ROOT / ".github/workflows/notify.yml").read_text(encoding="utf-8")
     check("daily: main + backup cron", len(re.findall(r'- cron: "', daily)) == 2)
     check("fixed runner ubuntu-24.04", "ubuntu-latest" not in daily + notify and (daily + notify).count("ubuntu-24.04") == 2)
-    check("checkout of the latest main", (daily + notify).count("ref: main") == 2)
+    main_ref = r"ref: (main|\$\{\{ github\.event_name == 'workflow_dispatch' && github\.ref_name \|\| 'main' \}\})"
+    check("checkout of the latest main (a manual test may use its branch)",
+          len(re.findall(main_ref, daily)) == 1 and len(re.findall(main_ref, notify)) == 1)
     check("state saved even if the job fails", "if: always() && (github.event.inputs.mode" in daily)
     check("posts_log.jsonl saved with state", "posts_log.jsonl" in daily)
     check("Telegram alert if the job crashes", "Telegram alert if the job failed" in daily)
@@ -73,7 +75,7 @@ def audit_github():
     tracked = subprocess.run(["git", "-C", str(ROOT), "ls-files"], capture_output=True, text=True).stdout.split()
     ignored = subprocess.run(["git", "-C", str(ROOT), "check-ignore", ".env"], capture_output=True, text=True).returncode == 0
     check(".env ignored and not tracked", ignored and ".env" not in tracked)
-    # timing: the daily job (about 15 min, GitHub may start it late) must end before the earliest post,
+    # timing: the daily job (about 25 min with the AI voice, GitHub may start it late) must end before the earliest post,
     # and the post checker must run around every post time, in winter (UTC+1) and summer (UTC+2)
     cfg = load_config()
     jitter = cfg.get("post_time_jitter_minutes", 0)
@@ -115,6 +117,11 @@ def audit_config_and_code():
                  if "run_daily.py" in p.read_text(errors="ignore") and "--no-publish" not in p.read_text(errors="ignore")]
     check("no PC launcher can post (would post twice)", not launchers, launchers)
     check("tzdata in requirements", "tzdata" in (ROOT / "requirements.txt").read_text())
+    daily = (ROOT / ".github/workflows/daily.yml").read_text(encoding="utf-8")
+    check("AI voice ready on GitHub (engine pinned, CPU torch, Python 3.11, models cached, reference voice)",
+          "chatterbox-tts @ git+" in (ROOT / "requirements.txt").read_text() and "torch==2.6.0" in daily
+          and 'python-version: "3.11"' in daily and "~/.cache/huggingface" in daily
+          and (ROOT / "assets/voice/reference.wav").exists())
     check("local .venv ready for the .bat files", (ROOT / ".venv/Scripts/python.exe").exists())
 
 

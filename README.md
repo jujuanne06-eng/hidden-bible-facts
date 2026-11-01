@@ -25,7 +25,9 @@ animated captions) and sends the same video to TikTok + Instagram through **Zern
   (each topic's `paintings` searches, e.g. "Caravaggio The Taking of Christ"): the first shot and about one shot
   in three. Only files marked public domain are used, so no credit is needed.
 - **Captions:** word by word, the spoken word in gold; kept away from the app's buttons and bottom text.
-- **Voice:** en-US-ChristopherNeural (deep, calm), at normal speed.
+- **Voice:** a British narrator: Chatterbox Nano (the engine of Alpha Mindset) copying `assets/voice/reference.wav`
+  (Kokoro bm_george, license-free), chosen by ear on 1 Nov 2026; every sentence is checked with whisper. If it fails,
+  the old voice (en-US-ChristopherNeural, edge-tts) takes over and Telegram says so.
 - **Music:** a royalty-free track from `assets\music`, chosen by mood for the topic's category
   (`assets\music\moods.json`), started after its quiet intro at a different point each time, at the same
   quiet level for every track, and dipping automatically while the voice speaks. Final sound at about −14 LUFS.
