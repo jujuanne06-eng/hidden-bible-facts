@@ -35,7 +35,8 @@
       "lang": "en",
       "topic": "all-saints-day",
       "title": "All Saints' Day",
-      "when": "2026-11-01T07:31:00"
+      "when": "2026-11-01T07:31:00",
+      "checked": true
     },
     {
       "id": "6ae6c95ab2eed2d7f9259512",
