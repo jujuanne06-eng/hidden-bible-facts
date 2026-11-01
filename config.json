@@ -41,6 +41,7 @@
       "hashtags": "#biblefacts"
     }
   },
+  "telegram_emoji": "🟪",
   "channel_name": "Hidden Bible Facts",
   "style": {
     "_help": "Calm look for this channel. highlight = gold color of the title, numbers and current word; shot_seconds = length of each footage shot; accent = glow (soft) or flash (punchy); grade = FFmpeg color filters applied to every clip.",
