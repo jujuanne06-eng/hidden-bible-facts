@@ -3,14 +3,18 @@
     "halloween",
     "reformation-day",
     "all-saints-day",
-    "noahs-ark"
+    "noahs-ark",
+    "all-souls-day",
+    "the-dead-sea-scrolls"
   ],
   "slots": {
     "en": {
       "2026-10-31 08:00": "halloween",
       "2026-10-31 20:00": "reformation-day",
       "2026-11-01 08:00": "all-saints-day",
-      "2026-11-01 20:00": "noahs-ark"
+      "2026-11-01 20:00": "noahs-ark",
+      "2026-11-02 08:00": "all-souls-day",
+      "2026-11-02 20:00": "the-dead-sea-scrolls"
     }
   },
   "posts": [
@@ -43,7 +47,22 @@
       "lang": "en",
       "topic": "noahs-ark",
       "title": "Noah's Ark",
-      "when": "2026-11-01T19:57:00"
+      "when": "2026-11-01T19:57:00",
+      "checked": true
+    },
+    {
+      "id": "6ae80461ef032ac3ad9a058c",
+      "lang": "en",
+      "topic": "all-souls-day",
+      "title": "All Souls' Day",
+      "when": "2026-11-02T08:09:00"
+    },
+    {
+      "id": "6ae80748c6e22c9aceb5e8bd",
+      "lang": "en",
+      "topic": "the-dead-sea-scrolls",
+      "title": "the Dead Sea Scrolls",
+      "when": "2026-11-02T19:25:00"
     }
   ]
 }
