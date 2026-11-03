@@ -5,7 +5,9 @@
     "all-saints-day",
     "noahs-ark",
     "all-souls-day",
-    "the-dead-sea-scrolls"
+    "the-dead-sea-scrolls",
+    "moses",
+    "notre-dame-de-paris"
   ],
   "slots": {
     "en": {
@@ -14,7 +16,9 @@
       "2026-11-01 08:00": "all-saints-day",
       "2026-11-01 20:00": "noahs-ark",
       "2026-11-02 08:00": "all-souls-day",
-      "2026-11-02 20:00": "the-dead-sea-scrolls"
+      "2026-11-02 20:00": "the-dead-sea-scrolls",
+      "2026-11-03 08:00": "moses",
+      "2026-11-03 20:00": "notre-dame-de-paris"
     }
   },
   "posts": [
@@ -55,14 +59,30 @@
       "lang": "en",
       "topic": "all-souls-day",
       "title": "All Souls' Day",
-      "when": "2026-11-02T08:09:00"
+      "when": "2026-11-02T08:09:00",
+      "checked": true
     },
     {
       "id": "6ae80748c6e22c9aceb5e8bd",
       "lang": "en",
       "topic": "the-dead-sea-scrolls",
       "title": "the Dead Sea Scrolls",
-      "when": "2026-11-02T19:25:00"
+      "when": "2026-11-02T19:25:00",
+      "checked": true
+    },
+    {
+      "id": "6ae954f185ab47cbfd964cbe",
+      "lang": "en",
+      "topic": "moses",
+      "title": "Moses",
+      "when": "2026-11-03T08:06:00"
+    },
+    {
+      "id": "6ae956a6ea178d21ec11d03a",
+      "lang": "en",
+      "topic": "notre-dame-de-paris",
+      "title": "Notre-Dame de Paris",
+      "when": "2026-11-03T20:05:00"
     }
   ]
 }
