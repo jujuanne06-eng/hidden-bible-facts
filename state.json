@@ -7,7 +7,9 @@
     "all-souls-day",
     "the-dead-sea-scrolls",
     "moses",
-    "notre-dame-de-paris"
+    "notre-dame-de-paris",
+    "the-garden-of-eden",
+    "the-knights-templar"
   ],
   "slots": {
     "en": {
@@ -18,7 +20,9 @@
       "2026-11-02 08:00": "all-souls-day",
       "2026-11-02 20:00": "the-dead-sea-scrolls",
       "2026-11-03 08:00": "moses",
-      "2026-11-03 20:00": "notre-dame-de-paris"
+      "2026-11-03 20:00": "notre-dame-de-paris",
+      "2026-11-04 08:00": "the-garden-of-eden",
+      "2026-11-04 20:00": "the-knights-templar"
     }
   },
   "posts": [
@@ -75,14 +79,30 @@
       "lang": "en",
       "topic": "moses",
       "title": "Moses",
-      "when": "2026-11-03T08:06:00"
+      "when": "2026-11-03T08:06:00",
+      "checked": true
     },
     {
       "id": "6ae956a6ea178d21ec11d03a",
       "lang": "en",
       "topic": "notre-dame-de-paris",
       "title": "Notre-Dame de Paris",
-      "when": "2026-11-03T20:05:00"
+      "when": "2026-11-03T20:05:00",
+      "checked": true
+    },
+    {
+      "id": "6aeaa76ac4ee2e56cc526492",
+      "lang": "en",
+      "topic": "the-garden-of-eden",
+      "title": "the Garden of Eden",
+      "when": "2026-11-04T07:34:00"
+    },
+    {
+      "id": "6aeaaaa82c8f0f7f858d5a32",
+      "lang": "en",
+      "topic": "the-knights-templar",
+      "title": "the Knights Templar",
+      "when": "2026-11-04T20:10:00"
     }
   ]
 }
