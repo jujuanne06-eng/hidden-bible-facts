@@ -9,7 +9,9 @@
     "moses",
     "notre-dame-de-paris",
     "the-garden-of-eden",
-    "the-knights-templar"
+    "the-knights-templar",
+    "jerusalem",
+    "king-david"
   ],
   "slots": {
     "en": {
@@ -22,7 +24,9 @@
       "2026-11-03 08:00": "moses",
       "2026-11-03 20:00": "notre-dame-de-paris",
       "2026-11-04 08:00": "the-garden-of-eden",
-      "2026-11-04 20:00": "the-knights-templar"
+      "2026-11-04 20:00": "the-knights-templar",
+      "2026-11-05 08:00": "jerusalem",
+      "2026-11-05 20:00": "king-david"
     }
   },
   "posts": [
@@ -95,14 +99,30 @@
       "lang": "en",
       "topic": "the-garden-of-eden",
       "title": "the Garden of Eden",
-      "when": "2026-11-04T07:34:00"
+      "when": "2026-11-04T07:34:00",
+      "checked": true
     },
     {
       "id": "6aeaaaa82c8f0f7f858d5a32",
       "lang": "en",
       "topic": "the-knights-templar",
       "title": "the Knights Templar",
-      "when": "2026-11-04T20:10:00"
+      "when": "2026-11-04T20:10:00",
+      "checked": true
+    },
+    {
+      "id": "6aebf89d556067456f026f2b",
+      "lang": "en",
+      "topic": "jerusalem",
+      "title": "Jerusalem",
+      "when": "2026-11-05T07:37:00"
+    },
+    {
+      "id": "6aebfb75e0b9b41880dd4695",
+      "lang": "en",
+      "topic": "king-david",
+      "title": "King David",
+      "when": "2026-11-05T20:33:00"
     }
   ]
 }
