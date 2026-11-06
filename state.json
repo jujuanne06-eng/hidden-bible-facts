@@ -11,7 +11,9 @@
     "the-garden-of-eden",
     "the-knights-templar",
     "jerusalem",
-    "king-david"
+    "king-david",
+    "the-shroud-of-turin",
+    "judas-iscariot"
   ],
   "slots": {
     "en": {
@@ -26,7 +28,9 @@
       "2026-11-04 08:00": "the-garden-of-eden",
       "2026-11-04 20:00": "the-knights-templar",
       "2026-11-05 08:00": "jerusalem",
-      "2026-11-05 20:00": "king-david"
+      "2026-11-05 20:00": "king-david",
+      "2026-11-06 08:00": "the-shroud-of-turin",
+      "2026-11-06 20:00": "judas-iscariot"
     }
   },
   "posts": [
@@ -115,14 +119,30 @@
       "lang": "en",
       "topic": "jerusalem",
       "title": "Jerusalem",
-      "when": "2026-11-05T07:37:00"
+      "when": "2026-11-05T07:37:00",
+      "checked": true
     },
     {
       "id": "6aebfb75e0b9b41880dd4695",
       "lang": "en",
       "topic": "king-david",
       "title": "King David",
-      "when": "2026-11-05T20:33:00"
+      "when": "2026-11-05T20:33:00",
+      "checked": true
+    },
+    {
+      "id": "6aed4a287afede8f161c6992",
+      "lang": "en",
+      "topic": "the-shroud-of-turin",
+      "title": "the Shroud of Turin",
+      "when": "2026-11-06T08:24:00"
+    },
+    {
+      "id": "6aed4c9398099f58c27cc62f",
+      "lang": "en",
+      "topic": "judas-iscariot",
+      "title": "Judas Iscariot",
+      "when": "2026-11-06T19:51:00"
     }
   ]
 }
