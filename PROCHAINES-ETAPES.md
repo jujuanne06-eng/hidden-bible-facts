@@ -8,6 +8,8 @@ Suivi des étapes du blueprint (`CHANNEL-BLUEPRINT.md`, section 3) pour cette ch
 ## 3.1 Questions de départ ✅
 Christianisme (mix : Bible, saints, histoire de l'Église, cathédrales, traditions), anglais, 2 vidéos/jour
 vers 8h et 20h (Paris, ±35 min), format 3 faits + bonus.
+*(Changé le 8 nov 2026 : 3 vidéos/jour vers 17h, 21h30 et 2h de Paris, pour le public anglophone :
+11h, 15h30 et 20h à New York.)*
 
 ## Style des vidéos ✅ (validé)
 Voix Christopher, style calme (or chaud, fondus enchaînés, mouvements lents), tableaux du domaine public
