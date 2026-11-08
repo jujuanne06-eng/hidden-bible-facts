@@ -51,7 +51,7 @@ animated captions) and sends the same video to TikTok + Instagram through **Zern
 Everything runs on **GitHub Actions**, in the public project (unlimited free minutes; the keys stay secret)
 (the channel's own GitHub account, repository hidden-bible-facts)
 
-- Every day at **04:00 UTC** (05:00 Paris in winter, 06:00 in summer; GitHub can start a little late),
+- Every night at **02:27 UTC** (03:27 Paris in winter, 04:27 in summer; GitHub can start a little late),
   GitHub makes the 3 videos and sends them to Zernio for 17:00, 21:30 and 02:00 (the next night). Zernio publishes them.
 - Your keys are stored as **Secrets** in the project: Settings → Secrets and variables → Actions
   (`ZERNIO_API_KEY`, `PIXABAY_API_KEY`). GitHub never shows them again, not even to you.
@@ -60,7 +60,7 @@ Everything runs on **GitHub Actions**, in the public project (unlimited free min
 - **Test by hand:** Actions → "Daily Hidden Bible Facts videos" → **Run workflow** → choose
   `no-publish` (only make videos), `dry-run` (show what would be sent) or `run` (the real thing).
 - Used topics are saved back into `state.json` in the project after each real run.
-- **Backup run at 06:30 UTC:** if GitHub skipped the first run, the backup sends the day's videos.
+- **Backup run at 04:57 UTC:** if GitHub skipped the first run, the backup sends the day's videos.
   Each slot is remembered once sent, so nothing is ever posted twice.
 - **Automatic check:** every morning the job asks Zernio how the previous posts went. If one failed
   on TikTok or Instagram (for example an expired connection), the run turns red and GitHub emails you.

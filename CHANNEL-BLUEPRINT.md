@@ -33,7 +33,7 @@ topic_plan.json     730 planned topics (one year at 2/day, about 8 months at 3/d
 content/*.json      written topics: hook + 4 facts (3 + bonus) + keywords + 4 hashtags
 assets/music/       royalty-free tracks + moods.json (mood per category)
 assets/fonts/       Archivo Black (SIL OFL) — needed on Linux runners
-.github/workflows/daily.yml   daily build+publish (04:00 UTC + 06:30 backup)
+.github/workflows/daily.yml   daily build+publish (02:27 UTC + 04:57 backup)
 .github/workflows/notify.yml  post checks + Telegram, every 30 min around posting times
 README.md           owner's user guide (keep it updated)
 ```
@@ -43,10 +43,10 @@ README.md           owner's user guide (keep it updated)
 ## 1. How the system works (architecture)
 
 ```
-Monday 07:00 UTC   Claude cloud routine (owner's subscription) writes the next 60 topics
+Monday 07:30 UTC   Claude cloud routine (owner's subscription) writes the next 60 topics
                    (hook + 4 facts, fact-checked with web search) -> commits content/ + topics.json
-Daily 04:00 UTC    GitHub Actions: for each post time -> make video -> upload to Zernio -> schedule
-(+06:30 backup)    -> Telegram "🎬 Scheduled" -> check accounts health + earlier posts -> save state.json
+Daily 02:27 UTC    GitHub Actions: for each post time -> make video -> upload to Zernio -> schedule
+(+04:57 backup)    -> Telegram "🎬 Scheduled" -> check accounts health + earlier posts -> save state.json
 ~17:00/21:30/02:00 Zernio publishes on TikTok + Instagram (same video, same caption)
 every 30 min       GitHub Actions notify.yml: asks Zernio if posts are live -> Telegram "✅ Published"
 around post times  (with links) or "❌ problem"; reminders "🔔" before a connection expires
