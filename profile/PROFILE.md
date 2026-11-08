@@ -47,5 +47,5 @@ Hidden Bible Facts | Bible History 📜
 - Do **not** turn on "AI-generated profile".
 
 ## Don't
-- No exact posting times in the bio (posts are at random times around 8:00 and 20:00).
+- No exact posting times in the bio (posts are at random times around 17:00, 21:30 and 02:00 Paris).
 - Don't follow/like with bots.
