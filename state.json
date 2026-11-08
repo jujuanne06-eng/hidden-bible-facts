@@ -15,12 +15,12 @@
     "the-shroud-of-turin",
     "judas-iscariot",
     "the-sistine-chapel",
-    "the-book-of-revelation"
+    "the-book-of-revelation",
+    "the-great-flood",
+    "mary-magdalene"
   ],
   "slots": {
     "en": {
-      "2026-10-31 08:00": "halloween",
-      "2026-10-31 20:00": "reformation-day",
       "2026-11-01 08:00": "all-saints-day",
       "2026-11-01 20:00": "noahs-ark",
       "2026-11-02 08:00": "all-souls-day",
@@ -34,7 +34,9 @@
       "2026-11-06 08:00": "the-shroud-of-turin",
       "2026-11-06 20:00": "judas-iscariot",
       "2026-11-07 08:00": "the-sistine-chapel",
-      "2026-11-07 20:00": "the-book-of-revelation"
+      "2026-11-07 20:00": "the-book-of-revelation",
+      "2026-11-08 08:00": "the-great-flood",
+      "2026-11-08 20:00": "mary-magdalene"
     }
   },
   "posts": [
@@ -155,14 +157,30 @@
       "lang": "en",
       "topic": "the-sistine-chapel",
       "title": "the Sistine Chapel",
-      "when": "2026-11-07T07:34:00"
+      "when": "2026-11-07T07:34:00",
+      "checked": true
     },
     {
       "id": "6aee9e451296588008a8de64",
       "lang": "en",
       "topic": "the-book-of-revelation",
       "title": "the Book of Revelation",
-      "when": "2026-11-07T20:31:00"
+      "when": "2026-11-07T20:31:00",
+      "checked": true
+    },
+    {
+      "id": "6aefed418c3bb1bf60638b51",
+      "lang": "en",
+      "topic": "the-great-flood",
+      "title": "the Great Flood",
+      "when": "2026-11-08T07:41:00"
+    },
+    {
+      "id": "6aeff0048936ce2721944737",
+      "lang": "en",
+      "topic": "mary-magdalene",
+      "title": "Mary Magdalene",
+      "when": "2026-11-08T20:20:00"
     }
   ]
 }
