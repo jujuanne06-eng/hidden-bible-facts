@@ -47,7 +47,7 @@ Monday 07:00 UTC   Claude cloud routine (owner's subscription) writes the next 6
                    (hook + 4 facts, fact-checked with web search) -> commits content/ + topics.json
 Daily 04:00 UTC    GitHub Actions: for each post time -> make video -> upload to Zernio -> schedule
 (+06:30 backup)    -> Telegram "🎬 Scheduled" -> check accounts health + earlier posts -> save state.json
-~18:00 / ~23:30    Zernio publishes on TikTok + Instagram (same video, same caption)
+~17:00/21:30/02:00 Zernio publishes on TikTok + Instagram (same video, same caption)
 every 30 min       GitHub Actions notify.yml: asks Zernio if posts are live -> Telegram "✅ Published"
 around post times  (with links) or "❌ problem"; reminders "🔔" before a connection expires
 ```
@@ -82,8 +82,8 @@ around post times  (with links) or "❌ problem"; reminders "🔔" before a conn
 1. Topic / niche and the angle (e.g. "dark history stories", "space facts", "French fun facts").
 2. Language(s) — **one account per language** (owner's choice).
 3. Format: keep "3 facts + bonus, just over 1 minute" unless asked otherwise (see 5.1 for why 1 minute).
-4. Posts per day and times (current: 2/day, ~18:00 and ~23:30 Europe/Paris, ±35 min random = 12:00 and 17:30 New York,
-   for the English-speaking audience).
+4. Posts per day and times (current: 3/day, ~17:00, ~21:30 and ~02:00 Europe/Paris, ±35 min random = 11:00, 15:30 and
+   20:00 New York, for the English-speaking audience; a time before 06:00 goes out the night after the daily run).
 5. Account names (TikTok + Instagram) and whether the accounts exist yet.
 
 ### 3.2 Accounts (owner does these; give him exact click paths)
@@ -249,7 +249,7 @@ Copy the current prompt from the existing routine "Fun facts - write next topics
 
 ## 7. Audit checklist (must be all OK before saying "done")
 
-GitHub: repo private · secrets present · both workflows active · 2 crons (main + backup) · ubuntu-24.04 ·
+GitHub: repo public (unlimited minutes) · secrets present · both workflows active · 2 crons (main + backup) · ubuntu-24.04 ·
 `ref: main` · state saved on failure · crash alert to Telegram · keys never in git history · `.env` ignored.
 Config: public mode only after approval · post times + timezone · accounts set · Telegram chat set.
 Code: compiles · PC launchers that could post twice disabled · old Windows task off.

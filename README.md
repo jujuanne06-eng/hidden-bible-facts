@@ -1,6 +1,6 @@
 # Hidden Bible Facts
 
-> **Status:** LIVE since 31 Oct 2026 (2 public videos a day, ~18:00 and ~23:30 Paris, for the English-speaking audience). TikTok + Instagram
+> **Status:** LIVE since 31 Oct 2026 (3 public videos a day, ~17:00, ~21:30 and ~02:00 Paris, for the English-speaking audience). TikTok + Instagram
 > `hidden_bible_facts_real`, repo `jujuanne06-eng/hidden-bible-facts`, weekly writing task every Monday 08:30 Paris.
 
 Makes vertical "3 hidden facts: ___ (+ a bonus)" Christianity videos (real stock footage, AI voice,
@@ -8,8 +8,8 @@ animated captions) and sends the same video to TikTok + Instagram through **Zern
 
 - Each video is **just over 1 minute** (61–70 s), so it can count for TikTok's Creator Rewards (videos over 1 minute).
 - Each language has **its own accounts** (an English account, later maybe a French account).
-- Right now: **English only**, 2 videos a day posted around **18:00** and **23:30** (Paris time, a few random
-  minutes off) = 12:00 and 17:30 in New York, 17:00 and 22:30 in London, on TikTok and Instagram
+- Right now: **English only**, 3 videos a day posted around **17:00**, **21:30** and **02:00** (Paris time, a few
+  random minutes off; 02:00 is the night after) = 11:00, 15:30 and 20:00 in New York, 16:00, 20:30 and 01:00 in London, on TikTok and Instagram
   (usernames: see `profile/PROFILE.md`).
 - Each video has its own caption with keywords and 5 hashtags (Instagram's maximum since December 2025).
 
@@ -47,11 +47,11 @@ animated captions) and sends the same video to TikTok + Instagram through **Zern
 
 ## Runs in the cloud (your PC can stay off)
 
-Everything runs on **GitHub Actions**, in the private project
+Everything runs on **GitHub Actions**, in the public project (unlimited free minutes; the keys stay secret)
 (the channel's own GitHub account, repository hidden-bible-facts)
 
 - Every day at **04:00 UTC** (05:00 Paris in winter, 06:00 in summer; GitHub can start a little late),
-  GitHub makes the 2 videos and sends them to Zernio for 18:00 and 23:30. Zernio publishes them.
+  GitHub makes the 3 videos and sends them to Zernio for 17:00, 21:30 and 02:00 (the next night). Zernio publishes them.
 - Your keys are stored as **Secrets** in the project: Settings → Secrets and variables → Actions
   (`ZERNIO_API_KEY`, `PIXABAY_API_KEY`). GitHub never shows them again, not even to you.
 - **See each day's run:** the project's **Actions** tab. Green = OK, red = problem (GitHub also emails you).
@@ -76,8 +76,7 @@ Everything runs on **GitHub Actions**, in the private project
   A connection that is already cut is an immediate ❌ alert (and a red GitHub run with an email).
 - Temporary problems (network, Zernio busy, Pixabay down, voice service hiccup) are retried
   automatically; if no clips can be found, the video uses the plain colored background instead.
-- Cost: free (about 750 of the 2,000 free minutes per month for private projects: ~9 min a day for
-  the videos, ~16 one-minute post checks a day).
+- Cost: free (public project: GitHub Actions minutes are unlimited).
 - Nothing runs from the PC anymore: `3-run-now.bat` and `4-turn-on-daily-schedule.bat` are disabled on
   purpose, because the PC's list of used topics is out of date and would post videos twice.
 - After changing files on the PC (config, new content), send them to GitHub:
