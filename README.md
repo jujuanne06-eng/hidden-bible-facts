@@ -1,6 +1,6 @@
 # Hidden Bible Facts
 
-> **Status:** LIVE since 31 Oct 2026 (2 public videos a day, ~8:00 and ~20:00 Paris). TikTok + Instagram
+> **Status:** LIVE since 31 Oct 2026 (2 public videos a day, ~18:00 and ~23:30 Paris, for the English-speaking audience). TikTok + Instagram
 > `hidden_bible_facts_real`, repo `jujuanne06-eng/hidden-bible-facts`, weekly writing task every Monday 08:30 Paris.
 
 Makes vertical "3 hidden facts: ___ (+ a bonus)" Christianity videos (real stock footage, AI voice,
@@ -8,8 +8,9 @@ animated captions) and sends the same video to TikTok + Instagram through **Zern
 
 - Each video is **just over 1 minute** (61–70 s), so it can count for TikTok's Creator Rewards (videos over 1 minute).
 - Each language has **its own accounts** (an English account, later maybe a French account).
-- Right now: **English only**, 2 videos a day posted around **08:00** and **20:00** (Paris time, a few random
-  minutes off), on TikTok and Instagram (usernames: see `profile/PROFILE.md`).
+- Right now: **English only**, 2 videos a day posted around **18:00** and **23:30** (Paris time, a few random
+  minutes off) = 12:00 and 17:30 in New York, 17:00 and 22:30 in London, on TikTok and Instagram
+  (usernames: see `profile/PROFILE.md`).
 - Each video has its own caption with keywords and 5 hashtags (Instagram's maximum since December 2025).
 
 ## Video style (what each video looks like)
@@ -50,7 +51,7 @@ Everything runs on **GitHub Actions**, in the private project
 (the channel's own GitHub account, repository hidden-bible-facts)
 
 - Every day at **04:00 UTC** (05:00 Paris in winter, 06:00 in summer; GitHub can start a little late),
-  GitHub makes the 2 videos and sends them to Zernio for 08:00 and 20:00. Zernio publishes them.
+  GitHub makes the 2 videos and sends them to Zernio for 18:00 and 23:30. Zernio publishes them.
 - Your keys are stored as **Secrets** in the project: Settings → Secrets and variables → Actions
   (`ZERNIO_API_KEY`, `PIXABAY_API_KEY`). GitHub never shows them again, not even to you.
 - **See each day's run:** the project's **Actions** tab. Green = OK, red = problem (GitHub also emails you).
