@@ -17,12 +17,13 @@
     "the-sistine-chapel",
     "the-book-of-revelation",
     "the-great-flood",
-    "mary-magdalene"
+    "mary-magdalene",
+    "unicorns-in-the-bible",
+    "bethlehem",
+    "samson"
   ],
   "slots": {
     "en": {
-      "2026-11-01 08:00": "all-saints-day",
-      "2026-11-01 20:00": "noahs-ark",
       "2026-11-02 08:00": "all-souls-day",
       "2026-11-02 20:00": "the-dead-sea-scrolls",
       "2026-11-03 08:00": "moses",
@@ -36,7 +37,10 @@
       "2026-11-07 08:00": "the-sistine-chapel",
       "2026-11-07 20:00": "the-book-of-revelation",
       "2026-11-08 08:00": "the-great-flood",
-      "2026-11-08 20:00": "mary-magdalene"
+      "2026-11-08 20:00": "mary-magdalene",
+      "2026-11-09 17:00": "unicorns-in-the-bible",
+      "2026-11-09 21:30": "bethlehem",
+      "2026-11-09 02:00": "samson"
     }
   },
   "posts": [
@@ -173,14 +177,37 @@
       "lang": "en",
       "topic": "the-great-flood",
       "title": "the Great Flood",
-      "when": "2026-11-08T07:41:00"
+      "when": "2026-11-08T07:41:00",
+      "checked": true
     },
     {
       "id": "6aeff0048936ce2721944737",
       "lang": "en",
       "topic": "mary-magdalene",
       "title": "Mary Magdalene",
-      "when": "2026-11-08T20:20:00"
+      "when": "2026-11-08T20:20:00",
+      "checked": true
+    },
+    {
+      "id": "6af13c8eca7f50a421a851be",
+      "lang": "en",
+      "topic": "unicorns-in-the-bible",
+      "title": "unicorns in the Bible",
+      "when": "2026-11-09T17:14:00"
+    },
+    {
+      "id": "6af13d898887ba3486bd8a82",
+      "lang": "en",
+      "topic": "bethlehem",
+      "title": "Bethlehem",
+      "when": "2026-11-09T20:58:00"
+    },
+    {
+      "id": "6af13ea5f432f2d312c7805c",
+      "lang": "en",
+      "topic": "samson",
+      "title": "Samson",
+      "when": "2026-11-10T02:35:00"
     }
   ]
 }
