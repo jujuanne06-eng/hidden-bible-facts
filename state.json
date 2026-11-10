@@ -20,12 +20,13 @@
     "mary-magdalene",
     "unicorns-in-the-bible",
     "bethlehem",
-    "samson"
+    "samson",
+    "the-ark-of-the-covenant",
+    "the-parting-of-the-red-sea",
+    "saint-augustine"
   ],
   "slots": {
     "en": {
-      "2026-11-02 08:00": "all-souls-day",
-      "2026-11-02 20:00": "the-dead-sea-scrolls",
       "2026-11-03 08:00": "moses",
       "2026-11-03 20:00": "notre-dame-de-paris",
       "2026-11-04 08:00": "the-garden-of-eden",
@@ -40,7 +41,10 @@
       "2026-11-08 20:00": "mary-magdalene",
       "2026-11-09 17:00": "unicorns-in-the-bible",
       "2026-11-09 21:30": "bethlehem",
-      "2026-11-09 02:00": "samson"
+      "2026-11-09 02:00": "samson",
+      "2026-11-10 17:00": "the-ark-of-the-covenant",
+      "2026-11-10 21:30": "the-parting-of-the-red-sea",
+      "2026-11-10 02:00": "saint-augustine"
     }
   },
   "posts": [
@@ -193,21 +197,45 @@
       "lang": "en",
       "topic": "unicorns-in-the-bible",
       "title": "unicorns in the Bible",
-      "when": "2026-11-09T17:14:00"
+      "when": "2026-11-09T17:14:00",
+      "checked": true
     },
     {
       "id": "6af13d898887ba3486bd8a82",
       "lang": "en",
       "topic": "bethlehem",
       "title": "Bethlehem",
-      "when": "2026-11-09T20:58:00"
+      "when": "2026-11-09T20:58:00",
+      "checked": true
     },
     {
       "id": "6af13ea5f432f2d312c7805c",
       "lang": "en",
       "topic": "samson",
       "title": "Samson",
-      "when": "2026-11-10T02:35:00"
+      "when": "2026-11-10T02:35:00",
+      "checked": true
+    },
+    {
+      "id": "6af28e46587acee687ae1bf6",
+      "lang": "en",
+      "topic": "the-ark-of-the-covenant",
+      "title": "the Ark of the Covenant",
+      "when": "2026-11-10T17:15:00"
+    },
+    {
+      "id": "6af2900dde16b0f2b7646ab8",
+      "lang": "en",
+      "topic": "the-parting-of-the-red-sea",
+      "title": "the parting of the Red Sea",
+      "when": "2026-11-10T21:11:00"
+    },
+    {
+      "id": "6af291d4c9df8b04d2bba1b9",
+      "lang": "en",
+      "topic": "saint-augustine",
+      "title": "Saint Augustine",
+      "when": "2026-11-11T01:54:00"
     }
   ]
 }
