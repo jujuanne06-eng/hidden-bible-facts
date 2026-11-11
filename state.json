@@ -23,12 +23,13 @@
     "samson",
     "the-ark-of-the-covenant",
     "the-parting-of-the-red-sea",
-    "saint-augustine"
+    "saint-augustine",
+    "the-tower-of-babel",
+    "hagia-sophia",
+    "the-apostle-paul"
   ],
   "slots": {
     "en": {
-      "2026-11-03 08:00": "moses",
-      "2026-11-03 20:00": "notre-dame-de-paris",
       "2026-11-04 08:00": "the-garden-of-eden",
       "2026-11-04 20:00": "the-knights-templar",
       "2026-11-05 08:00": "jerusalem",
@@ -44,7 +45,10 @@
       "2026-11-09 02:00": "samson",
       "2026-11-10 17:00": "the-ark-of-the-covenant",
       "2026-11-10 21:30": "the-parting-of-the-red-sea",
-      "2026-11-10 02:00": "saint-augustine"
+      "2026-11-10 02:00": "saint-augustine",
+      "2026-11-11 17:00": "the-tower-of-babel",
+      "2026-11-11 21:30": "hagia-sophia",
+      "2026-11-11 02:00": "the-apostle-paul"
     }
   },
   "posts": [
@@ -221,21 +225,45 @@
       "lang": "en",
       "topic": "the-ark-of-the-covenant",
       "title": "the Ark of the Covenant",
-      "when": "2026-11-10T17:15:00"
+      "when": "2026-11-10T17:15:00",
+      "checked": true
     },
     {
       "id": "6af2900dde16b0f2b7646ab8",
       "lang": "en",
       "topic": "the-parting-of-the-red-sea",
       "title": "the parting of the Red Sea",
-      "when": "2026-11-10T21:11:00"
+      "when": "2026-11-10T21:11:00",
+      "checked": true
     },
     {
       "id": "6af291d4c9df8b04d2bba1b9",
       "lang": "en",
       "topic": "saint-augustine",
       "title": "Saint Augustine",
-      "when": "2026-11-11T01:54:00"
+      "when": "2026-11-11T01:54:00",
+      "checked": true
+    },
+    {
+      "id": "6af3e0bdef07237d978f7638",
+      "lang": "en",
+      "topic": "the-tower-of-babel",
+      "title": "the Tower of Babel",
+      "when": "2026-11-11T17:17:00"
+    },
+    {
+      "id": "6af3e2565d10c0c8d812bd4b",
+      "lang": "en",
+      "topic": "hagia-sophia",
+      "title": "Hagia Sophia",
+      "when": "2026-11-11T21:14:00"
+    },
+    {
+      "id": "6af3e3c0f6ff2953d8baa7da",
+      "lang": "en",
+      "topic": "the-apostle-paul",
+      "title": "the Apostle Paul",
+      "when": "2026-11-12T01:53:00"
     }
   ]
 }
