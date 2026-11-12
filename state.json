@@ -26,12 +26,13 @@
     "saint-augustine",
     "the-tower-of-babel",
     "hagia-sophia",
-    "the-apostle-paul"
+    "the-apostle-paul",
+    "the-nephilim",
+    "jonah-and-the-whale",
+    "pontius-pilate"
   ],
   "slots": {
     "en": {
-      "2026-11-04 08:00": "the-garden-of-eden",
-      "2026-11-04 20:00": "the-knights-templar",
       "2026-11-05 08:00": "jerusalem",
       "2026-11-05 20:00": "king-david",
       "2026-11-06 08:00": "the-shroud-of-turin",
@@ -48,7 +49,10 @@
       "2026-11-10 02:00": "saint-augustine",
       "2026-11-11 17:00": "the-tower-of-babel",
       "2026-11-11 21:30": "hagia-sophia",
-      "2026-11-11 02:00": "the-apostle-paul"
+      "2026-11-11 02:00": "the-apostle-paul",
+      "2026-11-12 17:00": "the-nephilim",
+      "2026-11-12 21:30": "jonah-and-the-whale",
+      "2026-11-12 02:00": "pontius-pilate"
     }
   },
   "posts": [
@@ -249,21 +253,45 @@
       "lang": "en",
       "topic": "the-tower-of-babel",
       "title": "the Tower of Babel",
-      "when": "2026-11-11T17:17:00"
+      "when": "2026-11-11T17:17:00",
+      "checked": true
     },
     {
       "id": "6af3e2565d10c0c8d812bd4b",
       "lang": "en",
       "topic": "hagia-sophia",
       "title": "Hagia Sophia",
-      "when": "2026-11-11T21:14:00"
+      "when": "2026-11-11T21:14:00",
+      "checked": true
     },
     {
       "id": "6af3e3c0f6ff2953d8baa7da",
       "lang": "en",
       "topic": "the-apostle-paul",
       "title": "the Apostle Paul",
-      "when": "2026-11-12T01:53:00"
+      "when": "2026-11-12T01:53:00",
+      "checked": true
+    },
+    {
+      "id": "6af5314aac8b94c850b43e2a",
+      "lang": "en",
+      "topic": "the-nephilim",
+      "title": "the Nephilim",
+      "when": "2026-11-12T17:17:00"
+    },
+    {
+      "id": "6af5326ab2106e7bc53494cc",
+      "lang": "en",
+      "topic": "jonah-and-the-whale",
+      "title": "Jonah and the whale",
+      "when": "2026-11-12T21:37:00"
+    },
+    {
+      "id": "6af533a08a2266c2e90e92de",
+      "lang": "en",
+      "topic": "pontius-pilate",
+      "title": "Pontius Pilate",
+      "when": "2026-11-13T02:15:00"
     }
   ]
 }
