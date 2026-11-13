@@ -29,12 +29,13 @@
     "the-apostle-paul",
     "the-nephilim",
     "jonah-and-the-whale",
-    "pontius-pilate"
+    "pontius-pilate",
+    "the-catacombs-of-rome",
+    "king-solomon",
+    "methuselah"
   ],
   "slots": {
     "en": {
-      "2026-11-05 08:00": "jerusalem",
-      "2026-11-05 20:00": "king-david",
       "2026-11-06 08:00": "the-shroud-of-turin",
       "2026-11-06 20:00": "judas-iscariot",
       "2026-11-07 08:00": "the-sistine-chapel",
@@ -52,34 +53,13 @@
       "2026-11-11 02:00": "the-apostle-paul",
       "2026-11-12 17:00": "the-nephilim",
       "2026-11-12 21:30": "jonah-and-the-whale",
-      "2026-11-12 02:00": "pontius-pilate"
+      "2026-11-12 02:00": "pontius-pilate",
+      "2026-11-13 17:00": "the-catacombs-of-rome",
+      "2026-11-13 21:30": "king-solomon",
+      "2026-11-13 02:00": "methuselah"
     }
   },
   "posts": [
-    {
-      "id": "6ae5766cf61832958301acd9",
-      "lang": "en",
-      "topic": "halloween",
-      "title": "Halloween",
-      "when": "2026-10-31T07:50:00",
-      "checked": true
-    },
-    {
-      "id": "6ae57813fb7d1e840a31f2f8",
-      "lang": "en",
-      "topic": "reformation-day",
-      "title": "Reformation Day",
-      "when": "2026-10-31T19:51:00",
-      "checked": true
-    },
-    {
-      "id": "6ae6c854b2eed2d7f9258fb0",
-      "lang": "en",
-      "topic": "all-saints-day",
-      "title": "All Saints' Day",
-      "when": "2026-11-01T07:31:00",
-      "checked": true
-    },
     {
       "id": "6ae6c95ab2eed2d7f9259512",
       "lang": "en",
@@ -277,21 +257,45 @@
       "lang": "en",
       "topic": "the-nephilim",
       "title": "the Nephilim",
-      "when": "2026-11-12T17:17:00"
+      "when": "2026-11-12T17:17:00",
+      "checked": true
     },
     {
       "id": "6af5326ab2106e7bc53494cc",
       "lang": "en",
       "topic": "jonah-and-the-whale",
       "title": "Jonah and the whale",
-      "when": "2026-11-12T21:37:00"
+      "when": "2026-11-12T21:37:00",
+      "checked": true
     },
     {
       "id": "6af533a08a2266c2e90e92de",
       "lang": "en",
       "topic": "pontius-pilate",
       "title": "Pontius Pilate",
-      "when": "2026-11-13T02:15:00"
+      "when": "2026-11-13T02:15:00",
+      "checked": true
+    },
+    {
+      "id": "6af6835691345d258303dcf9",
+      "lang": "en",
+      "topic": "the-catacombs-of-rome",
+      "title": "the catacombs of Rome",
+      "when": "2026-11-13T17:33:00"
+    },
+    {
+      "id": "6af685336135735298830ea2",
+      "lang": "en",
+      "topic": "king-solomon",
+      "title": "King Solomon",
+      "when": "2026-11-13T20:58:00"
+    },
+    {
+      "id": "6af6870d8e903e8f5b906ca6",
+      "lang": "en",
+      "topic": "methuselah",
+      "title": "Methuselah",
+      "when": "2026-11-14T02:11:00"
     }
   ]
 }
