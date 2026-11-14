@@ -32,12 +32,13 @@
     "pontius-pilate",
     "the-catacombs-of-rome",
     "king-solomon",
-    "methuselah"
+    "methuselah",
+    "the-sea-of-galilee",
+    "joan-of-arc",
+    "the-book-of-enoch"
   ],
   "slots": {
     "en": {
-      "2026-11-06 08:00": "the-shroud-of-turin",
-      "2026-11-06 20:00": "judas-iscariot",
       "2026-11-07 08:00": "the-sistine-chapel",
       "2026-11-07 20:00": "the-book-of-revelation",
       "2026-11-08 08:00": "the-great-flood",
@@ -56,34 +57,13 @@
       "2026-11-12 02:00": "pontius-pilate",
       "2026-11-13 17:00": "the-catacombs-of-rome",
       "2026-11-13 21:30": "king-solomon",
-      "2026-11-13 02:00": "methuselah"
+      "2026-11-13 02:00": "methuselah",
+      "2026-11-14 17:00": "the-sea-of-galilee",
+      "2026-11-14 21:30": "joan-of-arc",
+      "2026-11-14 02:00": "the-book-of-enoch"
     }
   },
   "posts": [
-    {
-      "id": "6ae6c95ab2eed2d7f9259512",
-      "lang": "en",
-      "topic": "noahs-ark",
-      "title": "Noah's Ark",
-      "when": "2026-11-01T19:57:00",
-      "checked": true
-    },
-    {
-      "id": "6ae80461ef032ac3ad9a058c",
-      "lang": "en",
-      "topic": "all-souls-day",
-      "title": "All Souls' Day",
-      "when": "2026-11-02T08:09:00",
-      "checked": true
-    },
-    {
-      "id": "6ae80748c6e22c9aceb5e8bd",
-      "lang": "en",
-      "topic": "the-dead-sea-scrolls",
-      "title": "the Dead Sea Scrolls",
-      "when": "2026-11-02T19:25:00",
-      "checked": true
-    },
     {
       "id": "6ae954f185ab47cbfd964cbe",
       "lang": "en",
@@ -281,21 +261,45 @@
       "lang": "en",
       "topic": "the-catacombs-of-rome",
       "title": "the catacombs of Rome",
-      "when": "2026-11-13T17:33:00"
+      "when": "2026-11-13T17:33:00",
+      "checked": true
     },
     {
       "id": "6af685336135735298830ea2",
       "lang": "en",
       "topic": "king-solomon",
       "title": "King Solomon",
-      "when": "2026-11-13T20:58:00"
+      "when": "2026-11-13T20:58:00",
+      "checked": true
     },
     {
       "id": "6af6870d8e903e8f5b906ca6",
       "lang": "en",
       "topic": "methuselah",
       "title": "Methuselah",
-      "when": "2026-11-14T02:11:00"
+      "when": "2026-11-14T02:11:00",
+      "checked": true
+    },
+    {
+      "id": "6af7d4b28ec1e73b73e415fc",
+      "lang": "en",
+      "topic": "the-sea-of-galilee",
+      "title": "the Sea of Galilee",
+      "when": "2026-11-14T16:44:00"
+    },
+    {
+      "id": "6af7d67ea63f2e9257fcc7e5",
+      "lang": "en",
+      "topic": "joan-of-arc",
+      "title": "Joan of Arc",
+      "when": "2026-11-14T21:03:00"
+    },
+    {
+      "id": "6af7d8b23bac29bc999e8715",
+      "lang": "en",
+      "topic": "the-book-of-enoch",
+      "title": "the Book of Enoch",
+      "when": "2026-11-15T01:59:00"
     }
   ]
 }
