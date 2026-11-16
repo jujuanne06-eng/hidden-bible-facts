@@ -38,12 +38,13 @@
     "the-book-of-enoch",
     "elijah",
     "the-holy-grail",
-    "peter"
+    "peter",
+    "the-walls-of-jericho",
+    "the-sagrada-familia",
+    "goliath"
   ],
   "slots": {
     "en": {
-      "2026-11-08 08:00": "the-great-flood",
-      "2026-11-08 20:00": "mary-magdalene",
       "2026-11-09 17:00": "unicorns-in-the-bible",
       "2026-11-09 21:30": "bethlehem",
       "2026-11-09 02:00": "samson",
@@ -64,34 +65,13 @@
       "2026-11-14 02:00": "the-book-of-enoch",
       "2026-11-15 17:00": "elijah",
       "2026-11-15 21:30": "the-holy-grail",
-      "2026-11-15 02:00": "peter"
+      "2026-11-15 02:00": "peter",
+      "2026-11-16 17:00": "the-walls-of-jericho",
+      "2026-11-16 21:30": "the-sagrada-familia",
+      "2026-11-16 02:00": "goliath"
     }
   },
   "posts": [
-    {
-      "id": "6aeaaaa82c8f0f7f858d5a32",
-      "lang": "en",
-      "topic": "the-knights-templar",
-      "title": "the Knights Templar",
-      "when": "2026-11-04T20:10:00",
-      "checked": true
-    },
-    {
-      "id": "6aebf89d556067456f026f2b",
-      "lang": "en",
-      "topic": "jerusalem",
-      "title": "Jerusalem",
-      "when": "2026-11-05T07:37:00",
-      "checked": true
-    },
-    {
-      "id": "6aebfb75e0b9b41880dd4695",
-      "lang": "en",
-      "topic": "king-david",
-      "title": "King David",
-      "when": "2026-11-05T20:33:00",
-      "checked": true
-    },
     {
       "id": "6aed4a287afede8f161c6992",
       "lang": "en",
@@ -289,21 +269,45 @@
       "lang": "en",
       "topic": "elijah",
       "title": "Elijah",
-      "when": "2026-11-15T17:11:00"
+      "when": "2026-11-15T17:11:00",
+      "checked": true
     },
     {
       "id": "6af9266b732dd914a61bb34a",
       "lang": "en",
       "topic": "the-holy-grail",
       "title": "the Holy Grail",
-      "when": "2026-11-15T21:46:00"
+      "when": "2026-11-15T21:46:00",
+      "checked": true
     },
     {
       "id": "6af927b38a75e7cf59d1cc52",
       "lang": "en",
       "topic": "peter",
       "title": "Peter",
-      "when": "2026-11-16T01:48:00"
+      "when": "2026-11-16T01:48:00",
+      "checked": true
+    },
+    {
+      "id": "6afa7b7367b1e4035820311e",
+      "lang": "en",
+      "topic": "the-walls-of-jericho",
+      "title": "the walls of Jericho",
+      "when": "2026-11-16T16:55:00"
+    },
+    {
+      "id": "6afa7d103c36be420494df59",
+      "lang": "en",
+      "topic": "the-sagrada-familia",
+      "title": "the Sagrada Familia",
+      "when": "2026-11-16T21:42:00"
+    },
+    {
+      "id": "6afa7e463c36be420494e424",
+      "lang": "en",
+      "topic": "goliath",
+      "title": "Goliath",
+      "when": "2026-11-17T01:59:00"
     }
   ]
 }
