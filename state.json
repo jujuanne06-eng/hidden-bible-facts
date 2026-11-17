@@ -41,13 +41,13 @@
     "peter",
     "the-walls-of-jericho",
     "the-sagrada-familia",
-    "goliath"
+    "goliath",
+    "the-angel-gabriel",
+    "daniel",
+    "the-king-james-bible"
   ],
   "slots": {
     "en": {
-      "2026-11-09 17:00": "unicorns-in-the-bible",
-      "2026-11-09 21:30": "bethlehem",
-      "2026-11-09 02:00": "samson",
       "2026-11-10 17:00": "the-ark-of-the-covenant",
       "2026-11-10 21:30": "the-parting-of-the-red-sea",
       "2026-11-10 02:00": "saint-augustine",
@@ -68,34 +68,13 @@
       "2026-11-15 02:00": "peter",
       "2026-11-16 17:00": "the-walls-of-jericho",
       "2026-11-16 21:30": "the-sagrada-familia",
-      "2026-11-16 02:00": "goliath"
+      "2026-11-16 02:00": "goliath",
+      "2026-11-17 17:00": "the-angel-gabriel",
+      "2026-11-17 21:30": "daniel",
+      "2026-11-17 02:00": "the-king-james-bible"
     }
   },
   "posts": [
-    {
-      "id": "6aed4a287afede8f161c6992",
-      "lang": "en",
-      "topic": "the-shroud-of-turin",
-      "title": "the Shroud of Turin",
-      "when": "2026-11-06T08:24:00",
-      "checked": true
-    },
-    {
-      "id": "6aed4c9398099f58c27cc62f",
-      "lang": "en",
-      "topic": "judas-iscariot",
-      "title": "Judas Iscariot",
-      "when": "2026-11-06T19:51:00",
-      "checked": true
-    },
-    {
-      "id": "6aee9b78c592139dc5ba1862",
-      "lang": "en",
-      "topic": "the-sistine-chapel",
-      "title": "the Sistine Chapel",
-      "when": "2026-11-07T07:34:00",
-      "checked": true
-    },
     {
       "id": "6aee9e451296588008a8de64",
       "lang": "en",
@@ -293,21 +272,45 @@
       "lang": "en",
       "topic": "the-walls-of-jericho",
       "title": "the walls of Jericho",
-      "when": "2026-11-16T16:55:00"
+      "when": "2026-11-16T16:55:00",
+      "checked": true
     },
     {
       "id": "6afa7d103c36be420494df59",
       "lang": "en",
       "topic": "the-sagrada-familia",
       "title": "the Sagrada Familia",
-      "when": "2026-11-16T21:42:00"
+      "when": "2026-11-16T21:42:00",
+      "checked": true
     },
     {
       "id": "6afa7e463c36be420494e424",
       "lang": "en",
       "topic": "goliath",
       "title": "Goliath",
-      "when": "2026-11-17T01:59:00"
+      "when": "2026-11-17T01:59:00",
+      "checked": true
+    },
+    {
+      "id": "6afbc915dadde72ee49ba871",
+      "lang": "en",
+      "topic": "the-angel-gabriel",
+      "title": "the angel Gabriel",
+      "when": "2026-11-17T16:42:00"
+    },
+    {
+      "id": "6afbca2d043e25193d307c77",
+      "lang": "en",
+      "topic": "daniel",
+      "title": "Daniel",
+      "when": "2026-11-17T21:14:00"
+    },
+    {
+      "id": "6afbcb82cc647bf760dc5dde",
+      "lang": "en",
+      "topic": "the-king-james-bible",
+      "title": "the King James Bible",
+      "when": "2026-11-18T01:32:00"
     }
   ]
 }
