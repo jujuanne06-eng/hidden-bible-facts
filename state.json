@@ -44,13 +44,13 @@
     "goliath",
     "the-angel-gabriel",
     "daniel",
-    "the-king-james-bible"
+    "the-king-james-bible",
+    "mount-sinai",
+    "sodom-and-gomorrah",
+    "the-queen-of-sheba"
   ],
   "slots": {
     "en": {
-      "2026-11-10 17:00": "the-ark-of-the-covenant",
-      "2026-11-10 21:30": "the-parting-of-the-red-sea",
-      "2026-11-10 02:00": "saint-augustine",
       "2026-11-11 17:00": "the-tower-of-babel",
       "2026-11-11 21:30": "hagia-sophia",
       "2026-11-11 02:00": "the-apostle-paul",
@@ -71,34 +71,13 @@
       "2026-11-16 02:00": "goliath",
       "2026-11-17 17:00": "the-angel-gabriel",
       "2026-11-17 21:30": "daniel",
-      "2026-11-17 02:00": "the-king-james-bible"
+      "2026-11-17 02:00": "the-king-james-bible",
+      "2026-11-18 17:00": "mount-sinai",
+      "2026-11-18 21:30": "sodom-and-gomorrah",
+      "2026-11-18 02:00": "the-queen-of-sheba"
     }
   },
   "posts": [
-    {
-      "id": "6aee9e451296588008a8de64",
-      "lang": "en",
-      "topic": "the-book-of-revelation",
-      "title": "the Book of Revelation",
-      "when": "2026-11-07T20:31:00",
-      "checked": true
-    },
-    {
-      "id": "6aefed418c3bb1bf60638b51",
-      "lang": "en",
-      "topic": "the-great-flood",
-      "title": "the Great Flood",
-      "when": "2026-11-08T07:41:00",
-      "checked": true
-    },
-    {
-      "id": "6aeff0048936ce2721944737",
-      "lang": "en",
-      "topic": "mary-magdalene",
-      "title": "Mary Magdalene",
-      "when": "2026-11-08T20:20:00",
-      "checked": true
-    },
     {
       "id": "6af13c8eca7f50a421a851be",
       "lang": "en",
@@ -296,21 +275,45 @@
       "lang": "en",
       "topic": "the-angel-gabriel",
       "title": "the angel Gabriel",
-      "when": "2026-11-17T16:42:00"
+      "when": "2026-11-17T16:42:00",
+      "checked": true
     },
     {
       "id": "6afbca2d043e25193d307c77",
       "lang": "en",
       "topic": "daniel",
       "title": "Daniel",
-      "when": "2026-11-17T21:14:00"
+      "when": "2026-11-17T21:14:00",
+      "checked": true
     },
     {
       "id": "6afbcb82cc647bf760dc5dde",
       "lang": "en",
       "topic": "the-king-james-bible",
       "title": "the King James Bible",
-      "when": "2026-11-18T01:32:00"
+      "when": "2026-11-18T01:32:00",
+      "checked": true
+    },
+    {
+      "id": "6afd1b2316297f747dadab48",
+      "lang": "en",
+      "topic": "mount-sinai",
+      "title": "Mount Sinai",
+      "when": "2026-11-18T17:16:00"
+    },
+    {
+      "id": "6afd1c626d9625c4a0fc8857",
+      "lang": "en",
+      "topic": "sodom-and-gomorrah",
+      "title": "Sodom and Gomorrah",
+      "when": "2026-11-18T21:44:00"
+    },
+    {
+      "id": "6afd1dc450c9d573b00d21b8",
+      "lang": "en",
+      "topic": "the-queen-of-sheba",
+      "title": "the Queen of Sheba",
+      "when": "2026-11-19T02:13:00"
     }
   ]
 }
