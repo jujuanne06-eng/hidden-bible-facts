@@ -47,13 +47,13 @@
     "the-king-james-bible",
     "mount-sinai",
     "sodom-and-gomorrah",
-    "the-queen-of-sheba"
+    "the-queen-of-sheba",
+    "the-vatican",
+    "john-the-baptist",
+    "the-leviathan"
   ],
   "slots": {
     "en": {
-      "2026-11-11 17:00": "the-tower-of-babel",
-      "2026-11-11 21:30": "hagia-sophia",
-      "2026-11-11 02:00": "the-apostle-paul",
       "2026-11-12 17:00": "the-nephilim",
       "2026-11-12 21:30": "jonah-and-the-whale",
       "2026-11-12 02:00": "pontius-pilate",
@@ -74,34 +74,13 @@
       "2026-11-17 02:00": "the-king-james-bible",
       "2026-11-18 17:00": "mount-sinai",
       "2026-11-18 21:30": "sodom-and-gomorrah",
-      "2026-11-18 02:00": "the-queen-of-sheba"
+      "2026-11-18 02:00": "the-queen-of-sheba",
+      "2026-11-19 17:00": "the-vatican",
+      "2026-11-19 21:30": "john-the-baptist",
+      "2026-11-19 02:00": "the-leviathan"
     }
   },
   "posts": [
-    {
-      "id": "6af13c8eca7f50a421a851be",
-      "lang": "en",
-      "topic": "unicorns-in-the-bible",
-      "title": "unicorns in the Bible",
-      "when": "2026-11-09T17:14:00",
-      "checked": true
-    },
-    {
-      "id": "6af13d898887ba3486bd8a82",
-      "lang": "en",
-      "topic": "bethlehem",
-      "title": "Bethlehem",
-      "when": "2026-11-09T20:58:00",
-      "checked": true
-    },
-    {
-      "id": "6af13ea5f432f2d312c7805c",
-      "lang": "en",
-      "topic": "samson",
-      "title": "Samson",
-      "when": "2026-11-10T02:35:00",
-      "checked": true
-    },
     {
       "id": "6af28e46587acee687ae1bf6",
       "lang": "en",
@@ -299,21 +278,45 @@
       "lang": "en",
       "topic": "mount-sinai",
       "title": "Mount Sinai",
-      "when": "2026-11-18T17:16:00"
+      "when": "2026-11-18T17:16:00",
+      "checked": true
     },
     {
       "id": "6afd1c626d9625c4a0fc8857",
       "lang": "en",
       "topic": "sodom-and-gomorrah",
       "title": "Sodom and Gomorrah",
-      "when": "2026-11-18T21:44:00"
+      "when": "2026-11-18T21:44:00",
+      "checked": true
     },
     {
       "id": "6afd1dc450c9d573b00d21b8",
       "lang": "en",
       "topic": "the-queen-of-sheba",
       "title": "the Queen of Sheba",
-      "when": "2026-11-19T02:13:00"
+      "when": "2026-11-19T02:13:00",
+      "checked": true
+    },
+    {
+      "id": "6afe723c567457dc2977fc5e",
+      "lang": "en",
+      "topic": "the-vatican",
+      "title": "the Vatican",
+      "when": "2026-11-19T16:48:00"
+    },
+    {
+      "id": "6afe73746f43b7e872c59628",
+      "lang": "en",
+      "topic": "john-the-baptist",
+      "title": "John the Baptist",
+      "when": "2026-11-19T20:58:00"
+    },
+    {
+      "id": "6afe74a09537dfd6ba79bcaf",
+      "lang": "en",
+      "topic": "the-leviathan",
+      "title": "the Leviathan",
+      "when": "2026-11-20T01:52:00"
     }
   ]
 }
