@@ -50,13 +50,13 @@
     "the-queen-of-sheba",
     "the-vatican",
     "john-the-baptist",
-    "the-leviathan"
+    "the-leviathan",
+    "the-word-amen",
+    "esther",
+    "the-swiss-guard"
   ],
   "slots": {
     "en": {
-      "2026-11-12 17:00": "the-nephilim",
-      "2026-11-12 21:30": "jonah-and-the-whale",
-      "2026-11-12 02:00": "pontius-pilate",
       "2026-11-13 17:00": "the-catacombs-of-rome",
       "2026-11-13 21:30": "king-solomon",
       "2026-11-13 02:00": "methuselah",
@@ -77,34 +77,13 @@
       "2026-11-18 02:00": "the-queen-of-sheba",
       "2026-11-19 17:00": "the-vatican",
       "2026-11-19 21:30": "john-the-baptist",
-      "2026-11-19 02:00": "the-leviathan"
+      "2026-11-19 02:00": "the-leviathan",
+      "2026-11-20 17:00": "the-word-amen",
+      "2026-11-20 21:30": "esther",
+      "2026-11-20 02:00": "the-swiss-guard"
     }
   },
   "posts": [
-    {
-      "id": "6af28e46587acee687ae1bf6",
-      "lang": "en",
-      "topic": "the-ark-of-the-covenant",
-      "title": "the Ark of the Covenant",
-      "when": "2026-11-10T17:15:00",
-      "checked": true
-    },
-    {
-      "id": "6af2900dde16b0f2b7646ab8",
-      "lang": "en",
-      "topic": "the-parting-of-the-red-sea",
-      "title": "the parting of the Red Sea",
-      "when": "2026-11-10T21:11:00",
-      "checked": true
-    },
-    {
-      "id": "6af291d4c9df8b04d2bba1b9",
-      "lang": "en",
-      "topic": "saint-augustine",
-      "title": "Saint Augustine",
-      "when": "2026-11-11T01:54:00",
-      "checked": true
-    },
     {
       "id": "6af3e0bdef07237d978f7638",
       "lang": "en",
@@ -302,21 +281,45 @@
       "lang": "en",
       "topic": "the-vatican",
       "title": "the Vatican",
-      "when": "2026-11-19T16:48:00"
+      "when": "2026-11-19T16:48:00",
+      "checked": true
     },
     {
       "id": "6afe73746f43b7e872c59628",
       "lang": "en",
       "topic": "john-the-baptist",
       "title": "John the Baptist",
-      "when": "2026-11-19T20:58:00"
+      "when": "2026-11-19T20:58:00",
+      "checked": true
     },
     {
       "id": "6afe74a09537dfd6ba79bcaf",
       "lang": "en",
       "topic": "the-leviathan",
       "title": "the Leviathan",
-      "when": "2026-11-20T01:52:00"
+      "when": "2026-11-20T01:52:00",
+      "checked": true
+    },
+    {
+      "id": "6affbdf236675da84c6f169a",
+      "lang": "en",
+      "topic": "the-word-amen",
+      "title": "the word Amen",
+      "when": "2026-11-20T17:14:00"
+    },
+    {
+      "id": "6affbf1b8c46328b7e26b557",
+      "lang": "en",
+      "topic": "esther",
+      "title": "Esther",
+      "when": "2026-11-20T20:59:00"
+    },
+    {
+      "id": "6affc0a2aedec0e1cd43daf5",
+      "lang": "en",
+      "topic": "the-swiss-guard",
+      "title": "the Swiss Guard",
+      "when": "2026-11-21T02:02:00"
     }
   ]
 }
