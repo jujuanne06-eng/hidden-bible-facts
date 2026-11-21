@@ -53,13 +53,13 @@
     "the-leviathan",
     "the-word-amen",
     "esther",
-    "the-swiss-guard"
+    "the-swiss-guard",
+    "nazareth",
+    "jezebel",
+    "the-annunciation"
   ],
   "slots": {
     "en": {
-      "2026-11-13 17:00": "the-catacombs-of-rome",
-      "2026-11-13 21:30": "king-solomon",
-      "2026-11-13 02:00": "methuselah",
       "2026-11-14 17:00": "the-sea-of-galilee",
       "2026-11-14 21:30": "joan-of-arc",
       "2026-11-14 02:00": "the-book-of-enoch",
@@ -80,34 +80,13 @@
       "2026-11-19 02:00": "the-leviathan",
       "2026-11-20 17:00": "the-word-amen",
       "2026-11-20 21:30": "esther",
-      "2026-11-20 02:00": "the-swiss-guard"
+      "2026-11-20 02:00": "the-swiss-guard",
+      "2026-11-21 17:00": "nazareth",
+      "2026-11-21 21:30": "jezebel",
+      "2026-11-21 02:00": "the-annunciation"
     }
   },
   "posts": [
-    {
-      "id": "6af3e0bdef07237d978f7638",
-      "lang": "en",
-      "topic": "the-tower-of-babel",
-      "title": "the Tower of Babel",
-      "when": "2026-11-11T17:17:00",
-      "checked": true
-    },
-    {
-      "id": "6af3e2565d10c0c8d812bd4b",
-      "lang": "en",
-      "topic": "hagia-sophia",
-      "title": "Hagia Sophia",
-      "when": "2026-11-11T21:14:00",
-      "checked": true
-    },
-    {
-      "id": "6af3e3c0f6ff2953d8baa7da",
-      "lang": "en",
-      "topic": "the-apostle-paul",
-      "title": "the Apostle Paul",
-      "when": "2026-11-12T01:53:00",
-      "checked": true
-    },
     {
       "id": "6af5314aac8b94c850b43e2a",
       "lang": "en",
@@ -305,21 +284,45 @@
       "lang": "en",
       "topic": "the-word-amen",
       "title": "the word Amen",
-      "when": "2026-11-20T17:14:00"
+      "when": "2026-11-20T17:14:00",
+      "checked": true
     },
     {
       "id": "6affbf1b8c46328b7e26b557",
       "lang": "en",
       "topic": "esther",
       "title": "Esther",
-      "when": "2026-11-20T20:59:00"
+      "when": "2026-11-20T20:59:00",
+      "checked": true
     },
     {
       "id": "6affc0a2aedec0e1cd43daf5",
       "lang": "en",
       "topic": "the-swiss-guard",
       "title": "the Swiss Guard",
-      "when": "2026-11-21T02:02:00"
+      "when": "2026-11-21T02:02:00",
+      "checked": true
+    },
+    {
+      "id": "6b010e4aa4b4558b2d0e695a",
+      "lang": "en",
+      "topic": "nazareth",
+      "title": "Nazareth",
+      "when": "2026-11-21T16:25:00"
+    },
+    {
+      "id": "6b010f8accb96af41cc2f88c",
+      "lang": "en",
+      "topic": "jezebel",
+      "title": "Jezebel",
+      "when": "2026-11-21T21:19:00"
+    },
+    {
+      "id": "6b0110c3d7f7fb61acda63ee",
+      "lang": "en",
+      "topic": "the-annunciation",
+      "title": "the Annunciation",
+      "when": "2026-11-22T01:47:00"
     }
   ]
 }
