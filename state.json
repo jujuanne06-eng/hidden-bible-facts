@@ -56,13 +56,13 @@
     "the-swiss-guard",
     "nazareth",
     "jezebel",
-    "the-annunciation"
+    "the-annunciation",
+    "mount-ararat",
+    "the-archangel-michael",
+    "lazarus"
   ],
   "slots": {
     "en": {
-      "2026-11-14 17:00": "the-sea-of-galilee",
-      "2026-11-14 21:30": "joan-of-arc",
-      "2026-11-14 02:00": "the-book-of-enoch",
       "2026-11-15 17:00": "elijah",
       "2026-11-15 21:30": "the-holy-grail",
       "2026-11-15 02:00": "peter",
@@ -83,34 +83,13 @@
       "2026-11-20 02:00": "the-swiss-guard",
       "2026-11-21 17:00": "nazareth",
       "2026-11-21 21:30": "jezebel",
-      "2026-11-21 02:00": "the-annunciation"
+      "2026-11-21 02:00": "the-annunciation",
+      "2026-11-22 17:00": "mount-ararat",
+      "2026-11-22 21:30": "the-archangel-michael",
+      "2026-11-22 02:00": "lazarus"
     }
   },
   "posts": [
-    {
-      "id": "6af5314aac8b94c850b43e2a",
-      "lang": "en",
-      "topic": "the-nephilim",
-      "title": "the Nephilim",
-      "when": "2026-11-12T17:17:00",
-      "checked": true
-    },
-    {
-      "id": "6af5326ab2106e7bc53494cc",
-      "lang": "en",
-      "topic": "jonah-and-the-whale",
-      "title": "Jonah and the whale",
-      "when": "2026-11-12T21:37:00",
-      "checked": true
-    },
-    {
-      "id": "6af533a08a2266c2e90e92de",
-      "lang": "en",
-      "topic": "pontius-pilate",
-      "title": "Pontius Pilate",
-      "when": "2026-11-13T02:15:00",
-      "checked": true
-    },
     {
       "id": "6af6835691345d258303dcf9",
       "lang": "en",
@@ -308,21 +287,45 @@
       "lang": "en",
       "topic": "nazareth",
       "title": "Nazareth",
-      "when": "2026-11-21T16:25:00"
+      "when": "2026-11-21T16:25:00",
+      "checked": true
     },
     {
       "id": "6b010f8accb96af41cc2f88c",
       "lang": "en",
       "topic": "jezebel",
       "title": "Jezebel",
-      "when": "2026-11-21T21:19:00"
+      "when": "2026-11-21T21:19:00",
+      "checked": true
     },
     {
       "id": "6b0110c3d7f7fb61acda63ee",
       "lang": "en",
       "topic": "the-annunciation",
       "title": "the Annunciation",
-      "when": "2026-11-22T01:47:00"
+      "when": "2026-11-22T01:47:00",
+      "checked": true
+    },
+    {
+      "id": "6b026116975722cfdc91a5ad",
+      "lang": "en",
+      "topic": "mount-ararat",
+      "title": "Mount Ararat",
+      "when": "2026-11-22T16:35:00"
+    },
+    {
+      "id": "6b026301cb5fa223a7938b72",
+      "lang": "en",
+      "topic": "the-archangel-michael",
+      "title": "the archangel Michael",
+      "when": "2026-11-22T21:02:00"
+    },
+    {
+      "id": "6b0265146ec9db6dc0790552",
+      "lang": "en",
+      "topic": "lazarus",
+      "title": "Lazarus",
+      "when": "2026-11-23T02:22:00"
     }
   ]
 }
