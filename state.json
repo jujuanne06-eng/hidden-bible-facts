@@ -59,13 +59,13 @@
     "the-annunciation",
     "mount-ararat",
     "the-archangel-michael",
-    "lazarus"
+    "lazarus",
+    "the-creation-story",
+    "saint-christopher",
+    "golgotha"
   ],
   "slots": {
     "en": {
-      "2026-11-15 17:00": "elijah",
-      "2026-11-15 21:30": "the-holy-grail",
-      "2026-11-15 02:00": "peter",
       "2026-11-16 17:00": "the-walls-of-jericho",
       "2026-11-16 21:30": "the-sagrada-familia",
       "2026-11-16 02:00": "goliath",
@@ -86,34 +86,13 @@
       "2026-11-21 02:00": "the-annunciation",
       "2026-11-22 17:00": "mount-ararat",
       "2026-11-22 21:30": "the-archangel-michael",
-      "2026-11-22 02:00": "lazarus"
+      "2026-11-22 02:00": "lazarus",
+      "2026-11-23 17:00": "the-creation-story",
+      "2026-11-23 21:30": "saint-christopher",
+      "2026-11-23 02:00": "golgotha"
     }
   },
   "posts": [
-    {
-      "id": "6af6835691345d258303dcf9",
-      "lang": "en",
-      "topic": "the-catacombs-of-rome",
-      "title": "the catacombs of Rome",
-      "when": "2026-11-13T17:33:00",
-      "checked": true
-    },
-    {
-      "id": "6af685336135735298830ea2",
-      "lang": "en",
-      "topic": "king-solomon",
-      "title": "King Solomon",
-      "when": "2026-11-13T20:58:00",
-      "checked": true
-    },
-    {
-      "id": "6af6870d8e903e8f5b906ca6",
-      "lang": "en",
-      "topic": "methuselah",
-      "title": "Methuselah",
-      "when": "2026-11-14T02:11:00",
-      "checked": true
-    },
     {
       "id": "6af7d4b28ec1e73b73e415fc",
       "lang": "en",
@@ -311,21 +290,45 @@
       "lang": "en",
       "topic": "mount-ararat",
       "title": "Mount Ararat",
-      "when": "2026-11-22T16:35:00"
+      "when": "2026-11-22T16:35:00",
+      "checked": true
     },
     {
       "id": "6b026301cb5fa223a7938b72",
       "lang": "en",
       "topic": "the-archangel-michael",
       "title": "the archangel Michael",
-      "when": "2026-11-22T21:02:00"
+      "when": "2026-11-22T21:02:00",
+      "checked": true
     },
     {
       "id": "6b0265146ec9db6dc0790552",
       "lang": "en",
       "topic": "lazarus",
       "title": "Lazarus",
-      "when": "2026-11-23T02:22:00"
+      "when": "2026-11-23T02:22:00",
+      "checked": true
+    },
+    {
+      "id": "6b03b3e2ed34b02d13b24f3a",
+      "lang": "en",
+      "topic": "the-creation-story",
+      "title": "the creation story",
+      "when": "2026-11-23T16:49:00"
+    },
+    {
+      "id": "6b03b52900b734e50649b719",
+      "lang": "en",
+      "topic": "saint-christopher",
+      "title": "Saint Christopher",
+      "when": "2026-11-23T21:45:00"
+    },
+    {
+      "id": "6b03b6440349af91277c245f",
+      "lang": "en",
+      "topic": "golgotha",
+      "title": "Golgotha",
+      "when": "2026-11-24T02:21:00"
     }
   ]
 }
