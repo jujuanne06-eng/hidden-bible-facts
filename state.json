@@ -62,13 +62,13 @@
     "lazarus",
     "the-creation-story",
     "saint-christopher",
-    "golgotha"
+    "golgotha",
+    "the-book-of-genesis",
+    "adam",
+    "saint-benedict"
   ],
   "slots": {
     "en": {
-      "2026-11-16 17:00": "the-walls-of-jericho",
-      "2026-11-16 21:30": "the-sagrada-familia",
-      "2026-11-16 02:00": "goliath",
       "2026-11-17 17:00": "the-angel-gabriel",
       "2026-11-17 21:30": "daniel",
       "2026-11-17 02:00": "the-king-james-bible",
@@ -89,34 +89,13 @@
       "2026-11-22 02:00": "lazarus",
       "2026-11-23 17:00": "the-creation-story",
       "2026-11-23 21:30": "saint-christopher",
-      "2026-11-23 02:00": "golgotha"
+      "2026-11-23 02:00": "golgotha",
+      "2026-11-24 17:00": "the-book-of-genesis",
+      "2026-11-24 21:30": "adam",
+      "2026-11-24 02:00": "saint-benedict"
     }
   },
   "posts": [
-    {
-      "id": "6af7d4b28ec1e73b73e415fc",
-      "lang": "en",
-      "topic": "the-sea-of-galilee",
-      "title": "the Sea of Galilee",
-      "when": "2026-11-14T16:44:00",
-      "checked": true
-    },
-    {
-      "id": "6af7d67ea63f2e9257fcc7e5",
-      "lang": "en",
-      "topic": "joan-of-arc",
-      "title": "Joan of Arc",
-      "when": "2026-11-14T21:03:00",
-      "checked": true
-    },
-    {
-      "id": "6af7d8b23bac29bc999e8715",
-      "lang": "en",
-      "topic": "the-book-of-enoch",
-      "title": "the Book of Enoch",
-      "when": "2026-11-15T01:59:00",
-      "checked": true
-    },
     {
       "id": "6af925593ae314cbc31a6e03",
       "lang": "en",
@@ -314,21 +293,45 @@
       "lang": "en",
       "topic": "the-creation-story",
       "title": "the creation story",
-      "when": "2026-11-23T16:49:00"
+      "when": "2026-11-23T16:49:00",
+      "checked": true
     },
     {
       "id": "6b03b52900b734e50649b719",
       "lang": "en",
       "topic": "saint-christopher",
       "title": "Saint Christopher",
-      "when": "2026-11-23T21:45:00"
+      "when": "2026-11-23T21:45:00",
+      "checked": true
     },
     {
       "id": "6b03b6440349af91277c245f",
       "lang": "en",
       "topic": "golgotha",
       "title": "Golgotha",
-      "when": "2026-11-24T02:21:00"
+      "when": "2026-11-24T02:21:00",
+      "checked": true
+    },
+    {
+      "id": "6b050851911cc630399a5cd1",
+      "lang": "en",
+      "topic": "the-book-of-genesis",
+      "title": "the Book of Genesis",
+      "when": "2026-11-24T16:48:00"
+    },
+    {
+      "id": "6b05099fb6aee93a10bfcddc",
+      "lang": "en",
+      "topic": "adam",
+      "title": "Adam",
+      "when": "2026-11-24T21:33:00"
+    },
+    {
+      "id": "6b050a8371ae3d3a6350a747",
+      "lang": "en",
+      "topic": "saint-benedict",
+      "title": "Saint Benedict",
+      "when": "2026-11-25T02:11:00"
     }
   ]
 }
