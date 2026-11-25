@@ -65,13 +65,13 @@
     "golgotha",
     "the-book-of-genesis",
     "adam",
-    "saint-benedict"
+    "saint-benedict",
+    "the-first-christians",
+    "the-forbidden-fruit",
+    "jesus"
   ],
   "slots": {
     "en": {
-      "2026-11-17 17:00": "the-angel-gabriel",
-      "2026-11-17 21:30": "daniel",
-      "2026-11-17 02:00": "the-king-james-bible",
       "2026-11-18 17:00": "mount-sinai",
       "2026-11-18 21:30": "sodom-and-gomorrah",
       "2026-11-18 02:00": "the-queen-of-sheba",
@@ -92,34 +92,13 @@
       "2026-11-23 02:00": "golgotha",
       "2026-11-24 17:00": "the-book-of-genesis",
       "2026-11-24 21:30": "adam",
-      "2026-11-24 02:00": "saint-benedict"
+      "2026-11-24 02:00": "saint-benedict",
+      "2026-11-25 17:00": "the-first-christians",
+      "2026-11-25 21:30": "the-forbidden-fruit",
+      "2026-11-25 02:00": "jesus"
     }
   },
   "posts": [
-    {
-      "id": "6af925593ae314cbc31a6e03",
-      "lang": "en",
-      "topic": "elijah",
-      "title": "Elijah",
-      "when": "2026-11-15T17:11:00",
-      "checked": true
-    },
-    {
-      "id": "6af9266b732dd914a61bb34a",
-      "lang": "en",
-      "topic": "the-holy-grail",
-      "title": "the Holy Grail",
-      "when": "2026-11-15T21:46:00",
-      "checked": true
-    },
-    {
-      "id": "6af927b38a75e7cf59d1cc52",
-      "lang": "en",
-      "topic": "peter",
-      "title": "Peter",
-      "when": "2026-11-16T01:48:00",
-      "checked": true
-    },
     {
       "id": "6afa7b7367b1e4035820311e",
       "lang": "en",
@@ -317,21 +296,45 @@
       "lang": "en",
       "topic": "the-book-of-genesis",
       "title": "the Book of Genesis",
-      "when": "2026-11-24T16:48:00"
+      "when": "2026-11-24T16:48:00",
+      "checked": true
     },
     {
       "id": "6b05099fb6aee93a10bfcddc",
       "lang": "en",
       "topic": "adam",
       "title": "Adam",
-      "when": "2026-11-24T21:33:00"
+      "when": "2026-11-24T21:33:00",
+      "checked": true
     },
     {
       "id": "6b050a8371ae3d3a6350a747",
       "lang": "en",
       "topic": "saint-benedict",
       "title": "Saint Benedict",
-      "when": "2026-11-25T02:11:00"
+      "when": "2026-11-25T02:11:00",
+      "checked": true
+    },
+    {
+      "id": "6b06581e698cfb4bc845e78e",
+      "lang": "en",
+      "topic": "the-first-christians",
+      "title": "the first Christians",
+      "when": "2026-11-25T16:53:00"
+    },
+    {
+      "id": "6b06594fd98c30f8648df2df",
+      "lang": "en",
+      "topic": "the-forbidden-fruit",
+      "title": "the forbidden fruit",
+      "when": "2026-11-25T21:53:00"
+    },
+    {
+      "id": "6b065a85962942762fa05073",
+      "lang": "en",
+      "topic": "jesus",
+      "title": "Jesus",
+      "when": "2026-11-26T01:48:00"
     }
   ]
 }
