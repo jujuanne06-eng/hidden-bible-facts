@@ -68,13 +68,13 @@
     "saint-benedict",
     "the-first-christians",
     "the-forbidden-fruit",
-    "jesus"
+    "jesus",
+    "saint-peters-basilica",
+    "the-jordan-river",
+    "the-book-of-exodus"
   ],
   "slots": {
     "en": {
-      "2026-11-18 17:00": "mount-sinai",
-      "2026-11-18 21:30": "sodom-and-gomorrah",
-      "2026-11-18 02:00": "the-queen-of-sheba",
       "2026-11-19 17:00": "the-vatican",
       "2026-11-19 21:30": "john-the-baptist",
       "2026-11-19 02:00": "the-leviathan",
@@ -95,34 +95,13 @@
       "2026-11-24 02:00": "saint-benedict",
       "2026-11-25 17:00": "the-first-christians",
       "2026-11-25 21:30": "the-forbidden-fruit",
-      "2026-11-25 02:00": "jesus"
+      "2026-11-25 02:00": "jesus",
+      "2026-11-26 17:00": "saint-peters-basilica",
+      "2026-11-26 21:30": "the-jordan-river",
+      "2026-11-26 02:00": "the-book-of-exodus"
     }
   },
   "posts": [
-    {
-      "id": "6afa7b7367b1e4035820311e",
-      "lang": "en",
-      "topic": "the-walls-of-jericho",
-      "title": "the walls of Jericho",
-      "when": "2026-11-16T16:55:00",
-      "checked": true
-    },
-    {
-      "id": "6afa7d103c36be420494df59",
-      "lang": "en",
-      "topic": "the-sagrada-familia",
-      "title": "the Sagrada Familia",
-      "when": "2026-11-16T21:42:00",
-      "checked": true
-    },
-    {
-      "id": "6afa7e463c36be420494e424",
-      "lang": "en",
-      "topic": "goliath",
-      "title": "Goliath",
-      "when": "2026-11-17T01:59:00",
-      "checked": true
-    },
     {
       "id": "6afbc915dadde72ee49ba871",
       "lang": "en",
@@ -320,21 +299,45 @@
       "lang": "en",
       "topic": "the-first-christians",
       "title": "the first Christians",
-      "when": "2026-11-25T16:53:00"
+      "when": "2026-11-25T16:53:00",
+      "checked": true
     },
     {
       "id": "6b06594fd98c30f8648df2df",
       "lang": "en",
       "topic": "the-forbidden-fruit",
       "title": "the forbidden fruit",
-      "when": "2026-11-25T21:53:00"
+      "when": "2026-11-25T21:53:00",
+      "checked": true
     },
     {
       "id": "6b065a85962942762fa05073",
       "lang": "en",
       "topic": "jesus",
       "title": "Jesus",
-      "when": "2026-11-26T01:48:00"
+      "when": "2026-11-26T01:48:00",
+      "checked": true
+    },
+    {
+      "id": "6b07a8dfa81808b909278fab",
+      "lang": "en",
+      "topic": "saint-peters-basilica",
+      "title": "Saint Peter's Basilica",
+      "when": "2026-11-26T16:41:00"
+    },
+    {
+      "id": "6b07a9fb17c413a44db6a765",
+      "lang": "en",
+      "topic": "the-jordan-river",
+      "title": "the Jordan River",
+      "when": "2026-11-26T21:14:00"
+    },
+    {
+      "id": "6b07ab195708c9071c71facf",
+      "lang": "en",
+      "topic": "the-book-of-exodus",
+      "title": "the Book of Exodus",
+      "when": "2026-11-27T02:33:00"
     }
   ]
 }
