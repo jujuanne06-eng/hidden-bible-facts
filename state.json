@@ -71,13 +71,13 @@
     "jesus",
     "saint-peters-basilica",
     "the-jordan-river",
-    "the-book-of-exodus"
+    "the-book-of-exodus",
+    "the-cross",
+    "eve",
+    "saint-thomas-aquinas"
   ],
   "slots": {
     "en": {
-      "2026-11-19 17:00": "the-vatican",
-      "2026-11-19 21:30": "john-the-baptist",
-      "2026-11-19 02:00": "the-leviathan",
       "2026-11-20 17:00": "the-word-amen",
       "2026-11-20 21:30": "esther",
       "2026-11-20 02:00": "the-swiss-guard",
@@ -98,34 +98,13 @@
       "2026-11-25 02:00": "jesus",
       "2026-11-26 17:00": "saint-peters-basilica",
       "2026-11-26 21:30": "the-jordan-river",
-      "2026-11-26 02:00": "the-book-of-exodus"
+      "2026-11-26 02:00": "the-book-of-exodus",
+      "2026-11-27 17:00": "the-cross",
+      "2026-11-27 21:30": "eve",
+      "2026-11-27 02:00": "saint-thomas-aquinas"
     }
   },
   "posts": [
-    {
-      "id": "6afbc915dadde72ee49ba871",
-      "lang": "en",
-      "topic": "the-angel-gabriel",
-      "title": "the angel Gabriel",
-      "when": "2026-11-17T16:42:00",
-      "checked": true
-    },
-    {
-      "id": "6afbca2d043e25193d307c77",
-      "lang": "en",
-      "topic": "daniel",
-      "title": "Daniel",
-      "when": "2026-11-17T21:14:00",
-      "checked": true
-    },
-    {
-      "id": "6afbcb82cc647bf760dc5dde",
-      "lang": "en",
-      "topic": "the-king-james-bible",
-      "title": "the King James Bible",
-      "when": "2026-11-18T01:32:00",
-      "checked": true
-    },
     {
       "id": "6afd1b2316297f747dadab48",
       "lang": "en",
@@ -323,21 +302,45 @@
       "lang": "en",
       "topic": "saint-peters-basilica",
       "title": "Saint Peter's Basilica",
-      "when": "2026-11-26T16:41:00"
+      "when": "2026-11-26T16:41:00",
+      "checked": true
     },
     {
       "id": "6b07a9fb17c413a44db6a765",
       "lang": "en",
       "topic": "the-jordan-river",
       "title": "the Jordan River",
-      "when": "2026-11-26T21:14:00"
+      "when": "2026-11-26T21:14:00",
+      "checked": true
     },
     {
       "id": "6b07ab195708c9071c71facf",
       "lang": "en",
       "topic": "the-book-of-exodus",
       "title": "the Book of Exodus",
-      "when": "2026-11-27T02:33:00"
+      "when": "2026-11-27T02:33:00",
+      "checked": true
+    },
+    {
+      "id": "6b08faff5e6556230899b9d0",
+      "lang": "en",
+      "topic": "the-cross",
+      "title": "the cross",
+      "when": "2026-11-27T17:24:00"
+    },
+    {
+      "id": "6b08fc5d5e6556230899bedf",
+      "lang": "en",
+      "topic": "eve",
+      "title": "Eve",
+      "when": "2026-11-27T21:07:00"
+    },
+    {
+      "id": "6b08fda472f296c99873d482",
+      "lang": "en",
+      "topic": "saint-thomas-aquinas",
+      "title": "Saint Thomas Aquinas",
+      "when": "2026-11-28T02:26:00"
     }
   ]
 }
