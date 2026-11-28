@@ -74,13 +74,13 @@
     "the-book-of-exodus",
     "the-cross",
     "eve",
-    "saint-thomas-aquinas"
+    "saint-thomas-aquinas",
+    "the-persecution-under-nero",
+    "the-binding-of-isaac",
+    "baptism"
   ],
   "slots": {
     "en": {
-      "2026-11-20 17:00": "the-word-amen",
-      "2026-11-20 21:30": "esther",
-      "2026-11-20 02:00": "the-swiss-guard",
       "2026-11-21 17:00": "nazareth",
       "2026-11-21 21:30": "jezebel",
       "2026-11-21 02:00": "the-annunciation",
@@ -101,34 +101,13 @@
       "2026-11-26 02:00": "the-book-of-exodus",
       "2026-11-27 17:00": "the-cross",
       "2026-11-27 21:30": "eve",
-      "2026-11-27 02:00": "saint-thomas-aquinas"
+      "2026-11-27 02:00": "saint-thomas-aquinas",
+      "2026-11-28 17:00": "the-persecution-under-nero",
+      "2026-11-28 21:30": "the-binding-of-isaac",
+      "2026-11-28 02:00": "baptism"
     }
   },
   "posts": [
-    {
-      "id": "6afd1b2316297f747dadab48",
-      "lang": "en",
-      "topic": "mount-sinai",
-      "title": "Mount Sinai",
-      "when": "2026-11-18T17:16:00",
-      "checked": true
-    },
-    {
-      "id": "6afd1c626d9625c4a0fc8857",
-      "lang": "en",
-      "topic": "sodom-and-gomorrah",
-      "title": "Sodom and Gomorrah",
-      "when": "2026-11-18T21:44:00",
-      "checked": true
-    },
-    {
-      "id": "6afd1dc450c9d573b00d21b8",
-      "lang": "en",
-      "topic": "the-queen-of-sheba",
-      "title": "the Queen of Sheba",
-      "when": "2026-11-19T02:13:00",
-      "checked": true
-    },
     {
       "id": "6afe723c567457dc2977fc5e",
       "lang": "en",
@@ -326,21 +305,45 @@
       "lang": "en",
       "topic": "the-cross",
       "title": "the cross",
-      "when": "2026-11-27T17:24:00"
+      "when": "2026-11-27T17:24:00",
+      "checked": true
     },
     {
       "id": "6b08fc5d5e6556230899bedf",
       "lang": "en",
       "topic": "eve",
       "title": "Eve",
-      "when": "2026-11-27T21:07:00"
+      "when": "2026-11-27T21:07:00",
+      "checked": true
     },
     {
       "id": "6b08fda472f296c99873d482",
       "lang": "en",
       "topic": "saint-thomas-aquinas",
       "title": "Saint Thomas Aquinas",
-      "when": "2026-11-28T02:26:00"
+      "when": "2026-11-28T02:26:00",
+      "checked": true
+    },
+    {
+      "id": "6b0a4aace4d5ce9eeb03c599",
+      "lang": "en",
+      "topic": "the-persecution-under-nero",
+      "title": "the persecution under Nero",
+      "when": "2026-11-28T17:16:00"
+    },
+    {
+      "id": "6b0a4c3da02652264ee4a3b1",
+      "lang": "en",
+      "topic": "the-binding-of-isaac",
+      "title": "the binding of Isaac",
+      "when": "2026-11-28T21:24:00"
+    },
+    {
+      "id": "6b0a4d7ee4d5ce9eeb03cdd8",
+      "lang": "en",
+      "topic": "baptism",
+      "title": "baptism",
+      "when": "2026-11-29T01:52:00"
     }
   ]
 }
